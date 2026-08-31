@@ -2,6 +2,7 @@
 __pycache__/
 *.pyc
 seen_posts.json
+last_publish_time.json
 .venv/
 venv/
 *.log

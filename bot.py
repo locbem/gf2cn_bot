@@ -25,6 +25,7 @@ CHECK_INTERVAL = int(os.getenv("CHECK_INTERVAL_MINUTES", "10"))
 GEMINI_MODEL = "gemini-3.5-flash"
 
 SEEN_FILE = "seen_posts.json"
+LAST_TIME_FILE = "last_publish_time.json"
 PORT = int(os.getenv("PORT", "10000"))
 MAX_POSTS_PER_CYCLE = 1
 
@@ -37,7 +38,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger("gfl2-bot")
 
-# ========== GEMINI (google-genai moi) ==========
+# ========== GEMINI ==========
 if not GEMINI_API_KEY:
     raise ValueError("Thieu GEMINI_API_KEY trong environment")
 client = genai.Client(api_key=GEMINI_API_KEY)
@@ -55,6 +56,14 @@ NAME_MAP = (
     "莫辛纳甘=Mosin-Nagant | 夏安=Cheyanne | 哈普西=Harpsy | 洛塔=Lotta"
 )
 
+# Class + Phase: GIU TIENG ANH, khong dich sang Viet
+CLASS_PHASE_MAP = (
+    "哨兵=Sentinel | 火力=Sentinel | 护卫=Bulwark | 重装=Bulwark | "
+    "先锋=Vanguard | 支援=Support | "
+    "燃烧=Burn | 腐蚀=Corrosion | 水属性=Hydro | 水力=Hydro | 水=Hydro | "
+    "冰冻=Freeze | 冻结=Freeze | 冰=Freeze | 电击=Electric | 电属性=Electric | 电=Electric"
+)
+
 
 def translate_to_vietnamese(text: str) -> str:
     if not text or not text.strip():
@@ -63,12 +72,18 @@ def translate_to_vietnamese(text: str) -> str:
     prompt = (
         "Ban la dich gia game Girls' Frontline 2: Exilium (少前2).\n"
         "Dich tieng Trung sang tieng Viet tu nhien, giu markdown neu co.\n\n"
-        "QUY TAC:\n"
+        "QUY TAC BAT BUOC:\n"
         "1. 人形/战术人形/精英人形/标准人形 -> T-Doll (KHONG dung nhan hinh/hinh nhan).\n"
-        f"2. Ten nhan vat dung bang IOP Wiki: {NAME_MAP}\n"
-        "   Khong co trong bang thi giu ten Trung. CAM tu che (Ciallo, Klaida...).\n"
-        "3. 指挥官=Chi huy, 格里芬=Griffin, 艾莫号=Elmo.\n"
-        "4. Chi tra ve ban dich, khong giai thich.\n\n"
+        f"2. Ten nhan vat (IOP Wiki): {NAME_MAP}\n"
+        "   Khong co trong bang thi giu ten Trung. CAM tu che.\n"
+        f"3. Class + Phase attribute: GIU NGUYEN TIENG ANH, KHONG dich sang Viet.\n"
+        f"   Mapping: {CLASS_PHASE_MAP}\n"
+        "   Bat buoc dung: Bulwark, Vanguard, Sentinel, Support.\n"
+        "   Bat buoc dung: Burn, Corrosion, Hydro, Freeze, Electric.\n"
+        "   Vi du SAI: hoa luc, ho ve, tien phong, thuy, bang, dien.\n"
+        "   Vi du DUNG: Sentinel, Bulwark, Hydro, Freeze.\n"
+        "4. 指挥官=Chi huy, 格里芬=Griffin, 艾莫号=Elmo.\n"
+        "5. Chi tra ve ban dich, khong giai thich.\n\n"
         + text
     )
     try:
@@ -82,7 +97,7 @@ def translate_to_vietnamese(text: str) -> str:
         return text
 
 
-# ========== SEEN POSTS ==========
+# ========== STATE ==========
 def load_seen() -> set:
     if os.path.exists(SEEN_FILE):
         try:
@@ -98,7 +113,23 @@ def save_seen(seen: set):
         json.dump(list(seen), f, ensure_ascii=False)
 
 
+def load_last_time() -> int:
+    if os.path.exists(LAST_TIME_FILE):
+        try:
+            with open(LAST_TIME_FILE, "r", encoding="utf-8") as f:
+                return int(json.load(f).get("publish_time", 0))
+        except Exception:
+            return 0
+    return 0
+
+
+def save_last_time(ts: int):
+    with open(LAST_TIME_FILE, "w", encoding="utf-8") as f:
+        json.dump({"publish_time": int(ts)}, f)
+
+
 seen_posts = load_seen()
+last_publish_time = load_last_time()
 
 # ========== TAPTAP ==========
 HEADERS = {
@@ -170,7 +201,6 @@ async def fetch_official_list(session: aiohttp.ClientSession) -> list[dict]:
 
 
 async def fetch_post_detail(session: aiohttp.ClientSession, post: dict) -> dict:
-    """Title/content tu meta + API, images tu API, video chi lay link."""
     moment_id = post["id"]
     result = {
         "title": post.get("title") or "",
@@ -242,7 +272,7 @@ async def fetch_post_detail(session: aiohttp.ClientSession, post: dict) -> dict:
     return result
 
 
-# ========== DISCORD BOT ==========
+# ========== DISCORD ==========
 intents = discord.Intents.default()
 bot = commands.Bot(command_prefix="!", intents=intents)
 
@@ -256,7 +286,7 @@ async def on_ready():
 
 @tasks.loop(minutes=CHECK_INTERVAL)
 async def check_new_posts():
-    global seen_posts
+    global seen_posts, last_publish_time
     channel = bot.get_channel(CHANNEL_ID)
     if channel is None:
         logger.error("Khong tim thay channel. Kiem tra CHANNEL_ID.")
@@ -268,17 +298,33 @@ async def check_new_posts():
             logger.info("Khong lay duoc post.")
             return
 
-        if not seen_posts:
+        # Lan dau / mat state: chi gui 1 post moi nhat, danh dau phan con lai
+        if not seen_posts and last_publish_time == 0:
+            newest = posts[0]
             logger.info(
-                f"Lan dau: gui 1 post moi nhat ({posts[0]['id']}), "
-                f"danh dau {len(posts) - 1} post con lai."
+                f"Lan dau: gui 1 post moi nhat ({newest['id']}), "
+                f"danh dau cac post con lai."
             )
-            for p in posts[1:]:
-                seen_posts.add(p["id"])
+            for p in posts:
+                if p["id"] != newest["id"]:
+                    seen_posts.add(p["id"])
             save_seen(seen_posts)
+            last_publish_time = int(newest.get("publish_time") or 0)
+            save_last_time(last_publish_time)
 
-        new_posts = [p for p in posts if p["id"] not in seen_posts]
+        # Chi post chua seen VA moi hon moc thoi gian
+        new_posts = []
+        for p in posts:
+            if p["id"] in seen_posts:
+                continue
+            pts = int(p.get("publish_time") or 0)
+            if last_publish_time and pts <= last_publish_time:
+                seen_posts.add(p["id"])
+                continue
+            new_posts.append(p)
+
         if not new_posts:
+            save_seen(seen_posts)
             logger.info("Khong co post moi.")
             return
 
@@ -296,7 +342,6 @@ async def check_new_posts():
                 save_seen(seen_posts)
                 continue
 
-            # Dich title + content 1 lan de tiet kiem quota
             if content:
                 block = f"TIEU DE:\n{title}\n\nNOI DUNG:\n{content}"
             else:
@@ -370,6 +415,10 @@ async def check_new_posts():
                 await channel.send(embed=embed, files=files if files else None)
                 seen_posts.add(post["id"])
                 save_seen(seen_posts)
+                pts = int(post.get("publish_time") or 0)
+                if pts > last_publish_time:
+                    last_publish_time = pts
+                    save_last_time(last_publish_time)
                 logger.info(f"Da gui {post['id']}")
             except Exception as e:
                 logger.error(f"Loi Discord: {e}")
