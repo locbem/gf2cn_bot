@@ -4,8 +4,11 @@ import json
 import asyncio
 import logging
 import re
+import time
+import csv
 from datetime import datetime, timezone
 from io import BytesIO
+from itertools import cycle
 
 import discord
 from discord.ext import commands, tasks
@@ -20,14 +23,14 @@ load_dotenv()
 # ========== CONFIG ==========
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 CHANNEL_ID = int(os.getenv("CHANNEL_ID", "0"))
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 CHECK_INTERVAL = int(os.getenv("CHECK_INTERVAL_MINUTES", "10"))
 GEMINI_MODEL = "gemini-3.5-flash"
 
 SEEN_FILE = "seen_posts.json"
 LAST_TIME_FILE = "last_publish_time.json"
 PORT = int(os.getenv("PORT", "10000"))
-MAX_POSTS_PER_CYCLE = 1
+MAX_POSTS_PER_CYCLE = 3
+DICT_FILE = "game dict.csv"
 
 XUA = "V%3D1%26PN%3DWebApp%26LANG%3Dzh_CN%26VN_CODE%3D100000000%26LOC%3DCN%26PLT%3DPC"
 
@@ -38,63 +41,145 @@ logging.basicConfig(
 )
 logger = logging.getLogger("gfl2-bot")
 
-# ========== GEMINI ==========
-if not GEMINI_API_KEY:
-    raise ValueError("Thieu GEMINI_API_KEY trong environment")
-client = genai.Client(api_key=GEMINI_API_KEY)
+# ========== LOAD MULTIPLE GEMINI KEYS ==========
+def load_gemini_keys() -> list[str]:
+    keys = []
 
-NAME_MAP = (
-    "希丽雅=Cecilia | 桑朵莱希=Centaureissi | 莱娅=Leva | 伊格蕾塔=Eagletta | "
-    "可露凯=Klukai | 威玛西娜=Voymastina | 刘易斯=Lewis | 托洛洛=Tololo | "
-    "琼玖=Qiongjiu | 维普蕾=Vepley | 佩里缇亚=Peritya | 塞布丽娜=Sabrina | "
-    "格罗扎=Groza | 克罗丽科=Krolik | 科勒芬=Colphne | 涅墨西斯=Nemesis | "
-    "斯普林菲尔德=Springfield | 玛奇亚托=Makiatto | 铃兰=Suomi | 矢量=Vector | "
-    "梅奇=Mechty | 贝露卡=Belka | 安朵莉丝=Andoris | 尤希=Yoohee | "
-    "弗洛伦=Florence | 琳德=Lind | 海伦=Helen | 法叶=Faye | 帕帕莎=Papasha | "
-    "黛烟=Daiyan | 姜瑜=Jiangyu | 秋花=Qiuhua | 罗贝拉=Robella | "
-    "乌尔丽德=Ullrid | 莱妮=Lainie | 莱娜=Lenna | 杜莎妮=Dushevnaya | "
-    "莫辛纳甘=Mosin-Nagant | 夏安=Cheyanne | 哈普西=Harpsy | 洛塔=Lotta"
-)
+    # Cách 1: GEMINI_API_KEYS=key1,key2,key3
+    raw = os.getenv("GEMINI_API_KEYS", "").strip()
+    if raw:
+        keys.extend([k.strip() for k in raw.split(",") if k.strip()])
 
-# Class + Phase: GIU TIENG ANH, khong dich sang Viet
-CLASS_PHASE_MAP = (
-    "哨兵=Sentinel | 火力=Sentinel | 护卫=Bulwark | 重装=Bulwark | "
-    "先锋=Vanguard | 支援=Support | "
-    "燃烧=Burn | 腐蚀=Corrosion | 水属性=Hydro | 水力=Hydro | 水=Hydro | "
-    "冰冻=Freeze | 冻结=Freeze | 冰=Freeze | 电击=Electric | 电属性=Electric | 电=Electric"
-)
+    # Cách 2: GEMINI_API_KEY + GEMINI_API_KEY_2 + GEMINI_API_KEY_3 ...
+    if not keys:
+        main = os.getenv("GEMINI_API_KEY")
+        if main:
+            keys.append(main.strip())
+
+        i = 2
+        while True:
+            extra = os.getenv(f"GEMINI_API_KEY_{i}")
+            if not extra:
+                break
+            keys.append(extra.strip())
+            i += 1
+
+    # Lọc trùng
+    keys = list(dict.fromkeys(keys))
+    if not keys:
+        raise ValueError("Thieu GEMINI_API_KEY / GEMINI_API_KEYS trong environment")
+    logger.info(f"Da load {len(keys)} Gemini API key")
+    return keys
+
+
+GEMINI_KEYS = load_gemini_keys()
+key_cycle = cycle(GEMINI_KEYS)
+current_key = next(key_cycle)
+client = genai.Client(api_key=current_key)
+
+
+def rotate_key():
+    """Chuyen sang key tiep theo"""
+    global current_key, client
+    current_key = next(key_cycle)
+    client = genai.Client(api_key=current_key)
+    logger.warning(f"Da chuyen sang Gemini key moi (cuoi ...{current_key[-6:]})")
+
+
+# ========== LOAD DICTIONARY ==========
+def load_dictionary(path: str = DICT_FILE) -> dict:
+    mapping = {}
+    if not os.path.exists(path):
+        logger.warning(f"Khong tim thay file tu dien: {path}")
+        return mapping
+
+    try:
+        with open(path, "r", encoding="utf-8-sig") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                cn = (row.get("Column1") or "").strip()
+                vi = (row.get("Translation") or "").strip()
+                if cn and vi:
+                    mapping[cn] = vi
+        logger.info(f"Da load {len(mapping)} muc tu dien tu {path}")
+    except Exception as e:
+        logger.error(f"Loi doc tu dien: {e}")
+    return mapping
+
+
+DICT_MAP = load_dictionary()
+
+
+def build_mapping_string(mapping: dict) -> str:
+    if not mapping:
+        return ""
+    return " | ".join(f"{k}={v}" for k, v in mapping.items())
+
+
+# ========== TRANSLATE ==========
+def is_quota_error(error: Exception) -> bool:
+    msg = str(error).lower()
+    return any(x in msg for x in ("429", "quota", "resource exhausted", "rate limit", "exceeded"))
 
 
 def translate_to_vietnamese(text: str) -> str:
     if not text or not text.strip():
         return text
     text = text[:8000]
+
+    mapping_str = build_mapping_string(DICT_MAP)
+
     prompt = (
         "Ban la dich gia game Girls' Frontline 2: Exilium (少前2).\n"
         "Dich tieng Trung sang tieng Viet tu nhien, giu markdown neu co.\n\n"
         "QUY TAC BAT BUOC:\n"
-        "1. 人形/战术人形/精英人形/标准人形 -> T-Doll (KHONG dung nhan hinh/hinh nhan).\n"
-        f"2. Ten nhan vat (IOP Wiki): {NAME_MAP}\n"
-        "   Khong co trong bang thi giu ten Trung. CAM tu che.\n"
-        f"3. Class + Phase attribute: GIU NGUYEN TIENG ANH, KHONG dich sang Viet.\n"
-        f"   Mapping: {CLASS_PHASE_MAP}\n"
-        "   Bat buoc dung: Bulwark, Vanguard, Sentinel, Support.\n"
-        "   Bat buoc dung: Burn, Corrosion, Hydro, Freeze, Electric.\n"
-        "   Vi du SAI: hoa luc, ho ve, tien phong, thuy, bang, dien.\n"
-        "   Vi du DUNG: Sentinel, Bulwark, Hydro, Freeze.\n"
-        "4. 指挥官=Chi huy, 格里芬=Griffin, 艾莫号=Elmo.\n"
-        "5. Chi tra ve ban dich, khong giai thich.\n\n"
+        "1. Chi tra ve ban dich, khong giai thich, khong them ghi chu.\n"
+        "2. Bat buoc su dung dung theo bang dich ben duoi. Khong duoc tu dich khac.\n"
+        "3. Neu khong co trong bang thi giu nguyen tieng Trung (CAM tu che ten nhan vat).\n"
+        "4. Class (Sentinel/Bulwark/Vanguard/Support) va Phase (Burn/Corrosion/Hydro/Freeze/Electric) GIU NGUYEN tieng Anh.\n"
+        "5. Hashtag su kien phai viet: #KimTướcvàNhànhOliu\n"
+        "6. Leap Key / 跃键:\n"
+        "   - 1阶/一阶 = Expansion Key\n"
+        "   - 2阶/二阶 = Expansion Key ver2\n"
+        "   - Khong duoc viet 'khoa Leap Key' hay 'Leap Key bac X'.\n\n"
+        f"BANG DICH CO DINH (bat buoc dung):\n{mapping_str}\n\n"
         + text
     )
-    try:
-        response = client.models.generate_content(
-            model=GEMINI_MODEL,
-            contents=prompt,
-        )
-        return (response.text or "").strip()
-    except Exception as e:
-        logger.error(f"Loi dich: {e}")
-        return text
+
+    max_retries_per_key = 3
+    max_key_switches = len(GEMINI_KEYS)  # xoay het 1 vong key
+
+    for key_try in range(max_key_switches):
+        for attempt in range(1, max_retries_per_key + 1):
+            try:
+                response = client.models.generate_content(
+                    model=GEMINI_MODEL,
+                    contents=prompt,
+                )
+                result = (response.text or "").strip()
+                if result:
+                    return result
+                logger.warning(f"Lan {attempt}: Gemini tra ve rong")
+            except Exception as e:
+                logger.error(f"Loi dich (key ...{current_key[-6:]}, lan {attempt}): {e}")
+
+                if is_quota_error(e):
+                    logger.warning("Phat hien het quota → chuyen key")
+                    rotate_key()
+                    break  # thoat vong retry, dung key moi
+                else:
+                    if attempt < max_retries_per_key:
+                        time.sleep(1.5 * attempt)
+                    else:
+                        # het retry ma khong phai quota → thu key khac luon
+                        rotate_key()
+                        break
+        else:
+            # neu khong break (tuc la khong gap loi quota) thi tiep tuc key hien tai
+            continue
+
+    logger.error("Dich that bai sau khi thu het key, tra ve ban goc tieng Trung")
+    return text
 
 
 # ========== STATE ==========
@@ -143,7 +228,6 @@ HEADERS = {
 
 
 async def fetch_official_list(session: aiohttp.ClientSession) -> list[dict]:
-    """Lay post official, sort theo publish_time (moi nhat truoc)."""
     url = "https://www.taptap.cn/app/190930/topic?type=official"
     try:
         async with session.get(url, headers=HEADERS, timeout=30) as resp:
@@ -298,37 +382,43 @@ async def check_new_posts():
             logger.info("Khong lay duoc post.")
             return
 
-        # Lan dau / mat state: chi gui 1 post moi nhat, danh dau phan con lai
+        top3 = posts[:MAX_POSTS_PER_CYCLE]
+
         if not seen_posts and last_publish_time == 0:
-            newest = posts[0]
             logger.info(
-                f"Lan dau: gui 1 post moi nhat ({newest['id']}), "
+                f"Lan dau: gui {len(top3)} post gan nhat (cu -> moi), "
                 f"danh dau cac post con lai."
             )
             for p in posts:
-                if p["id"] != newest["id"]:
+                if p["id"] not in {x["id"] for x in top3}:
                     seen_posts.add(p["id"])
             save_seen(seen_posts)
-            last_publish_time = int(newest.get("publish_time") or 0)
-            save_last_time(last_publish_time)
+            to_send = list(reversed(top3))
+        else:
+            new_posts = []
+            for p in posts:
+                if p["id"] in seen_posts:
+                    continue
+                pts = int(p.get("publish_time") or 0)
+                if last_publish_time and pts <= last_publish_time:
+                    seen_posts.add(p["id"])
+                    continue
+                new_posts.append(p)
 
-        # Chi post chua seen VA moi hon moc thoi gian
-        new_posts = []
-        for p in posts:
-            if p["id"] in seen_posts:
-                continue
-            pts = int(p.get("publish_time") or 0)
-            if last_publish_time and pts <= last_publish_time:
-                seen_posts.add(p["id"])
-                continue
-            new_posts.append(p)
+            if not new_posts:
+                save_seen(seen_posts)
+                logger.info("Khong co post moi.")
+                return
 
-        if not new_posts:
-            save_seen(seen_posts)
-            logger.info("Khong co post moi.")
-            return
+            batch = new_posts[:MAX_POSTS_PER_CYCLE]
+            to_send = list(reversed(batch))
 
-        for post in new_posts[:MAX_POSTS_PER_CYCLE]:
+        logger.info(
+            "Thu tu gui (cu -> moi): "
+            + str([(p["id"], p["title"][:30]) for p in to_send])
+        )
+
+        for post in to_send:
             detail = await fetch_post_detail(session, post)
             title = detail["title"] or post.get("title") or "Khong co tieu de"
             content = detail["content"] or ""
