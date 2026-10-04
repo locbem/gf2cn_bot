@@ -128,8 +128,6 @@ ThemeData buildAppTheme() {
       TargetPlatform.android: ZoomPageTransitionsBuilder(),
       TargetPlatform.windows: FadeUpwardsPageTransitionsBuilder(),
       TargetPlatform.linux: FadeUpwardsPageTransitionsBuilder(),
-      TargetPlatform.macOS: CupertinoPageTransitionsBuilder(),
-      TargetPlatform.iOS: CupertinoPageTransitionsBuilder(),
     }),
   );
 }
