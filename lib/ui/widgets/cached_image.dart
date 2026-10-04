@@ -38,7 +38,7 @@ class CachedNetImage extends ImageProvider<CachedNetImage> {
       final bytes = await file.readAsBytes();
       if (bytes.isEmpty) throw StateError('Ảnh rỗng: ${key.url}');
       final buffer = await ui.ImmutableBuffer.fromUint8List(bytes);
-      return decode(buffer);
+      return await decode(buffer);
     } catch (e) {
       // Cho phép thử lại ở lần hiển thị sau.
       scheduleMicrotask(() => PaintingBinding.instance.imageCache.evict(key));
