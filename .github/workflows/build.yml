@@ -73,3 +73,35 @@ jobs:
         with:
           name: gf2-wiki-windows
           path: build/windows/x64/runner/Release/
+
+  # Gắn APK + bản Windows (zip) vào release có sẵn (tag "Translate") để có link
+  # tải cố định. Chỉ thêm/thay đúng các file do workflow này tạo ra, không đụng
+  # tới tiêu đề, mô tả hay các file khác đang có trong release.
+  release:
+    name: Gắn file vào Release
+    needs: [android, windows]
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: dist
+
+      - name: Đổi tên và nén
+        run: |
+          mkdir out
+          for f in dist/gf2-wiki-android/*-release.apk; do
+            abi=$(basename "$f" | sed -E 's/^app-(.*)-release\.apk$/\1/')
+            cp "$f" "out/gf2-wiki-$abi.apk"
+          done
+          mv dist/gf2-wiki-windows dist/GF2Wiki
+          (cd dist && zip -qr ../out/gf2-wiki-windows.zip GF2Wiki)
+          ls -la out
+
+      - name: Tải file lên release "Translate"
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh release upload Translate out/* --clobber
