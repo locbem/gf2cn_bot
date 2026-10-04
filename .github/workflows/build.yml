@@ -1,0 +1,75 @@
+name: Build GF2 Wiki
+
+# Tự build APK (Android) và bản Windows mỗi khi push code lên nhánh main,
+# hoặc bấm "Run workflow" trong tab Actions. Không chạy khi chỉ sửa dữ liệu dịch.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths-ignore:
+      - 'data/**'
+      - '**.md'
+
+jobs:
+  android:
+    name: Android APK
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Tạo thư mục nền tảng
+        run: |
+          flutter create --platforms=android --org com.locbem --project-name gf2_wiki .
+          dart run tool/patch_platforms.dart
+
+      - run: flutter pub get
+
+      - name: Kiểm tra code
+        run: |
+          flutter analyze --no-fatal-infos --no-fatal-warnings
+          flutter test
+
+      # Tách APK theo kiến trúc CPU cho nhẹ (đa số điện thoại dùng arm64-v8a).
+      - name: Build APK
+        run: flutter build apk --release --split-per-abi
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: gf2-wiki-android
+          path: build/app/outputs/flutter-apk/*-release.apk
+
+  windows:
+    name: Windows
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Tạo thư mục nền tảng
+        run: |
+          flutter create --platforms=windows --org com.locbem --project-name gf2_wiki .
+          dart run tool/patch_platforms.dart
+
+      - run: flutter pub get
+
+      - name: Build Windows
+        run: flutter build windows --release
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: gf2-wiki-windows
+          path: build/windows/x64/runner/Release/

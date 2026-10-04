@@ -1,0 +1,43 @@
+name: Pack bản dịch
+
+# Mỗi khi bạn sửa file trong data/vi (kể cả sửa trực tiếp trên web GitHub),
+# workflow này tự sinh lại dolls.json / world.json + manifest.json rồi commit,
+# để app nhận ra file nào đã thay đổi và tải về.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - 'data/vi/**'
+      - '!data/vi/manifest.json'
+
+permissions:
+  contents: write
+
+jobs:
+  pack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - run: flutter pub get
+
+      - name: Pack data/vi
+        run: dart run tool/gf2data.dart pack data/vi
+
+      - name: Commit manifest
+        run: |
+          if [ -n "$(git status --porcelain data/vi)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/vi
+            git commit -m "chore(data): pack bản dịch tiếng Việt"
+            git push
+          else
+            echo "Không có thay đổi."
+          fi
