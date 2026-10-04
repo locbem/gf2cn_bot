@@ -1,5 +1,16 @@
 # GF2 Wiki (少前2：追放) – app xem wiki offline, tiếng Trung + tiếng Việt
 
+## Tải app
+
+| Thiết bị | File tải |
+|---|---|
+| **Android** (hầu hết điện thoại) | [gf2-wiki-arm64-v8a.apk](https://github.com/locbem/gf2cn_bot/releases/download/Translate/gf2-wiki-arm64-v8a.apk) |
+| Android đời cũ (32-bit) | [gf2-wiki-armeabi-v7a.apk](https://github.com/locbem/gf2cn_bot/releases/download/Translate/gf2-wiki-armeabi-v7a.apk) |
+| Giả lập Android (x86_64) | [gf2-wiki-x86_64.apk](https://github.com/locbem/gf2cn_bot/releases/download/Translate/gf2-wiki-x86_64.apk) |
+| **Windows 10/11** (64-bit) | [gf2-wiki-windows.zip](https://github.com/locbem/gf2cn_bot/releases/download/Translate/gf2-wiki-windows.zip) – giải nén rồi chạy `GF2Wiki\gf2_wiki.exe` |
+
+Link luôn trỏ tới bản build mới nhất (tự cập nhật mỗi khi push code). Xem tất cả file tại mục [Releases](https://github.com/locbem/gf2cn_bot/releases/tag/Translate).
+
 Ứng dụng **Flutter native** (Android + Windows, không dùng WebView) hiển thị dữ liệu
 từ wiki chính thức <https://gf2-bbs.exiliumgf.com/wiki/category>, phân mục giống hệt wiki:
 
