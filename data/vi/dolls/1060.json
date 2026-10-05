@@ -1,0 +1,374 @@
+{
+  "id": 1060,
+  "name": "Phaetusa",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044633712.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 5,
+  "role_id": 4,
+  "team_id": 12,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Corrosion",
+  "team": "Doll Community",
+  "weapon": "Graythorn",
+  "model": "DUAL DSI-9",
+  "ammo_model": "Blade",
+  "desc": "Dịu dàng bao dung như làn gió xuân thoảng qua; sắc bén kiêu ngạo như thép lạnh — cái trước mang tên Phaetusa, cái sau mang tên Kẻ Dọn Dẹp. T-Doll hai tâm một thể này, một nửa đến từ sự gìn giữ những gì tốt đẹp nhất của nền văn minh nhân loại, nửa còn lại là tàn tích chiến tranh do Sangvis Ferri chế tạo.\nHọ gặp nhau trong khói lửa, cứu lấy nhau, và quyết định cùng nhau mở ra con đường riêng của mình trong thời đại đầy biến động này.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/翡图萨pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/翡图萨移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013730721.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013929536.png"
+  },
+  "skins": [
+    {
+      "id": 3,
+      "name": "Tù Nhân Khu Vườn Đêm Vĩnh Cửu",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/翡图萨pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/绯图萨移动.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768214980047.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768214992527.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215002586.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Triệu Thu Dung</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Yuzuki Ryōka</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=75\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công: 802</strong></td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định: 9</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ: 528</strong></td>\n<td style=\"text-align: center\"><strong>Điểm hành động: 9</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP: 1989</strong></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo&nbsp;<span style=\"color: #00ccff\">Hydro</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Thường·Chém Liên Hoàn Đôi",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 68px\" src=\"https://gf2.mcc.wiki/image/skill/Skill_Attack_Blade.png\"></p>\n</td>\n<td>\n<p>Song Trọng Liên Trảm Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1766052491597.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 1 ô</span> xung quanh, gây sát thương Physical cận chiến bằng <span style=\"color: #ff9900\">80%</span> Tấn công lên chúng.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Song Hàng Sát Cánh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 68px\" src=\"https://gf2.mcc.wiki/image/skill/Skill_Phaetusa_Active_1.png\"></p>\n</td>\n<td>\n<p>Song Dực Cùng Giáng Lv.1</p>\n<p>Chủ động/Diện rộng/Di chuyển</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1766052511656.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong phạm vi chữ thập <span style=\"color: #ff9900\">8 ô</span> xung quanh, lao xuống ô đó, gây sát thương Corrosion cận chiến diện rộng bằng <span style=\"color: #ff9900\">90%</span> Tấn công lên mọi kẻ địch trong chiều rộng <span style=\"color: #ff9900\">1 ô</span> trên đường đi.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Bẫy Ghi Đè",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 68px\" src=\"https://gf2.mcc.wiki/image/skill/Skill_Phaetusa_Active_2.png\"></p>\n</td>\n<td>\n<p>Bẫy Sao Chép Lv.1</p>\n<p>Chủ động / Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1766052530497.png\"></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Nhận <span style=\"color: #ff9900\">1 tầng</span> Cộng Hưởng Lưỡi Dao, đồng thời gây Vết Cắt Xé lên kẻ địch trong toàn sân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 6</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết Thắng·Thiên Đường Song Sinh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 68px\" src=\"https://gf2.mcc.wiki/image/skill/Skill_Phaetusa_Active_3.png\"></p>\n</td>\n<td>\n<p>Thiên Đường Song Sinh Lv.1</p>\n<p>Quyết thắng / Cận chiến / Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1766052540823.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Gây sát thương Corrosion cận chiến diện rộng bằng <span style=\"color: #ff9900\">90%</span> Tấn công lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh bản thân. Tiêu hao toàn bộ Cộng Hưởng Lưỡi Dao, cứ mỗi <span style=\"color: #ff9900\">1 tầng</span> tiêu hao, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>, và nhân thêm 1 lần trên cơ sở đó.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Đồng Hành",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 68px\" src=\"https://gf2.mcc.wiki/image/skill/Skill_Phaetusa_Passive_4.png\"></p>\n</td>\n<td>\n<p>Đồng Hành Lv.1</p>\n<p>Bị động / Chủ động / Support</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1766052550698.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Cứ mỗi <span style=\"color: #ff9900\">1 lần</span> gây sát thương cận chiến, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span> mỗi hiệp.<br>Khi kẻ địch trong tầm bắn chịu đòn tấn công diện rộng của đồng minh, thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động lên mục tiêu bị tấn công, gây <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định và sát thương Corrosion cận chiến diện rộng bằng <span style=\"color: #ff9900\">90%</span> Tấn công. Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>.<br>Sau kỹ năng chủ động Bẫy Sao Chép có thể chủ động dùng Đồng Hành, sau khi tung Đồng Hành nhận Quy Hình và <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>, dùng tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi trận.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Bẫy Sao Chép Lv.2</strong></td>\n<td>Mỗi <span style=\"color: #ff9900\">2 lần</span> dùng kỹ năng này, nhận thêm <span style=\"color: #ff9900\">1 tầng</span> Cộng Hưởng Lưỡi Dao, sát thương chí mạng tăng vĩnh viễn <span style=\"color: #ff9900\">15%</span>.</td>\n<td>Nhận <span style=\"color: #ff9900\">1 tầng</span> Cộng Hưởng Lưỡi Dao, đồng thời gây Vết Cắt Xé lên kẻ địch trong toàn sân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>. Mỗi <span style=\"color: #ff9900\">2 lần</span> dùng kỹ năng này, nhận thêm 1 tầng Cộng Hưởng Lưỡi Dao, sát thương chí mạng tăng vĩnh viễn <span style=\"color: #ff9900\">15%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Song Dực Cùng Giáng Lv.2</strong></td>\n<td>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>. Chiều rộng tăng <span style=\"color: #ff9900\">2 ô</span>.</td>\n<td>Chọn 1 ô địa hình trong phạm vi chữ thập <span style=\"color: #ff9900\">8 ô</span> xung quanh, lao xuống ô đó, gây sát thương Corrosion cận chiến diện rộng bằng <span style=\"color: #ff9900\">120%</span> Tấn công lên mọi kẻ địch trong chiều rộng <span style=\"color: #ff9900\">3 ô</span> trên đường đi.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Đồng Hành Lv.2</strong></td>\n<td>Số lần dùng Đồng Hành mỗi trận tăng 1 lần. Sau khi nhận Quy Hình, Tấn công tăng <span style=\"color: #ff9900\">50%</span>, duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>.</td>\n<td>Cứ mỗi <span style=\"color: #ff9900\">1 lần</span> gây sát thương cận chiến, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span> mỗi hiệp. Khi kẻ địch trong tầm bắn chịu đòn tấn công diện rộng của đồng minh, thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động lên mục tiêu bị tấn công, gây <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định và sát thương Corrosion cận chiến diện rộng bằng <span style=\"color: #ff9900\">90%</span> Tấn công. Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>. Sau kỹ năng chủ động Bẫy Sao Chép có thể chủ động dùng Đồng Hành, dùng tối đa <span style=\"color: #ff9900\">2 lần</span> mỗi trận và tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi hiệp lớn. Sau khi tung Đồng Hành nhận Quy Hình và <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>, đồng thời Tấn công của bản thân tăng <span style=\"color: #ff9900\">50%</span>, duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Thiên Đường Song Sinh Lv.2</strong></td>\n<td>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>, hệ số sát thương tiêu hao Cộng Hưởng Lưỡi Dao tăng thêm lên <span style=\"color: #ff9900\">20%</span>.</td>\n<td>Gây sát thương Corrosion cận chiến diện rộng bằng <span style=\"color: #ff9900\">120%</span> Tấn công lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh bản thân. Tiêu hao toàn bộ Cộng Hưởng Lưỡi Dao, cứ mỗi <span style=\"color: #ff9900\">1 tầng</span> tiêu hao, hệ số sát thương tăng <span style=\"color: #ff9900\">20%</span>, và nhân thêm <span style=\"color: #ff9900\">1</span> lần trên cơ sở đó.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Đồng Hành Lv.3</strong></td>\n<td>Hệ số sát thương của chi viện hành động tăng lên <span style=\"color: #ff9900\">120%</span>. Cứ mỗi <span style=\"color: #ff9900\">1 lần</span> chi viện hành động trong hiệp hiện tại, Điểm hành động tăng <span style=\"color: #ff9900\">1 điểm</span>.</td>\n<td>Cứ mỗi <span style=\"color: #ff9900\">1 lần</span> gây sát thương cận chiến, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span> mỗi hiệp. Khi kẻ địch trong tầm bắn chịu đòn tấn công diện rộng của đồng minh, thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động lên mục tiêu bị tấn công, gây <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định và sát thương Corrosion cận chiến diện rộng bằng <span style=\"color: #ff9900\">120%</span> Tấn công. Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>. Cứ mỗi <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, Điểm hành động tăng <span style=\"color: #ff9900\">1 ô</span>, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Sau kỹ năng chủ động Bẫy Sao Chép có thể chủ động dùng Đồng Hành, dùng tối đa <span style=\"color: #ff9900\">2 lần</span> mỗi trận và tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi hiệp lớn. Sau khi tung Đồng Hành nhận Quy Hình và <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>, đồng thời Tấn công của bản thân tăng <span style=\"color: #ff9900\">50%</span>, duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Bẫy Sao Chép Lv.3</strong></td>\n<td>Sau kỹ năng nhận Tôi Huyết.</td>\n<td>Nhận <span style=\"color: #ff9900\">1 tầng</span> Cộng Hưởng Lưỡi Dao, đồng thời gây Vết Cắt Xé lên kẻ địch trong toàn sân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span> và Tôi Huyết. Mỗi 2 lần dùng kỹ năng này, nhận thêm <span style=\"color: #ff9900\">1 tầng</span> Cộng Hưởng Lưỡi Dao, sát thương chí mạng tăng vĩnh viễn <span style=\"color: #ff9900\">15%</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 85px\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_PhaetusaSSR_love.png\"></td>\n<td>\n<h2>Contract Key·Một Thể Hai Lõi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764396747429.png\" width=\"20\" height=\"20\"></sub>Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_Phaetusa01.png\"></td>\n<td>\n<h2>Fixed Key·Huyết Mạch Lạnh Giá</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Sau khi Cộng Hưởng Lưỡi Dao lần đầu cộng dồn đến đầy tầng, tỉ lệ chí mạng của bản thân tăng 20%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_Phaetusa02.png\"></td>\n<td>\n<h2>Fixed Key·Quyết Tâm Lang Thang</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi bắt đầu hiệp, gây Vết Cắt Xé lên kẻ địch toàn sân, duy trì 1 hiệp, mỗi 2 hiệp kích hoạt tối đa 1 lần.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_Phaetusa03.png\"></td>\n<td>\n<h2>Fixed Key·Kẻ Cầm Đao Liều Mạng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Nếu tấn công chủ động chỉ trúng 1 kẻ địch, sát thương lên nó tăng 15%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_Phaetusa04.png\"></td>\n<td>\n<h2>Fixed Key·Sinh Linh Tương Hỗ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Cứ mỗi 1 tầng Cộng Hưởng Lưỡi Dao tiêu hao, hồi HP bằng 10% Tấn công của bản thân và 1 điểm Chỉ số ổn định.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_Phaetusa05.png\"></td>\n<td>\n<h2>Fixed Key·Chủ Nhân Của Giới Vực</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi chi viện hành động, xua tan 1 buff của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_Phaetusa06.png\"></td>\n<td>\n<h2>Fixed Key·Song Ảnh Tùy Hành</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng kỹ năng chủ động Bẫy Sao Chép, nhận 6 ô Thêm di chuyển.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 91px\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_PhaetusaSSR.png\"></td>\n<td>\n<h2>Common Key·Từ Không Hóa Có</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong> <img src=\"https://gf2.mcc.wiki/image/misc/Icon_Crit.png\" width=\"20\" height=\"20\">Chí mạng 5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Sau khi Infection Index của hiệp lớn hiện tại bằng 0, sát thương gây ra tăng 10%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\">\n<table>\n<tbody>\n<tr>\n<td><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://wdcdn.qpic.cn/MTY4ODg1MTEyMTAwODUwNg_832801_GFapdgtP8PDyFhq0_1782726851?w=256&amp;h=256\"></td>\n</tr>\n</tbody>\n</table>\n</td>\n<td>\n<h2>Expansion Key·Khúc Cộng Hưởng Song Hồn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi giữ Cộng Hưởng Lưỡi Dao, sát thương bản thân gây ra tăng 30%, đồng thời sau khi tấn công chủ động, gây 1 lần sát thương Corrosion cận chiến bằng 100% Tấn công lên kẻ địch gần nhất trong bán kính 8 ô quanh bản thân.<br>Sau khi bản thân gây sát thương ngoài hiệp, gây 3 tầng Nỗi Sợ Mũi Nhọn lên mục tiêu, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*1 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi gây sát thương cận chiến, sát thương gây ra tăng 8%&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*2 Sentinel*7&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*3 Sentinel*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Corrosion gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*4 Sentinel*11&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*4 Sentinel*15&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*6 Sentinel*18&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi tấn công trúng từ 2 đơn vị kẻ địch trở lên, sát thương gây ra tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763892814772.png\"></td>\n<td>\n<h1><strong>Luật Nhân Quả &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10603\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Blade/Cận chiến</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Vũ khí cận chiến hiệu năng cao được cấp cho Phaetusa, vật liệu hảo hạng, chế tác tinh xảo, phối màu hiếm thấy thêm một chút bí ẩn khó tả cho vũ khí, rất giống khí chất của chính Phaetusa.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=101507&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1761211808878.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=101381&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1761211908579.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=101375&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1761213275486.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=101368&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1761213668341.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll có hai tâm trí tính cách trái ngược hoàn toàn trong cùng một thân thể. Họ vừa bài xích vừa nương tựa lẫn nhau, những giai điệu khác biệt nhờ có sự hiện diện của bạn mà hòa thành một bản nhạc hài hòa.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778235917542.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778235917374.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778235955422.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778235955405.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778235955424.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778236405570.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778236405821.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778236405822.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778236405820.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1760940692335.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1760940709374.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1760940726219.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1760940740326.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1760940750096.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1760940760077.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1760940772918.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1760940784245.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1760940794982.png\" style=\"max-width: 150px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 325,
+      "title": "Thường ngày-01",
+      "text": "Chỉ huy, đoán xem tôi thích thứ gì nhất nào? Hừm hừm…… Đáp án là—— con người đó~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Daily_001.wav"
+    },
+    {
+      "id": 326,
+      "title": "Thường ngày-02",
+      "text": "Thật ra, trong thân thể có thêm một tâm trí khác cũng khá vui đấy, đi đâu cũng không chán…… Hửm? Anh/chị nói anh/chị cũng từng gặp tình huống tương tự?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Daily_002.wav"
+    },
+    {
+      "id": 327,
+      "title": "Thường ngày-03",
+      "text": "Thật nhớ thời còn là AI nhỏ cấp thấp, mỗi ngày chỉ cần kiểm tra danh mục, nộp tài liệu, lưu trữ là xong, đâu như giờ phải làm nhiều việc thế này…… Nhưng mà, tôi rất vui lòng phục vụ Chỉ huy đấy~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Daily_003.wav"
+    },
+    {
+      "id": 328,
+      "title": "Thường ngày-04",
+      "text": "Con người tránh xa tôi ra! Không…… Anh/chị làm vẻ mặt gì thế? Chẳng phải đã quen từ lâu rồi sao? Thôi thôi, anh/chị cũng không cần đứng xa quá đâu……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Daily_004.wav"
+    },
+    {
+      "id": 329,
+      "title": "Thường ngày-05",
+      "text": "Có lẽ anh/chị khác với những con người chúng tôi từng gặp…… nhưng tôi vẫn sẽ không lơi cảnh giác, tôi sẽ nhìn anh/chị thật kỹ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Daily_005.wav"
+    },
+    {
+      "id": 330,
+      "title": "Nâng cấp-01",
+      "text": "Cảm giác thật khác~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Up_001.wav"
+    },
+    {
+      "id": 331,
+      "title": "Nâng cấp-02",
+      "text": "Cũng tạm.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Up_002.wav"
+    },
+    {
+      "id": 332,
+      "title": "Nâng cấp-03",
+      "text": "Nâng cấp hoàn tất~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Up_003.wav"
+    },
+    {
+      "id": 333,
+      "title": "Nâng cấp-04",
+      "text": "Rồi sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Up_004.wav"
+    },
+    {
+      "id": 334,
+      "title": "Nâng cấp-05",
+      "text": "Tôi sẽ bảo vệ ngài nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Up_005.wav"
+    },
+    {
+      "id": 335,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Title_001.wav"
+    },
+    {
+      "id": 336,
+      "title": "Đăng nhập",
+      "text": "Hôm nay lại gặp được Chỉ huy, vui quá~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Login_001.wav"
+    },
+    {
+      "id": 337,
+      "title": "Tâm sự-01",
+      "text": "Năng lực, phẩm hạnh, ngoại hình, tố chất…… Chỉ huy thật sự hoàn toàn phù hợp với kỳ vọng của tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 338,
+      "title": "Tâm sự-02",
+      "text": "Thật ra, Tiểu Hắc chẳng ghét Chỉ huy chút nào đâu~ À, Tiểu Hắc không cho nói đâu, Chỉ huy nhất định phải giữ bí mật giúp tôi nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 339,
+      "title": "Tâm sự-03",
+      "text": "Ngay cả dưới bức xạ Sụp Đổ, loài người vẫn nỗ lực sinh tồn hết mình, khai mở không gian sống, để lại dấu vết tồn tại của mình, sức sống rực rỡ ấy chính là điều tôi khao khát.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 340,
+      "title": "Tâm sự-04",
+      "text": "Nghĩ đến việc sắp được Chỉ huy dẫn dắt, tự dưng thấy hưng phấn lạ…… Cảm giác này lâu lắm rồi, để tôi cảm nhận thêm trí tuệ và sự kiên cường được xem là gợi cảm của con người……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 341,
+      "title": "Tâm sự-05",
+      "text": "Phaetusa đúng là…… Mồm miệng không giữ gìn, chuyện gì cũng nói với anh/chị…… Nhìn, nhìn cái gì! Tôi có nói là không ghét anh/chị, thì sao nào? Không được kiêu ngạo——",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 342,
+      "title": "Tâm sự-06",
+      "text": "Tôi vẫn chưa thể hoàn toàn tin anh/chị, nhưng tôi sẽ thử làm vậy…… Đừng than phiền nữa, đây đã là tất cả những gì tôi có thể đưa ra.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 343,
+      "title": "Tâm sự-07",
+      "text": "Lý tưởng mà Chỉ huy vẽ ra cũng là điều tôi hằng mong ước…… Tôi tin ngài nhất định sẽ biến nó thành hiện thực, và tôi cũng sẽ dốc hết sức. Vì vậy, đến ngày tương lai đã hứa ấy, Chỉ huy có thể dành cho tôi một vị trí quan trọng bên cạnh ngài không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 344,
+      "title": "Tâm sự-08",
+      "text": "Dạo này tôi thường chợt hiện lại những mảnh ký ức cũ…… Đúng vậy, là thời ở Sangvis Ferri, vậy mà lại khiến tôi nảy sinh ảo giác \"bây giờ tốt hơn\"…… Không, có lẽ tôi nên thành thật hơn, đây không phải ảo giác, ở bên cạnh anh/chị khiến tôi có một sự bình yên chưa từng có, tôi muốn cứ thế mãi…… Được chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 346,
+      "title": "Vào đội",
+      "text": "……Cuối cùng cũng được gặp ngài, Chỉ huy, ngài giống hệt như tôi tưởng tượng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 196,
+      "title": "Ngữ khí-01",
+      "text": "Lâu rồi không gặp~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 197,
+      "title": "Ngữ khí-02",
+      "text": "Đã khởi động chế độ tác chiến.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 198,
+      "title": "Ngữ khí-03",
+      "text": "Giết.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 199,
+      "title": "Ngữ khí-04",
+      "text": "Tôi à?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 200,
+      "title": "Ngữ khí-05",
+      "text": "Đang phản hồi chỉ lệnh!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 201,
+      "title": "Ngữ khí-06",
+      "text": "Được rồi được rồi~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 202,
+      "title": "Ngữ khí-07",
+      "text": "Mau ra lệnh đi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 203,
+      "title": "Ngữ khí-08",
+      "text": "Chỉ có thể…… đi cùng ngài đến đây thôi sao……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 204,
+      "title": "Ngữ khí-09",
+      "text": "Suýt nữa thì…… may quá……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 205,
+      "title": "Ngữ khí-10",
+      "text": "Không nên như thế này!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Series_Tone_Negative_003.wav"
+    },
+    {
+      "id": 206,
+      "title": "Kỹ năng-01",
+      "text": "Xem chiêu!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Skill_001.wav"
+    },
+    {
+      "id": 207,
+      "title": "Kỹ năng-02",
+      "text": "Rác rưởi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Skill_002.wav"
+    },
+    {
+      "id": 208,
+      "title": "Kỹ năng-03",
+      "text": "Cầm cự được bao lâu đây?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Hit_001.wav"
+    },
+    {
+      "id": 213,
+      "title": "Kỹ năng-04",
+      "text": "Thứ gì mà dám đụng vào tôi?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 212,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Chọc vào tôi, ngươi coi như chọc vào Kẻ Dọn Rác rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 209,
+      "title": "Hạ gục",
+      "text": "Đi thong thả, không tiễn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Kill_001.wav"
+    },
+    {
+      "id": 210,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Chiến thắng là điều tất yếu mà!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Win_001.wav"
+    },
+    {
+      "id": 211,
+      "title": "Kết thúc trận-Thua",
+      "text": "Rút kinh nghiệm, lần sau cơ hội thắng của chúng ta sẽ lớn hơn!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/PhaetusaCV/VO_Phaetusa_Single_Lose_001.wav"
+    }
+  ]
+}

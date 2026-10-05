@@ -1,0 +1,374 @@
+{
+  "id": 1076,
+  "name": "Soppo",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1775116063271.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 4,
+  "role_id": 4,
+  "team_id": 2,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Freeze",
+  "team": "AR Team",
+  "weapon": "AR Chiến Thuật Mô-đun Đặc Biệt",
+  "model": "SST-05A3 SEP",
+  "ammo_model": "AR",
+  "desc": "T-Doll hoạt bát hiếu động, yêu chiến đấu, tâm tư khá đơn giản, thích làm việc thẳng thắn, hiếm khi suy nghĩ sâu, tin tưởng đồng đội vô điều kiện và tuân theo mọi mệnh lệnh của bạn. \"Chỉ Huy, tiếp theo chúng ta đi làm gì đây? Chưa nghĩ ra à? Vậy thì... hay là cùng đi chơi đi——\"",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1775116074009.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1775116095958.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013199770.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013209535.png"
+  },
+  "skins": [
+    {
+      "id": 71,
+      "name": "Giới Hạn Đỏ Thẫm",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1775118635289.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1775118642910.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1775115851604.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1775115860048.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1775115870492.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Hắc Đặc</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Tamura Yukari</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=106\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>844</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>504</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>1948<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo&nbsp;<span style=\"color: #00ffff\">&nbsp;<span style=\"color: #cc99ff\">Corrosion</span></span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Truy Kích Nanh Săn",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1773628647201.png\"></p>\n</td>\n<td>\n<p>Săn Nanh Truy Kích Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1773629200064.png\" style=\"max-width: 147px\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Freeze. Bản thân nhận <span style=\"color: #ff9900\">2 tầng</span> Dấu Săn và <span style=\"color: #ff9900\">1 điểm</span> Infection Index.<br>Nếu đang ở dạng Chó Điên, đổi thành gây sát thương Burn.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Cắn Xé Hung Ác",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1775208943554.png\"></p>\n</td>\n<td>\n<p>Cắn Xé Ác Tính Lv.1</p>\n<p>Chủ động / Diện rộng / Ô địa hình</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1775208980012.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch mục tiêu trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Freeze diện rộng lên nó và mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh nó, đồng thời tạo ô địa hình Sương Giá, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng, tung đánh thường Săn Nanh Truy Kích lên kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh và nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.<br>Nếu đang ở dạng Chó Điên, đổi thành gây sát thương Burn và tạo ô địa hình Thiêu Hủy, đồng thời không còn nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Hồi chiêu (hiệp): 1 Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Tru Dưới Trăng Khuya",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1775209108093.png\"></p>\n</td>\n<td>\n<p>Tru Đêm Trăng Lv.1</p>\n<p>Chủ động/Diện rộng/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1775524535331.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô trống loại Freeze hoặc Burn bất kỳ trên toàn chiến trường, lao xuống ô đó, và gây Dấu Vết Sát Lục lên mọi đồng minh (trừ bản thân) trong bán kính 8 ô xung quanh, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Sau kỹ năng chuyển sang dạng Chó Điên.<br>Nếu đang ở dạng Chó Điên, đổi thành gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Burn diện rộng lên mọi kẻ địch mục tiêu trong <span style=\"color: #ff9900\">bán kính 4 ô</span> xung quanh, sát thương này chia đều cho mọi mục tiêu trong phạm vi. Sau kỹ năng, tung đánh thường Săn Nanh Truy Kích lên kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh và nhận Thêm hành động.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Hồi chiêu (hiệp): 1&nbsp;</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Vồ Giết Chí Mạng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1775209156501.png\"></p>\n</td>\n<td>\n<p>Vồ Giết Chí Mạng Lv.1</p>\n<p>Chủ động / Diện rộng / Phục kích</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1775209175586.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn mọi kẻ địch mục tiêu trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, tiêu hao toàn bộ Dấu Săn, gây sát thương Freeze diện rộng bằng số tầng Dấu Săn x<span style=\"color: #ff9900\">30%</span> Tấn công. Nếu trúng kẻ địch đứng trên ô địa hình dị vị, gây thêm <span style=\"color: #ff9900\">1</span> lần 50% Tấn công sát thương Freeze lên nó. Sau kỹ năng chuyển sang dạng Chó Săn.</p>\n<p>Bị động: Trước khi kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh tấn công chủ động, phục kích chúng, gây <span style=\"color: #ff9900\">30%</span> Tấn công sát thương Freeze và <span style=\"color: #ff9900\">4</span> sát thương ổn định, mỗi hiệp lớn kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Hồi chiêu (hiệp): 2 Sát thương ổn định: 5 Tiêu hao Infection: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Chứng Hôn Chó",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1775209262406.png\"></p>\n</td>\n<td>\n<p>Chứng Hôn Chó Lv.1</p>\n<p>Bị động/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1775209281686.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu chiến đấu, bản thân ở dạng Chó Săn; Tiêu hao <span style=\"color: #ff9900\">3 điểm</span> Infection Index của bản thân, nhận Khiên Băng duy trì <span style=\"color: #ff9900\">3 hiệp</span>, lượng hấp thụ của Khiên Băng bằng <span style=\"color: #ff9900\">65%</span> Tấn công gốc, tối đa không quá <span style=\"color: #ff9900\">60%</span> HP tối đa.<br>Khi bắt đầu chiến đấu, nếu số T-Doll đồng minh loại Burn khác (trừ bản thân) lớn hơn hoặc bằng <span style=\"color: #ff9900\">3</span>, thì khi dùng đánh thường Săn Nanh Truy Kích và kỹ năng chủ động Cắn Xé Ác Tính mà bản thân ở dạng Chó Săn, sát thương lên kẻ địch có debuff loại Burn tăng <span style=\"color: #ff9900\">100%</span>; Nếu số T-Doll đồng minh loại Freeze (trừ bản thân) lớn hơn hoặc bằng 3, thì khi dùng các kỹ năng trên và kỹ năng chủ động Tru Đêm Trăng mà bản thân ở dạng Chó Điên, sát thương lên kẻ địch có debuff loại Freeze tăng <span style=\"color: #ff9900\">100%</span>. Nếu không thỏa các điều kiện trên, nhận thêm <span style=\"color: #ff9900\">2 tầng</span> Dấu Săn vĩnh viễn.<br>Sau khi tấn công chủ động, nhận 1 tầng Nhân Tố Cuồng Táo, cộng dồn tối đa <span style=\"color: #ff9900\">10 tầng</span>. Khi có <span style=\"color: #ff9900\">4 tầng</span> Nhân Tố Cuồng Táo, nhận Nhân Tố Cuồng Táo I; Khi có <span style=\"color: #ff9900\">6 tầng</span> Nhân Tố Cuồng Táo, nhận Nhân Tố Cuồng Táo II; Khi có từ <span style=\"color: #ff9900\">8 tầng</span> Nhân Tố Cuồng Táo trở lên, nhận Nhân Tố Cuồng Táo III.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Cắn Xé Ác Tính Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng lên <span style=\"color: #ff9900\">130%</span>.<br>Nếu đang ở dạng Chó Săn, sau khi tấn công nhận <span style=\"color: #ff9900\">2 tầng</span> Dấu Săn, nhận Thêm chỉ lệnh đổi thành nhận Thêm hành động.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> kẻ địch mục tiêu trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Freeze diện rộng lên nó và mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh nó, đồng thời tạo ô địa hình Sương Giá, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng, tung đánh thường Săn Nanh Truy Kích lên kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh và nhận Thêm hành động&gt;2 tầng Dấu Săn.<br>Nếu đang ở dạng Chó Điên, đổi thành gây sát thương Burn và tạo ô địa hình Thiêu Hủy, đồng thời không còn nhận Thêm hành động và Dấu Săn.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 2</strong></td>\n<td><strong>Tru Đêm Trăng Lv.2</strong></td>\n<td>Sau khi lao xuống ô địa hình mục tiêu, nếu ô đó là ô địa hình loại Freeze hoặc Burn, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Freeze hoặc Burn lên <span style=\"color: #ff9900\">3</span> kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh; nếu ô đó là ô địa hình Tàn Tro, gây 1 lần <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Freeze và Burn riêng lên <span style=\"color: #ff9900\">3</span> kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh.<br>Nếu đang ở dạng Chó Điên, sau kỹ năng nhận <span style=\"color: #ff9900\">1 tầng</span> Dấu Săn.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> ô trống loại Freeze hoặc Burn bất kỳ trên toàn chiến trường, lao xuống ô đó, nếu ô đó là ô địa hình loại Freeze hoặc Burn, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Freeze hoặc Burn lên <span style=\"color: #ff9900\">3</span> kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh; nếu ô đó là ô địa hình Tàn Tro, gây 1 lần <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Freeze và Burn riêng lên <span style=\"color: #ff9900\">3</span> kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh; và gây Dấu Vết Sát Lục lên mọi đồng minh (trừ bản thân) trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Sau kỹ năng chuyển sang dạng Chó Điên.<br>Nếu đang ở dạng Chó Điên, đổi thành gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Burn diện rộng lên mọi kẻ địch mục tiêu trong <span style=\"color: #ff9900\">bán kính 4 ô</span> xung quanh, sát thương này chia đều cho mọi mục tiêu trong phạm vi. Sau kỹ năng, tung đánh thường Săn Nanh Truy Kích lên kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh và nhận <span style=\"color: #ff9900\">1 tầng</span> Dấu Săn cùng Thêm hành động.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Tru Đêm Trăng Lv.3</strong></td>\n<td>Tăng hiệu quả Dấu Vết Sát Lục: phạm vi tạo ô địa hình Tàn Tro mở rộng 2 ô; Sau khi tấn công chủ động, Soppo nhận <span style=\"color: #ff9900\">1 tầng</span> Nhân Tố Cuồng Táo.<br>Nếu đang ở dạng Chó Điên, hệ số sát thương nâng lên <span style=\"color: #ff9900\">150%</span>. Nếu kẻ địch mục tiêu đứng trên ô địa hình cấp 1, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>; mỗi khi cấp ô địa hình tăng 1 cấp, hệ số sát thương tăng thêm <span style=\"color: #ff9900\">10%</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> ô trống loại Freeze hoặc Burn bất kỳ trên toàn chiến trường, lao xuống ô đó, nếu ô đó là ô địa hình loại Freeze hoặc Burn, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Freeze hoặc Burn lên <span style=\"color: #ff9900\">3</span> kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh; nếu ô đó là ô địa hình Tàn Tro, gây 1 lần <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Freeze và Burn riêng lên 3 kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh; và gây Dấu Vết Sát Lục lên mọi đồng minh (trừ bản thân) trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Sau kỹ năng chuyển sang dạng Chó Điên.<br>Nếu đang ở dạng Chó Điên, đổi thành gây <span style=\"color: #ff9900\">150%</span> Tấn công sát thương Burn diện rộng lên mọi kẻ địch mục tiêu trong <span style=\"color: #ff9900\">bán kính 4 ô</span> xung quanh, sát thương này chia đều cho mọi mục tiêu trong phạm vi. Nếu kẻ địch đứng trên ô địa hình cấp 1, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>; mỗi khi cấp ô địa hình tăng 1 cấp, hệ số sát thương tăng thêm <span style=\"color: #ff9900\">10%</span>. Sau kỹ năng, tung đánh thường Săn Nanh Truy Kích lên kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh và nhận <span style=\"color: #ff9900\">1 tầng</span>&lt;Dấu Săn và Thêm hành động.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 4</strong></td>\n<td><strong>Chứng Hôn Chó Lv.2</strong></td>\n<td>Mức tăng sát thương gây lên kẻ địch mục tiêu nâng lên <span style=\"color: #ff9900\">150%</span> và không còn yêu cầu nó có debuff. Số tầng Dấu Săn vĩnh viễn nhận thêm tăng <span style=\"color: #ff9900\">2 tầng</span>.</td>\n<td>Khi bắt đầu chiến đấu, bản thân ở dạng Chó Săn; Tiêu hao <span style=\"color: #ff9900\">3 điểm</span> Infection Index của bản thân, nhận Khiên Băng duy trì <span style=\"color: #ff9900\">2 hiệp</span>, lượng hấp thụ của Khiên Băng bằng <span style=\"color: #ff9900\">65%</span> Tấn công gốc, tối đa không quá <span style=\"color: #ff9900\">60%</span> HP tối đa.<br>Khi bắt đầu chiến đấu, nếu số T-Doll đồng minh loại Burn (trừ bản thân) lớn hơn hoặc bằng 3, thì khi dùng đánh thường Săn Nanh Truy Kích và kỹ năng chủ động Cắn Xé Ác Tính mà bản thân ở dạng Chó Săn, sát thương lên kẻ địch mục tiêu tăng <span style=\"color: #ff9900\">150%</span>; Nếu số T-Doll đồng minh loại Freeze (trừ bản thân) lớn hơn hoặc bằng 3, thì khi dùng các kỹ năng trên và kỹ năng chủ động Tru Đêm Trăng mà bản thân ở dạng Chó Điên, sát thương lên kẻ địch mục tiêu tăng <span style=\"color: #ff9900\">150%</span>. Nếu không thỏa các điều kiện trên, nhận thêm <span style=\"color: #ff9900\">4 tầng</span> Dấu Săn vĩnh viễn.<br>Sau khi tấn công chủ động, nhận <span style=\"color: #ff9900\">1 tầng</span> Nhân Tố Cuồng Táo, cộng dồn tối đa <span style=\"color: #ff9900\">10 tầng</span>. Khi có <span style=\"color: #ff9900\">4 tầng</span> Nhân Tố Cuồng Táo, nhận Nhân Tố Cuồng Táo I; Khi có <span style=\"color: #ff9900\">6 tầng</span> Nhân Tố Cuồng Táo, nhận Nhân Tố Cuồng Táo II; Khi có từ <span style=\"color: #ff9900\">8 tầng</span> Nhân Tố Cuồng Táo trở lên, nhận Nhân Tố Cuồng Táo III.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Vồ Giết Chí Mạng Lv.2</strong></td>\n<td>Hệ số sát thương nâng lên số tầng Dấu Săn×<span style=\"color: #ff9900\">50%</span> Tấn công, dùng kỹ năng này tiêu hao toàn bộ Infection Index, mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, hệ số sát thương cơ bản tăng <span style=\"color: #ff9900\">5%</span>. Sau kỹ năng hồi <span style=\"color: #ff9900\">2 điểm</span> Infection Index.<br>Sau khi phục kích, nhận <span style=\"color: #ff9900\">2 tầng</span> Dấu Săn. Hệ số sát thương của phục kích nâng lên <span style=\"color: #ff9900\">60%</span>.</td>\n<td>Chọn mọi kẻ địch mục tiêu trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, tiêu hao toàn bộ Dấu Săn và Infection Index, gây sát thương Freeze diện rộng bằng số tầng Dấu Săn×<span style=\"color: #ff9900\">50%</span> Tấn công, mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, hệ số sát thương cơ bản tăng <span style=\"color: #ff9900\">5%</span>. Nếu trúng kẻ địch đứng trên ô địa hình dị vị, gây thêm 1 lần <span style=\"color: #ff9900\">50%</span> Tấn công sát thương Freeze lên nó. Sau kỹ năng hồi <span style=\"color: #ff9900\">2 điểm</span> Infection Index và chuyển sang dạng Chó Săn.<br><br>Bị động: Trước khi kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh tấn công chủ động, phục kích chúng, gây <span style=\"color: #ff9900\">60%</span> Tấn công sát thương Freeze và <span style=\"color: #ff9900\">4</span> sát thương ổn định, bản thân nhận <span style=\"color: #ff9900\">2 tầng</span> Dấu Săn, mỗi hiệp lớn kích hoạt tối đa 1 lần.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Chứng Hôn Chó Lv.3</strong></td>\n<td>Khi bắt đầu chiến đấu, nhận <span style=\"color: #ff9900\">3 tầng</span> Nhân Tố Cuồng Táo.<br>Giới hạn cộng dồn của Nhân Tố Cuồng Táo nâng lên <span style=\"color: #ff9900\">20 tầng</span>, số tầng Nhân Tố Cuồng Táo nhận sau khi tấn công chủ động tăng <span style=\"color: #ff9900\">1 tầng</span>, và sau khi Nhân Tố Cuồng Táo cộng dồn đến <span style=\"color: #ff9900\">20 tầng</span>, tăng hiệu quả Nhân Tố Cuồng Táo I: khi tấn công chủ động kẻ địch mục tiêu đứng trên ô địa hình dị vị, mức tăng bỏ qua phòng thủ của bản thân nâng lên <span style=\"color: #ff9900\">20%</span>; Tăng hiệu quả Nhân Tố Cuồng Táo II: mức tăng sát thương Freeze và Burn gây ra nâng lên <span style=\"color: #ff9900\">10%</span>; Tăng hiệu quả Nhân Tố Cuồng Táo III: khi tấn công kẻ địch mục tiêu đứng trên ô địa hình dị vị, mức tăng sát thương gây ra nâng lên <span style=\"color: #ff9900\">30%</span>.</td>\n<td>Khi bắt đầu chiến đấu, bản thân ở dạng Chó Săn và nhận <span style=\"color: #ff9900\">3 tầng</span> Nhân Tố Cuồng Táo; Tiêu hao <span style=\"color: #ff9900\">3 điểm</span> Infection Index của bản thân, nhận Khiên Băng duy trì <span style=\"color: #ff9900\">3 hiệp</span>, lượng hấp thụ của Khiên Băng bằng <span style=\"color: #ff9900\">65%</span> Tấn công gốc, tối đa không quá <span style=\"color: #ff9900\">60%</span> HP tối đa.<br>Khi bắt đầu chiến đấu, nếu số T-Doll đồng minh loại Burn (trừ bản thân) lớn hơn hoặc bằng 3, thì khi dùng đánh thường Săn Nanh Truy Kích và kỹ năng chủ động Cắn Xé Ác Tính mà bản thân ở dạng Chó Săn, sát thương lên kẻ địch mục tiêu tăng <span style=\"color: #ff9900\">150%</span>; Nếu số T-Doll đồng minh loại Freeze (trừ bản thân) lớn hơn hoặc bằng 3, thì khi dùng các kỹ năng trên và kỹ năng chủ động Tru Đêm Trăng mà bản thân ở dạng Chó Điên, sát thương lên kẻ địch mục tiêu tăng <span style=\"color: #ff9900\">150%</span>. Nếu không thỏa các điều kiện trên, nhận thêm <span style=\"color: #ff9900\">4 tầng</span> Dấu Săn vĩnh viễn.<br>Sau khi tấn công chủ động, nhận <span style=\"color: #ff9900\">2 tầng</span> Nhân Tố Cuồng Táo, cộng dồn tối đa <span style=\"color: #ff9900\">20 tầng</span>. Khi có <span style=\"color: #ff9900\">4 tầng</span> Nhân Tố Cuồng Táo, nhận Nhân Tố Cuồng Táo I; Khi có <span style=\"color: #ff9900\">6 tầng</span> Nhân Tố Cuồng Táo, nhận Nhân Tố Cuồng Táo II; Khi có từ <span style=\"color: #ff9900\">8 tầng</span> Nhân Tố Cuồng Táo trở lên, nhận Nhân Tố Cuồng Táo III.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1775230044379.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Contract Key·Hợp Âm Đùa Nghịch </h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1770023852789.png\" width=\"20\" height=\"20\"></sub><strong><span style=\"color: #808080\"><span style=\"color: #999999\">Chí mạng 3% </span></span></strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1771772206528.png\" width=\"20\" height=\"20\"></sub><strong><span style=\"color: #808080\"><span style=\"color: #999999\">Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1775229952194.png\" width=\"20\" height=\"20\"></sub> HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1775230093836.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Đây Là Địa Bàn Của Tôi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu nhận 2 tầng Nhân Tố Cuồng Táo.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1775230274918.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Còn Muốn Bị Cắn Nữa Không</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Sau khi tấn công kẻ địch mục tiêu đứng trên ô địa hình dị vị, xua tan 1 buff của nó.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1775230516587.png\" style=\"max-width: 71px\"></td>\n<td>\n<h2>Fixed Key·Địa Ngục Cực Hàn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu hiệp, tạo ô địa hình Sương Giá trong bán kính 4 ô quanh bản thân, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1775230464394.png\" style=\"max-width: 71px\"></td>\n<td>\n<h2>Fixed Key·Khoanh Đất Tự Chữa</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi nhận sát thương, nếu đứng trên ô địa hình dị vị, sát thương nhận vào giảm 10%, sát thương ổn định nhận vào giảm 1 điểm.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1775230550372.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Thỏa Sức Sát Ý</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bản thân có khiên, sát thương Freeze và Burn gây ra tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1775230591639.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Phối Hợp Bầy Đàn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi đơn vị đồng minh (trừ bản thân) tấn công ngoài hiệp, nếu bản thân không có Thế Công Hỏa Nhiệt I hoặc Đột Kích Băng Giá thì nhận hiệu ứng đó, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1775230193725.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Common Key·Tiếng Gọi Hoang Dã</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1775526086079.png\" width=\"20\" height=\"20\"></sub>Chí mạng 5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi tấn công kẻ địch đứng trên ô địa hình loại Freeze hoặc Burn, sát thương dị vị gây ra tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hình thái hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp mở khóa</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Nhân tố hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu quả</strong></span></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">Vanguard*2 Sentinel*5</td>\n<td style=\"text-align: center\">Sát thương của đòn tấn công chủ động tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">Vanguard*3 Sentinel*8</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">Bulwark*1 Vanguard*4 Sentinel*9</td>\n<td style=\"text-align: center\">&nbsp;Sát thương dị vị gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">Bulwark*2 Vanguard*6 Sentinel*11</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">Bulwark*2 Vanguard*7 Sentinel*15</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">Bulwark*3 Vanguard*8 Sentinel*18</td>\n<td style=\"text-align: center\"> Khi đòn tấn công trúng từ 2 kẻ địch trở lên, sát thương gây ra tăng 12%</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1775212354599.png\"></td>\n<td>\n<h1><strong>Khúc Ca Gào Thét &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10763\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng trường hiệu năng cao được phân phát cho Soppo, lấy súng trường chiến thuật mô-đun đặc biệt làm nguyên mẫu, cường hóa mạnh thân súng và sức sát thương, xuyên qua đống đổ nát và bão tố trong chớp mắt, huyết mạch chó điên xé toạc bầu trời.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; </span><span style=\"color: #ff6600\">Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=122872&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/1775568966251.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=122802&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/1775553869450.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=122731&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/1775540531599.jpeg\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=123222&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/1775734330614.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<div>\n<p> &nbsp; &nbsp;T-Doll hoạt bát hiếu động, yêu chiến đấu, tâm tư khá đơn giản, thích làm việc thẳng thắn, hiếm khi suy nghĩ sâu, tin tưởng đồng đội vô điều kiện và tuân theo mọi mệnh lệnh của bạn.<br>\"Chỉ Huy, tiếp theo chúng ta đi làm gì đây? Chưa nghĩ ra à? Vậy thì... hay là cùng đi chơi đi——\"</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1777020906352.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777020918595.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1777020968833.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777020968834.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777020968716.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777020975878.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777020975875.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777020975872.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777020975910.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1777021277479.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777021277607.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777021339335.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777021277605.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777021393717.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777021404680.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777021277606.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777021416248.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777021277645.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779166889596.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166889718.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166889761.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166889758.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166921506.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166889755.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1687,
+      "title": "Thường ngày-01",
+      "text": "Gì thế gì thế! Chỉ huy, cho em xem với!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775522656815.wav"
+    },
+    {
+      "id": 1688,
+      "title": "Thường ngày-02",
+      "text": "Hì hì……Robella không có nhà, đúng là cơ hội làm mấy chuyện vui……Ưm! Chỉ huy, anh không được nói với chị ấy đâu nhé!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775522679951.wav"
+    },
+    {
+      "id": 1689,
+      "title": "Thường ngày-03",
+      "text": "Chán quá đi……các khớp với ốc vít toàn thân đều ngứa ngáy, Chỉ huy, cho em mượn con Dinergate bên cạnh anh chơi một chút được không? Hả? Dandelion bảo không được á……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775522695372.wav"
+    },
+    {
+      "id": 1690,
+      "title": "Thường ngày-04",
+      "text": "Chỉ huy! Mayling có đang thiếu trợ thủ không? Cho em đi với! Dụng cụ? Em không cần mấy thứ đó đâu!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775522709284.wav"
+    },
+    {
+      "id": 1691,
+      "title": "Thường ngày-05",
+      "text": "Ha ha ha ha ha ha, mỗi lần nhớ lại bộ dạng hoảng loạn của lũ địch hồi nãy là em lại thấy buồn cười quá! Chỉ huy, có muốn phát lại nhật ký tâm trí của em để cùng thưởng thức không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775522726042.wav"
+    },
+    {
+      "id": 1692,
+      "title": "Nâng cấp-01",
+      "text": "Tuyệt!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775522739043.wav"
+    },
+    {
+      "id": 1693,
+      "title": "Nâng cấp-02",
+      "text": "Phụt phụt phụt phụt~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775522757180.wav"
+    },
+    {
+      "id": 1694,
+      "title": "Nâng cấp-03",
+      "text": "Coi chừng đó nha!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775522777698.wav"
+    },
+    {
+      "id": 1695,
+      "title": "Nâng cấp-04",
+      "text": "Xé hết bọn chúng ra!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775522796347.wav"
+    },
+    {
+      "id": 1696,
+      "title": "Nâng cấp-05",
+      "text": "Em không đợi nổi nữa rồi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775522813828.wav"
+    },
+    {
+      "id": 1697,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2! Exilium!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523002898.wav"
+    },
+    {
+      "id": 1698,
+      "title": "Đăng nhập",
+      "text": "Chỉ huy, cùng đi săn thôi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523025581.wav"
+    },
+    {
+      "id": 1699,
+      "title": "Tâm sự-01",
+      "text": "Tu tu tu tu~ Chỉ huy! Anh cũng chơi cùng đi, nói vào cái quạt điện này sẽ phát ra giọng buồn cười lắm đó!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523083760.wav"
+    },
+    {
+      "id": 1700,
+      "title": "Tâm sự-02",
+      "text": "Việc muốn làm thứ hai bây giờ——đánh nhau! Việc muốn làm nhất——cùng Chỉ huy đánh nhau! Ồ! Tất nhiên không phải đánh Chỉ huy đâu, là cùng Chỉ huy đánh người khác!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523103755.wav"
+    },
+    {
+      "id": 1701,
+      "title": "Tâm sự-03",
+      "text": "Chỉ huy, có muốn xem bộ sưu tập của em không? Lạnh lẽo! Lộng lẫy! Lấp lánh! Chỉ cho mình anh xem thôi nhé! Người khác chẳng biết thưởng thức gì cả hứ~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775527930332.wav"
+    },
+    {
+      "id": 1702,
+      "title": "Tâm sự-04",
+      "text": "Chỉ huy! Sao dạo này lúc kết thúc chiến đấu mọi người đều đứng xa em thế! Hả? Nói là em quá tàn bạo trong chiến đấu nên họ sợ……sao lại thế chứ——em rõ ràng có để ý cảm xúc của mọi người, không có tháo rời kẻ địch mà, Chỉ huy hiểu em đúng không? Đúng không mà!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523133493.wav"
+    },
+    {
+      "id": 1703,
+      "title": "Tâm sự-05",
+      "text": "Hộc……đánh xong lúc nào cũng nóng nhỉ……Cái này ạ? Để hạ nhiệt đó~ Chỉ huy muốn lại gần em cảm nhận thử không? Hì hì, lại gần thêm chút nữa đi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775527950006.wav"
+    },
+    {
+      "id": 1704,
+      "title": "Tâm sự-06",
+      "text": "Chỉ huy, nếu anh làm mất đồ gì thì cứ nói với em nhé! Khứu giác của em tốt lắm, rơi ở đâu em cũng tìm ra giúp anh được!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775527964091.wav"
+    },
+    {
+      "id": 1705,
+      "title": "Tâm sự-07",
+      "text": "Ưm~ Leva cứ nói em lúc chiến đấu như chó hoang sổng xích……Chỉ huy cũng nghĩ vậy sao? Nhưng nghe có vẻ mạnh mà, đâu có gì không tốt nhỉ? Gầu~ Chó chiến thuật số hiệu Elmo! Cắn nát hết mọi kẻ địch!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523200627.wav"
+    },
+    {
+      "id": 1706,
+      "title": "Tâm sự-08",
+      "text": "Em thích Chỉ huy lắm đó! Nhưng thỉnh thoảng phải đi làm nhiệm vụ, không thể luôn ở bên anh……vì vậy, tèn ten! Tặng anh cái này, nó tên là M4 SOPMODⅡ Jr, lúc em không có đây, hãy xem nó như em mà yêu quý nhé!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523230096.wav"
+    },
+    {
+      "id": 1707,
+      "title": "Vào đội",
+      "text": "Uwaa~ Chỉ huy mau đỡ lấy em——! Hì hì, còn nhận ra em là ai không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775527988313.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1108,
+      "title": "Ngữ khí-01",
+      "text": "Đến lượt tôi à?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523350990.wav"
+    },
+    {
+      "id": 1109,
+      "title": "Ngữ khí-02",
+      "text": "Hí hí hí……mau bắt đầu thôi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523342013.wav"
+    },
+    {
+      "id": 1110,
+      "title": "Ngữ khí-03",
+      "text": "Tìm·thấy·anh·rồi·nha!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523383699.wav"
+    },
+    {
+      "id": 1111,
+      "title": "Ngữ khí-04",
+      "text": "Mau cho em xuất phát!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523397554.wav"
+    },
+    {
+      "id": 1112,
+      "title": "Ngữ khí-05",
+      "text": "Đang truy dấu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523410039.wav"
+    },
+    {
+      "id": 1113,
+      "title": "Ngữ khí-06",
+      "text": "Chọn em đi chọn em đi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523425698.wav"
+    },
+    {
+      "id": 1114,
+      "title": "Ngữ khí-07",
+      "text": "Muốn ra ngoài chơi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523437631.wav"
+    },
+    {
+      "id": 1115,
+      "title": "Ngữ khí-08",
+      "text": "Đau……quá……đợi……đấy……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523451238.wav"
+    },
+    {
+      "id": 1116,
+      "title": "Ngữ khí-09",
+      "text": "Vẫn chưa xong đâu!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523463709.wav"
+    },
+    {
+      "id": 1117,
+      "title": "Ngữ khí-10",
+      "text": "Ha ha ha ha ha! Lại đây nào!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523477852.wav"
+    },
+    {
+      "id": 1118,
+      "title": "Kỹ năng-01",
+      "text": "Bắt đầu tháo từ đâu nhỉ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523494106.wav"
+    },
+    {
+      "id": 1119,
+      "title": "Kỹ năng-02",
+      "text": "Đau là phải nhận nha!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523507851.wav"
+    },
+    {
+      "id": 1120,
+      "title": "Kỹ năng-03",
+      "text": "Hây~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523522964.wav"
+    },
+    {
+      "id": 1121,
+      "title": "Kỹ năng-04",
+      "text": "Em muốn nghe tiếng thét của anh~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523541728.wav"
+    },
+    {
+      "id": 1122,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Em đã nghĩ xong cách xử lý linh kiện của anh rồi nha!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523556512.wav"
+    },
+    {
+      "id": 1123,
+      "title": "Hạ gục",
+      "text": "Hỏng rồi sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523569913.wav"
+    },
+    {
+      "id": 1124,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Có quỳ xuống cầu xin cũng không tha cho các người đâu!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523583593.wav"
+    },
+    {
+      "id": 1125,
+      "title": "Kết thúc trận-Thua",
+      "text": "Trò chơi tạm dừng, trò chơi tạm dừng! Chỉ huy, chạy mau!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1775523598976.wav"
+    }
+  ]
+}

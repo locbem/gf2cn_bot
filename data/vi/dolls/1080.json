@@ -1,0 +1,370 @@
+{
+  "id": 1080,
+  "name": "Asteria",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1784260053590.png",
+  "icon": 2,
+  "sort": 0,
+  "attr_id": 1,
+  "role_id": 3,
+  "team_id": 2,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Support",
+  "attr": "Physical",
+  "team": "AR Team",
+  "weapon": "Súng trường tấn công Armalite kiểu 15",
+  "model": "SST-05A3 ST",
+  "ammo_model": "AR",
+  "desc": "Là một thành viên của AR Team, cô ấy hiện nay điềm tĩnh trầm ổn hơn trước. Sau khi lần lượt trải qua việc M4 rời đi và chia tay Chỉ huy, cô càng trân trọng đồng đội bên cạnh. Cô hành sự lấy kết quả làm định hướng, không quá bận tâm quá trình; thêm vào đó ít nói, không thích biện minh nên thường bị hiểu lầm. Thường phải đến khi cô lặng lẽ cống hiến rất nhiều, mọi người mới nhận ra nỗi khổ tâm của cô. Và đó chính là cách đối đãi dịu dàng với người khác độc nhất thuộc về cô.",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1784260062677.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1784260095169.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1784531245212.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1784531252534.png"
+  },
+  "skins": [
+    {
+      "id": 82,
+      "name": "Hành trình sao đêm đông",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1784280381642.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1784280398250.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1784278527135.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1784278535020.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1784278539856.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Lưu Tinh Hà</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Katō Emiri</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=146\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>722</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>577</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>8</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>2030<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo&nbsp;<span style=\"color: #00ffff\">Freeze</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Cò Súng Tĩnh Lặng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1773628647201.png\"><br></p>\n</td>\n<td>\n<p>Cò Súng Lặng Im Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1782380372341.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.<br><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Tập Trung Đột Kích",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1784535555368.png\"><br></p>\n</td>\n<td>\n<p>Tập Kích Tập Trung Lv.1</p>\n<p>Chủ động / Di chuyển / Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784535516423.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong <span style=\"color: #ff9900\">bán kính 5 ô</span> xung quanh, hạ xuống ô đó, nhận Điềm Tĩnh, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Nếu quanh ô đáp có vật cản, hiệu quả Điềm Tĩnh tăng lên <span style=\"color: #ff9900\">40%</span> và gây Đồng Điệu lên đơn vị mang Liên Kết, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn.<br><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Thanh Toán Bằng Nổ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1784535615720.png\"><br></p>\n</td>\n<td>\n<p>Thanh Toán Phá Hủy Lv.1</p>\n<p>Chủ động / Diện rộng / Debuff / Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784535605912.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong vùng chữ thập <span style=\"color: #ff9900\">8 ô</span> xung quanh để phóng tới, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical diện rộng lên toàn bộ kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> xung quanh và gây Giảm di chuyển II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Nếu số mục tiêu trúng lớn hơn hoặc bằng <span style=\"color: #ff9900\">2</span> hoặc trúng đơn vị thủ lĩnh, nhận Di chuyển thêm <span style=\"color: #ff9900\">6 ô</span> và gây Đồng Điệu lên đơn vị mang Liên Kết, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn.<br><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Tiêu hao Infection: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Phán Quyết Pháo Ray",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1784535752109.png\"><br></p>\n</td>\n<td>\n<p>Phán Quyết Pháo Ray Lv.1</p>\n<p>Quyết thắng / Diện rộng / Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784535715058.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây Dấu Ấn Kẻ Minh Oan duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span> và Giảm phòng thủ II duy trì 8 hiệp lên toàn bộ kẻ địch trong vùng <span style=\"color: #ff9900\">2</span>×<span style=\"color: #ff9900\">3 ô</span> phía trước, đồng thời gây <span style=\"color: #ff9900\">240%</span> Tấn công sát thương Physical diện rộng bỏ qua vật cản. Khi tấn công, bỏ qua <span style=\"color: #ff9900\">100%</span> Phòng thủ của mục tiêu.<br><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 5 Hồi chiêu (hiệp): 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Liên Kết Ràng Buộc",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1784535836283.png\"><br></p>\n</td>\n<td>\n<p>Liên Kết Ràng Buộc Lv.1</p>\n<p>Bị động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784535852342.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu chiến đấu, chọn <span style=\"color: #ff9900\">1</span> T-Doll đồng minh loại Physical, gây Liên Kết lên họ; Khi đơn vị đồng minh gây sát thương Physical không thuộc loại đạn, kèm loại đạn của vũ khí bản thân đang dùng.<br>Khi bắt đầu chiến đấu, tung Tội Và Phạt. Khi kết thúc hiệp lớn sau khi dùng kỹ năng Quyết thắng Phán Quyết Pháo Ray, đơn vị mang Liên Kết nhận Tội Và Phạt, và tăng thuộc tính của nó giảm <span style=\"color: #ff9900\">50%</span>, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn.<br><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp kỹ năng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng kỹ năng thêm</strong></span></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\">\n<p><strong>Phán Quyết Pháo Ray Lv.2</strong></p>\n</td>\n<td style=\"text-align: center\">\n<p>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">300%</span>; Khi tấn công, bỏ qua Phòng thủ của mục tiêu tăng lên <span style=\"color: #ff9900\">200%</span> và làm vô hiệu mọi hiệu ứng cộng phần trăm Phòng thủ của mục tiêu; Hiệu quả Dấu Ấn Kẻ Minh Oan tăng, khi nhận sát thương Physical, phải nhận thêm sát thương cố định bằng <span style=\"color: #ff9900\">10%</span> sát thương cuối cùng.</p>\n</td>\n<td style=\"text-align: center\">\n<p>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây Dấu Ấn Kẻ Minh Oan duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span> và Giảm phòng thủ II duy trì 8 hiệp lên toàn bộ kẻ địch trong vùng <span style=\"color: #ff9900\">2</span>×<span style=\"color: #ff9900\">3 ô</span> phía trước, đồng thời gây <span style=\"color: #ff9900\">300%</span> Tấn công sát thương Physical diện rộng bỏ qua vật cản. Khi tấn công, bỏ qua <span style=\"color: #ff9900\">200%</span> Phòng thủ của mục tiêu và làm vô hiệu mọi hiệu ứng cộng phần trăm Phòng thủ của mục tiêu.</p>\n</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td><strong>Thanh Toán Phá Hủy Lv.2</strong></td>\n<td>Gây Choáng lên mục tiêu, duy trì <span style=\"color: #ff9900\">1 hiệp</span>; Hiệu quả Đồng Điệu tăng, đơn vị có Liên Kết nhận thêm <span style=\"color: #ff9900\">30%</span> sát thương chí mạng ban đầu của Asteria.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong vùng chữ thập <span style=\"color: #ff9900\">8 ô</span> xung quanh để phóng tới, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical diện rộng lên toàn bộ kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> xung quanh và gây Giảm di chuyển II duy trì <span style=\"color: #ff9900\">2 hiệp</span> cùng Choáng duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Nếu số mục tiêu trúng lớn hơn hoặc bằng <span style=\"color: #ff9900\">2</span> hoặc trúng đơn vị thủ lĩnh, nhận Di chuyển thêm <span style=\"color: #ff9900\">6 ô</span> và gây Đồng Điệu lên đơn vị mang Liên Kết, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Liên Kết Ràng Buộc Lv.2</strong></td>\n<td>Khi có Tội Và Phạt, khi tấn công vô hiệu hiệu ứng cộng phần trăm Phòng thủ <span style=\"color: #ff9900\">150%</span> của mục tiêu; Hệ số sát thương của Lưỡi Dao Tội do Tội Và Phạt tung ra tăng lên <span style=\"color: #ff9900\">100%</span>, và khi tấn công bỏ qua <span style=\"color: #ff9900\">50%</span> Phòng thủ của mục tiêu; Lưỡi Dao Tội kích hoạt bởi sát thương Physical không giới hạn số lần, nhưng mỗi đơn vị mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>; Số lần tung Khiên Phạt tăng <span style=\"color: #ff9900\">1 lần</span>.</td>\n<td>Khi bắt đầu chiến đấu, chọn <span style=\"color: #ff9900\">1</span> T-Doll đồng minh loại Physical, gây Liên Kết lên họ; Khi đơn vị đồng minh gây sát thương Physical không thuộc loại đạn, kèm loại đạn của vũ khí bản thân đang dùng.<br>Khi bắt đầu chiến đấu, tung Tội Và Phạt. Khi kết thúc hiệp lớn sau khi dùng kỹ năng Quyết thắng Phán Quyết Pháo Ray, đơn vị mang Liên Kết nhận Tội Và Phạt, và tăng thuộc tính của nó giảm <span style=\"color: #ff9900\">50%</span>, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Tập Kích Tập Trung Lv.2</strong></td>\n<td style=\"text-align: center\">Thêm hiệu quả Đồng Điệu: khi tấn công, vô hiệu tối đa <span style=\"color: #ff9900\">100%</span> hiệu ứng giảm phần trăm Tấn công của bản thân.<br>Khi gây Đồng Điệu, gây Giảm sát thương II lên toàn bộ đơn vị đồng minh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong <span style=\"color: #ff9900\">bán kính 5 ô</span> xung quanh, hạ xuống ô đó, nhận Điềm Tĩnh, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Nếu quanh ô đáp có vật cản, hiệu quả Điềm Tĩnh tăng lên <span style=\"color: #ff9900\">40%</span> và gây Đồng Điệu lên đơn vị mang Liên Kết, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn; Gây Giảm sát thương II lên toàn bộ đơn vị đồng minh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Liên Kết Ràng Buộc Lv.2</strong></td>\n<td>Khi Lưỡi Dao Tội do Tội Và Phạt tung ra tấn công, gây Chuộc Tội lên mục tiêu, duy trì <span style=\"color: #ff9900\">3 hiệp</span>;<br>Sau khi dùng kỹ năng chủ động (không tính Liên Kết Ràng Buộc) hoặc đánh thường, đơn vị mang Liên Kết nhận Tội Và Phạt và đặt lại số lần tấn công của Lưỡi Dao Tội, duy trì đến hết hiệp lớn này; và Asteria nhận Tội Và Phạt chỉ có thể tung Khiên Phạt.</td>\n<td>Khi bắt đầu chiến đấu, chọn <span style=\"color: #ff9900\">1</span> T-Doll đồng minh loại Physical, gây Liên Kết lên họ; Khi đơn vị đồng minh gây sát thương Physical không thuộc loại đạn, kèm loại đạn của vũ khí bản thân đang dùng.<br>Khi bắt đầu chiến đấu, tung Tội Và Phạt. Sau khi dùng kỹ năng chủ động (không tính Liên Kết Ràng Buộc) hoặc đánh thường, đơn vị mang Liên Kết nhận Tội Và Phạt, và tăng thuộc tính của nó giảm <span style=\"color: #ff9900\">50%</span>, đồng thời đặt lại số lần tấn công của Lưỡi Dao Tội, duy trì đến hết hiệp lớn này. Asteria nhận Tội Và Phạt chỉ có thể tung Khiên Phạt.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Phán Quyết Pháo Ray Lv.3</strong></td>\n<td>Gây Giảm phòng thủ III lên mục tiêu, duy trì <span style=\"color: #ff9900\">3 hiệp</span>.<br>Khi Asteria nhận lại Tội Và Phạt, Tấn công trong hiệp này tăng <span style=\"color: #ff9900\">80%</span>.<br>Mỗi có <span style=\"color: #ff9900\">1 tầng</span> Chuộc Tội trên mục tiêu, hệ số sát thương của kỹ năng Quyết thắng Phán Quyết Pháo Ray của Asteria và Lưỡi Dao Tội do Tội Và Phạt của cô tung ra tăng <span style=\"color: #ff9900\">50%</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây Dấu Ấn Kẻ Minh Oan duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span> và Giảm phòng thủ III duy trì <span style=\"color: #ff9900\">8</span> hiệp lên toàn bộ kẻ địch trong vùng <span style=\"color: #ff9900\">2</span>×3 ô phía trước, đồng thời gây <span style=\"color: #ff9900\">300%</span> Tấn công sát thương Physical diện rộng bỏ qua vật cản. Khi tấn công, bỏ qua <span style=\"color: #ff9900\">200%</span> Phòng thủ của mục tiêu và làm vô hiệu mọi hiệu ứng cộng phần trăm Phòng thủ của mục tiêu.<br>Khi Asteria nhận lại Tội Và Phạt, Tấn công trong hiệp này tăng <span style=\"color: #ff9900\">80%</span>. Mỗi có <span style=\"color: #ff9900\">1 tầng</span> Chuộc Tội trên mục tiêu, hệ số sát thương của kỹ năng Quyết thắng Phán Quyết Pháo Ray của Asteria và Lưỡi Dao Tội do Tội Và Phạt của cô tung ra tăng <span style=\"color: #ff9900\">50%</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784538760898.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Contract Key · Ràng Buộc Thầm Lặng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1782457223030.png\" width=\"20\" height=\"20\"></sub> Sát thương Chí mạng 3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1782457242622.png\" width=\"20\" height=\"20\"></sub>&nbsp;Tấn công +3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1784538855830.png\" width=\"20\" height=\"20\"></sub> HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784538908551.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Hộ Vệ Vô Hình</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sát thương Physical do tấn công ngoài hiệp của mọi đơn vị đồng minh gây ra tăng <span style=\"color: #ff9900\">10%</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539253106.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Kẻ Minh Oan</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi gây Đồng Điệu, làm mới thời gian duy trì của mọi Dấu Ấn Kẻ Minh Oan trên toàn sân.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539201824.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Lãnh Địa Goliath</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi đơn vị đồng minh tấn công mục tiêu có Dấu Ấn Kẻ Minh Oan, nhận Tăng sát thương phản phòng, duy trì <span style=\"color: #ff9900\">3 hiệp</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539300229.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Lời Hứa Tái Ngộ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi đơn vị có Dấu Ấn Kẻ Minh Oan chết, gây Dấu Ấn Kẻ Minh Oan lên <span style=\"color: #ff9900\">1</span> đơn vị kẻ địch gần nhất, duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539329127.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Hướng Đến Kết Quả</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Mỗi khi Tội Và Phạt tấn công 1 kẻ địch mục tiêu khác nhau, sát thương gây ra tăng <span style=\"color: #ff9900\">5%</span>, tối đa tăng <span style=\"color: #ff9900\">30%</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539358875.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Con Đường Truy Tìm</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Kỹ năng Quyết thắng Phán Quyết Pháo Ray đổi thành gây sát thương Cận chiến, và sát thương lên đơn vị Paradeus tăng <span style=\"color: #ff9900\">80%</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539433312.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Common Key · Người Ngước Nhìn Trời Xanh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1784539489447.png\" width=\"20\" height=\"20\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Khi dùng kỹ năng Quyết thắng, sát thương gây ra trong hiệp này tăng <span style=\"color: #ff9900\">10%</span>.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hình thái hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp mở khóa</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Nhân tố hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu quả</strong></span></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">Support x5, Sentinel x2</td>\n<td style=\"text-align: center\">Khi đơn vị đồng minh gây sát thương Physical loại đạn, sát thương gây ra tăng 5%. Không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">Support x8, Sentinel x3</td>\n<td style=\"text-align: center\">Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">Phòng vệ x1, Support x9, Hỏa lực x4</td>\n<td style=\"text-align: center\">Sát thương Physical gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">Phòng vệ x2, Support x11, Hỏa lực x6</td>\n<td style=\"text-align: center\">Sát thương mọi đồng minh gây ra tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">Phòng vệ x2, Support x15, Hỏa lực x7</td>\n<td style=\"text-align: center\">Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">Phòng vệ x3, Support x18, Hỏa lực x8</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, tăng 3% ATK cho 2 đồng minh có ATK ban đầu cao nhất, không thể cộng dồn.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784284676902.png\"></td>\n<td>\n<h1><strong>La bàn sám hối &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10803\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng trường tấn công hiệu năng cao được cấp cho Asteria, lấy súng trường tự động Amalite kiểu 15 làm nguyên mẫu; sau khi kết hợp dữ liệu \"Tội\" và \"Phạt\", tầm bắn, độ chính xác và khả năng điều khiển đều được nâng lên cực hạn. Chỉ cần là hướng nòng súng chỉ tới, phán xét ắt sẽ giáng xuống.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; </span><span style=\"color: #ff6600\">Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=135494&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1784688052546.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=135477&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1784688111859.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=135230&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1784609518477.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=135337&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1784624073709.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<div>\n<p>&nbsp; &nbsp;Là thành viên của AR Team, cô điềm tĩnh, vững vàng, rất có trách nhiệm, vô cùng coi trọng đồng đội nhưng lại không giỏi bày tỏ tình cảm trực tiếp. Sau khi trải qua sự ra đi của M4 và Chỉ Huy, bản năng bảo vệ đồng đội và những người cô quan tâm ngày càng mạnh mẽ. Trong mắt người không quen, cô thường tỏ ra ít nói và khó gần. Làm việc chỉ chú trọng kết quả, dù quá trình phải hy sinh bản thân, miễn kết quả tốt thì cũng không sao. Trong thời gian một mình làm nhiệm vụ, cô gần như mất liên lạc với Chỉ Huy và các thành viên khác của AR Team; nhưng vào thời khắc then chốt nhất, để bảo vệ tất cả những gì mình coi trọng, cô một lần nữa trở lại đội ngũ.</p>\n<p>&nbsp; 「AR Team, Asteria chính thức trở về đội. Lần này xin hãy dõi theo tôi, nhìn rõ giá trị của tôi. \"</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784278714336.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784278720194.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784278739298.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784278739291.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784278739315.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784278739279.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784278739283.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784278739280.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784278739329.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784539938839.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539942864.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539961720.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539964028.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539967018.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539969255.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539971232.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539974066.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784539976166.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1791,
+      "title": "Thường ngày-01",
+      "text": "Chỉ huy, anh có từng nghĩ bản thân ở một thế giới khác sẽ ra sao không? Gì cơ……đã gặp rồi sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784540753560.wav"
+    },
+    {
+      "id": 1792,
+      "title": "Thường ngày-02",
+      "text": "Mười năm trôi qua, bây giờ mọi người kỳ vọng gì ở tôi nhỉ……thật muốn trò chuyện thật kỹ với họ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784540767873.wav"
+    },
+    {
+      "id": 1793,
+      "title": "Thường ngày-03",
+      "text": "Bên này gần như không thấy sao nào nhỉ……Tôi từng đến những nơi rất rất xa, bầu trời đêm ở đó rất đẹp, trên trời cũng thường có sao băng vụt qua……Tôi đã ước rất nhiều điều, trong đó có một điều giờ đã thành hiện thực.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784540833943.wav"
+    },
+    {
+      "id": 1794,
+      "title": "Thường ngày-04",
+      "text": "Hả? Tôi、tôi đâu có làm gì……chỉ là kiểm tra công tắc của kíp nổ thôi mà……lỡ lúc cần dùng mà không kích hoạt được thì hỏng, đúng không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784540855653.wav"
+    },
+    {
+      "id": 1795,
+      "title": "Thường ngày-05",
+      "text": "\"Dấu Ấn Kẻ Minh Oan\"……cái tên này có phải hơi lỗi thời không? Nhưng lại rất giống phong cách mà con nhóc 16 sẽ thích……thôi kệ, dù sao nhất thời cũng không nghĩ ra tên nào hợp, cứ không đổi vậy.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784540868047.wav"
+    },
+    {
+      "id": 1796,
+      "title": "Nâng cấp-01",
+      "text": "Nằm trong dự liệu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784540898568.wav"
+    },
+    {
+      "id": 1797,
+      "title": "Nâng cấp-02",
+      "text": "Còn mạnh hơn nữa sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784540911481.wav"
+    },
+    {
+      "id": 1798,
+      "title": "Nâng cấp-03",
+      "text": "Xin hãy dựa vào tôi nhiều hơn.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784540923290.wav"
+    },
+    {
+      "id": 1799,
+      "title": "Nâng cấp-04",
+      "text": "Cảm giác đã lâu……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784540935397.wav"
+    },
+    {
+      "id": 1800,
+      "title": "Nâng cấp-05",
+      "text": "Sức mạnh như vậy sẽ khiến anh yên tâm hơn chứ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784540947280.wav"
+    },
+    {
+      "id": 1801,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784540961220.wav"
+    },
+    {
+      "id": 1802,
+      "title": "Đăng nhập",
+      "text": "Chỉ huy, chuẩn bị xuất phát chưa? Nếu là nhiệm vụ quét sạch Paradeus, tôi có không ít kinh nghiệm dùng được đó.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784540979962.wav"
+    },
+    {
+      "id": 1803,
+      "title": "Tâm sự-01",
+      "text": "Anh có nhiều điều muốn hỏi tôi, đúng không? Cứ hỏi đi, tôi biết gì sẽ nói hết.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784540994625.wav"
+    },
+    {
+      "id": 1804,
+      "title": "Tâm sự-02",
+      "text": "Elmo vẫn ồn ào như trước……nhưng dù cộng tất cả mọi người lại, vẫn yên tĩnh hơn cái người suốt ngày hô \"đánh nhau\" với \"tháo linh kiện\", anh nói đúng không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541052842.wav"
+    },
+    {
+      "id": 1805,
+      "title": "Tâm sự-03",
+      "text": "Tôi luôn lần theo dấu chân thuộc về \"cô ấy\". Nhưng đi mãi đi mãi, lại đến bên anh. Chỉ huy, anh nói……đây có tính là một sự trùng hợp không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541066092.wav"
+    },
+    {
+      "id": 1806,
+      "title": "Tâm sự-04",
+      "text": "Anh cũng thấy con nhóc 16 đó đáng ghét đúng không? Lặng lẽ bỏ đi, rồi lại lặng lẽ xuất hiện……Hả? Tôi cũng vậy? Đ、đâu có! Tôi có để lại thư cho mọi người mà!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541080386.wav"
+    },
+    {
+      "id": 1807,
+      "title": "Tâm sự-05",
+      "text": "Tuy nói ra câu \"nhìn về phía trước\" nghe hơi lạnh lùng……nhưng ít nhất có thể nghiêm túc đối đãi hiện tại chứ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541093548.wav"
+    },
+    {
+      "id": 1808,
+      "title": "Tâm sự-06",
+      "text": "Dù chỉ còn mình tôi, cũng có thể bảo vệ Chỉ huy thật tốt……nhưng quả nhiên vẫn là đủ mặt mọi người thì đáng tin cậy hơn nhỉ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541106136.wav"
+    },
+    {
+      "id": 1809,
+      "title": "Tâm sự-07",
+      "text": "Tôi nhất định sẽ tìm M4 về……dù quá trình khó khăn đến đâu, tôi cũng sẽ làm. Chỉ huy, anh……có sẵn lòng đi cùng tôi không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541119438.wav"
+    },
+    {
+      "id": 1810,
+      "title": "Tâm sự-08",
+      "text": "Bây giờ tôi đã được anh công nhận chưa? C、cảm ơn anh……tôi thật sự rất vui……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541132335.wav"
+    },
+    {
+      "id": 1811,
+      "title": "Vào đội",
+      "text": "Cuối cùng cũng tới lượt tôi sao? Chỉ huy, rất vinh hạnh được lại sát cánh cùng anh. Xin hãy như trước đây, đừng do dự mà ra lệnh cho tôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541149886.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1198,
+      "title": "Ngữ khí-01",
+      "text": "Tới lượt tôi sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541222823.wav"
+    },
+    {
+      "id": 1199,
+      "title": "Ngữ khí-02",
+      "text": "Đã xác nhận số lượng địch.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541236385.wav"
+    },
+    {
+      "id": 1200,
+      "title": "Ngữ khí-03",
+      "text": "Xuất kích!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541251797.wav"
+    },
+    {
+      "id": 1201,
+      "title": "Ngữ khí-04",
+      "text": "Rõ!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541263010.wav"
+    },
+    {
+      "id": 1202,
+      "title": "Ngữ khí-05",
+      "text": "Tôi sẽ đạt được kỳ vọng của anh!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541276265.wav"
+    },
+    {
+      "id": 1203,
+      "title": "Ngữ khí-06",
+      "text": "Cứ giao cho tôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541288874.wav"
+    },
+    {
+      "id": 1204,
+      "title": "Ngữ khí-07",
+      "text": "Đã rõ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541300953.wav"
+    },
+    {
+      "id": 1205,
+      "title": "Ngữ khí-08",
+      "text": "Sẽ gặp được……sao……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541312989.wav"
+    },
+    {
+      "id": 1206,
+      "title": "Ngữ khí-09",
+      "text": "Cuối cùng phải dùng đến thứ đó sao……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541326093.wav"
+    },
+    {
+      "id": 1207,
+      "title": "Ngữ khí-10",
+      "text": "Hự……!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541339986.wav"
+    },
+    {
+      "id": 1208,
+      "title": "Kỹ năng-01",
+      "text": "Cơ hội!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541354482.wav"
+    },
+    {
+      "id": 1209,
+      "title": "Kỹ năng-02",
+      "text": "Ngắm trúng rồi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541371042.wav"
+    },
+    {
+      "id": 1210,
+      "title": "Kỹ năng-03",
+      "text": "Xem cái này đi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541393497.wav"
+    },
+    {
+      "id": 1211,
+      "title": "Kỹ năng-04",
+      "text": "Muốn cái này không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541406270.wav"
+    },
+    {
+      "id": 1212,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Tiễn ngươi lên trời!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541420972.wav"
+    },
+    {
+      "id": 1213,
+      "title": "Hạ gục",
+      "text": "Đòn chí mạng!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541437433.wav"
+    },
+    {
+      "id": 1214,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Tư cách đứng bên cạnh Chỉ huy, tôi tuyệt đối không nhường!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541450782.wav"
+    },
+    {
+      "id": 1215,
+      "title": "Kết thúc trận-Thua",
+      "text": "Xin lỗi, tôi sẽ tự kiểm điểm.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1784541465085.wav"
+    }
+  ]
+}

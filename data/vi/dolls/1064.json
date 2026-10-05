@@ -1,0 +1,384 @@
+{
+  "id": 1064,
+  "name": "Florence",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044726873.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 6,
+  "role_id": 3,
+  "team_id": 5,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Support",
+  "attr": "Hydro",
+  "team": "Elmo - Combined Echelon",
+  "weapon": "Pistolet 15",
+  "model": "SSD-62D",
+  "ammo_model": "HG",
+  "desc": "T-Doll y tế đam mê theo đuổi kích thích và khoái cảm, tính cách thẳng thắn lại giỏi quyến rũ. Vừa có y thuật cao siêu, vừa nhiệt huyết với việc pha chế thuốc, chỉ có điều do tính cách, sự nhiệt huyết này thường khiến người ta khó lòng chịu nổi. \"Viên thuốc này, ống tiêm này, hay hình phạt của tôi, bạn muốn chọn cái nào đây? Cái nào cũng sẽ rất dễ chịu đấy nhé. ”",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/芙洛伦pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/芙洛伦移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013632368.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013646231.png"
+  },
+  "skins": [
+    {
+      "id": 12,
+      "name": "Bánh Khoai Mài Kỳ Diệu",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/芙洛伦pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/芙洛伦移动.png"
+    },
+    {
+      "id": 65,
+      "name": "Phi Yến Diễm Lệ",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1770081404447.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1770081430131.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215477509.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215489486.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215499695.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Trần Dương</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>M・A・O</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=68\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>696</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>553</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>2013</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo&nbsp;<span style=\"color: #8060c0\">Corrosion</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Thường·Tiêm Cưỡng Chế",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546010121.png\"></p>\n</td>\n<td>\n<p>Tiêm Cưỡng Chế Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764402153040.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây sát thương Physical bằng <span style=\"color: #ff9900\">80%</span> Tấn công.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Chăm Sóc Đặc Biệt",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546032483.png\"></p>\n</td>\n<td>\n<p>Chăm Sóc Đặc Biệt Lv.1</p>\n<p>Chủ động / Hồi máu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764402227867.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, xua tan <span style=\"color: #ff9900\">2</span> debuff cho nó và mọi đồng minh trong <span style=\"color: #ff9900\">bán kính 2 ô</span> quanh đó, đồng thời hồi HP bằng <span style=\"color: #ff9900\">120%</span> Tấn công.</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Kích Hoạt Khoái Cảm",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546050187.png\"></p>\n</td>\n<td>\n<p>Kích Hoạt Khoái Cảm Lv.1</p>\n<p>Chủ động/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764402296241.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 đồng minh trong bán kính 6 ô xung quanh, gỡ Khiêu khích, né tránh của họ, gây Chất Kích Thích duy trì 1 hiệp lớn, đồng thời trừ HP bằng 20% HP ban đầu.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết Thắng·Ảo Giác Yêu Đau",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546072198.png\"></p>\n</td>\n<td>\n<p>Ảo Giác Yêu Đau Lv.1</p>\n<p>Quyết thắng / Diện rộng / Triệu hồi / Khống chế</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764402381606.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 hướng xung quanh, gây Chất Rối Loạn duy trì 2 hiệp và Dụ Dẫn duy trì 1 hiệp lên mọi kẻ địch trong 3×5 ô phía trước, đồng thời gây sát thương Hydro diện rộng bằng 80% Tấn công. Sau kỹ năng, bản thân nhận 6 điểm Infection Index, đồng thời dịch chuyển Alios đến gần bản thân. Nếu trên sân không có Alios, sau kỹ năng triệu hồi một Alios.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Chuẩn Bị Trước Phẫu Thuật",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546107378.png\"></p>\n</td>\n<td>\n<p>Chuẩn Bị Trước Phẫu Thuật Lv.1</p>\n<p>Bị động/Triệu hồi</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764402446390.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu chiến đấu, triệu hồi Alios gần bản thân; khi bắt đầu hiệp phe ta, tiêu hao 3 điểm Infection Index, khi Infection Index không đủ, Alios biến mất. Khi kết thúc hành động, gỡ Khiêu khích, né tránh, Dụ Dẫn, choáng của Alios.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Chuẩn Bị Trước Phẫu Thuật Lv.2</strong></td>\n<td style=\"text-align: center\">Khi bắt đầu hiệp phe ta, Infection Index tiêu hao giảm <span style=\"color: #ff9900\">1 điểm</span>. Số lần phản công của kỹ năng bị động Trợ Thủ Số Một của Alios tăng <span style=\"color: #ff9900\">2 lần</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, triệu hồi Alios gần bản thân; khi bắt đầu hiệp phe ta, tiêu hao <span style=\"color: #ff9900\">2 điểm</span> Infection Index, khi Infection Index không đủ, Alios biến mất. Khi kết thúc hành động, gỡ Khiêu khích, né tránh, Dụ Dẫn, choáng của Alios.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Ảo Giác Yêu Đau Lv.2</strong></td>\n<td style=\"text-align: center\">Sửa hiệu quả Chất Rối Loạn: sát thương Hydro nhận vào tăng thêm lên <span style=\"color: #ff9900\">15%</span>; Thêm hiệu ứng: khi bắt đầu hiệp cũng gây sát thương Physical lên mọi đơn vị xung quanh.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây Chất Rối Loạn duy trì <span style=\"color: #ff9900\">2 hiệp</span> và Dụ Dẫn duy trì <span style=\"color: #ff9900\">1 hiệp</span> lên mọi kẻ địch trong <span style=\"color: #ff9900\">3</span>×5 ô phía trước, đồng thời gây sát thương Hydro diện rộng bằng <span style=\"color: #ff9900\">80%</span> Tấn công. Sau kỹ năng, bản thân nhận <span style=\"color: #ff9900\">6 điểm</span> Infection Index, đồng thời dịch chuyển Alios đến gần bản thân. Nếu trên sân không có Alios, sau kỹ năng triệu hồi một Alios.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Kích Hoạt Khoái Cảm Lv.2</strong></td>\n<td style=\"text-align: center\">Chất Kích Thích tăng thời gian duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>, đồng thời thêm hiệu ứng: khi kết thúc hành động, nếu HP thấp hơn <span style=\"color: #ff9900\">30%</span>, hồi HP bằng <span style=\"color: #ff9900\">100%</span> Tấn công của Florence, có hiệu lực <span style=\"color: #ff9900\">1 lần</span> trong thời gian hiệu ứng duy trì.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> đồng minh trong bán kính <span style=\"color: #ff9900\">6 ô</span> xung quanh, gỡ Khiêu khích, né tránh của họ, gây Chất Kích Thích duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>, đồng thời trừ HP bằng <span style=\"color: #ff9900\">20%</span> HP ban đầu.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Ảo Giác Yêu Đau Lv.3</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng <span style=\"color: #ff9900\">20%</span>. Nếu Alios tồn tại, hồi HP bằng <span style=\"color: #ff9900\">100%</span> Tấn công của Florence cho nó và gây Adrenaline. Duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây Chất Rối Loạn duy trì <span style=\"color: #ff9900\">2 hiệp</span> và Dụ Dẫn duy trì <span style=\"color: #ff9900\">1 hiệp</span> lên mọi kẻ địch trong <span style=\"color: #ff9900\">3</span>×5 ô phía trước, đồng thời gây sát thương Hydro diện rộng bằng <span style=\"color: #ff9900\">100%</span> Tấn công. Sau kỹ năng, bản thân nhận <span style=\"color: #ff9900\">6 điểm</span> Infection Index, đồng thời dịch chuyển Alios đến gần bản thân. Nếu Alios tồn tại, hồi HP bằng <span style=\"color: #ff9900\">100%</span> Tấn công của Florence cho nó và gây Adrenaline. Duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>. Nếu trên sân không có Alios, sau kỹ năng triệu hồi một Alios.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Kích Hoạt Khoái Cảm Lv.3</strong></td>\n<td style=\"text-align: center\">Hiệu ứng được gỡ thêm Dụ Dẫn, choáng. Kỹ năng có thể đồng thời có hiệu lực lên Alios.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> đồng minh trong bán kính <span style=\"color: #ff9900\">6 ô</span> xung quanh, gỡ Khiêu khích, né tránh, Dụ Dẫn, choáng của họ, gây Chất Kích Thích duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>, đồng thời trừ HP bằng <span style=\"color: #ff9900\">20%</span> HP ban đầu. Có thể đồng thời có hiệu lực lên Alios.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Chuẩn Bị Trước Phẫu Thuật Lv.3</strong></td>\n<td style=\"text-align: center\">Sát thương Alios nhận vào giảm <span style=\"color: #ff9900\">30%</span>. Sửa hiệu quả Run Rẩy Tuyệt Vọng: Tấn công tăng thêm lên <span style=\"color: #ff9900\">35%</span>, hệ số sát thương phản công cũng nhân đôi, đồng thời sau khi gây sát thương, hồi HP bằng <span style=\"color: #ff9900\">30%</span> sát thương lần này của bản thân.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, triệu hồi Alios gần bản thân; khi bắt đầu hiệp phe ta, tiêu hao <span style=\"color: #ff9900\">2 điểm</span> Infection Index, khi Infection Index không đủ, Alios biến mất. Khi kết thúc hành động, gỡ Khiêu khích, né tránh, Dụ Dẫn, choáng của Alios.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546125336.png\"></td>\n<td>\n<h2>Contract Key·Đơn Thuốc Trêu Ghẹo</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764402571077.png\" width=\"20\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764402585641.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546146605.png\"></td>\n<td>\n<h2>Fixed Key·Kích Thích Chí Mạng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546161447.png\"></td>\n<td>\n<h2>Fixed Key·Tự Mình Vui Thích</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng kỹ năng chủ động, hồi HP bằng 80% Tấn công của bản thân cho bản thân và Alios</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546175676.png\"></td>\n<td>\n<h2>Fixed Key·Độ Nhạy Cảm Tăng Lên</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi bản thân và Alios tấn công, gây Giảm phòng thủ II lên kẻ địch, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546189719.png\"></td>\n<td>\n<h2>Fixed Key·Phần Thưởng Phản Công</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi Alios phản công, nhận Tăng tấn công II, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546202798.png\"></td>\n<td>\n<h2>Fixed Key·Dục Vọng Trói Buộc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Kỹ năng Quyết thắng sẽ kéo mọi mục tiêu về phía bản thân 3 ô.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546216249.png\"></td>\n<td>\n<h2>Fixed Key·Cám Dỗ Ngọt Ngào</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Kỹ năng chủ động Chăm Sóc Đặc Biệt không còn hồi máu và xua tan, đổi thành gây sát thương Physical diện rộng bằng 30% Tấn công lên mọi mục tiêu trong phạm vi (trừ bản thân).</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546229127.png\"></td>\n<td>\n<h2>Common Key·Mệnh Lệnh Của Chủ Nhân</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764402893640.png\" width=\"20\"></sub>HP +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Tấn công của vật triệu hồi thực thể của bản thân tăng 7%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1770081523800.png\"></td>\n<td>\n<h2>Expansion Key·Nhà Thám Hiểm Kích Thích</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng kỹ năng chủ động Kích Hoạt Khoái Cảm, tung Kích Hoạt Khoái Cảm lên mọi vật triệu hồi thực thể của đồng minh. Khi đồng minh nhận Chất Kích Thích, Alios nhận 1 tầng Hưng Phấn Cuồng Loạn, duy trì 3 hiệp, cộng dồn tối đa 6 tầng. Sau khi đồng minh có Chất Kích Thích được hồi máu, gây Thấm Nhuần I lên họ, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương của mọi vật triệu hồi thực thể của đồng minh trên sân tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Support*6 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Support*7 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Hydro gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*9 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra của toàn bộ đồng minh tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*13 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*9 Support*15 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi bắt đầu chiến đấu, 2 đồng minh có Tấn công ban đầu cao nhất nhận Tấn công tăng 3%, không cộng dồn.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763894984308.png\"></td>\n<td>\n<h1><strong>Iaso &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10643\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng ngắn/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng lục hiệu năng cao được cấp cho Florence, lấy súng lục tự động kiểu 15 làm nguyên mẫu, tăng tốc độ bắn mà vẫn đảm bảo an toàn và tiện dụng, cực kỳ mạnh mẽ. Nhờ có nó, Florence mới có thể phát huy toàn bộ thực lực.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=72057&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1748338071336.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=72610&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1748920087125.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=72064&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1748338175618.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p> &nbsp; T-Doll y tế đam mê theo đuổi kích thích và khoái cảm, tính cách thẳng thắn lại giỏi quyến rũ. Vừa có y thuật cao siêu, vừa nhiệt huyết với việc pha chế thuốc, chỉ có điều do tính cách, sự nhiệt huyết này thường khiến người ta khó lòng chịu nổi.</p>\n<p><br>&nbsp; \"Viên thuốc này, ống tiêm này, hay hình phạt của tôi, bạn muốn chọn cái nào đây? Cái nào cũng sẽ rất dễ chịu đấy nhé. ”</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778222535113.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222535114.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222534996.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778222583644.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222583637.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222583643.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222583710.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222621590.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222621827.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222621826.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222648894.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222648900.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1747995339488.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1747995351947.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1747995362481.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1747995382912.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1747995395178.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1747995411207.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1747995442376.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1747995479993.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1747995499471.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779164839977.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779164868794.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779164886922.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779164925553.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779164902926.png\" style=\"max-width: 92px\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779164939279.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779164443273.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779164457623.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 347,
+      "title": "Thường ngày-01",
+      "text": "Ôi chao, Chỉ huy, có chỗ nào khó chịu không? Hay để tôi kiểm tra cho anh/chị nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Daily_001.wav"
+    },
+    {
+      "id": 348,
+      "title": "Thường ngày-02",
+      "text": "Tôi hiểu mà! Thời gian nhàm chán luôn khó chịu đựng, Chỉ huy, hay là thử ống thuốc trong tay tôi đi, chỉ cần tiêm vào cơ thể anh/chị…… anh/chị sẽ dễ chịu hơn nhiều đấy?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Daily_002.wav"
+    },
+    {
+      "id": 349,
+      "title": "Thường ngày-03",
+      "text": "Khi pha chế thuốc, luôn có vô vàn khả năng chưa biết. Chính là cảm giác này…… A…… thật khiến người ta đắm chìm.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Daily_003.wav"
+    },
+    {
+      "id": 350,
+      "title": "Thường ngày-04",
+      "text": "Uwa! Chỉ huy, đột ngột lại gần như vậy làm tôi giật mình đấy, haha.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Daily_004.wav"
+    },
+    {
+      "id": 351,
+      "title": "Thường ngày-05",
+      "text": "Chỉ huy, lần sau lại cùng đi công viên giải trí nhé! Tôi còn muốn trải nghiệm thêm lần nữa, cùng Chỉ huy lao hết tốc độ lên điểm cao nhất, hết lần này đến lần khác!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Daily_005.wav"
+    },
+    {
+      "id": 352,
+      "title": "Nâng cấp-01",
+      "text": "A…… hơi ngứa nhỉ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Up_001.wav"
+    },
+    {
+      "id": 353,
+      "title": "Nâng cấp-02",
+      "text": "Tôi thích cảm giác này, tiếp đi tiếp đi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Up_002.wav"
+    },
+    {
+      "id": 354,
+      "title": "Nâng cấp-03",
+      "text": "Sướng thật……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Up_003.wav"
+    },
+    {
+      "id": 355,
+      "title": "Nâng cấp-04",
+      "text": "Tuyệt quá, ahaha, tôi hưng phấn lên rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Up_004.wav"
+    },
+    {
+      "id": 356,
+      "title": "Nâng cấp-05",
+      "text": "A…… Tiếp theo, thử thách thứ gì kích thích hơn nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Up_005.wav"
+    },
+    {
+      "id": 357,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Title_001.wav"
+    },
+    {
+      "id": 358,
+      "title": "Đăng nhập",
+      "text": "A, Chỉ huy! Tôi nghĩ ra một cách chơi mới, cùng thử không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Login_001.wav"
+    },
+    {
+      "id": 359,
+      "title": "Tâm sự-01",
+      "text": "Hửm? Chỉ huy, anh/chị khá hứng thú với tôi nhỉ~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 360,
+      "title": "Tâm sự-02",
+      "text": "Quả nhiên, Chỉ huy luôn mang lại cho tôi những bất ngờ không tưởng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 361,
+      "title": "Tâm sự-03",
+      "text": "Ế? Chỉ huy đều nghe nói rồi? Haha, xem ra tôi khá nổi tiếng nhỉ. Đúng là có một phương pháp trị liệu khiến bệnh nhân nghiện đấy, Chỉ huy cũng muốn thử không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 362,
+      "title": "Tâm sự-04",
+      "text": "Thí nghiệm tối nay đã chuẩn bị xong rồi đấy, Chỉ huy, anh/chị lộ ra vẻ mặt thế này chỉ khiến tôi càng muốn tiếp tục thôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 363,
+      "title": "Tâm sự-05",
+      "text": "Xin lỗi! Chỉ huy, lần trước làm anh/chị ngất đi là lỗi của tôi! Anh/chị sẽ phạt tôi chứ? Tôi sẵn lòng—— chịu mọi hình phạt.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 364,
+      "title": "Tâm sự-06",
+      "text": "Giờ thì cuối cùng anh/chị cũng tin rồi, thuốc thử tôi dùng đều vô hại. Còn những tác dụng phụ nho nhỏ kia, chỉ là gia vị bất ngờ thôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 365,
+      "title": "Tâm sự-07",
+      "text": "Không gì khiến tôi hưng phấn hơn được ở bên cạnh Chỉ huy, haha, vẻ mặt hiện giờ của anh/chị làm tôi thèm ăn quá, Chỉ huy~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 366,
+      "title": "Tâm sự-08",
+      "text": "Đồng ý với tôi nhé, Chỉ huy? Mãi mãi chơi những trò thế này với tôi…… Nếu không đồng ý—— chúng ta vẫn đang trong thí nghiệm nhỉ? Tay tôi đâu dễ dừng lại như vậy đâu?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 368,
+      "title": "Vào đội",
+      "text": "Hello, Chỉ huy! Florence đến báo danh, tôi sẽ mang đến cho anh/chị trải nghiệm kích thích và sung sướng nhất, nên, hưng phấn thêm chút nữa nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 214,
+      "title": "Ngữ khí-01",
+      "text": "Chơi gì đó không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 215,
+      "title": "Ngữ khí-02",
+      "text": "Trò chơi trừng phạt, sắp bắt đầu!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 216,
+      "title": "Ngữ khí-03",
+      "text": "Tôi lên đây!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 217,
+      "title": "Ngữ khí-04",
+      "text": "Chọn tôi nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 218,
+      "title": "Ngữ khí-05",
+      "text": "Ồ, đến rồi đến rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 219,
+      "title": "Ngữ khí-06",
+      "text": "Còn muốn nhịn nữa sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 220,
+      "title": "Ngữ khí-07",
+      "text": "Tôi không đợi nổi nữa.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 221,
+      "title": "Ngữ khí-08",
+      "text": "Chán……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 222,
+      "title": "Ngữ khí-09",
+      "text": "Cảm giác không tệ……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 223,
+      "title": "Ngữ khí-10",
+      "text": "Ahaha……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Series_Tone_Negative_003.wav"
+    },
+    {
+      "id": 224,
+      "title": "Kỹ năng-01",
+      "text": "Thử chút kích thích nho nhỏ nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Skill_001.wav"
+    },
+    {
+      "id": 225,
+      "title": "Kỹ năng-02",
+      "text": "Đừng đắm chìm quá nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Skill_002.wav"
+    },
+    {
+      "id": 226,
+      "title": "Kỹ năng-03",
+      "text": "Là thuốc đặc chế, nhớ chú ý liều lượng nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Hit_001.wav"
+    },
+    {
+      "id": 231,
+      "title": "Kỹ năng-04",
+      "text": "Chỉ là chút tác dụng phụ thôi mà.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 230,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Tiêm—— hết vào rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 227,
+      "title": "Hạ gục",
+      "text": "Xong rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Kill_001.wav"
+    },
+    {
+      "id": 228,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Kết quả đương nhiên, có điều vẫn hơi thiếu kích thích nhỉ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Win_001.wav"
+    },
+    {
+      "id": 229,
+      "title": "Kết thúc trận-Thua",
+      "text": "Thế này mới có thử thách chứ, Chỉ huy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FlorenceCV/VO_Florence_Single_Lose_001.wav"
+    }
+  ]
+}

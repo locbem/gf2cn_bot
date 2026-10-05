@@ -1,0 +1,382 @@
+{
+  "id": 1001,
+  "name": "Krolik",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045428362.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 2,
+  "role_id": 2,
+  "team_id": 7,
+  "rarity_level": 4,
+  "rarity": "T-Doll Elite",
+  "role": "Vanguard",
+  "attr": "Burn",
+  "team": "Groza Squad",
+  "weapon": "Thỏ Rừng",
+  "model": "SSD-62D",
+  "ammo_model": "Blade",
+  "desc": "Tính cách hơi nóng nảy, chẳng mấy quan tâm đến những chuyện không liên quan đến bản thân, nhưng trách nhiệm thì không chê vào đâu được. Ngay cả nhiệm vụ hoàn toàn không thích như “làm phiên dịch riêng cho Nemesis”, cô cũng sẽ tận tâm hoàn thành.",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1765955108417.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/克罗丽科移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014950230.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014959566.png"
+  },
+  "skins": [
+    {
+      "id": 25,
+      "name": "Thỏ Phóng Như Bay",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/克罗丽科pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/克罗丽科移动.png"
+    },
+    {
+      "id": 58,
+      "name": "Đồ huấn luyện của Krolik",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1765970698802.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1765970720280.png"
+    }
+  ],
+  "gifs": [],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">CV tiếng Trung</td>\n<td style=\"text-align: center\">Chi Mao</td>\n</tr>\n<tr style=\"text-align: center\">\n<td>CV tiếng Nhật</td>\n<td>Ohara Sayaka</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>618</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>8</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>463</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1397</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo <span style=\"color: #cc99ff\">Corrosion</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Chém Nhanh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784543435488.png\"></p>\n</td>\n<td>\n<p>Chém Nhanh Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu/Cận chiến</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764505390104.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn 1 kẻ địch trong bán kính 1 ô xung quanh, gây 80% sát thương Physical dựa trên Tấn công.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định：1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Xoay Nghiền",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543557337.png\"></p>\n</td>\n<td>\n<p>Xoay Nghiền Lv.1</p>\n<p>Chủ động/diện rộng/Cận chiến</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764505447275.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong bán kính 1 ô xung quanh, gây 120% sát thương Physical cận chiến diện rộng lên mục tiêu và toàn bộ kẻ địch trong phạm vi 3×3 ô xung quanh, đồng thời nhận 1 điểm Infection Index. Sau khi tấn công, nếu trong bán kính 3 ô quanh bản thân không có đồng minh khác thì nhận 5 ô Thêm chỉ lệnh di chuyển.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định：1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Chém Tôi Luyện",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543571051.png\"></p>\n</td>\n<td>\n<p>Chém Tôi Luyện Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Cận chiến/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764505506975.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong bán kính 1 ô xung quanh, áp dụng Overflow Fire duy trì 2 hiệp, gây 150% sát thương Burn cận chiến dựa trên Tấn công, đồng thời nhận 2 điểm Infection Index; sau khi tấn công quay về vị trí trước khi hành động.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định：2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Chuỗi Sát Lục",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543587514.png\"></p>\n</td>\n<td>\n<p>Chuỗi Sát Lục Lv.1</p>\n<p>Quyết thắng/Đơn mục tiêu/Cận chiến</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764505565186.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 hướng xung quanh, đáp xuống ô xa nhất trong 7 ô theo hướng đó, gây 130% sát thương Burn cận chiến lên kẻ địch đầu tiên trên đường đi; nếu mục tiêu đang có Overflow Fire thì bỏ qua giảm sát thương từ vật cản và nhận 5 ô Thêm chỉ lệnh di chuyển.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection：4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Tàn Lửa",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543606905.png\"></p>\n</td>\n<td>\n<p>Tàn Lửa Lv.1</p>\n<p>Bị động/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764505618128.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi tấn công mục tiêu đang có Overflow Fire, sát thương gây ra tăng 15%; khi kết thúc hành động, áp dụng Overflow Fire duy trì 2 hiệp lên 2 kẻ địch gần nhất trong bán kính 5 ô quanh bản thân.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Xoay Nghiền Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu mục tiêu đang ở trạng thái Sụp đổ ổn định, bỏ qua 30% Phòng thủ của mục tiêu.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong bán kính 1 ô xung quanh, gây 120% sát thương Physical cận chiến diện rộng lên mục tiêu và toàn bộ kẻ địch trong phạm vi 3×3 ô xung quanh, đồng thời nhận 1 điểm Infection Index. Nếu mục tiêu đang ở trạng thái Sụp đổ ổn định thì bỏ qua 30% Phòng thủ. Sau khi tấn công, nếu trong bán kính 3 ô quanh bản thân không có đồng minh khác thì nhận 5 ô Thêm chỉ lệnh di chuyển.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Chém Tôi Luyện Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng 10%.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong bán kính 1 ô xung quanh, áp dụng Overflow Fire duy trì 2 hiệp, gây 160% sát thương Burn cận chiến dựa trên Tấn công, đồng thời nhận 2 điểm Infection Index; sau khi tấn công quay về vị trí trước khi hành động.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Chuỗi Sát Lục Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu gây Hạ gục, nhận 2 điểm Infection Index.</td>\n<td style=\"text-align: center\">Chọn 1 hướng xung quanh, đáp xuống ô xa nhất trong 7 ô theo hướng đó, gây 130% sát thương Burn cận chiến lên kẻ địch đầu tiên trên đường đi; nếu mục tiêu đang có Overflow Fire thì bỏ qua giảm sát thương từ vật cản và nhận 5 ô Thêm chỉ lệnh di chuyển. Nếu gây Hạ gục thì nhận 2 điểm Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Tàn Lửa Lv.2</strong></td>\n<td style=\"text-align: center\">Phạm vi tác dụng tăng 2 ô.</td>\n<td style=\"text-align: center\">Khi tấn công mục tiêu đang có Overflow Fire, sát thương gây ra tăng 15%; khi kết thúc hành động, áp dụng Overflow Fire duy trì 2 hiệp lên 2 kẻ địch gần nhất trong bán kính 7 ô quanh bản thân.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Chuỗi Sát Lục Lv.3</strong></td>\n<td style=\"text-align: center\">Nếu mục tiêu đang có Overflow Fire, tỉ lệ Chí mạng đối với mục tiêu tăng 100%.</td>\n<td style=\"text-align: center\">Chọn 1 hướng xung quanh, đáp xuống ô xa nhất trong 7 ô theo hướng đó, gây 130% sát thương Burn cận chiến lên kẻ địch đầu tiên trên đường đi; nếu mục tiêu đang có Overflow Fire thì bỏ qua giảm sát thương từ vật cản, tỉ lệ Chí mạng tăng 100% và nhận 5 ô Thêm chỉ lệnh di chuyển. Nếu gây Hạ gục thì nhận 2 điểm Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Tàn Lửa Lv.3</strong></td>\n<td style=\"text-align: center\">Khi tấn công mục tiêu đang có Overflow Fire, sát thương Chí mạng tăng 20%.</td>\n<td style=\"text-align: center\">Khi tấn công mục tiêu đang có Overflow Fire, sát thương gây ra tăng 15%, sát thương Chí mạng tăng 20%; khi kết thúc hành động, áp dụng Overflow Fire duy trì 2 hiệp lên 2 kẻ địch gần nhất trong bán kính 7 ô quanh bản thân.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543622878.png\"></td>\n<td>\n<h2>Contract Key·Bảo Hộ Nóng Bỏng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764396747429.png\" width=\"20\" height=\"20\"></sub>Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764505704580.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>&nbsp;<span style=\"color: #ff6600\">▶ Đạt cấp Affinity 5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543660024.png\"></td>\n<td>\n<h2>Fixed Key·Khoảnh Khắc Tập Trung</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Tiêu hao Infection của kỹ năng chủ động Chuỗi Sát Lục giảm 1 điểm.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543673902.png\"></td>\n<td>\n<h2>Fixed Key·Săn Mồi Hung Hãn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu kỹ năng chủ động Xoay Nghiền chỉ trúng 1 mục tiêu, sát thương gây ra tăng 30%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543687808.png\"></td>\n<td>\n<h2>Fixed Key·Ngọn Lửa Phẫn Nộ Rực Cháy</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu trong bán kính 3 ô quanh bản thân không có đồng minh khác, sát thương gây ra tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543701805.png\"></td>\n<td>\n<h2>Fixed Key·Kẻ Thách Thức Kiêu Hãnh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu dùng kỹ năng chủ động Chém Tôi Luyện gây Hạ gục, thời gian hồi chiêu của kỹ năng này giảm 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543714975.png\"></td>\n<td>\n<h2>Fixed Key·Bản Năng Truy Kích</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu hành động, nếu trên sân tồn tại kẻ địch đang có Overflow Fire, nhận Hỏa Lực Tấn Công II, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543737594.png\"></td>\n<td>\n<h2>Fixed Key·Tích Thế Ẩn Mình</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi tấn công, nếu đã di chuyển từ 3 ô trở lên, tỉ lệ Chí mạng của bản thân tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543752454.png\"></td>\n<td>\n<h2>Common Key·Mỹ Học Bạo Lực</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764505920045.png\" width=\"20\"></sub>Chí mạng 3%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Nếu bản thân đang có Buff thuộc hệ Burn, miễn nhiễm Coagulation và Stiff Cold, đồng thời sát thương gây ra tăng 5%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543770801.png\"></td>\n<td>\n<h2>Expansion Key·Thỏ Tập Kích Trời Xanh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi tấn công, mỗi di chuyển 1 ô, tỉ lệ Chí mạng và sát thương Chí mạng của lần tấn công này tăng 5%, tối đa tăng 15%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*5 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có debuff loại Burn tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*7 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*8 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Burn gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*11 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có HP từ 50% trở xuống tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*15 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*18 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây lên đơn vị kẻ địch trong bán kính 3 ô quanh bản thân tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763995431313.png\"></td>\n<td>\n<h1><strong>Thỏ Sừng Đăng Quang &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; </strong><strong><a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10005\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Blade/Cận chiến</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Vũ khí cận chiến hiệu suất cao, uy lực mạnh mẽ, ngoại hình mang đậm tính nghệ thuật. Những trận chiến dùng nó chắc chắn sẽ thêm phần mãn nhãn.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; Nhật ký viễn hành</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=252&amp;hash_flag=2\">&nbsp; <img style=\"display: block; margin: 0 auto\" src=\"https://community.cdn.sunborngame.com/prod/image/1717560948079.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; Tính cách hơi nóng nảy, chẳng mấy quan tâm đến những chuyện không liên quan đến bản thân, nhưng trách nhiệm thì không chê vào đâu được. Ngay cả nhiệm vụ hoàn toàn không thích như “làm phiên dịch riêng cho Nemesis”, cô cũng sẽ tận tâm hoàn thành.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778316078342.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316078593.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316104175.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778316011841.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778315852886.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778315998924.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786086986398.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778315977278.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778315977150.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316035520.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/生气.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727090981689.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727090992805.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091003173.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091013059.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091026672.png\" style=\"max-width: 150px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 500,
+      "title": "Thường ngày-01",
+      "text": "Hừ, chiến đấu thì phải lao thẳng lên, núp sau bắn lén thì tính là gì?!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Daily_005.wav"
+    },
+    {
+      "id": 501,
+      "title": "Thường ngày-02",
+      "text": "——“Hôm nay bắn khá chuẩn, loại dầu bôi này giữ lại được.” Nemesis nói vậy. Này này Chỉ Huy, cái này cũng cần dịch à?!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Daily_006.wav"
+    },
+    {
+      "id": 502,
+      "title": "Thường ngày-03",
+      "text": "Gì——! Đây, đây không phải tai thỏ!……Tch, hỏi gì hỏi, nhiệm vụ làm xong chưa!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Daily_007.wav"
+    },
+    {
+      "id": 1568,
+      "title": "Thường ngày-04",
+      "text": "Peritya……hừ, tôi không quên như cô ấy! Sớm muộn gì tôi cũng sẽ——sẽ——hừ!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766215571330.wav"
+    },
+    {
+      "id": 504,
+      "title": "Thường ngày-05",
+      "text": "Nhiệm vụ hoàn thành rồi, Chỉ Huy. Tiếp theo làm gì?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1767077977965.wav"
+    },
+    {
+      "id": 506,
+      "title": "Nâng cấp-01",
+      "text": "Tch, cảm ơn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Up_001.wav"
+    },
+    {
+      "id": 507,
+      "title": "Nâng cấp-02",
+      "text": "Ồ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Up_002.wav"
+    },
+    {
+      "id": 1569,
+      "title": "Nâng cấp-03",
+      "text": "Hừ, còn chưa đủ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766215697407.wav"
+    },
+    {
+      "id": 509,
+      "title": "Nâng cấp-04",
+      "text": "Ồ——ồ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Up_004.wav"
+    },
+    {
+      "id": 510,
+      "title": "Nâng cấp-05",
+      "text": "……Mạnh hơn nữa.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Up_005.wav"
+    },
+    {
+      "id": 514,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Title_001.wav"
+    },
+    {
+      "id": 515,
+      "title": "Đăng nhập",
+      "text": "Á á? Ồ, Chỉ Huy à, hôm nay đến muộn thế!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Login_001.wav"
+    },
+    {
+      "id": 517,
+      "title": "Tâm sự-01",
+      "text": "……Đây không phải tai thỏ, đã bảo là thiết bị chiến đấu cần thiết rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 519,
+      "title": "Tâm sự-02",
+      "text": "Hả? Tôi yên lặng thế này hiếm lắm à? Tôi cũng có chuyện cần nghĩ kỹ! Tch, nhưng có cậu ở đây cũng không tệ, miễn là đừng nói gì.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 520,
+      "title": "Tâm sự-03",
+      "text": "Lần trước cậu không phải rất bực với mấy thằng chắn đường đó sao? Tôi đã bảo dưỡng dao kỹ rồi, chúng dám đến nữa, tôi sẽ xử hết!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 521,
+      "title": "Tâm sự-04",
+      "text": "Mệt? Mệt thì đi ngủ! Còn đứng đó làm gì, không đi được nữa à? Để tôi đưa cậu đi nghỉ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 522,
+      "title": "Tâm sự-05",
+      "text": "Cái tai này hình như cũng không tệ……ừm……cái này cũng……Chỉ-Chỉ-Chỉ Huy?! Tôi chỉ là——chỉ đang tìm linh kiện dự phòng thôi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 524,
+      "title": "Tâm sự-06",
+      "text": "Sách cổ tích mới? Cho tôi? Đem cái này đi dỗ Vepley đi! Gì, đã để trong phòng nghỉ của tôi rồi? Tch, lần này thì——cảm ơn!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Friendliness_009.wav"
+    },
+    {
+      "id": 525,
+      "title": "Tâm sự-07",
+      "text": "Tôi đã đặt cảm biến ở khu trung tâm, nhớ lấy. Gặp nguy hiểm thì nhấn nó, tôi sẽ đến ngay!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Friendliness_010.wav"
+    },
+    {
+      "id": 527,
+      "title": "Tâm sự-08",
+      "text": "……Đừng lo.……Khụ、……Không sao, tôi ở đây.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Friendliness_012.wav"
+    },
+    {
+      "id": 530,
+      "title": "Vào đội",
+      "text": "Ngạc nhiên gì, lần đầu thấy à? Dùng dao mới là mạnh nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Obtain_SR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 309,
+      "title": "Ngữ khí-01",
+      "text": "Ha!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 310,
+      "title": "Ngữ khí-02",
+      "text": "Hờ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 311,
+      "title": "Ngữ khí-03",
+      "text": "Ồ ồ——!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 312,
+      "title": "Ngữ khí-04",
+      "text": "Hừ、",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 313,
+      "title": "Ngữ khí-05",
+      "text": "Tch、",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 314,
+      "title": "Ngữ khí-06",
+      "text": "Yếu quá!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 315,
+      "title": "Ngữ khí-07",
+      "text": "Cút đi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 316,
+      "title": "Ngữ khí-08",
+      "text": "Tch——",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 317,
+      "title": "Ngữ khí-09",
+      "text": "Vướng víu!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 318,
+      "title": "Ngữ khí-10",
+      "text": "Thử xem?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 321,
+      "title": "Kỹ năng-01",
+      "text": "Đứng chắn trước mặt tôi, chỉ mình mày?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Skill_001.wav"
+    },
+    {
+      "id": 322,
+      "title": "Kỹ năng-02",
+      "text": "Hừ, tất cả chết hết đi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Skill_002.wav"
+    },
+    {
+      "id": 986,
+      "title": "Kỹ năng-03",
+      "text": "Ngay bây giờ!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765946629343.wav"
+    },
+    {
+      "id": 329,
+      "title": "Kỹ năng-04",
+      "text": "Cho tôi lệnh đi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765946583972.wav"
+    },
+    {
+      "id": 327,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Chặt vụn các ngươi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Ultimate_SR_001.wav"
+    },
+    {
+      "id": 324,
+      "title": "Hạ gục",
+      "text": "Chỉ có thế thôi sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Kill_001.wav"
+    },
+    {
+      "id": 325,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Hừ, dễ vậy là xong? Tôi còn chưa——tch, được rồi, nhiệm vụ tiếp theo là gì?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Win_001.wav"
+    },
+    {
+      "id": 326,
+      "title": "Kết thúc trận-Thua",
+      "text": "……Chỉ là……mức này thôi……! Hừ……một lần nữa……nhất định——sẽ không……!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Lose_001.wav"
+    },
+    {
+      "id": 323,
+      "title": "Sát thương đặc biệt",
+      "text": "Ngay bây giờ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CharolicCV/VO_Charolic_Single_Hit_001.wav"
+    }
+  ]
+}

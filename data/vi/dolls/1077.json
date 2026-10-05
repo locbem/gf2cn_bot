@@ -1,0 +1,374 @@
+{
+  "id": 1077,
+  "name": "Mityl",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1776933859972.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 6,
+  "role_id": 4,
+  "team_id": 5,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Hydro",
+  "team": "Elmo - Combined Echelon",
+  "weapon": "Vũ Khí Tự Vệ Cá Nhân Type-90",
+  "model": "SSD-62D",
+  "ammo_model": "SMG",
+  "desc": "Hoạt bát nhưng lại tạo ấn tượng hư ảo mơ hồ, thích hoạt động tập thể, luôn bắt chước theo người khác, không thích ở một mình. Lúc rảnh rỗi sẽ cùng Kuro phát sóng trực tiếp, nhờ diễn xuất sống động như thật và nét ngây ngô tự nhiên mà được khán giả công nhận. Trong cuộc sống thường làm những hành động vô nghĩa, nhưng thực ra rất giỏi ở bên người khác, biết chăm lo cảm xúc của đồng đội. Khi chiến đấu thích lao lên đầu tiên, miệng còn lẩm bẩm những “câu thần chú” kỳ lạ.\n“Rush B, GOGOGO!”",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1776933865783.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1776933872549.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013176538.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013185580.png"
+  },
+  "skins": [
+    {
+      "id": 73,
+      "name": "Mùa Rung Động",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777260981484.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777260988566.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1776938659065.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1776933897280.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1776933904147.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Thi Tùng Hạo</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Morohoshi Sumire</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=109\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>809</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>494</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>2014<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Medium Ammo <span style=\"color: #00ffff\">Freeze</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Bắn Đột Kích",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600919433.png\"><br></p>\n</td>\n<td>\n<p>Bắn Đột Kích Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1776938748131.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Cung Ảnh Chuột Xám",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1777024489823.png\"><br></p>\n</td>\n<td>\n<p>Hồ Ảnh Chuột Xám Lv.1</p>\n<p>Chủ động / Ô địa hình / Triệu hồi / Dịch chuyển</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1776938724970.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch mục tiêu (không gồm vật triệu hồi) trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, rồi chọn <span style=\"color: #ff9900\">1</span> ô trống trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh nó, triệu hồi <span style=\"color: #ff9900\">1</span> Hồ Ảnh Mô Phỏng của mục tiêu đó, và tạo ô địa hình Dòng Ngầm trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Tối đa tồn tại <span style=\"color: #ff9900\">2</span> Hồ Ảnh. Nếu mục tiêu là T-Doll, thủ lĩnh hoặc đơn vị cỡ lớn, đổi thành triệu hồi 1 Hồ Ảnh Bản Thân.</p>\n<p>Cũng có thể chọn <span style=\"color: #ff9900\">1</span> Hồ Ảnh trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, dịch chuyển nó đến <span style=\"color: #ff9900\">1</span> ô trống trong <span style=\"color: #ff9900\">bán kính 5 ô</span> xung quanh.<br>Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Phi Nước Đại Trên Không",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1777024504663.png\"><br></p>\n</td>\n<td>\n<p>Phi Nhanh Lên Không Lv.1</p>\n<p>Chủ động / Đơn mục tiêu / Di chuyển</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1776938771614.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 ô địa hình trong phạm vi chữ thập <span style=\"color: #ff9900\">3</span> đến 6 ô xung quanh, lao xuống ô đó, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Hydro lên 1 kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh; nếu trước khi tung kỹ năng và khi gây sát thương đều đứng trên ô địa hình loại Hydro, có thể dùng thêm <span style=\"color: #ff9900\">1 lần</span> kỹ năng chủ động Phi Nhanh Lên Không và sát thương gây ra tăng <span style=\"color: #ff9900\">30%</span>, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Khớp Hư Không",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1777024540441.png\"></p>\n</td>\n<td>\n<p>Khớp Rỗng Lv.1</p>\n<p>Quyết thắng / Ô địa hình / Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1776938804266.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Bản thân nhận Tràn Bão Hòa, duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>. Tạo ô địa hình Dòng Ngầm trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh bản thân, duy trì 2 hiệp. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Hồi chiêu (hiệp): 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Montage Tung Hứng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1777259001964.png\" style=\"max-width: 75px\"></p>\n</td>\n<td>\n<p>Dựng Phim Tung Hứng Lv.1</p>\n<p>Bị động / Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1776938826941.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi kết thúc hiệp phe ta, mọi Hồ Ảnh tung 1 lần Cộng Hưởng Khớp; Sau khi bản thân hoặc Hồ Ảnh gây sát thương Hydro, nhận <span style=\"color: #ff6600\">1 điểm</span> Infection Index; nếu kẻ tấn công hoặc mục tiêu bị tấn công đứng trên ô địa hình loại Hydro, nhận thêm <span style=\"color: #ff6600\">1 điểm</span> Infection Index, mỗi hiệp nhận tối đa <span style=\"color: #ff6600\">6 điểm</span> Infection Index.<br>Khi bắt đầu chiến đấu, nhận Tân Binh Bắt Chước. Mỗi khi nhận <span style=\"color: #ff6600\">6 điểm</span> Infection Index (gồm cả Infection Index tràn), nhận Danh Hiệu Màn Bạc cấp cao hơn.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp kỹ năng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng kỹ năng thêm</strong></span></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Dựng Phim Tung Hứng Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương của Cộng Hưởng Khớp nâng lên <span style=\"color: #ff9900\">60%</span> Tấn công. Khi nâng cấp Danh Hiệu Màn Bạc, Hồ Ảnh tung <span style=\"color: #ff9900\">1 lần</span> Cộng Hưởng Khớp. Infection Index cần để nâng cấp danh hiệu giảm xuống <span style=\"color: #ff9900\">4 điểm</span>. Cộng Hưởng Khớp gây lên mục tiêu Giảm phòng thủ II, duy trì 2 hiệp.</td>\n<td style=\"text-align: center\">Khi kết thúc hiệp phe ta, mọi Hồ Ảnh tung <span style=\"color: #ff9900\">1 lần</span> Danh Hiệu Màn Bạc; Sau khi bản thân hoặc Hồ Ảnh gây sát thương Hydro, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index; nếu kẻ tấn công hoặc mục tiêu bị tấn công đứng trên ô địa hình loại Hydro, nhận thêm <span style=\"color: #ff9900\">1 điểm</span> Infection Index, mỗi hiệp nhận tối đa <span style=\"color: #ff9900\">6 điểm</span> Infection Index.<br>Khi bắt đầu chiến đấu, nhận Tân Binh Bắt Chước. Mỗi khi nhận <span style=\"color: #ff9900\">4 điểm</span> Infection Index (gồm cả Infection Index tràn), nhận Danh Hiệu Màn Bạc cấp cao hơn. Khi nâng cấp danh hiệu, Hồ Ảnh tung <span style=\"color: #00ccff\">1 lần</span> Cộng Hưởng Khớp.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 2</strong></td>\n<td><strong>Hồ Ảnh Chuột Xám v.2</strong></td>\n<td>Mỗi <span style=\"color: #ff9900\">1 lần</span> tung Cộng Hưởng Khớp, Hồ Ảnh nhận <span style=\"color: #ff9900\">1 tầng</span> Đánh Không Trúng. Hệ số sát thương đánh thường của Hồ Ảnh Bản Thân nâng lên <span style=\"color: #ff9900\">120%</span> Tấn công.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch mục tiêu (không gồm vật triệu hồi) trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, rồi chọn <span style=\"color: #ff9900\">1</span> ô trống trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh nó, triệu hồi <span style=\"color: #ff9900\">1</span> Hồ Ảnh Mô Phỏng của mục tiêu đó, và tạo ô địa hình Dòng Ngầm trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Tối đa tồn tại <span style=\"color: #ff9900\">2</span> Hồ Ảnh. Nếu mục tiêu là T-Doll, thủ lĩnh hoặc đơn vị cỡ lớn, đổi thành triệu hồi <span style=\"color: #ff9900\">1</span> Hồ Ảnh Bản Thân.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Khớp Rỗng Lv.2</strong></td>\n<td>Phạm vi ô địa hình Dòng Ngầm tạo ra mở rộng đến bán kính 7 ô. Mức tăng Tấn công của Tràn Bão Hòa nâng lên <span style=\"color: #ff9900\">40%</span> và có hiệu lực với Hồ Ảnh. Nếu hiệp lớn này kích hoạt từ <span style=\"color: #ff9900\">4 lần</span> Cộng Hưởng Khớp, Tràn Bão Hòa không tiêu hao thời gian duy trì.</td>\n<td>Bản thân nhận Tràn Bão Hòa, duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>. Tạo ô địa hình Dòng Ngầm trong bán kính 7 ô quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 4</strong></td>\n<td><strong>Phi Nhanh Lên Không Lv.2</strong></td>\n<td>Điều kiện dùng lại kỹ năng chủ động đổi thành nếu trước khi tung kỹ năng hoặc khi gây sát thương đứng trên ô địa hình loại Hydro; Hệ số sát thương nâng lên <span style=\"color: #ff9900\">160%</span> Tấn công. Sát thương gây ra khi dùng lại kỹ năng chủ động tăng <span style=\"color: #ff9900\">50%</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong phạm vi chữ thập <span style=\"color: #ff9900\">3</span> đến 6 ô xung quanh, lao xuống ô đó, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Hydro lên <span style=\"color: #ff9900\">1</span> kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh; nếu trước khi tung kỹ năng và khi gây sát thương đều đứng trên ô địa hình loại Hydro, có thể dùng thêm <span style=\"color: #ff9900\">1 lần</span> kỹ năng chủ động Phi Nhanh Lên Không và sát thương gây ra tăng <span style=\"color: #ff9900\">50%</span>, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Phi Nhanh Lên Không Lv.3</strong></td>\n<td>Sau kỹ năng, Hồ Ảnh Bản Thân sẽ chi viện hành động <span style=\"color: #ff9900\">1 lần</span> lên mục tiêu, gây <span style=\"color: #ff9900\">60%</span> Tấn công sát thương Hydro và <span style=\"color: #ff9900\">2</span> sát thương ổn định, mỗi hiệp kích hoạt tối đa 1 lần. Sát thương Hồ Ảnh Mô Phỏng gây ra trong hiệp lớn này tăng <span style=\"color: #ff9900\">100%</span>, không thể cộng dồn.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong phạm vi chữ thập <span style=\"color: #ff9900\">3</span> đến 6 ô xung quanh, lao xuống ô đó, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Hydro lên <span style=\"color: #ff9900\">1</span> kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh; nếu trước khi tung kỹ năng và khi gây sát thương đều đứng trên ô địa hình loại Hydro, có thể dùng thêm <span style=\"color: #ff9900\">1 lần</span> kỹ năng chủ động Phi Nhanh Lên Không và sát thương gây ra tăng <span style=\"color: #ff9900\">50%</span>, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>.<br>Sau kỹ năng, Hồ Ảnh Bản Thân chi viện hành động 1 lần lên mục tiêu đó, gây <span style=\"color: #ff9900\">60%</span> Tấn công sát thương Hydro và <span style=\"color: #ff9900\">2</span> sát thương ổn định, mỗi hiệp kích hoạt tối đa 1 lần. Sát thương Hồ Ảnh Mô Phỏng gây ra trong hiệp lớn này tăng <span style=\"color: #ff9900\">100%</span>, không thể cộng dồn.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Dựng Phim Tung Hứng Lv.3</strong></td>\n<td>Hiệu quả mới của Minh Tinh Truyền Kỳ: mỗi khi nhận <span style=\"color: #ff9900\">4 điểm</span> Infection Index, Hồ Ảnh tung <span style=\"color: #ff9900\">1 lần</span> Cộng Hưởng Khớp.<br>Khi tung Cộng Hưởng Khớp, Hồ Ảnh nhận <span style=\"color: #ff9900\">1 tầng</span> Khuếch Đại Khớp.</td>\n<td>Khi kết thúc hiệp phe ta, mọi Hồ Ảnh tung <span style=\"color: #ff9900\">1 lần</span> Cộng Hưởng Khớp; Sau khi bản thân hoặc Hồ Ảnh gây sát thương Hydro, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index; nếu kẻ tấn công hoặc mục tiêu bị tấn công đứng trên ô địa hình loại Hydro, nhận thêm <span style=\"color: #ff9900\">1 điểm</span> Infection Index, mỗi hiệp nhận tối đa <span style=\"color: #ff9900\">6 điểm</span> Infection Index.<br>Khi bắt đầu chiến đấu, nhận Tân Binh Bắt Chước. Mỗi khi nhận 4 điểm Infection Index (gồm cả Infection Index tràn), nhận Danh Hiệu Màn Bạc cấp cao hơn. Khi nâng cấp danh hiệu, Hồ Ảnh tung <span style=\"color: #ff9900\">1 lần</span> Cộng Hưởng Khớp. Khi tung Cộng Hưởng Khớp, Hồ Ảnh nhận <span style=\"color: #ff9900\">1 tầng</span> Khuếch Đại Khớp.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784600963502.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Contract Key·Nơi Về Của Chuột Chuột</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1770023852789.png\" width=\"20\" height=\"20\"></sub><strong><span style=\"color: #808080\"><span style=\"color: #999999\">Chí mạng 3% </span></span></strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1777346831661.png\" width=\"20\" height=\"20\"></sub><strong><span style=\"color: #808080\"><span style=\"color: #999999\">Sát thương Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1777346818675.png\" width=\"20\" height=\"20\"></sub> Tấn công +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784600980450.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Diễn Xuất Chuẩn Điện Ảnh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kỹ năng chủ động Phi Nhanh Lên Không gây sát thương, xua tan 1 buff của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784600995565.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Cải Trang Nhập Vai</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Hồ Ảnh Bản Thân có thể điều khiển thủ công và có thể di chuyển.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784601008936.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Đón Súng Giữa Không Trung Ba Vòng Rưỡi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Mityl kết thúc hành động, nếu đứng trên ô địa hình loại Hydro, nhận Tăng di chuyển II, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784601022305.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Diễn Xuất Khóc Lóc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Mityl và Hồ Ảnh gây sát thương Hydro, gây Lây Cảm Xúc lên mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784601036506.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Theo Trào Lưu Xông Một Phen</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, Mityl triệu hồi 1 Hồ Ảnh, Mityl và Hồ Ảnh đó đồng thời được coi là T-Doll và vật triệu hồi. Hồ Ảnh đó không có kỹ năng và không thể hành động.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784601049603.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Thật Giả Khó Phân</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Mityl và Hồ Ảnh gây sát thương, nếu bản thân đứng trên ô Hydro, sát thương gây ra tăng 10%; cứ mỗi 1 cấp ô địa hình của ô Hydro, sát thương gây ra tăng thêm 5%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784601071200.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Common Key·Chuột Lanh Lợi Tiểu Đế</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1775526086079.png\" width=\"20\" height=\"20\"></sub>Chí mạng 5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi gây sát thương, nếu bản thân đứng trên ô Hydro, sát thương gây ra tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hình thái hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp mở khóa</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Nhân tố hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu quả</strong></span></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">Tiên phong x1, Hỏa lực x5</td>\n<td style=\"text-align: center\">Sát thương gây lên kẻ địch đứng trên ô Hydro tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">Bulwark x1, Vanguard x2, Sentinel x7</td>\n<td style=\"text-align: center\">Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">Bulwark x2, Vanguard x3, Sentinel x8</td>\n<td style=\"text-align: center\">Sát thương Hydro gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">Bulwark x3, Vanguard x4, Sentinel x11</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">Bulwark x4, Vanguard x4, Sentinel x15</td>\n<td style=\"text-align: center\">HP tối đa tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">Bulwark x5, Vanguard x6, Sentinel x18</td>\n<td style=\"text-align: center\">Khi đòn tấn công chỉ trúng 1 kẻ địch, sát thương gây ra tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1776941662931.png\"></td>\n<td>\n<h1><strong>Ngôi Sao Chuột Bông &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10773\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Tiểu liên/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Tiểu liên hiệu năng cao được cấp cho Mityl, lấy súng tự vệ cá nhân kiểu 90 làm nguyên mẫu, tăng thêm tốc độ bắn để phù hợp lối chiến đấu độc đáo. Độ giật cực thấp mang lại độ chính xác tốt và hỏa lực duy trì ổn định; một khi đánh lén thành công là có thể áp chế mạnh. Vong hồn dưới \"chiến thuật chuột chuột\" lại có thêm một người nữa.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; </span><span style=\"color: #ff6600\">Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=125373&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1777434537245.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=125303&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1777434462892.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=125438&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1777434501407.gif\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<div>\n<p>&nbsp; Kẻ bắt chước hoạt bát và hay gây chuyện, luôn nhại giọng người khác, dường như chẳng ai biết bộ mặt thật của cô.</p>\n<p><br>&nbsp; Khi Griffin tái tổ chức, cô chọn đến thành vệ tinh và do một chuỗi trùng hợp mà bước lên sân khấu, trở thành người đóng thế của một minh tinh điện ảnh. Sau khi gặp Kuro, cùng nhau đến Khu Vàng hội hợp với Chỉ Huy.</p>\n<p>「\"Dưới sự dẫn lối của loài chim tượng trưng cho hạnh phúc...\" P90 trở về đội! Chỉ Huy, từ hôm nay hãy gọi tôi là Mityl nhé~ Dù anh đi đâu, tôi cũng sẽ bay~ đến bên anh! \"</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\" style=\"max-width: 100px\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\" style=\"max-width: 100px\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\" style=\"max-width: 100px\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1777020390897.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258058891.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1777020662402.png\" style=\"max-width: 150px\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1777020662157.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258125709.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258147156.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258147179.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258147186.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258147158.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1777258262597.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258262595.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258262472.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258262596.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258334657.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258262598.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258262629.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258262632.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1777258351152.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779167407999.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779167385039.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779167385172.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779167385210.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1708,
+      "title": "Thường ngày-01",
+      "text": "Không gian của Elmo rộng quá, lỡ một cái là lạc đường ngay. Nhưng mà nhưng mà, nơi nào có Chỉ huy là lần nào em cũng tìm ra~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777276572275.wav"
+    },
+    {
+      "id": 1709,
+      "title": "Thường ngày-02",
+      "text": "Hề hề hề~ Anh có thấy cặp kính râm này đẹp không? Em sưu tập nhiều kiểu khác nhau lắm, có kiểu nào Chỉ huy thích không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777276616316.wav"
+    },
+    {
+      "id": 1710,
+      "title": "Thường ngày-03",
+      "text": "\"Được rồi, xử lý xong hết, hôm nay nhất định tan ca đúng giờ!\" Tan ca đúng giờ mà vui đến thế sao? Thật không dám tưởng tượng bình thường Mayling vất vả cỡ nào.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777276633404.wav"
+    },
+    {
+      "id": 1711,
+      "title": "Thường ngày-04",
+      "text": "Kuro lại đang cãi nhau nảy lửa với khán giả rồi, nhưng câu đó, \"Mấy kẻ phun nước bọt bịa chuyện về Chỉ huy đi ăn ○# hết đi!\" thì tôi phải đồng ý nha!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777276694168.wav"
+    },
+    {
+      "id": 1712,
+      "title": "Thường ngày-05",
+      "text": "(Ngân nga)……Hửm? Giai điệu hình như hơi lạ. Dù bắt chước được giọng của Vepley, nhưng bắt chước cô ấy hát thì khó thật~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777276751302.wav"
+    },
+    {
+      "id": 1713,
+      "title": "Nâng cấp-01",
+      "text": "Em sẽ không bị bỏ lại đâu!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777277037265.wav"
+    },
+    {
+      "id": 1714,
+      "title": "Nâng cấp-02",
+      "text": "Đuổi kịp rồi nha!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777278202527.wav"
+    },
+    {
+      "id": 1715,
+      "title": "Nâng cấp-03",
+      "text": "Cái này em giỏi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777278228966.wav"
+    },
+    {
+      "id": 1716,
+      "title": "Nâng cấp-04",
+      "text": "Em còn nhanh hơn được nữa!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777278272551.wav"
+    },
+    {
+      "id": 1717,
+      "title": "Nâng cấp-05",
+      "text": "Rush、Rush！",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777278395467.wav"
+    },
+    {
+      "id": 1718,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2! Exilium~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777278767950.wav"
+    },
+    {
+      "id": 1719,
+      "title": "Đăng nhập",
+      "text": "\"Phép màu ngày nào cũng xảy ra!\" Chỉ cần ở bên Chỉ huy là có cảm giác như thế!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777278826241.wav"
+    },
+    {
+      "id": 1720,
+      "title": "Tâm sự-01",
+      "text": "\"Phát minh mới của tôi sắp lên sàn rồi đó, người nuôi! Mong chờ không? Mong chờ không?\" Đúng vậy, phát minh mới chính là màn bắt chước em biểu diễn cho Chỉ huy xem!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777278857665.wav"
+    },
+    {
+      "id": 1721,
+      "title": "Tâm sự-02",
+      "text": "Theo kịp Chỉ huy! Oa, Chỉ huy đi nhanh thật. Nhưng không sao, em sẽ lộn nhào đuổi theo anh~!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777278903055.wav"
+    },
+    {
+      "id": 1722,
+      "title": "Tâm sự-03",
+      "text": "\"Ngủ bên cạnh Chỉ huy……cảm giác sẽ có giấc mơ đẹp, Zzzzz……\" Khó khăn lắm mới được ở bên Chỉ huy, ngủ thì phí quá!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777278921428.wav"
+    },
+    {
+      "id": 1723,
+      "title": "Tâm sự-04",
+      "text": "\"Điện ảnh là chân lý 24 khung hình mỗi giây\", đây là lời thoại trong 《Binh Sĩ》 em từng đóng đó, anh không thấy ý nghĩa sâu xa sao? Nếu Chỉ huy hứng thú, em xem cùng anh nhé.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777278935977.wav"
+    },
+    {
+      "id": 1724,
+      "title": "Tâm sự-05",
+      "text": "\"Chỉ——huy——sao cứ nhìn chằm chằm em thế? Mặt em có chỗ nào lạ sao? Hí hí, thật hết cách với anh~ Nhìn đi nhìn đi!\" Em bắt chước Sharkry kẻ lớp trang điểm mắt anh thích, đẹp không? Chỉ huy!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777278953028.wav"
+    },
+    {
+      "id": 1725,
+      "title": "Tâm sự-06",
+      "text": "Bây giờ em đã có thể nói chuyện với anh bằng cách của riêng mình một cách rất tự nhiên rồi, đây cũng là một sự trưởng thành nhỉ? Chỉ huy.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777278968498.wav"
+    },
+    {
+      "id": 1726,
+      "title": "Tâm sự-07",
+      "text": "\"Anh vẫn còn ở bên em, không gì quan trọng hơn điều này. Em không bận tâm kết cục, nhưng em sẽ luôn ở bên anh, mãi mãi không rời.\" Suy nghĩ của OTs-14, em hiểu rất rõ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777278983872.wav"
+    },
+    {
+      "id": 1727,
+      "title": "Tâm sự-08",
+      "text": "Diễn xuất là giả, nhưng không thiếu chân tâm. Còn chân tâm của em……Chỉ huy có cảm nhận được không? Nếu không thì em sẽ diễn cho anh xem hết lần này đến lần khác đó!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279000361.wav"
+    },
+    {
+      "id": 1728,
+      "title": "Vào đội",
+      "text": "\"Dưới sự dẫn lối của loài chim tượng trưng cho hạnh phúc……\" P90 trở về đội! Chỉ huy, từ hôm nay hãy gọi em là Mityl nhé~ Dù anh đi đâu, em cũng sẽ bay~ đến bên anh!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279016976.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1126,
+      "title": "Ngữ khí-01",
+      "text": "Hôm nay sẽ đóng·vai·ai~ đây ta~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279629715.wav"
+    },
+    {
+      "id": 1127,
+      "title": "Ngữ khí-02",
+      "text": "Xông lên xông lên, đừng dừng!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279662861.wav"
+    },
+    {
+      "id": 1128,
+      "title": "Ngữ khí-03",
+      "text": "Đừng cản đường nha.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279675117.wav"
+    },
+    {
+      "id": 1129,
+      "title": "Ngữ khí-04",
+      "text": "Chuẩn bị ra diễn!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279689343.wav"
+    },
+    {
+      "id": 1130,
+      "title": "Ngữ khí-05",
+      "text": "Mục tiêu điểm B!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279701064.wav"
+    },
+    {
+      "id": 1131,
+      "title": "Ngữ khí-06",
+      "text": "Rush！",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279714066.wav"
+    },
+    {
+      "id": 1132,
+      "title": "Ngữ khí-07",
+      "text": "Mau theo kịp.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279727044.wav"
+    },
+    {
+      "id": 1133,
+      "title": "Ngữ khí-08",
+      "text": "Ái chà……bị chơi một vố rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279739672.wav"
+    },
+    {
+      "id": 1134,
+      "title": "Ngữ khí-09",
+      "text": "Tiếp theo phải cẩn thận nha~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279755281.wav"
+    },
+    {
+      "id": 1135,
+      "title": "Ngữ khí-10",
+      "text": "Phá phòng rồi, em diễn đó.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279768132.wav"
+    },
+    {
+      "id": 1136,
+      "title": "Kỹ năng-01",
+      "text": "Theo kịp em không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279785056.wav"
+    },
+    {
+      "id": 1137,
+      "title": "Kỹ năng-02",
+      "text": "Sắp kết thúc rồi nhỉ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279800412.wav"
+    },
+    {
+      "id": 1138,
+      "title": "Kỹ năng-03",
+      "text": "Hí hí, bị lừa rồi nhé~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279827024.wav"
+    },
+    {
+      "id": 1139,
+      "title": "Kỹ năng-04",
+      "text": "Tiếp theo nên đóng vai gì nhỉ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279840703.wav"
+    },
+    {
+      "id": 1140,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Ví với quay phim thì……tiếp theo mới là cảnh chính!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279864093.wav"
+    },
+    {
+      "id": 1141,
+      "title": "Hạ gục",
+      "text": "Phản diện, rời sân~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279890609.wav"
+    },
+    {
+      "id": 1142,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Nhìn tốc độ xoay súng của em là biết em mạnh cỡ nào~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279907600.wav"
+    },
+    {
+      "id": 1143,
+      "title": "Kết thúc trận-Thua",
+      "text": "Chuồn chuồn, lần sau đánh tiếp với bọn họ!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1777279923073.wav"
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "id": 1024,
+  "name": "Cheeta",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045355564.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 2,
+  "role_id": 3,
+  "team_id": 11,
+  "rarity_level": 4,
+  "rarity": "T-Doll Elite",
+  "role": "Support",
+  "attr": "Burn",
+  "team": "Frostfall Squad",
+  "weapon": "MP7H1",
+  "model": "SSD-62D",
+  "ammo_model": "SMG",
+  "desc": "T-Doll có nguồn cảm hứng bất tận, vua phát minh của Griffin. Dù thất bại bao nhiêu lần cũng không thể ngăn bước chân cô. Những ý tưởng quái chiêu liên tục nảy ra khiến người ta đau đầu, nhưng cô luôn có thể đưa ra diệu kế \"thiên tài\" vào lúc then chốt.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/奇塔pc端.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763720648253.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014825902.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014835126.png"
+  },
+  "skins": [
+    {
+      "id": 27,
+      "name": "Tia Lửa Đấu Trường",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/奇塔赛车pc.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763950230037.png"
+    }
+  ],
+  "gifs": [],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Hàn Kiều Kiều</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Lynn</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>591</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>494</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1842</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Medium Ammo&nbsp;<span style=\"color: #00ccff\">Hydro</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Quà Gặp Mặt",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600618813.png\"></p>\n</td>\n<td>\n<p>Quà Gặp Mặt Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764496365951.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Kẹo Cay",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600676416.png\"></p>\n</td>\n<td>\n<p>Kẹo Cay Lv.1</p>\n<p>Chủ động/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764496431957.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Burn lên chúng. Nếu bản thân có Công Thế Nóng Rực, sát thương đòn này tăng <span style=\"color: #ff9900\">20%</span>.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 4 Tiêu hao Infection: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Lễ Hội Pháo Hoa",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600689815.png\"></p>\n</td>\n<td>\n<p>Lễ Hội Pháo Hoa Lv.1</p>\n<p>Chủ động/Diện rộng/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764496498381.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh để phóng tới, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical diện rộng lên chúng và tất cả kẻ địch trong <span style=\"color: #ff9900\">bán kính 2 ô</span> quanh chúng. Khi chỉ trúng <span style=\"color: #ff9900\">1</span> mục tiêu, gây Quá Nhiệt lên nó, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Tiêu hao Infection: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Hộp Mù Bất Ngờ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600703122.png\"></p>\n</td>\n<td>\n<p>Hộp Mù Bất Ngờ Lv.1</p>\n<p>Quyết thắng/Buff/Support</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764496564049.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Gây Công Thế Nóng Rực II và <span style=\"color: #ff9900\">2</span> buff ngẫu nhiên lên tất cả đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Mỗi <span style=\"color: #ff9900\">1</span> đồng minh trong phạm vi, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Nhận Hộ Tống, mỗi hiệp có hiệu lực tối đa <span style=\"color: #ff9900\">2 lần</span>, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Phát Minh Sáng Thế",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600716199.png\"></p>\n</td>\n<td>\n<p>Phát Minh Sáng Thế Lv.1</p>\n<p>Bị động/Hồi máu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764496615950.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Khi bản thân có buff, sau khi tấn công hồi <span style=\"color: #ff9900\">45%</span> Tấn công HP cho đồng minh có HP thấp nhất trong <span style=\"color: #ff9900\">bán kính 7 ô</span> xung quanh, mỗi <span style=\"color: #ff9900\">1</span> buff đang có làm hệ số hồi máu tăng <span style=\"color: #ff9900\">5%</span>, tăng tối đa <span style=\"color: #ff9900\">15%</span>.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Hộp Mù Bất Ngờ Lv.2</strong></td>\n<td style=\"text-align: center\">Số buff ngẫu nhiên cung cấp tăng 1.</td>\n<td style=\"text-align: center\">Gây Công Thế Nóng Rực II và <span style=\"color: #ff9900\">3</span> buff ngẫu nhiên lên tất cả đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Mỗi 1 đồng minh trong phạm vi, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Nhận Hộ Tống, mỗi hiệp có hiệu lực tối đa 2 lần, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 2</strong></td>\n<td><strong>Kẹo Cay Lv.2</strong></td>\n<td>Hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>.</td>\n<td>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">140%</span> Tấn công sát thương Burn lên chúng. Nếu bản thân có Công Thế Nóng Rực, sát thương đòn này tăng <span style=\"color: #ff9900\">20%</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Lễ Hội Pháo Hoa Lv.2</strong></td>\n<td>Tiêu hao Infection giảm <span style=\"color: #ff9900\">1 điểm</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong bán kính 6 ô xung quanh để phóng tới, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical diện rộng lên chúng và tất cả kẻ địch trong <span style=\"color: #ff9900\">bán kính 2 ô</span> quanh chúng. Khi chỉ trúng 1 mục tiêu, gây Quá Nhiệt lên nó, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 4</strong></td>\n<td><strong>Phát Minh Sáng Thế Lv.2</strong></td>\n<td>Mỗi <span style=\"color: #ff9900\">1</span> buff đang có, hệ số hồi máu tăng <span style=\"color: #ff9900\">10%</span>, tăng tối đa <span style=\"color: #ff9900\">30%</span>.</td>\n<td>Khi bản thân có buff, sau khi tấn công hồi <span style=\"color: #ff9900\">45%</span> Tấn công HP cho đồng minh có HP thấp nhất trong <span style=\"color: #ff9900\">bán kính 7 ô</span> xung quanh, mỗi <span style=\"color: #ff9900\">1</span> buff đang có làm hệ số hồi máu tăng <span style=\"color: #ff9900\">10%</span>, tăng tối đa <span style=\"color: #ff9900\">30%</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Phát Minh Sáng Thế Lv.3</strong></td>\n<td>Hệ số hồi máu tăng <span style=\"color: #ff9900\">15%</span>.</td>\n<td>Khi bản thân có buff, sau khi tấn công hồi <span style=\"color: #ff9900\">60%</span> Tấn công HP cho đồng minh có HP thấp nhất trong <span style=\"color: #ff9900\">bán kính 7 ô</span> xung quanh, mỗi <span style=\"color: #ff9900\">1</span> buff đang có làm hệ số hồi máu tăng <span style=\"color: #ff9900\">10%</span>, tăng tối đa <span style=\"color: #ff9900\">30%</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Hộp Mù Bất Ngờ Lv.3</strong></td>\n<td>Infection Index nhận được tăng <span style=\"color: #ff9900\">1 điểm</span>.</td>\n<td>Gây Công Thế Nóng Rực II và <span style=\"color: #ff9900\">3</span> buff ngẫu nhiên lên tất cả đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Mỗi 1 đồng minh trong phạm vi, bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index. Nhận Hộ Tống, mỗi hiệp có hiệu lực tối đa 2 lần, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600734246.png\"></td>\n<td>\n<h2>Contract Key·Vận May Của Thiên Tài</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764496711873.png\" width=\"20\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764496720548.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600749033.png\"></td>\n<td>\n<h2>Fixed Key·Kinh Phí Nghiên Cứu Đàng Hoàng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600766668.png\"></td>\n<td>\n<h2>Fixed Key·Phát Minh Siêu Hữu Ích</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Tầm bắn chi viện hành động tăng 2 ô.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600780629.png\"></td>\n<td>\n<h2>Fixed Key·Ngón Tay Vàng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Kỹ năng chủ động Kẹo Cay có thêm hiệu quả: khi bản thân có Công Thế Nóng Rực, hồi 100% Tấn công HP cho 1 đồng minh gần nhất (không gồm bản thân).</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600798973.png\"></td>\n<td>\n<h2>Fixed Key·Trò Đùa Thật Lớn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Mỗi 1 buff đang có, Tấn công tăng 3%, tăng tối đa 15%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600813300.png\"></td>\n<td>\n<h2>Fixed Key·Phương Án Hỗ Trợ Của Thiên Tài</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Kỹ năng chủ động Lễ Hội Pháo Hoa không còn gây sát thương lên kẻ địch, hiệu quả sửa thành hồi 90% Tấn công HP cho đồng minh trong phạm vi và xua tan 1 debuff.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600826659.png\"></td>\n<td>\n<h2>Fixed Key·Phẩm Giá Thiên Tài</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu khi kết thúc hành động có Công Thế Nóng Rực, hồi 20% Tấn công HP cho bản thân.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600845437.png\"></td>\n<td>\n<h2>Common Key·Phát Minh Tinh Tế</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764405202464.png\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi hồi máu chủ động, có 50% xác suất gây ngẫu nhiên 1 buff lên mục tiêu, duy trì 1 hiệp.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600857634.png\"></td>\n<td>\n<h2>Expansion Key·Phát Minh Vĩ Đại Của Thiên Tài</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi tấn công chủ động, thời gian hồi chiêu kỹ năng Quyết thắng Hộp Mù Bất Ngờ giảm 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Support*5 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Đồng minh có HP từ 50% trở xuống nhận hiệu quả hồi máu tăng 8%, không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Support*7 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*8 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Burn gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Support*11 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra của toàn bộ đồng minh tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Support*15 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Support*18 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Hiệu quả hồi máu của bản thân tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763994575401.png\"></td>\n<td>\n<h1><strong>Manuscript &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10002\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Tiểu liên/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng tiểu liên hiệu năng cao, là vũ khí mạnh mẽ và đầy cá tính. Cái tên nhà thiết kế đặt này hẳn cũng có ý xem nó như vũ khí bí mật.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nhật ký viễn hành</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=235&amp;hash_flag=2\"><img style=\"display: block; margin: 0 auto\" src=\"https://community.cdn.sunborngame.com/prod/image/1727091240913.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll có nguồn cảm hứng bất tận, vua phát minh của Griffin. Dù thất bại bao nhiêu lần cũng không thể ngăn bước chân cô. Những ý tưởng quái chiêu liên tục nảy ra khiến người ta đau đầu, nhưng cô luôn có thể đưa ra diệu kế \"thiên tài\" vào lúc then chốt.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778313015047.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778313014916.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778312981739.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312951225.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312981778.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312951226.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312981629.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312981776.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312981775.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/好好好.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091143918.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091153134.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091172017.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091182847.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091195107.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091205558.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091217508.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091235942.png\" style=\"max-width: 150px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1059,
+      "title": "Thường ngày-01",
+      "text": "Người nuôi ơi, tớ muốn game điện tử mới nhất, mua cho tớ điiii——! Hả? Sao lại không được? Người nuôi chẳng phải có nhiệm vụ chăm sóc thiên tài Cheeta sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Daily_004.wav"
+    },
+    {
+      "id": 1060,
+      "title": "Thường ngày-02",
+      "text": "Hu oa…… Họp video với đội trưởng các cô ấy mệt quá đi……! Lần sau cho con rối của tớ ngồi trước màn hình luôn nhé! Cài thêm chức năng hỏi gì cũng trả lời \"à vâng vâng vâng\"!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Daily_005.wav"
+    },
+    {
+      "id": 1061,
+      "title": "Thường ngày-03",
+      "text": "Chuyện lần trước tớ bắn rơi máy bay không người lái, người nuôi đừng nói với người nuôi của người nuôi nhé——! Bị cô ấy biết là lại cằn nhằn nữa đó!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Daily_006.wav"
+    },
+    {
+      "id": 1064,
+      "title": "Thường ngày-04",
+      "text": "Hello người nuôi~ Hửm? Phản ứng này, quên tên mới của tớ rồi hả? Cheeta——là Cheeta đó, con báo săn ăn lửng mật! Ngao u! À không…… tiếng kêu phải là chíp chíp?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Daily_009.wav"
+    },
+    {
+      "id": 1065,
+      "title": "Thường ngày-05",
+      "text": "Tốt! Vậy là chuẩn bị xong xuôi rồi, tiếp theo tớ sẽ làm một thí nghiệm cực kỳ lợi hại, đây là bước quan trọng để đánh bại lửng mật, nên người nuôi cũng phải giúp nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Daily_010.wav"
+    },
+    {
+      "id": 1067,
+      "title": "Nâng cấp-01",
+      "text": "Còn nữa hả……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Up_002.wav"
+    },
+    {
+      "id": 1069,
+      "title": "Nâng cấp-02",
+      "text": "Cò-còn nữa không? Đưa hết cho tớ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Up_004.wav"
+    },
+    {
+      "id": 1070,
+      "title": "Nâng cấp-03",
+      "text": "U ôi—— cũng khá đấy chứ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Up_005.wav"
+    },
+    {
+      "id": 1071,
+      "title": "Nâng cấp-04",
+      "text": "Chưa đủ chưa đủ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Up_006.wav"
+    },
+    {
+      "id": 1073,
+      "title": "Nâng cấp-05",
+      "text": "Giờ thiên tài này đã là hình thái hoàn chỉnh rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Up_008.wav"
+    },
+    {
+      "id": 1074,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Title_001.wav"
+    },
+    {
+      "id": 1075,
+      "title": "Đăng nhập",
+      "text": "Xuất phát ngay! Mục tiêu đương nhiên là đánh bại lửng mật rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Login_001.wav"
+    },
+    {
+      "id": 1076,
+      "title": "Tâm sự-01",
+      "text": "Này, ánh mắt của người nuôi…… đang nghĩ \"ôi sao lùn thế\" đúng không! Tớ nhìn ra hết rồi đó!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 1077,
+      "title": "Tâm sự-02",
+      "text": "Ừm…… chiến thuật gì đó, không quan trọng nhỉ? Dù sao thiên tài như tớ sẽ không thua đâu…… À được rồi được rồi, tớ sẽ xem tài liệu tác chiến! Thật mà!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 1079,
+      "title": "Tâm sự-03",
+      "text": "Người nuôi đừng ngủ nữa, dậy chơi game với tớ đi! Dậy đi mà——! Thật là, cơ thể con người gần như ngày nào cũng phải ngủ đông, phiền quá, hay để tớ làm một món đồ nhỏ nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 1081,
+      "title": "Tâm sự-04",
+      "text": "Ừm, người nuôi này, chúng ta thân nhau lắm đúng không? Chúng ta là bạn bè đúng không? Ừm…… vậy lúc nãy tớ làm nổ nhà kho, người nuôi chắc cũng không giận đâu nhỉ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 1084,
+      "title": "Tâm sự-05",
+      "text": "Nè, giữa thân thể trước kia và thân thể bây giờ, người nuôi thích cái nào hơn? Ưm…… đừng bận tâm, tớ chỉ hỏi bâng quơ thôi…… dù sao tớ cũng sẽ đổi về mà!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Friendliness_009.wav"
+    },
+    {
+      "id": 1085,
+      "title": "Tâm sự-06",
+      "text": "Người nuôi, phát minh mới của tớ——Máy Giả Mắt Mở sắp xong rồi! Như vậy dù người nuôi buồn ngủ đến nhắm mắt làm việc, chỉ cần đeo nó vào thì trong mắt người khác vẫn đang mở mắt, lợi hại không!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Friendliness_010.wav"
+    },
+    {
+      "id": 1088,
+      "title": "Tâm sự-07",
+      "text": "Người nuôi xem báo cáo tác chiến mới nhất chưa! Tớ nổ tung cả khu vực tác chiến trong một lần, có phải siêu lợi hại không? Ờ, suýt nổ cả xe căn cứ nữa……? Ôi chuyện nhỏ ấy đừng bận tâm nha.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 1086,
+      "title": "Tâm sự-08",
+      "text": "Người nuôi…… còn phải làm việc bao lâu nữa vậy? Chơi với tớ một ván Tinh Anh Đặc Công đã…… lát nữa tớ sẽ cùng người nuôi làm việc mà!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Friendliness_011.wav"
+    },
+    {
+      "id": 1090,
+      "title": "Vào đội",
+      "text": "Sao lại phải làm việc nữa chứ…… là người nuôi à? Hết cách rồi, để thiên tài vĩ đại nhất thế kỷ này giúp người một tay vậy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Obtain_SR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 644,
+      "title": "Ngữ khí-01",
+      "text": "Hây!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 645,
+      "title": "Ngữ khí-02",
+      "text": "Tệ thật.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 646,
+      "title": "Ngữ khí-03",
+      "text": "Đồ ngố~!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 647,
+      "title": "Ngữ khí-04",
+      "text": "Yeah——!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 648,
+      "title": "Ngữ khí-05",
+      "text": "Lêu lêu——",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 649,
+      "title": "Ngữ khí-06",
+      "text": "Thành mảnh vụn đi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 650,
+      "title": "Ngữ khí-07",
+      "text": "Chậc——chướng mắt.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 651,
+      "title": "Ngữ khí-08",
+      "text": "Được rồi được rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 652,
+      "title": "Ngữ khí-09",
+      "text": "Phiền phức.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 653,
+      "title": "Ngữ khí-10",
+      "text": "Xem tớ này!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 656,
+      "title": "Kỹ năng-01",
+      "text": "Ở——đây nè!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Skill_001.wav"
+    },
+    {
+      "id": 657,
+      "title": "Kỹ năng-02",
+      "text": "Vậy là được rồi nhỉ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Skill_002.wav"
+    },
+    {
+      "id": 658,
+      "title": "Kỹ năng-03",
+      "text": "Yo-ho!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Hit_001.wav"
+    },
+    {
+      "id": 662,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Thử phát minh mới!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Ultimate_SR_001.wav"
+    },
+    {
+      "id": 659,
+      "title": "Hạ gục",
+      "text": "Bye bye——",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Kill_001.wav"
+    },
+    {
+      "id": 660,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Hừm hừm~ Có tớ ở đây thì chẳng có gì phải lo cả!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Win_001.wav"
+    },
+    {
+      "id": 661,
+      "title": "Kết thúc trận-Thua",
+      "text": "Th-thất bại rồi?! Nhất định là…… là do thông tin sai!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/CheetaCV/VO_Cheeta_Single_Lose_001.wav"
+    }
+  ]
+}

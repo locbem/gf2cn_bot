@@ -1,0 +1,367 @@
+{
+  "id": 1051,
+  "name": "Mechty",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044959266.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 5,
+  "role_id": 3,
+  "team_id": 3,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Support",
+  "attr": "Corrosion",
+  "team": "H.I.D.E.404 Team 1",
+  "weapon": "G11",
+  "model": "SSD-62D",
+  "ammo_model": "AR",
+  "desc": "T-Doll lười biếng trong mọi việc ngoài chơi game và đọc truyện tranh, sở hữu tuyệt kỹ ngủ ngon lành ở bất cứ đâu, trong bất kỳ trạng thái nào. Trông như đã đưa việc nằm thẳng lên đến cực hạn, nhưng khi nguy cấp cô cũng lộ ra mặt đáng tin cậy, dù chính cô thấy tốt nhất là đừng có “thời khắc nguy cấp” thì hơn...",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/米什缇pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/米什缇移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014289049.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014297766.png"
+  },
+  "skins": [],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261694918.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261709636.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261720776.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Trùng Trùng</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Fukuhara Ayaka</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=54\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>723</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>577</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1876</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo <span style=\"color: #00ccff\">Hydro</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Khởi Động Trước Khi Ngủ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560851233.png\"></p>\n</td>\n<td>\n<p>Khởi Động Trước Khi Ngủ Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764422388245.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.<br>Sát thương gây ra khi ở Chế độ Kích Đấu đổi thành sát thương Corrosion, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">2 điểm</span>, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Triều Mộng Bùng Nổ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560878096.png\"></p>\n</td>\n<td>\n<p>Triều Mộng Bùng Nổ Lv.1</p>\n<p>Chủ động / Diện rộng / Ô địa hình</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764422454896.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Corrosion diện rộng lên chúng và mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 1 ô</span> quanh chúng.<br>Khi ở trạng thái chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical lên chúng. Khi ở Chế độ Kích Đấu, sát thương gây ra đổi thành sát thương Corrosion, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">2 điểm</span>, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. khi đó, nhận Tăng di chuyển II, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. và tạo ô địa hình Độc Khí trong phạm vi, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Đêm Ngon Không Mộng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560894212.png\"></p>\n</td>\n<td>\n<p>Đêm Ngon Không Mộng Lv.1</p>\n<p>Chủ động / Buff / Hồi ổn định</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764422541696.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Hồi <span style=\"color: #ff9900\">6 điểm</span> Chỉ số ổn định, xua tan mọi debuff của bản thân. và gây Người Hộ Mộng lên mọi đồng minh trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Khi ở Chế độ Kích Đấu, sau kỹ năng có thể tung kỹ năng chủ động Triều Mộng Bùng Nổ hoặc đánh thường Khởi Động Trước Khi Ngủ, đồng thời nhận <span style=\"color: #ff9900\">1 tầng</span> Bộ Trợ Ngủ, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Mộng Du Tiên Cảnh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560913355.png\"></p>\n</td>\n<td>\n<p>Mộng Du Tiên Cảnh Lv.1</p>\n<p>Quyết thắng/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764422614846.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Gỡ Chế độ Vá Lỗi, vào Chế độ Kích Đấu, duy trì <span style=\"color: #ff9900\">3 hiệp</span>; khi Chế độ Kích Đấu hết thời gian thì quay lại Chế độ Vá Lỗi. Gây Lá Chắn Ác Mộng lên toàn thể đồng minh, đồng thời gây Độc Tố Vây Quanh lên <span style=\"color: #ff9900\">1</span> kẻ địch gần nhất, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Giấc Nông Dị Tướng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560936762.png\"></p>\n</td>\n<td>\n<p>Ngủ Nông Dị Tướng Lv.1</p>\n<p>Bị động/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764422676381.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Khi bắt đầu chiến đấu, bản thân vào Chế độ Vá Lỗi, gây Ác Mộng Hóa lên toàn thể đồng minh.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Mộng Du Tiên Cảnh Lv.2</strong></td>\n<td style=\"text-align: center\">Khi nhận Chế độ Kích Đấu, không còn gỡ Chế độ Vá Lỗi. Mức giảm Tấn công của kẻ tấn công do Lá Chắn Ác Mộng tăng lên <span style=\"color: #ff9900\">10%</span>, số debuff xua tan tăng 1. Hiệu ứng mới của Chế độ Kích Đấu: tỉ lệ chí mạng đánh thường tăng <span style=\"color: #ff9900\">30%</span>.</td>\n<td style=\"text-align: center\">Vào Chế độ Kích Đấu, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Gây Lá Chắn Ác Mộng lên toàn thể đồng minh, đồng thời gây Độc Tố Vây Quanh lên 1 kẻ địch gần nhất, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Ngủ Nông Dị Tướng Lv.2</strong></td>\n<td style=\"text-align: center\">Hiệu ứng mới của Chế độ Vá Lỗi: sát thương đánh thường tăng <span style=\"color: #ff9900\">50%</span>; khi bắt đầu hiệp, xua tan <span style=\"color: #ff9900\">2</span> debuff của bản thân.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, bản thân vào Chế độ Vá Lỗi, gây Ác Mộng Hóa lên toàn thể đồng minh.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Đêm Ngon Không Mộng Lv.2</strong></td>\n<td style=\"text-align: center\">Giới hạn cộng dồn Bộ Trợ Ngủ tăng <span style=\"color: #ff9900\">1 tầng</span>. Hồi <span style=\"color: #ff9900\">30%</span> HP tối đa cho bản thân, đồng thời hồi cho đồng minh có HP thấp nhất HP bằng <span style=\"color: #ff9900\">15%</span> HP tối đa của Mechty và <span style=\"color: #ff9900\">3 điểm</span> Chỉ số ổn định. Khi ở Chế độ Kích Đấu, số tầng Bộ Trợ Ngủ nhận được tăng 1.</td>\n<td style=\"text-align: center\">Hồi cho bản thân <span style=\"color: #ff9900\">30%</span> HP tối đa và <span style=\"color: #ff9900\">6 điểm</span> Chỉ số ổn định, xua tan mọi debuff. Hồi cho đồng minh có HP thấp nhất HP bằng <span style=\"color: #ff9900\">15%</span> HP tối đa của Mechty và <span style=\"color: #ff9900\">3 điểm</span> Chỉ số ổn định. và gây Người Hộ Mộng lên mọi đồng minh trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Khi ở Chế độ Kích Đấu, sau kỹ năng có thể tung kỹ năng chủ động Triều Mộng Bùng Nổ hoặc đánh thường Khởi Động Trước Khi Ngủ, đồng thời nhận <span style=\"color: #ff9900\">2 tầng</span> Bộ Trợ Ngủ, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Triều Mộng Bùng Nổ Lv.2</strong></td>\n<td style=\"text-align: center\">Sát thương ổn định tăng <span style=\"color: #ff9900\">2 điểm</span>. Khi ở Chế độ Kích Đấu, sát thương của lần đánh thường kế tiếp tăng <span style=\"color: #ff9900\">100%</span>. Gây <span style=\"color: #ff9900\">50%</span> Tấn công sát thương cố định lên mọi kẻ địch trong phạm vi.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Corrosion diện rộng lên chúng và mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 1 ô</span> quanh chúng. Khi ở Chế độ Kích Đấu, nhận Tăng di chuyển II, duy trì <span style=\"color: #ff9900\">1 hiệp</span>, và sát thương của lần đánh thường kế tiếp tăng <span style=\"color: #ff9900\">100%</span>. Gây <span style=\"color: #ff9900\">50%</span> Tấn công sát thương cố định lên mọi kẻ địch trong phạm vi, đồng thời tạo ô địa hình Độc Khí trong phạm vi, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Mộng Du Tiên Cảnh Lv.3</strong></td>\n<td style=\"text-align: center\">Hiệu ứng mới của Chế độ Kích Đấu: Điểm hành động tăng <span style=\"color: #ff9900\">2 ô</span>; khi kết thúc hành động, gây Lá Chắn Ác Mộng lên đồng minh chưa có Lá Chắn Ác Mộng, Infection Index nhận được tăng <span style=\"color: #ff9900\">1 điểm</span>.</td>\n<td style=\"text-align: center\">Vào Chế độ Kích Đấu, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Gây Lá Chắn Ác Mộng lên toàn thể đồng minh, đồng thời gây Độc Tố Vây Quanh lên 1 kẻ địch gần nhất, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Ngủ Nông Dị Tướng Lv.3</strong></td>\n<td style=\"text-align: center\">Hiệu ứng mới của Chế độ Vá Lỗi: sát thương Corrosion của toàn thể đồng minh tăng <span style=\"color: #ff9900\">25%</span>, sát thương chí mạng đánh thường của bản thân tăng <span style=\"color: #ff9900\">80%</span>. Hiệu ứng mới của Ác Mộng Hóa: mức tăng sát thương diện rộng của đòn chi viện tăng lên <span style=\"color: #ff9900\">80%</span>, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">1 điểm</span>; Mức tăng sát thương diện rộng gây ra tăng lên <span style=\"color: #ff9900\">20%</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, bản thân vào Chế độ Vá Lỗi, gây Ác Mộng Hóa lên toàn thể đồng minh.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560954831.png\"></td>\n<td>\n<h2>Contract Key · Ngủ Say</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764422783552.png\" width=\"20\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764422792809.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity 5</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560971013.png\"></td>\n<td>\n<h2>Fixed Key · Mảnh Mộng Đẹp</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng đánh thường Khởi Động Trước Khi Ngủ, nhận 1 buff ngẫu nhiên, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560986524.png\"></td>\n<td>\n<h2>Fixed Key · Chúc Ngươi Ngủ Mãi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu khắc chế, sau khi tấn công gây Độc Tố Vây Quanh lên mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784561003707.png\"></td>\n<td>\n<h2>Fixed Key · Đêm Phim Kinh Dị</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Triều Mộng Bùng Nổ, trước khi tấn công, gây Ăn Mòn Axit Đặc II lên mục tiêu cỡ lớn, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784561019727.png\"></td>\n<td>\n<h2>Fixed Key · Đánh Xong Nhanh Để Đi Ngủ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Đêm Ngon Không Mộng, tạo ô địa hình Độc Khí trong bán kính 2 ô quanh kẻ địch gần nhất, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784561044397.png\"></td>\n<td>\n<h2>Fixed Key · Tinh Thần Phế Vật</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi dùng đánh thường Khởi Động Trước Khi Ngủ, xua tan 2 buff của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784561061048.png\"></td>\n<td>\n<h2>Fixed Key · Ghế Lười Hộ Thể</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bản thân có từ 2 buff trở lên, sát thương đơn mục tiêu phải nhận giảm 20%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784561076118.png\"></td>\n<td>\n<h2>Common Key · Giờ Chơi Game Đây</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764405202464.png\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Sát thương đánh thường tăng 20%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784561139221.png\"></td>\n<td>\n<h2>Expansion Key · Chứng Mộng Du Điên Cuồng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, vào trạng thái Mộng Du và thêm kỹ năng Lệnh Thức Tỉnh. Khi bắt đầu hiệp, nếu đang ở trạng thái Mộng Du, tiêu hao toàn bộ Infection Index, nhận đầy tầng Bộ Trợ Ngủ, duy trì 2 hiệp; mỗi 1 điểm Infection Index tiêu hao, xua tan 1 debuff của bản thân và gây 1 tầng Mộng Cảnh Hưng Phấn lên toàn thể đồng minh, duy trì 1 hiệp lớn. Khi kết thúc hành động, nếu đang ở trạng thái Mộng Du, cứ mỗi 1 tầng Mộng Cảnh Hưng Phấn bản thân có, tung 1 lần Đạn Lạc Tàn Mộng vào kẻ địch gần nhất, đồng thời hồi cho toàn thể đồng minh HP bằng 10% Tấn công của Mechty và 1 điểm Chỉ số ổn định.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Mỗi khi bản thân gây 1 lần sát thương Corrosion, sát thương Corrosion của tất cả đồng minh tăng 1%, tăng tối đa 3%. Không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Support*6 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Support*7 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Corrosion gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*9 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra của toàn bộ đồng minh tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*13 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*9 Support*15 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi bắt đầu chiến đấu, 2 đồng minh có Tấn công ban đầu cao nhất nhận Tấn công tăng 3%, không cộng dồn.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763904868329.png\"></td>\n<td>\n<h1><strong>Mơ Giữa Ban Ngày &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10513\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng trường tấn công hiệu năng cao được cấp cho Mechty, lấy súng trường đạn không vỏ 11 làm nguyên mẫu, nâng uy lực thêm một bậc, phối hợp với sức bộc phát cao của Mechty, quyết đập tan giấc mộng ban ngày của mọi kẻ địch.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=28400&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1726741043934.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=28581&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1726833808791.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=28583&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1726834013053.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=28588&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1726833966696.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p> &nbsp; T-Doll lười biếng trong mọi việc ngoài chơi game và đọc truyện tranh, sở hữu tuyệt kỹ ngủ ngon lành ở bất cứ đâu, trong bất kỳ trạng thái nào. Trông như đã đưa việc nằm thẳng lên đến cực hạn, nhưng khi nguy cấp cô cũng lộ ra mặt đáng tin cậy, dù chính cô thấy tốt nhất là đừng có “thời khắc nguy cấp” thì hơn...</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778253600721.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778253622342.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253622315.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253622283.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253622335.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253622336.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727259671396.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727259633701.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727259708690.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727259726239.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727259782967.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727259820477.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727259883142.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727259912935.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727259956822.png\" style=\"max-width: 150px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 827,
+      "title": "Thường ngày-01",
+      "text": "Oa, đúng là không thể tin nổi, Elmo, quả thực là……thiên đường mà!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Daily_002.wav"
+    },
+    {
+      "id": 830,
+      "title": "Thường ngày-02",
+      "text": "Hừ, sao Vepley khỏe thế nhỉ? Chẳng lẽ cái ba lô đó thật ra là……nguồn điện ngoài siêu mạnh?!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Daily_005.wav"
+    },
+    {
+      "id": 832,
+      "title": "Thường ngày-03",
+      "text": "……Tiêu rồi, nhiệm vụ mà chưa xong là không kịp buổi ra mắt 《██ Khủng Hoảng：23》 mất!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Daily_007.wav"
+    },
+    {
+      "id": 833,
+      "title": "Thường ngày-04",
+      "text": "\"Một khi đã chấp nhận mình là đồ vô dụng, thì tôi là vô địch!\" ——Đây là chữ ký cá nhân mới của tôi, hay chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Daily_008.wav"
+    },
+    {
+      "id": 835,
+      "title": "Thường ngày-05",
+      "text": "Giá mà giống trong truyện tranh, khung hình tiếp theo hiện luôn \"Nhiệm vụ hoàn thành\" thì tốt……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Daily_010.wav"
+    },
+    {
+      "id": 836,
+      "title": "Nâng cấp-01",
+      "text": "Hà……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Up_001.wav"
+    },
+    {
+      "id": 838,
+      "title": "Nâng cấp-02",
+      "text": "Ây da, ngại quá đi……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Up_003.wav"
+    },
+    {
+      "id": 839,
+      "title": "Nâng cấp-03",
+      "text": "Ưa……mạnh quá……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Up_004.wav"
+    },
+    {
+      "id": 840,
+      "title": "Nâng cấp-04",
+      "text": "Sắp, sắp xong rồi nhỉ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Up_005.wav"
+    },
+    {
+      "id": 843,
+      "title": "Nâng cấp-05",
+      "text": "Bây giờ tôi là mạnh nhất!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Up_008.wav"
+    },
+    {
+      "id": 844,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exi……Zzzzz……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Title_001.wav"
+    },
+    {
+      "id": 845,
+      "title": "Đăng nhập",
+      "text": "Chỉ huy cuối cùng cũng đến rồi, hoáp……vậy tôi đi ngủ nướng đã……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Login_001.wav"
+    },
+    {
+      "id": 847,
+      "title": "Tâm sự-01",
+      "text": "Bộ đồ ngủ phiên bản mới nhất tôi đã chuẩn bị mang qua rồi, Elmo nhiều phòng thế, phòng nào là của tôi vậy?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 848,
+      "title": "Tâm sự-02",
+      "text": "Ưm……chưa đến giờ xuất phát mà? Tôi ngủ thêm chút nữa, chỉ năm phút thôi……Zzzzz……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 850,
+      "title": "Tâm sự-03",
+      "text": "Nghe Klukai nói, thời gian này cô ấy đã giao \"công tắc điều khiển vận mệnh của tôi\" cho Chỉ huy rồi, vậy xin đừng bao giờ……Ê ê ê! Đừng dùng mà!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 851,
+      "title": "Tâm sự-04",
+      "text": "Khoan khoan, chuyện phức tạp quá tôi xử lý không nổi đâu……Chỉ huy vừa nói gì……hả, nhiệm vụ gì? Tôi trốn được không……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 852,
+      "title": "Tâm sự-05",
+      "text": "Sao người trên Elmo các bạn ai cũng liều mạng thế? Rõ ràng nằm dài mới tốt cho sức khỏe mà, nào, 3, 2, 1, nằm——",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 855,
+      "title": "Tâm sự-06",
+      "text": "Chỉ huy cũng thích chơi game à? Tôi có thể cho bạn mượn tài khoản của tôi, ID là……\"Quyền Mèo Hồng\", hừ hừ, tên hay đúng không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Friendliness_010.wav"
+    },
+    {
+      "id": 856,
+      "title": "Tâm sự-07",
+      "text": "À……tôi chỉ đến tham quan phòng chỉ huy thôi, Chỉ huy đừng bận tâm đến tôi……ồ~ cái ghế này trông ngủ êm quá, tôi để ít đồ ăn vặt ở đây được không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Friendliness_011.wav"
+    },
+    {
+      "id": 858,
+      "title": "Tâm sự-08",
+      "text": "Ưm, Chỉ huy, có phải bạn lén dùng công tắc không? Sao nghe bạn nói xong tôi chẳng buồn ngủ chút nào?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 860,
+      "title": "Vào đội",
+      "text": "Vâng, vâng, Mechty không cáu kỉnh lại dễ xài đây……Chỉ huy, hành lý của tôi chắc đã gửi tới trước rồi chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 509,
+      "title": "Ngữ khí-01",
+      "text": "Buồn ngủ quá……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 510,
+      "title": "Ngữ khí-02",
+      "text": "Đến rồi đến rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 511,
+      "title": "Ngữ khí-03",
+      "text": "Không phải chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 512,
+      "title": "Ngữ khí-04",
+      "text": "Hà……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 513,
+      "title": "Ngữ khí-05",
+      "text": "Zzzzz……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 514,
+      "title": "Ngữ khí-06",
+      "text": "Đừng kéo tôi mà……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 515,
+      "title": "Ngữ khí-07",
+      "text": "Sao vẫn còn nữa?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 516,
+      "title": "Ngữ khí-08",
+      "text": "Oa!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 517,
+      "title": "Ngữ khí-09",
+      "text": "Phiền thật……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 518,
+      "title": "Ngữ khí-10",
+      "text": "Xông lên!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 521,
+      "title": "Kỹ năng-01",
+      "text": "Tỉnh táo lên!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Skill_001.wav"
+    },
+    {
+      "id": 522,
+      "title": "Kỹ năng-02",
+      "text": "Xong sớm, về sớm!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Skill_002.wav"
+    },
+    {
+      "id": 523,
+      "title": "Kỹ năng-03",
+      "text": "Ura ura!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Hit_001.wav"
+    },
+    {
+      "id": 528,
+      "title": "Kỹ năng-04",
+      "text": "Suýt thật suýt thật.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 527,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Mơ đi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 524,
+      "title": "Hạ gục",
+      "text": "Câm miệng đi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Kill_001.wav"
+    },
+    {
+      "id": 525,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Cuối cùng cũng xong, về rồi tôi ngủ cả ngày được không? Mặc kệ, tôi ngủ trước đã……Zzzzzzz……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Win_001.wav"
+    },
+    {
+      "id": 526,
+      "title": "Kết thúc trận-Thua",
+      "text": "Hôm nay tôi cháy hết sạch rồi……lần này tạm rút lui chiến thuật đã, lần sau nhất định……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/MechtyCV/VO_Mechty_Single_Lose_001.wav"
+    }
+  ]
+}

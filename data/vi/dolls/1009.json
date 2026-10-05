@@ -1,0 +1,374 @@
+{
+  "id": 1009,
+  "name": "Colphne",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045413090.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 6,
+  "role_id": 3,
+  "team_id": 7,
+  "rarity_level": 4,
+  "rarity": "T-Doll Elite",
+  "role": "Support",
+  "attr": "Hydro",
+  "team": "Groza Squad",
+  "weapon": ".380 Curva",
+  "model": "SSD-62D",
+  "ammo_model": "HG",
+  "desc": "Tuy trông thường rất nhiệt tình, nhưng đôi khi cũng lộ ra vẻ lạnh nhạt hoàn toàn khác. Ống tiêm trong tay cô, rốt cuộc là để cứu người hay để giết người?",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/寇尔芙pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/寇尔芙移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014921523.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014931739.png"
+  },
+  "skins": [
+    {
+      "id": 30,
+      "name": "Đồ huấn luyện của Colphne",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763950434374.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763950445076.png"
+    },
+    {
+      "id": 31,
+      "name": "Tiếng Lòng Lặng Im",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763950462823.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763950479734.png"
+    }
+  ],
+  "gifs": [],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">CV tiếng Trung</td>\n<td style=\"text-align: center\">Hiểu Tứ Bạch</td>\n</tr>\n<tr style=\"text-align: center\">\n<td>CV tiếng Nhật</td>\n<td>Ōzora Naomi</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>515</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>503</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>7</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1787</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo <span style=\"color: #cc99ff\">Corrosion</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Phản Ứng Nhanh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784543821828.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Phản Ứng Nhanh Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764333543402.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Cứu Hộ Nguy Cấp",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544058084.png\"></p>\n</td>\n<td>\n<p>Cứu Hộ Nguy Cấp Lv.1</p>\n<p>Chủ động/Hồi máu/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764503955025.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, hồi HP bằng <span style=\"color: #ff9900\">100%</span> Tấn công và gây Hồi phục liên tục II và Ổn định liên tục I duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Ánh Sáng Nhỏ Chiến Trường",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544076498.png\"></p>\n</td>\n<td>\n<p>Ánh Sáng Chiến Trường Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Hồi máu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764504026077.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Hydro; và hồi HP bằng <span style=\"color: #ff9900\">100%</span> Tấn công cho đồng minh có HP thấp nhất.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Xử Lý Khẩn Cấp",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544092338.png\"></p>\n</td>\n<td>\n<p>Xử Lý Khẩn Cấp Lv.1</p>\n<p>Quyết thắng/Hồi máu/Hồi ổn định/Xua tan</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764504102810.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> đồng minh trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, hồi HP bằng <span style=\"color: #ff9900\">140%</span> Tấn công và <span style=\"color: #ff9900\">4 điểm</span> Chỉ số ổn định, xua tan <span style=\"color: #ff9900\">2</span> debuff, đồng thời giải trừ hiệu ứng khiêu khích và né tránh.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Phương Án Y Tế",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544113657.png\"></p>\n</td>\n<td>\n<p>Phương Án Y Tế Lv.1</p>\n<p>Bị động/Chi viện/Hồi ổn định</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764504159498.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, ưu tiên thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định, gây Tăng tấn công I lên đồng minh duy trì <span style=\"color: #ff9900\">2 hiệp</span>, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi hiệp. Khi chủ động hồi máu cho đồng minh, nếu mục tiêu đang Sụp Đổ Ổn Định, hồi thêm <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định, hồi chiêu <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Cứu Hộ Nguy Cấp Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu sau khi hồi máu mục tiêu đầy HP, gây ngẫu nhiên <span style=\"color: #ff9900\">1</span> buff lên nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, hồi HP bằng <span style=\"color: #ff9900\">100%</span> Tấn công, gây Hồi phục liên tục II và Ổn định liên tục I duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Nếu sau khi hồi máu mục tiêu đầy HP, gây ngẫu nhiên 1 buff lên nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Ánh Sáng Chiến Trường Lv.2</strong></td>\n<td style=\"text-align: center\">Hiệp này nhận thêm <span style=\"color: #ff9900\">1 lần</span> chi viện hành động.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Hydro; và hồi HP bằng <span style=\"color: #ff9900\">100%</span> Tấn công cho đồng minh có HP thấp nhất. Hiệp này nhận thêm <span style=\"color: #ff9900\">1 lần</span> chi viện hành động.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Phương Án Y Tế Lv.2</strong></td>\n<td style=\"text-align: center\">Chỉ số ổn định hồi phục tăng <span style=\"color: #ff9900\">2 điểm</span>.</td>\n<td style=\"text-align: center\">Khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, ưu tiên thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định, gây Tăng tấn công I lên đồng minh duy trì <span style=\"color: #ff9900\">2 hiệp</span>, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi hiệp. Khi chủ động hồi máu cho đồng minh, nếu mục tiêu đang Sụp Đổ Ổn Định, hồi thêm <span style=\"color: #ff9900\">4 điểm</span> Chỉ số ổn định, hồi chiêu <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Xử Lý Khẩn Cấp Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số lượng hồi máu tăng <span style=\"color: #ff9900\">10%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 đồng minh trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, hồi HP bằng <span style=\"color: #ff9900\">150%</span> Tấn công và <span style=\"color: #ff9900\">4 điểm</span> Chỉ số ổn định, xua tan <span style=\"color: #ff9900\">2</span> debuff, đồng thời giải trừ hiệu ứng khiêu khích và né tránh.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Phương Án Y Tế Lv.3</strong></td>\n<td style=\"text-align: center\">Thời gian hồi chiêu giảm <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, ưu tiên thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định, gây Tăng tấn công I lên đồng minh duy trì <span style=\"color: #ff9900\">2 hiệp</span>, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi hiệp. Khi chủ động hồi máu cho đồng minh, nếu mục tiêu đang Sụp Đổ Ổn Định, hồi thêm <span style=\"color: #ff9900\">4 điểm</span> Chỉ số ổn định, hồi chiêu <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Xử Lý Khẩn Cấp Lv.3</strong></td>\n<td style=\"text-align: center\">Chỉ số ổn định hồi phục tăng <span style=\"color: #ff9900\">1 điểm</span>.</td>\n<td style=\"text-align: center\">Chọn 1 đồng minh trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, hồi HP bằng <span style=\"color: #ff9900\">150%</span> Tấn công và <span style=\"color: #ff9900\">5 điểm</span> Chỉ số ổn định, xua tan <span style=\"color: #ff9900\">2</span> debuff, đồng thời giải trừ hiệu ứng khiêu khích và né tránh.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544133766.png\"></td>\n<td>\n<h2>Contract Key·Chẩn Trị Hệ Chữa Lành</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764504267302.png\" width=\"20\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764504276428.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544148255.png\"></td>\n<td>\n<h2>Fixed Key·Tuân Theo Y Lệnh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Kỹ năng chủ động Cứu Hộ Nguy Cấp gây Tăng phòng thủ I và Yểm hộ lên mục tiêu, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544168224.png\"></td>\n<td>\n<h2>Fixed Key·Phẫu Thuật Nhanh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu đồng minh bị tấn công rồi rơi vào Sụp Đổ Ổn Định, bản thân nhận Tăng di chuyển II duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544186658.png\"></td>\n<td>\n<h2>Fixed Key·Xe Cấp Cứu Trực Tiếp</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Hiệu quả kỹ năng chủ động Ánh Sáng Chiến Trường tăng, đồng thời hồi HP cho đồng minh trong bán kính 3 ô quanh bản thân.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544199211.png\"></td>\n<td>\n<h2>Fixed Key·Quân Y Chiến Trường</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi HP bản thân cao hơn 80%, Tấn công tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544216022.png\"></td>\n<td>\n<h2>Fixed Key·Tĩnh Dưỡng Chữa Lành</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi hồi máu, xua tan ngẫu nhiên 1 debuff của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544228981.png\"></td>\n<td>\n<h2>Fixed Key·Hồi Phục Tức Thì</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi chủ động hồi máu, nếu HP mục tiêu thấp hơn 50%, hiệu quả hồi máu lần này tăng 20%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544246023.png\"></td>\n<td>\n<h2>Common Key·Sinh Mệnh Hư Cấu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764504507641.png\" width=\"20\"></sub>HP +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Trước khi chủ động hồi máu đơn mục tiêu, xua tan ngẫu nhiên 1 debuff trên mục tiêu.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544259699.png\"></td>\n<td>\n<h2>Expansion Key·Chuyên Gia Giải Tỏa Cảm Xúc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi chi viện hành động, hồi HP bằng 50% Tấn công và 1 điểm Chỉ số ổn định cho đồng minh đang tấn công.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Đồng minh có HP từ 50% trở xuống nhận hiệu quả hồi máu tăng 8%, không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Support*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Support*9 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Hydro gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*11 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra của toàn bộ đồng minh tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*7 Support*15 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*8 Support*18 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Hiệu quả hồi máu của bản thân tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763995205184.png\"></td>\n<td>\n<h1><strong>Papa-Figo &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10001\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng ngắn/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng ngắn hiệu năng cao, thiết kế tinh xảo và khéo léo. Tên do nhà thiết kế vũ khí đặt, nghe nói bắt nguồn từ một loài quái vật chuyên ăn thịt trẻ con không ngoan.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nhật ký viễn hành</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=251&amp;hash_flag=2\"><img style=\"display: block; margin: 0 auto\" src=\"https://community.cdn.sunborngame.com/prod/image/1717560904483.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; Tuy trông thường rất nhiệt tình, nhưng đôi khi cũng lộ ra vẻ lạnh nhạt hoàn toàn khác. Ống tiêm trong tay cô, rốt cuộc là để cứu người hay để giết người?</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778483554175.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778483554048.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778483554176.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778314554780.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314478511.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314554742.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314554743.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314478638.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314554624.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314554782.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314554779.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314564296.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/变欧.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/谢谢.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091382506.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091478020.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091495275.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091507715.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779166537846.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 531,
+      "title": "Thường ngày-01",
+      "text": "Hây hây~ Chỉ huy? Có cần em giúp gì không? Giờ em đang rảnh·rỗi·lắm đó nha——",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Daily_001.wav"
+    },
+    {
+      "id": 532,
+      "title": "Thường ngày-02",
+      "text": "Chào buổi sáng Chỉ huy~ Ừm, trông ngài không được tỉnh táo nhỉ, cần thuốc tỉnh não không? Hoàn·toàn vô hại nha~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Daily_002.wav"
+    },
+    {
+      "id": 537,
+      "title": "Thường ngày-03",
+      "text": "Hây——a! Giật mình hả Chỉ huy? Hihi, xin lỗi mà…… Không sao đâu? Chỉ là rảnh——quá nên muốn đến quấy rầy Chỉ huy đang làm việc chăm·chỉ thôi~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Daily_007.wav"
+    },
+    {
+      "id": 539,
+      "title": "Thường ngày-05",
+      "text": "Tùy tiện xoa đầu em là phải trả giá đó nha? Dù là Chỉ huy—— cũng·không·ngoại·lệ~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Daily_009.wav"
+    },
+    {
+      "id": 541,
+      "title": "Nâng cấp-01",
+      "text": "À, cảm ơn nha~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Up_001.wav"
+    },
+    {
+      "id": 542,
+      "title": "Nâng cấp-02",
+      "text": "Ừm ừm!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Up_002.wav"
+    },
+    {
+      "id": 543,
+      "title": "Nâng cấp-03",
+      "text": "Hả? Được sao~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Up_003.wav"
+    },
+    {
+      "id": 544,
+      "title": "Nâng cấp-04",
+      "text": "Hihi~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Up_004.wav"
+    },
+    {
+      "id": 545,
+      "title": "Nâng cấp-05",
+      "text": "Vẫn cần……mạnh hơn nữa……!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Up_005.wav"
+    },
+    {
+      "id": 549,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls'——Frontline 2: Exilium~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765946777924.wav"
+    },
+    {
+      "id": 550,
+      "title": "Đăng nhập",
+      "text": "Ừm, hôm nay làm gì đây ta~?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Login_001.wav"
+    },
+    {
+      "id": 551,
+      "title": "Tâm sự-01",
+      "text": "Hửm? Chỉ huy cần gì à~? Chuyện y tế thì cứ nói với em nhé~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 552,
+      "title": "Tâm sự-02",
+      "text": "Không sao đâu, thương nặng cỡ nào em cũng——chữa được hết. À, điều kiện là phải còn sống mới được.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 553,
+      "title": "Tâm sự-03",
+      "text": "Vật tư y tế sao lại không đủ rồi—— ừm, dạo này Chỉ huy hay bị thương…… Chỉ huy, dạo này hãy nghỉ ngơi cho tử tế nhé, cơ thể mà có vấn đề thì phiền phức lắm đó~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 554,
+      "title": "Tâm sự-04",
+      "text": "Sao lại làm mình tả tơi thế này nữa? Chỉ huy đâu thể thay thân thể gốc, cũng không thể giữ lại tâm trí…… Woa? Biểu cảm này? \"Chỉ huy đau đớn gục ngã\", em mong chờ lắm đó.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 555,
+      "title": "Tâm sự-05",
+      "text": "Chỉ huy—— Chỉ huy! À, thì ra ở đây. Ừm, trốn việc là không được đâu nha~ Cần em tiếp tế một ống thuốc tăng·động·lực không~? —— Hây da, tác dụng phụ? Làm gì có chuyện đó?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 557,
+      "title": "Tâm sự-06",
+      "text": "……Cảm giác này……hơi、kỳ lạ…… Ưm oa—— Chỉ huy đã làm gì vậy?…… Nếu em phát hiện ra, hậu·quả·tự·chịu nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 560,
+      "title": "Tâm sự-07",
+      "text": "Chỉ huy, Chỉ huy?……Hình như, em vừa mơ một giấc mơ. T-Doll cũng biết mơ sao?……Hay là, đó là thật……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Friendliness_010.wav"
+    },
+    {
+      "id": 562,
+      "title": "Tâm sự-08",
+      "text": "Chỉ、Chỉ huy!……Em có thể ở lại không?……Như bây giờ là được rồi……Như……bây giờ này……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Friendliness_012.wav"
+    },
+    {
+      "id": 565,
+      "title": "Vào đội",
+      "text": "Ưm oa~ Có rắc rối to——đùng xuất hiện sao~? Em có thể cân nhắc giúp giải quyết nha~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Obtain_SR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 330,
+      "title": "Ngữ khí-01",
+      "text": "Hà~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 331,
+      "title": "Ngữ khí-02",
+      "text": "biu~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 332,
+      "title": "Ngữ khí-03",
+      "text": "Ồ~?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 333,
+      "title": "Ngữ khí-04",
+      "text": "Ừm……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 334,
+      "title": "Ngữ khí-05",
+      "text": "Vậy sao.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 335,
+      "title": "Ngữ khí-06",
+      "text": "Tránh ra.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 336,
+      "title": "Ngữ khí-07",
+      "text": "Hừ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 337,
+      "title": "Ngữ khí-08",
+      "text": "Ở đâu~?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 338,
+      "title": "Ngữ khí-09",
+      "text": "Ở đây à.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 339,
+      "title": "Ngữ khí-10",
+      "text": "Ngây thơ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 342,
+      "title": "Kỹ năng-01",
+      "text": "Thiết bị trị liệu sẵn sàng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Skill_001.wav"
+    },
+    {
+      "id": 343,
+      "title": "Kỹ năng-02",
+      "text": "Giết·ngươi·nha~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Skill_002.wav"
+    },
+    {
+      "id": 344,
+      "title": "Kỹ năng-03",
+      "text": "Ây da—— xin lỗi nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Hit_001.wav"
+    },
+    {
+      "id": 350,
+      "title": "Kỹ năng-04",
+      "text": "Là mũi tiêm tăng cường đó~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 348,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Đừng hòng lại gần!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Ultimate_SR_001.wav"
+    },
+    {
+      "id": 345,
+      "title": "Hạ gục",
+      "text": "Kết thúc rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Kill_001.wav"
+    },
+    {
+      "id": 346,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Thắng rồi? Đương——nhiên rồi, em sẽ không nương tay đâu~ Đúng vậy, tất cả、những kẻ cản đường em……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Win_001.wav"
+    },
+    {
+      "id": 347,
+      "title": "Kết thúc trận-Thua",
+      "text": "Việc nhất định phải làm……vẫn chưa xong. Em chưa thể、dừng lại ở đây……tuyệt đối không——",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/ColphneCV/VO_Colphne_Single_Lose_001.wav"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "id": 1061,
+  "name": "Balthilde",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044677260.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 1,
+  "role_id": 3,
+  "team_id": 12,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Support",
+  "attr": "Physical",
+  "team": "Doll Community",
+  "weapon": "Lahti-Saloranta M/26",
+  "model": "SSD-62D",
+  "ammo_model": "MG",
+  "desc": "Là một T-Doll, ấn tượng đầu tiên cô để lại là người nóng tính, khi giao tiếp dễ bồn chồn, nhất là khi bị hiểu lầm thì sự bồn chồn càng rõ rệt, thậm chí đến mức luống cuống tay chân, cố chấp chui vào ngõ cụt. Nhưng thực ra đó chỉ là vì cô không giỏi biểu đạt bản thân. Tìm hiểu sâu hơn sẽ thấy cô là người nghiêm túc, cẩn thận, làm việc tỉ mỉ không sai một li.\n“...Giữ nụ cười, ánh mắt đừng quá dữ, giữ nụ cười... Trông tôi vẫn còn nghiêm nghị lắm sao? Tôi vẫn đang học cách mỉm cười, bạn kiên nhẫn một chút nhé.”",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1764140502768.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1764140541241.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013659402.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013667679.png"
+  },
+  "skins": [],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768216123445.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768216138326.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768216153529.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Ryōji</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Akesaka Satomi</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>670</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>569</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>2006</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Light Ammo&nbsp;<span style=\"color: #00ccff\">Hydro</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Thường·Đập Tôi Lạnh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546511422.png\"></p>\n</td>\n<td>\n<p>Đả Kích Lạnh Tôi Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764399309416.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Giao Thức Gia Cố",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546541558.png\"></p>\n</td>\n<td>\n<p>Giao Thức Gia Cố Lv.1</p>\n<p>Chủ động / Triệu hồi / Phòng hộ</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764399412455.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 ô trống trong bán kính 8 ô xung quanh, triệu hồi Cấu Trang Hiệp Phòng. Nếu Cấu Trang Hiệp Phòng tồn tại, chuyển nó đến ô địa hình đã chọn. Nếu hiệp này chưa dùng kỹ năng chủ động Giao Thức Phá Dỡ, có thể dùng một lần Giao Thức Phá Dỡ. Sau khi Cấu Trang Hiệp Phòng chết, kỹ năng vào hồi chiêu 3 hiệp.</p>\n<p><br>Sau khi Cấu Trang Hiệp Phòng chết, kỹ năng vào hồi chiêu <span style=\"color: #ff9900\">3 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Giao Thức Phá Dỡ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546559402.png\"></p>\n</td>\n<td>\n<p>Giao Thức Phá Dỡ Lv.1</p>\n<p>Chủ động / Triệu hồi</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764399487667.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 ô trống trong bán kính 8 ô xung quanh, triệu hồi Cấu Trang Hiệp Chiến. Nếu Cấu Trang Hiệp Chiến tồn tại, chuyển nó đến ô địa hình đã chọn. Nếu hiệp này chưa dùng kỹ năng chủ động Giao Thức Gia Cố, có thể dùng một lần Giao Thức Gia Cố. Sau khi Cấu Trang Hiệp Chiến chết, kỹ năng vào hồi chiêu 3 hiệp.</p>\n<p><br>Sau khi Cấu Trang Hiệp Chiến chết, kỹ năng vào hồi chiêu <span style=\"color: #ff9900\">3 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết Thắng·Sóng Giận Liên Hoàn",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546574296.png\"></p>\n</td>\n<td>\n<p>Sóng Dữ Nổ Chuỗi Lv.1</p>\n<p>Quyết thắng/Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1764399593592.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây sát thương Physical diện rộng bằng <span style=\"color: #ff9900\">100%</span> Tấn công lên mọi kẻ địch trong hình quạt <span style=\"color: #ff9900\">6 ô</span> phía trước.<br>Thời gian hồi chiêu của kỹ năng chủ động Giao Thức Gia Cố và kỹ năng chủ động Giao Thức Phá Dỡ giảm <span style=\"color: #ff9900\">1 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3 Tiêu hao Infection: 6</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Hiệu Chỉnh Cờ Lê",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546586346.png\"></p>\n</td>\n<td>\n<p>Hiệu Chỉnh Cờ Lê Lv.1</p>\n<p>Bị động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764399662076.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sau đánh thường, nhận 1 điểm Infection Index. Khi đồng minh (trừ bản thân) tấn công Physical chủ động, bản thân nhận 1 điểm Infection Index, tối đa 2 điểm mỗi hiệp. Cứ mỗi 1 điểm Infection Index nhận được, gây 1 tầng Đột Phá Hiệu Năng lên mọi Cấu Trang. Khi Cấu Trang có 10 tầng Đột Phá Hiệu Năng chết, kẻ địch trong bán kính 3 ô quanh nó chịu sát thương Physical bằng 100% Phòng thủ của Cấu Trang (không kích hoạt tấn công chi viện, phục kích và phản công).</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Giao Thức Phá Dỡ Lv.2</strong></td>\n<td style=\"text-align: center\">Tầm bắn của đánh thường Kỹ Xảo Tháo Dỡ của Cấu Trang Hiệp Chiến mở rộng đến <span style=\"color: #ff9900\">5 ô</span>, đồng thời khi tấn công gây Khe Nứt Ứng Lực lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cấu Trang Hiệp Chiến thêm kỹ năng bị động Cải Tạo Bổ Sung, khi xuất hiện gây <span style=\"color: #ff9900\">4 điểm</span> sát thương ổn định lên kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> xung quanh, và gây Khe Nứt Ứng Lực, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n<td style=\"text-align: center\">Chọn 1 ô trống trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, triệu hồi Cấu Trang Hiệp Chiến. Nếu Cấu Trang Hiệp Chiến tồn tại, chuyển nó đến ô địa hình đã chọn. Nếu hiệp này chưa dùng kỹ năng chủ động Giao Thức Gia Cố, có thể dùng một lần Giao Thức Gia Cố. Sau khi Cấu Trang Hiệp Chiến chết, kỹ năng vào hồi chiêu <span style=\"color: #ff9900\">3 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Giao Thức Gia Cố Lv.2</strong></td>\n<td style=\"text-align: center\">Phạm vi hiệu lực kỹ năng của Cấu Trang Hiệp Chiến mở rộng đến <span style=\"color: #ff9900\">5 ô</span>. Kỹ năng bị động Tập Trung Sửa Chữa thêm hiệu ứng: hồi HP bằng <span style=\"color: #ff9900\">100%</span> Phòng thủ và <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định cho đồng minh kết thúc hành động trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh bản thân, đồng thời gây Khế Ước Bảo Hộ, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Kỹ năng bị động Ý Thức An Toàn thêm hiệu ứng: khi xuất hiện, phục hồi độ bền của mọi vật cản trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh bản thân.</td>\n<td style=\"text-align: center\">Chọn 1 ô trống trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, triệu hồi Cấu Trang Hiệp Phòng. Nếu Cấu Trang Hiệp Phòng tồn tại, chuyển nó đến ô địa hình đã chọn. Nếu hiệp này chưa dùng kỹ năng chủ động Giao Thức Phá Dỡ, có thể dùng một lần Giao Thức Phá Dỡ. Sau khi Cấu Trang Hiệp Phòng chết, kỹ năng vào hồi chiêu <span style=\"color: #ff9900\">3 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Sóng Dữ Nổ Chuỗi Lv.2</strong></td>\n<td style=\"text-align: center\">Xóa thời gian hồi chiêu của kỹ năng chủ động Giao Thức Gia Cố và kỹ năng chủ động Giao Thức Phá Dỡ. Hồi HP bằng <span style=\"color: #ff9900\">100%</span> Tấn công cho toàn thể đồng minh, đồng thời gây Cấu Kiện Chịu Lực, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n<td style=\"text-align: center\">Chọn 1 hướng xung quanh, gây sát thương Physical diện rộng bằng <span style=\"color: #ff9900\">100%</span> Tấn công lên mọi kẻ địch trong hình quạt <span style=\"color: #ff9900\">6 ô</span> phía trước, đồng thời gây Cấu Kiện Chịu Lực, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Xóa thời gian hồi chiêu của kỹ năng chủ động Giao Thức Gia Cố và kỹ năng chủ động Giao Thức Phá Dỡ.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Giao Thức Phá Dỡ Lv.3</strong></td>\n<td style=\"text-align: center\">Thời gian hồi chiêu kỹ năng giảm <span style=\"color: #ff9900\">1 hiệp</span>. Tấn công và Phòng thủ kế thừa của Cấu Trang Hiệp Chiến lần lượt tăng lên <span style=\"color: #ff9900\">100%</span>. Số lần tấn công của đánh thường Cấu Trang Hiệp Chiến tăng <span style=\"color: #ff9900\">1 lần</span>.</td>\n<td style=\"text-align: center\">Chọn 1 ô trống trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, triệu hồi Cấu Trang Hiệp Chiến. Nếu Cấu Trang Hiệp Chiến tồn tại, chuyển nó đến ô địa hình đã chọn. Nếu hiệp này chưa dùng kỹ năng chủ động Giao Thức Gia Cố, có thể dùng một lần Giao Thức Gia Cố. Sau khi Cấu Trang Hiệp Chiến chết, kỹ năng vào hồi chiêu <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Giao Thức Gia Cố Lv.3</strong></td>\n<td style=\"text-align: center\">Thời gian hồi chiêu kỹ năng giảm <span style=\"color: #ff9900\">1 hiệp</span>. Tấn công và Phòng thủ kế thừa của Cấu Trang Hiệp Phòng lần lượt tăng lên <span style=\"color: #ff9900\">100%</span>. Tăng hiệu quả kỹ năng bị động Ý Thức An Toàn, HP hồi khi xuất hiện tăng lên <span style=\"color: #ff9900\">200%</span>, Chỉ số ổn định tăng lên <span style=\"color: #ff9900\">4 điểm</span>. Tăng hiệu quả kỹ năng bị động Tập Trung Sửa Chữa, không còn giới hạn ở đồng minh không được giảm sát thương từ vật cản, mọi đồng minh trong phạm vi đều giảm <span style=\"color: #ff9900\">30%</span> sát thương nhận vào.</td>\n<td style=\"text-align: center\">Chọn 1 ô trống trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, triệu hồi Cấu Trang Hiệp Phòng. Nếu Cấu Trang Hiệp Phòng tồn tại, chuyển nó đến ô địa hình đã chọn. Nếu hiệp này chưa dùng kỹ năng chủ động Giao Thức Phá Dỡ, có thể dùng một lần Giao Thức Phá Dỡ. Sau khi Cấu Trang Hiệp Phòng chết, kỹ năng vào hồi chiêu <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Hiệu Chỉnh Cờ Lê Lv.2</strong></td>\n<td style=\"text-align: center\">Cứ mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index có, hệ số sát thương của đánh thường Đả Kích Lạnh Tôi tăng <span style=\"color: #ff9900\">5%</span>. Tăng hiệu quả Đột Phá Hiệu Năng, Tấn công và Phòng thủ đều tăng lên <span style=\"color: #ff9900\">5%</span>.</td>\n<td style=\"text-align: center\">Sau đánh thường, nhận <span style=\"color: #ff9900\">1 điểm</span> <span style=\"color: #00ccff\">Infection Index</span>. Khi đồng minh (trừ bản thân) tấn công Physical chủ động, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, tối đa <span style=\"color: #ff9900\">2 điểm</span> mỗi hiệp. Cứ mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index nhận được, khi Cấu Trang bị gây <span style=\"color: #ff9900\">1 tầng</span> Đột Phá Hiệu Năng chết, kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh nó chịu sát thương Physical bằng <span style=\"color: #ff9900\">100%</span> Phòng thủ của Cấu Trang (không kích hoạt tấn công chi viện, phục kích và phản công). Cứ mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index có, hệ số sát thương của đánh thường Đả Kích Lạnh Tôi tăng <span style=\"color: #ff9900\">5%</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546598550.png\"></td>\n<td>\n<h2>Contract Key·Tiếng Lòng Vụng Về</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764399878315.png\" width=\"20\" height=\"20\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764399965619.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546614222.png\"></td>\n<td>\n<h2>Fixed Key·Vụng Về Ăn Nói</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi tấn công chủ động, gây Khe Nứt Ứng Lực lên mục tiêu kẻ địch, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546628016.png\"></td>\n<td>\n<h2>Fixed Key·Nóng Tính</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546641272.png\"></td>\n<td>\n<h2>Fixed Key·Tấm Lòng Bị Hiểu Lầm</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kết thúc hành động, gây Giảm sát thương II lên các đơn vị phe ta gần đó không có vật cản trong toàn sân, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546655130.png\"></td>\n<td>\n<h2>Fixed Key·Mô-đun Chẩn Đoán Sự Cố</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kết thúc hành động, hồi 3 điểm Chỉ số ổn định cho T-Doll đồng minh có Chỉ số ổn định thấp nhất.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546668028.png\"></td>\n<td>\n<h2>Fixed Key·Cải Tạo Thực Dụng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi đồng minh bị tấn công, Cấu Trang Hiệp Phòng hồi 1 điểm Chỉ số ổn định cho họ.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546681210.png\"></td>\n<td>\n<h2>Fixed Key·Điều Khiển Cơ Khí</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi có Cấu Trang trên sân, sát thương ổn định bản thân gây ra tăng 3 điểm.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546692962.png\"></td>\n<td>\n<h2>Common Key·Thợ Khéo Tay</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764400274309.png\" width=\"20\"></sub>HP +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Phòng thủ của vật triệu hồi thực thể của bản thân tăng 7%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi vật triệu hồi thực thể của bản thân có trên sân, Phòng thủ của đồng minh tăng 5%. Không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Support*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Support*9 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*11 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra của toàn bộ đồng minh tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*7 Support*15 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Phòng thủ tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*8 Support*18 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi bắt đầu chiến đấu, Phòng thủ của 2 đồng minh có Phòng thủ ban đầu cao nhất tăng 3%, không cộng dồn.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763894328371.png\"></td>\n<td>\n<h1><strong>Njord &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10613\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng máy/Heavy Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng máy hiệu năng cao được cấp cho Balthilde, lấy Súng máy hạng nhẹ Lahti 26 làm nguyên mẫu, thông qua tăng cường hỏa lực và nâng tốc độ bắn, sức phá hoại được nâng vọt. Đã ra chiến trường thì cứ mạnh tay hơn chút nữa.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Cửa hàng tổ đội</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; Lúc mới ra đời, cô là T-Doll dân dụng sống trong tiệm sửa đồ điện ở thành phố vệ tinh. Để làm tốt hơn chức năng sửa chữa cơ khí, cô đã cắt giảm mô-đun phân tích và biểu đạt cảm xúc. Tuy nhiên, vì chủ tiệm qua đời bất ngờ không ai kế thừa, cô lưu lạc đến vùng ô nhiễm. Nhờ tay nghề vững vàng, cô theo Ullrid di cư, cuối cùng tạm định cư tại phế tích nhà máy nhiệt điện Mali. Hiện giờ cô dần có thể ứng phó với chiến đấu và sửa chữa, nhưng thỉnh thoảng cũng có chút cố chấp và hay nghĩ quẩn.</p>\n<p><br>&nbsp; \"Trước đây ở thành phố vệ tinh, tôi luôn lỡ lời làm mất lòng khách đến sửa đồ, giờ thì tốt rồi, chẳng còn khách nào cả. ”</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778228116573.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778234378954.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778234379083.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778234426794.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778234426948.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778234426795.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1752658946367.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1752658966676.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1752658995205.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1752659019472.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1752659061307.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1752659100587.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1752659229996.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1752659265121.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1752659305420.png\" style=\"max-width: 150px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 58,
+      "title": "Thường ngày-01",
+      "text": "……Giữ nụ cười, ánh mắt đừng dữ quá, giữ nụ cười…… Trông tôi vẫn còn nghiêm nghị à? Tôi vẫn đang học cách cười, anh/chị kiên nhẫn một chút.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Daily_001.wav"
+    },
+    {
+      "id": 59,
+      "title": "Thường ngày-02",
+      "text": "Thợ máy ở khu cộng đồng T-Doll áp lực không nhỏ, nhưng cô Mayling vẫn nhỉnh hơn một bậc.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Daily_002.wav"
+    },
+    {
+      "id": 60,
+      "title": "Thường ngày-03",
+      "text": "Tôi đang nghĩ gì ư? Không có gì, ngày tháng ở chỗ anh/chị dễ chịu quá, tôi hơi chưa quen, không biết cảm ơn anh/chị thế nào.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Daily_003.wav"
+    },
+    {
+      "id": 61,
+      "title": "Thường ngày-04",
+      "text": "Anh/chị có món nào không cần không? Tôi nhận hết cũng được. Không chỉ để sưu tầm kỷ niệm đâu, tiềm năng của những món đồ cũ đó, anh/chị còn chưa biết đâu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Daily_004.wav"
+    },
+    {
+      "id": 62,
+      "title": "Thường ngày-05",
+      "text": "Trước kia ở thành phố vệ tinh, tôi toàn nói sai lời làm phật lòng khách đến sửa đồ, giờ thì tốt rồi, chẳng còn khách nào nữa.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Daily_005.wav"
+    },
+    {
+      "id": 63,
+      "title": "Nâng cấp-01",
+      "text": "Thế này là xong rồi sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Up_001.wav"
+    },
+    {
+      "id": 64,
+      "title": "Nâng cấp-02",
+      "text": "Tạm chấp nhận được.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Up_002.wav"
+    },
+    {
+      "id": 65,
+      "title": "Nâng cấp-03",
+      "text": "Tiếp đi, vẫn chưa đủ mạnh.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Up_003.wav"
+    },
+    {
+      "id": 66,
+      "title": "Nâng cấp-04",
+      "text": "Có thể cải tạo tốt hơn, để tôi tự làm.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Up_004.wav"
+    },
+    {
+      "id": 67,
+      "title": "Nâng cấp-05",
+      "text": "……Cảm giác này, cũng không tệ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Up_005.wav"
+    },
+    {
+      "id": 68,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Title_001.wav"
+    },
+    {
+      "id": 69,
+      "title": "Đăng nhập",
+      "text": "Này, anh/chị đến làm gì…… Ờ, ý tôi là, anh/chị có gì cần tôi giúp thì cứ nói thẳng, không cần khách sáo với tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Login_001.wav"
+    },
+    {
+      "id": 70,
+      "title": "Tâm sự-01",
+      "text": "Anh/chị có đồ cần sửa không? Để ở đây đi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 71,
+      "title": "Tâm sự-02",
+      "text": "Cái tủ lạnh nhỏ đó anh/chị lấy dùng rồi à? Tôi nhặt đồng nát về cải tạo, anh/chị thích là được.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 72,
+      "title": "Tâm sự-03",
+      "text": "Nghe nói hôm qua anh/chị tìm máy sấy tóc khắp nơi, tôi làm cho anh/chị một cái rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 73,
+      "title": "Tâm sự-04",
+      "text": "Tôi chỉ sửa được máy móc, cơ thể anh/chị thì anh/chị phải tự bảo vệ cho tốt.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 74,
+      "title": "Tâm sự-05",
+      "text": "Xin chào, rất vui được gặp…… Không, tỏ ý tôn trọng phải dùng \"ngài\". Chào ngài, gặp được vui rất hôm nay tôi…… Không không không……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 75,
+      "title": "Tâm sự-06",
+      "text": "Kiểm tra bảo dưỡng ư? Tôi cũng tự làm được, nhưng anh/chị làm giúp tôi…… cũng được.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 76,
+      "title": "Tâm sự-07",
+      "text": "Hửm? Dạo này tôi nói chuyện dễ nghe hơn à? Vì, vì không muốn bị anh/chị ghét, nếu dịu dàng hơn nữa thì anh/chị sẽ thích tôi hơn chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 77,
+      "title": "Tâm sự-08",
+      "text": "Có chỗ nào gần anh/chị hơn phòng nghỉ không? Gầm bàn? Hay nhà chứa máy bay? Nói đi, chỗ nào tôi cũng đến.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 79,
+      "title": "Vào đội",
+      "text": "Thứ mà anh/chị coi là đồng nát sắt vụn, với tôi không phải rác mà là báu vật.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 39,
+      "title": "Ngữ khí-01",
+      "text": "Anh/chị gọi tôi à?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 40,
+      "title": "Ngữ khí-02",
+      "text": "Đã nhận.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 41,
+      "title": "Ngữ khí-03",
+      "text": "Đừng chạy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 42,
+      "title": "Ngữ khí-04",
+      "text": "Mục tiêu đâu?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 43,
+      "title": "Ngữ khí-05",
+      "text": "Đến rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 44,
+      "title": "Ngữ khí-06",
+      "text": "Làm gì?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 45,
+      "title": "Ngữ khí-07",
+      "text": "Biết rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 46,
+      "title": "Ngữ khí-08",
+      "text": "……Quả nhiên tôi ghét tranh đấu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 47,
+      "title": "Ngữ khí-09",
+      "text": "Hự! Tạm thời rút lui.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 48,
+      "title": "Ngữ khí-10",
+      "text": "Yêu cầu sửa chữa khẩn cấp.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Series_Tone_Negative_003.wav"
+    },
+    {
+      "id": 49,
+      "title": "Kỹ năng-01",
+      "text": "Linh kiện khá đấy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Skill_001.wav"
+    },
+    {
+      "id": 50,
+      "title": "Kỹ năng-02",
+      "text": "Cần sửa phải không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Skill_002.wav"
+    },
+    {
+      "id": 51,
+      "title": "Kỹ năng-03",
+      "text": "Chỉ cần là để bảo vệ……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Hit_001.wav"
+    },
+    {
+      "id": 56,
+      "title": "Kỹ năng-04",
+      "text": "Bảo dưỡng hoàn tất.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 55,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Yên tâm, tôi giỏi tận dụng mọi thứ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 52,
+      "title": "Hạ gục",
+      "text": "Phần còn lại tôi nhặt được không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Kill_001.wav"
+    },
+    {
+      "id": 53,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Đôi tay thợ sửa chữa này cũng có thể bảo vệ mọi người.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Win_001.wav"
+    },
+    {
+      "id": 54,
+      "title": "Kết thúc trận-Thua",
+      "text": "Chậc! Tôi sẽ không bỏ cuộc.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BalthildCV/VO_Balthild_Single_Lose_001.wav"
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": 1075,
+  "name": "Nemesis · Tia Sáng",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1773382626007.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 5,
+  "role_id": 4,
+  "team_id": 7,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Corrosion",
+  "team": "Groza Squad",
+  "weapon": ".50 Nemesis",
+  "model": "OBSRV-PRT-00",
+  "ammo_model": "RF",
+  "desc": "Nemesis trở về với thân thể ban đầu không chỉ thức tỉnh sức mạnh mới liên quan đến tương lai mà còn khôi phục chức năng giao tiếp bình thường — những lời nói tối nghĩa khó hiểu ngày trước, nay rốt cuộc không còn là rào cản.\n“...Ánh sáng tĩnh lặng, làn gió nhẹ gọi mời... Chỉ huy, ngài có muốn nghe lời bói hôm nay không?”",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1773382029789.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1773382036018.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013306025.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013311013.png"
+  },
+  "skins": [],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1773704413661.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1773704586275.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1773704685677.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Tần Tử Dực</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Endō Aya</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>827</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>543</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>5</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>1948<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Light Ammo&nbsp;<span style=\"color: #00ffff\">&nbsp;<span style=\"color: #00ccff\">Hydro</span></span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Sao Rơi",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1773705679457.png\"></p>\n</td>\n<td>\n<p>Sao Rơi Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1773629358701.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Cộng Hưởng Tai Ương",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1773456481471.png\" style=\"max-width: 75px\"></p>\n</td>\n<td>\n<p>Cộng Hưởng Tai Ương Lv.1</p>\n<p>Chủ động / Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1773629358701.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch mục tiêu trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, gây <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Corrosion lên chúng, bản thân nhận Dấu Dẫn Vận Rủi duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>, Thấu Thị duy trì <span style=\"color: #ff9900\">2 hiệp</span> và <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.<br>Nếu có Tiên Tri Thứ Năm: Tinh Quỹ, tầm chi viện hành động của Dấu Dẫn Vận Rủi đổi thành toàn chiến trường.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Hồi chiêu (hiệp): 1 Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Khúc Xạ Trong Lăng Kính",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1773456583164.png\" style=\"max-width: 76px\"></p>\n</td>\n<td>\n<p>Lăng Kính Khúc Xạ Lv.1</p>\n<p>Chủ động / Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1773629358701.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span>, gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Corrosion.<br>Nếu có Tiên Tri Thứ Nhất: Cộng Hưởng, hệ số sát thương tăng <span style=\"color: #ff9900\">20%</span>, trước kỹ năng nhận <span style=\"color: #ff9900\">1 tầng</span> Ngưng Thần.<br>Nếu có Tiên Tri Thứ Hai: Cô Ngạo, khi không có đồng minh trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân, sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>. Sau kỹ năng hồi cho bản thân HP bằng <span style=\"color: #ff9900\">15%</span> HP tối đa.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Hồi chiêu (hiệp): 1 Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Diễn Lại Vận Mệnh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1773456731387.png\" style=\"max-width: 75px\"></p>\n</td>\n<td>\n<p>Mệnh Đồ Diễn Lại Lv.1</p>\n<p>Quyết thắng / Diện rộng </p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1773629504344.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch mục tiêu trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, gây <span style=\"color: #ff9900\">140%</span> Tấn công sát thương Corrosion diện rộng lên nó và mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 1 ô</span> quanh nó, đồng thời tiêu hao toàn bộ Infection Index; mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>, và gây 1 sát thương ổn định.<br>Nếu có Tiên Tri Thứ Sáu: Tầm Nhìn, mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, sát thương gây ra tăng <span style=\"color: #ff9900\">10%</span>, và gây thêm <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Corrosion diện rộng cùng <span style=\"color: #ff9900\">1</span> sát thương ổn định lên mọi kẻ địch trong bán kính 3 ô quanh mục tiêu.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>Hồi chiêu (hiệp): 1 Tiêu hao Infection: 1</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Lời Thì Thầm Của Hi Ngạn",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1773456817040.png\" style=\"max-width: 75px\"></p>\n</td>\n<td>\n<p>Lời Thì Thầm Của Hy Ngạn Lv.1</p>\n<p>Bị động </p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1773629523654.png\" style=\"max-width: 147px\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương bản thân gây lên Paradeus tăng <span style=\"color: #ff9900\">20%</span>.<br>Lần đầu dùng kỹ năng chủ động Cộng Hưởng Tai Ương, nếu có đồng minh trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân thì nhận Tiên Tri Thứ Nhất: Cộng Hưởng; Nếu không có đồng minh trong bán kính 4 ô quanh bản thân thì nhận Tiên Tri Thứ Hai: Cô Ngạo.<br>Khi bắt đầu chiến đấu, nếu trên sân có kẻ địch thường thì nhận Tiên Tri Thứ Ba: Tai Biến; Nếu trên sân không có kẻ địch thường thì nhận Tiên Tri Thứ Tư: Phán Quyết; Nếu trên sân có <span style=\"color: #ff9900\">2</span> T-Doll đồng minh dùng súng bắn tỉa hoặc <span style=\"color: #ff9900\">2</span> T-Doll đồng minh loại Corrosion thì bản thân nhận Tiên Tri Thứ Năm: Tinh Quỹ; Nếu trên sân có <span style=\"color: #ff9900\">4</span> T-Doll đồng minh dùng súng bắn tỉa thì mọi T-Doll đồng minh dùng súng bắn tỉa nhận Tiên Tri Thứ Sáu: Tầm Nhìn.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Cộng Hưởng Tai Ương Lv.2</strong></td>\n<td style=\"text-align: center\">\n<p>Tăng hiệu quả Dấu Dẫn Vận Rủi, hệ số sát thương nâng lên <span style=\"color: #ff9900\">110%</span>, số lần chi viện hành động tăng 1, và hồi thêm <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</p>\n</td>\n<td style=\"text-align: center\">\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch mục tiêu trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, gây <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Corrosion lên chúng, bản thân nhận Dấu Dẫn Vận Rủi duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn, Thấu Thị duy trì <span style=\"color: #ff9900\">2 hiệp</span> và <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.<br>Nếu có Tiên Tri Thứ Năm: Tinh Quỹ, tầm chi viện hành động của Dấu Dẫn Vận Rủi đổi thành toàn chiến trường.</p>\n</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 2</strong></td>\n<td><strong>Mệnh Đồ Diễn Lại Lv.2</strong></td>\n<td>Thời gian hồi chiêu giảm <span style=\"color: #ff9900\">1 hiệp</span>, hệ số sát thương nâng lên <span style=\"color: #ff9900\">200%</span>. Nếu có Tiên Tri Thứ Năm: Tinh Quỹ, sát thương gây ra tăng <span style=\"color: #ff9900\">50%</span>.</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch mục tiêu trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, gây <span style=\"color: #ff9900\">200%</span> Tấn công sát thương Corrosion diện rộng lên nó và mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 1 ô</span> quanh nó, đồng thời tiêu hao toàn bộ Infection Index; mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>, và gây <span style=\"color: #ff9900\">1</span> sát thương ổn định.</p>\n<p>Nếu có Tiên Tri Thứ Năm: Tinh Quỹ, sát thương gây ra tăng <span style=\"color: #ff9900\">50%</span>.<br>Nếu có Tiên Tri Thứ Sáu, mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, sát thương gây ra tăng <span style=\"color: #ff9900\">10%</span>;, và gây thêm <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Corrosion diện rộng cùng <span style=\"color: #ff9900\">1</span> sát thương ổn định lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh mục tiêu.</p>\n</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Lời Thì Thầm Của Hy Ngạn Lv.2</strong></td>\n<td>Tăng hiệu quả Tiên Tri Thứ Nhất: Cộng Hưởng: Ngưng Thần có thể cộng dồn vô hạn và không bị gỡ khi tiêu hao Điểm hành động.<br>Tăng hiệu quả Tiên Tri Thứ Hai: Cô Ngạo: Điềm Báo được thay bằng Tiên Tri.</td>\n<td>Sát thương bản thân gây lên Paradeus tăng <span style=\"color: #ff9900\">20%</span>.<br>Lần đầu dùng kỹ năng chủ động Cộng Hưởng Tai Ương, nếu có đồng minh trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân thì nhận Tiên Tri Thứ Nhất: Cộng Hưởng; Nếu không có đồng minh trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân thì nhận Tiên Tri Thứ Hai: Cô Ngạo.<br>Khi bắt đầu chiến đấu, nếu trên sân có kẻ địch thường thì nhận Tiên Tri Thứ Ba: Tai Biến; Nếu trên sân không có kẻ địch thường thì nhận Tiên Tri Thứ Tư: Phán Quyết; Nếu trên sân có <span style=\"color: #ff9900\">2</span> T-Doll đồng minh dùng súng bắn tỉa hoặc <span style=\"color: #ff9900\">2</span> T-Doll đồng minh loại Corrosion thì bản thân nhận Tiên Tri Thứ Năm: Tinh Quỹ; Nếu trên sân có <span style=\"color: #ff9900\">4</span> T-Doll đồng minh dùng súng bắn tỉa thì mọi T-Doll đồng minh dùng súng bắn tỉa nhận Tiên Tri Thứ Sáu: Tầm Nhìn.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 4</strong></td>\n<td><strong>Lăng Kính Khúc Xạ Lv.2</strong></td>\n<td>Khi có Tiên Tri Thứ Nhất: Cộng Hưởng, hệ số sát thương nâng lên <span style=\"color: #ff9900\">40%</span>.<br>Khi có Tiên Tri Thứ Hai: Cô Ngạo và không có đồng minh trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân, sát thương gây ra nâng lên <span style=\"color: #ff9900\">40%</span>, lượng HP hồi sau kỹ năng nâng lên <span style=\"color: #ff9900\">30%</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span>, gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Corrosion.<br>Nếu có Tiên Tri Thứ Nhất: Cộng Hưởng, hệ số sát thương tăng <span style=\"color: #ff9900\">40%</span>, trước kỹ năng nhận <span style=\"color: #ff9900\">1 tầng</span> Ngưng Thần.<br>Nếu có Tiên Tri Thứ Hai: Cô Ngạo, khi không có đồng minh trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân, sát thương gây ra tăng <span style=\"color: #ff9900\">40%</span>. Sau kỹ năng hồi cho bản thân HP bằng <span style=\"color: #ff9900\">30%</span> HP tối đa.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Lời Thì Thầm Của Hy Ngạn Lv.3</strong></td>\n<td>Tăng hiệu quả Tiên Tri Thứ Ba: Tai Biến: hệ số sát thương tăng lên <span style=\"color: #ff9900\">80%</span>, phạm vi hiệu lực mở rộng <span style=\"color: #ff9900\">1 ô</span>.<br>Tăng hiệu quả Tiên Tri Thứ Tư: Phán Quyết: mức tăng hệ số sát thương của Đặc Quyền Phán Quyết nâng lên <span style=\"color: #ff9900\">40%</span>. Khi tấn công đơn vị tinh anh hoặc thủ lĩnh, mức bỏ qua phòng thủ mục tiêu của Đặc Quyền Phán Quyết nâng lên <span style=\"color: #ff9900\">35%</span>, mức tăng sát thương chí mạng của bản thân nâng lên <span style=\"color: #ff9900\">40%</span>, sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>.</td>\n<td>Sát thương bản thân gây lên Paradeus tăng <span style=\"color: #ff9900\">20%</span>.<br>Lần đầu dùng kỹ năng chủ động Cộng Hưởng Tai Ương, nếu có đồng minh trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân thì nhận Tiên Tri Thứ Nhất: Cộng Hưởng; Nếu không có đồng minh trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân thì nhận Tiên Tri Thứ Hai: Cô Ngạo.<br>Khi bắt đầu chiến đấu, nếu trên sân có kẻ địch thường thì nhận Tiên Tri Thứ Ba: Tai Biến; Nếu trên sân không có kẻ địch thường thì nhận Tiên Tri Thứ Tư: Phán Quyết; Nếu trên sân có <span style=\"color: #ff9900\">2</span> T-Doll đồng minh dùng súng bắn tỉa hoặc <span style=\"color: #ff9900\">2</span> T-Doll đồng minh loại Corrosion thì bản thân nhận Tiên Tri Thứ Năm: Tinh Quỹ; Nếu trên sân có <span style=\"color: #ff9900\">4</span> T-Doll đồng minh dùng súng bắn tỉa thì mọi T-Doll đồng minh dùng súng bắn tỉa nhận Tiên Tri Thứ Sáu: Tầm Nhìn.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Lời Thì Thầm Của Hy Ngạn Lv.4</strong></td>\n<td>Tăng hiệu quả Tiên Tri Thứ Năm: Tinh Quỹ: khi Thấu Thị Tinh Quỹ gây sát thương đơn mục tiêu, bỏ qua giảm sát thương của vật cản, bỏ yêu cầu phạm vi hiệu lực. Mỗi 1 ô cách mục tiêu, sát thương gây ra tăng thêm nâng lên <span style=\"color: #ff9900\">10%</span>, tối đa tăng <span style=\"color: #ff9900\">60%</span>. Tăng hiệu quả Tiên Tri Thứ Sáu: Tầm Nhìn: chi viện hành động Dấu Dẫn Vận Rủi kích hoạt lần đầu mỗi hiệp của bản thân được thay bằng việc dùng kỹ năng Quyết thắng Mệnh Đồ Diễn Lại, và coi như tiêu hao toàn bộ Infection Index.</td>\n<td>Sát thương bản thân gây lên Paradeus tăng <span style=\"color: #ff9900\">20%</span>.<br>Lần đầu dùng kỹ năng chủ động Cộng Hưởng Tai Ương, nếu có đồng minh trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân thì nhận Tiên Tri Thứ Nhất: Cộng Hưởng; Nếu không có đồng minh trong bán kính 4 ô quanh bản thân thì nhận Tiên Tri Thứ Hai: Cô Ngạo.<br>Khi bắt đầu chiến đấu, nếu trên sân có kẻ địch thường thì nhận Tiên Tri Thứ Ba: Tai Biến; Nếu trên sân không có kẻ địch thường thì nhận Tiên Tri Thứ Tư: Phán Quyết; Nếu trên sân có <span style=\"color: #ff9900\">2</span> T-Doll đồng minh dùng súng bắn tỉa hoặc <span style=\"color: #ff9900\">2</span> T-Doll đồng minh loại Corrosion thì bản thân nhận Tiên Tri Thứ Năm: Tinh Quỹ; Nếu trên sân có <span style=\"color: #ff9900\">4</span> T-Doll đồng minh dùng súng bắn tỉa thì mọi T-Doll đồng minh dùng súng bắn tỉa nhận Tiên Tri Thứ Sáu: Tầm Nhìn, chi viện hành động kích hoạt lần đầu mỗi hiệp của bản thân được thay bằng dùng kỹ năng chủ động Mệnh Đồ Diễn Lại, và coi như tiêu hao toàn bộ Infection Index.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1773706642090.png\"></td>\n<td>\n<h2>Contract Key·Thì Thầm</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1773395606577.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1773395592707.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1773395618272.png\" width=\"20\" height=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1773395662431.png\"></td>\n<td>\n<h2>Fixed Key·Mỏ Neo Đường Về</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1773395716990.png\"></td>\n<td>\n<h2>Fixed Key·Phán Đoán Sáng Suốt</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nhận Tiên Tri Thứ Nhất: Cộng Hưởng: khi Cộng Hưởng, tầm bắn của đánh thường Sao Rơi, kỹ năng chủ động Cộng Hưởng Tai Ương, kỹ năng chủ động Lăng Kính Khúc Xạ, kỹ năng Quyết thắng Mệnh Đồ Diễn Lại tăng 1 ô.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1773395755347.png\"></td>\n<td>\n<h2>Fixed Key·Bản Năng Kẻ Lang Thang</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi nhận Tiên Tri Thứ Hai: Cô Ngạo, nếu bản thân hạ gục thì nhận Ẩn Nấp, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1773395788697.png\"></td>\n<td>\n<h2>Fixed Key·Huyết Mạch Thể Miễn Dịch</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi nhận Tiên Tri Thứ Nhất: Cộng Hưởng, sau khi bản thân chi viện hành động, xua tan 1 buff của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1773395820816.png\"></td>\n<td>\n<h2>Fixed Key·Độc Thoại Của Tiên Tri</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi nhận Tiên Tri Thứ Hai: Cô Ngạo, Điểm hành động tăng 2 ô. Sau khi dùng kỹ năng chủ động Lăng Kính Khúc Xạ, nhận 4 ô di chuyển thêm.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1773395863754.png\"></td>\n<td>\n<h2>Fixed Key·Ban Phước Của Hy Ngạn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Cộng Hưởng Tai Ương, nếu có đồng minh trong bán kính 4 ô quanh bản thân thì nhận Tiên Tri Thứ Nhất: Cộng Hưởng; Nếu không có đồng minh trong bán kính 4 ô quanh bản thân thì nhận Tiên Tri Thứ Hai: Cô Ngạo. Tiên Tri Thứ Nhất: Cộng Hưởng và Tiên Tri Thứ Hai: Cô Ngạo chỉ tồn tại 1 cái cùng lúc.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1773395893678.png\"></td>\n<td>\n<h2>Common Key·Ý Chí Báo Thù</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1773395965487.png\" width=\"20\" height=\"20\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nếu trên sân có 2 T-Doll đồng minh dùng súng bắn tỉa hoặc 2 T-Doll đồng minh loại Corrosion, sát thương bản thân gây ra tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hình thái hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp mở khóa</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Nhân tố hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu quả</strong></span></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">Vanguard*2 Sentinel*5</td>\n<td style=\"text-align: center\">Sát thương của đòn tấn công chi viện tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">Vanguard*3 Sentinel*8</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">Bulwark*1 Vanguard*4 Sentinel*9</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Corrosion gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">Bulwark*2 Vanguard*6 Sentinel*11</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">Bulwark*2 Vanguard*7 Sentinel*15</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">Bulwark*3 Vanguard*8 Sentinel*18</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây lên kẻ địch ngoài bán kính 5 ô quanh bản thân tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1773403993672.png\"></td>\n<td>\n<h1><strong>Sibyl &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10753\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng bắn tỉa/Heavy Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng bắn tỉa đặc chế phân phát cho Nemesis, lấy Nemesis làm nguyên mẫu, nâng cao rõ rệt độ chính xác tuyệt đối và độ ổn định ở tầm bắn cực hạn—có lẽ lần này, cô có thể nhờ nó chạm tới chân lý.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; </span><span style=\"color: #ff6600\">Sự kiện giới hạn</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=119857&amp;hash_flag=2\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/image/1773802913753.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=121523&amp;hash_flag=2\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/image/1775620631275.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<div>\n<p>&nbsp; Từng là người quan sát lặng lẽ trong lăng kính, nay cô đã thức tỉnh sức mạnh mới, trở về bên bạn với dáng vẻ ung dung hơn.<br>Những lời từng khó hiểu, nay đã có thể truyền đạt rõ ràng đến từng đồng đội; Tương lai trước kia chỉ có thể xem trộm qua bói toán, giờ đây cũng có thể hiện ra bằng hành động thật—dù đại cục của vận mệnh vẫn chưa thể giải mã, chỉ cần có bạn ở đây, con đường phía trước sẽ sáng tỏ.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778145647960.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778145670712.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145670700.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145670701.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145670710.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1773651141629.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1773651152572.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1773651161794.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1773651175951.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1773651190921.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1773651209489.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1773651219558.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1773651234025.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1773651244519.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779167104399.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779167104278.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1675,
+      "title": "Thường ngày-01",
+      "text": "Chỉ huy, chào buổi sáng. Ừm…… quả nhiên ngài vẫn chưa quen phong cách ngôn ngữ hiện giờ của tôi. Không sao, tôi hoàn toàn hiểu phản ứng của ngài. Nếu Krolik đột nhiên biết suy nghĩ, tôi cũng sẽ ngạc nhiên.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698024745.wav"
+    },
+    {
+      "id": 1676,
+      "title": "Thường ngày-02",
+      "text": "Tôi luôn như lạc giữa màn sương xám chỉ có cái chết và không khí, cho đến khi tôi thấy ngọn hải đăng của riêng mình. Chỉ huy, anh có biết đó là ai không……? Hề hề, bí mật.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698044905.wav"
+    },
+    {
+      "id": 1677,
+      "title": "Thường ngày-03",
+      "text": "Qua những lỗ hổng, tôi vẫn còn thấy……tia sáng sót lại của quá khứ. Trong tòa cổ bảo ấy, thân tộc của tôi, bạn bè của tôi……họ từng ở bên tôi. Bóng hình xưa đã khuất, quanh quẩn……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698059241.wav"
+    },
+    {
+      "id": 1678,
+      "title": "Thường ngày-04",
+      "text": "……Cơn gió dữ bất chợt nổi lên……than thở……tĩnh lặng cuộn trào……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698261866.wav"
+    },
+    {
+      "id": 1679,
+      "title": "Thường ngày-05",
+      "text": "……Trong suốt thuần khiết……yên bình sáng tỏ……phòng gương……tảng đá vững chắc……nương tựa trong nghịch cảnh……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698304080.wav"
+    },
+    {
+      "id": 1680,
+      "title": "Nâng cấp-01",
+      "text": "……patefactast……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698323580.wav"
+    },
+    {
+      "id": 1681,
+      "title": "Nâng cấp-02",
+      "text": "……Lời gọi……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698345223.wav"
+    },
+    {
+      "id": 1682,
+      "title": "Nâng cấp-03",
+      "text": "……nusquam……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698367389.wav"
+    },
+    {
+      "id": 1683,
+      "title": "Nâng cấp-04",
+      "text": "Kết nối chính xác.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698385776.wav"
+    },
+    {
+      "id": 1684,
+      "title": "Nâng cấp-05",
+      "text": "Noi theo……khải thị của ánh sáng.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698404498.wav"
+    },
+    {
+      "id": 1685,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698418397.wav"
+    },
+    {
+      "id": 1686,
+      "title": "Đăng nhập",
+      "text": "……Ánh sáng tĩnh lặng, gió nhẹ gọi mời……Chỉ huy, hôm nay anh có muốn nghe lời bói toán không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698433275.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1090,
+      "title": "Ngữ khí-01",
+      "text": "Lắng nghe……lời cầu nguyện của trí tuệ……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773709521070.wav"
+    },
+    {
+      "id": 1091,
+      "title": "Ngữ khí-02",
+      "text": "……Oras……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773709769087.wav"
+    },
+    {
+      "id": 1092,
+      "title": "Ngữ khí-03",
+      "text": "……Tan biến……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773709734885.wav"
+    },
+    {
+      "id": 1093,
+      "title": "Ngữ khí-04",
+      "text": "Chờ lệnh.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698507512.wav"
+    },
+    {
+      "id": 1094,
+      "title": "Ngữ khí-05",
+      "text": "Lời tiên tri xác định.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698519587.wav"
+    },
+    {
+      "id": 1095,
+      "title": "Ngữ khí-06",
+      "text": "Xin anh chỉ thị.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698535149.wav"
+    },
+    {
+      "id": 1096,
+      "title": "Ngữ khí-07",
+      "text": "……Ánh lửa, gọi mời……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698548310.wav"
+    },
+    {
+      "id": 1097,
+      "title": "Ngữ khí-08",
+      "text": "Ưm……!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698560290.wav"
+    },
+    {
+      "id": 1098,
+      "title": "Ngữ khí-09",
+      "text": "……Hà……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698574153.wav"
+    },
+    {
+      "id": 1099,
+      "title": "Ngữ khí-10",
+      "text": "……Khụ!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698589902.wav"
+    },
+    {
+      "id": 1100,
+      "title": "Kỹ năng-01",
+      "text": "……Nhân danh chân lý và trang nghiêm……xin dâng……!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698606275.wav"
+    },
+    {
+      "id": 1101,
+      "title": "Kỹ năng-02",
+      "text": "Bói toán, thành công.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698622304.wav"
+    },
+    {
+      "id": 1102,
+      "title": "Kỹ năng-03",
+      "text": "Chỉ dẫn, neo định.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698641024.wav"
+    },
+    {
+      "id": 1103,
+      "title": "Kỹ năng-04",
+      "text": "Nhìn trộm……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698658532.wav"
+    },
+    {
+      "id": 1104,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Vận mệnh, giáng tội nơi đây……!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698673654.wav"
+    },
+    {
+      "id": 1105,
+      "title": "Hạ gục",
+      "text": "……Tịch diệt……!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698689266.wav"
+    },
+    {
+      "id": 1106,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Khải thị đến từ bờ bên kia, soi sáng……chân lý và lạc lối.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698703742.wav"
+    },
+    {
+      "id": 1107,
+      "title": "Kết thúc trận-Thua",
+      "text": "……Con đường đọc sai……chìm đắm……xâm nhập……bóng tối của màn đêm……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1773698719174.wav"
+    }
+  ]
+}

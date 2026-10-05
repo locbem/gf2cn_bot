@@ -1,0 +1,384 @@
+{
+  "id": 1079,
+  "name": "Koleda",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1782373046254.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 6,
+  "role_id": 2,
+  "team_id": 13,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Vanguard",
+  "attr": "Hydro",
+  "team": "Task Force DEFY",
+  "weapon": "AR 12",
+  "model": "GOL-Loki-00",
+  "ammo_model": "AR",
+  "desc": "Thủ lĩnh sói ngày xưa của Task Force DEFY, sau ngày tồi tệ nhất đã gánh trách nhiệm dẫn dắt đồng đội đứng nốt ca gác cuối cùng, cuối cùng trao trách nhiệm và danh hiệu thủ lĩnh cho người đồng đội đáng tin cậy, còn bản thân chọn một cách khác để tiếp tục chiến đấu. Cho đến hôm nay, cô vẫn là AK-12 mà bạn quen thuộc, nhưng xin hãy hết sức cẩn thận — giờ đây cô còn nguy hiểm hơn.\n“Một con sói tuyết xuất sắc sẽ dùng tuyết trắng để ẩn mình, còn tôi giỏi hơn — dù toàn thân trắng muốt, tôi vẫn có thể ẩn vào bóng tối.”",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1782373081643.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1782373742372.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1782731848711.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1782731919284.png"
+  },
+  "skins": [
+    {
+      "id": 78,
+      "name": "Tiêu Điểm Đại Dương",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1782731944777.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1782731950157.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1782374115781.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1782374120960.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1782374125791.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Trương Kỳ</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Wake Asami</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=143\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>767</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>8</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>494</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>1988<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo Electric</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Bản Năng Truy Săn",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1773628647201.png\"><br></p>\n</td>\n<td>\n<p>Bản Năng Truy Săn Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1782380372341.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Hydro.<br><span style=\"color: #00ccff\">Tội nhân</span> nhận <span style=\"color: #00ccff\">Số N</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Mắt Sói Tuyết",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1782380436354.png\"><br></p>\n</td>\n<td>\n<p>Mắt Sói Tuyết Lv.1</p>\n<p>Chủ động / Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1782380446992.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">150%</span> Tấn công sát thương Hydro. Trước kỹ năng nhận <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Sau kỹ năng nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.<br>Tội nhân nhận <span style=\"color: #00ccff\">Số S+</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3 Hồi chiêu (hiệp): 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Lộ Thư Chiến Thuật",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1782380579141.png\"><br></p>\n</td>\n<td>\n<p>Lộ Thư Chiến Thuật Lv.1</p>\n<p>Chủ động / Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1782380524210.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Nhận <span style=\"color: #ff9900\">2 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Bản thân và <span style=\"color: #00ccff\">Tội nhân</span> nhận <span style=\"color: #00ccff\">Thu hồi động năng</span>, duy trì <span style=\"color: #ff9900\">3 hiệp</span>.<br>Tội nhân nhận <span style=\"color: #00ccff\">Số S</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Ảo Giác",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1782380594179.png\"><br></p>\n</td>\n<td>\n<p>Ảo Giác Lv.1</p>\n<p>Quyết thắng / Triệu hồi</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1782380662156.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô trống trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh bản thân, triệu hồi <span style=\"color: #00ccff\">Tội nhân</span>, nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>, và đổi kỹ năng hiện tại thành <span style=\"color: #00ccff\">Kẻ thắng</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Tội nhân",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1782380813585.png\"><br></p>\n</td>\n<td>\n<p>Tội nhân Lv.1</p>\n<p>Bị động / Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1782380825072.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu hiệp nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. <span style=\"color: #ff9900\">50%</span> sát thương gốc Koleda phải nhận được <span style=\"color: #00ccff\">Tội nhân</span> chia sẻ, và không bị ảnh hưởng bởi các hiệu ứng chia sẻ sát thương khác.<br>Khi <span style=\"color: #00ccff\">Tội nhân</span> kết thúc hành động, Koleda nhận <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>, duy trì <span style=\"color: #ff9900\">3 hiệp</span>; nếu đang ở <span style=\"color: #00ccff\">Số S+</span>, nhận thêm <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>. Khi Koleda và Tội nhân cùng có mặt, nhận Hậu viện di chuyển; hiệu ứng này bị gỡ khi một trong hai chết.<br>Sau khi dùng kỹ năng chủ động Lộ Thư Chiến Thuật và khi kết thúc hành động, tung <span style=\"color: #ff9900\">1 lần</span> Giải phóng động năng+.<br>Koleda khi <span style=\"color: #00ccff\">Tội nhân</span> tung kỹ năng chủ động Đi Dạo Thôi!, nhận Tấn công cơ bản và sát thương chí mạng của <span style=\"color: #00ccff\">Tội nhân</span>; hiệu ứng này bị gỡ khi Tội nhân chết.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Kỹ năng vật triệu hồi·Đi Dạo Thôi!",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1782442190221.png\"><br></p>\n</td>\n<td>\n<p>Đi Dạo Thôi! Lv.1</p>\n<p>Chủ động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> T-Doll đồng minh (không gồm Koleda) trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh bản thân, gây Đi Dạo Thôi! lên họ. 。 Sau kỹ năng nhận Di chuyển thêm <span style=\"color: #ff9900\">9 ô</span>, và có thể dùng chỉ lệnh <span style=\"color: #ff9900\">1 lần</span>.</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Kỹ năng vật triệu hồi·Drift Thôi!",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1782442601732.png\"><br></p>\n</td>\n<td>\n<p>Chơi Drift Thôi! Lv.1</p>\n<p>Chủ động / Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Gây <span style=\"color: #ff9900\">5%</span> Tấn công sát thương Hydro diện rộng lên toàn bộ kẻ địch trong bán kính <span style=\"color: #ff9900\">90</span> ô quanh bản thân, kéo chúng về trung tâm <span style=\"color: #ff9900\">5 ô</span>. Sau kỹ năng nhận Di chuyển thêm <span style=\"color: #ff9900\">9 ô</span> và có thể dùng <span style=\"color: #ff9900\">1 lần</span> kỹ năng chủ động Tăng Tốc Hết Cỡ Thôi! 。</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Kỹ năng vật triệu hồi·Tăng Tốc Hết Cỡ Thôi!",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1782442656645.png\"><br></p>\n</td>\n<td>\n<p>Tăng Tốc Hết Cỡ Thôi! Lv.1</p>\n<p>Chủ động / Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong vùng chữ thập từ 4 đến <span style=\"color: #ff9900\">8 ô</span> xung quanh, hạ xuống ô đó, gây <span style=\"color: #ff9900\">90%</span> Tấn công sát thương Hydro diện rộng lên toàn bộ kẻ địch trong chiều rộng <span style=\"color: #ff9900\">3 ô</span> trên đường đi. Nếu đang ở <span style=\"color: #00ccff\">Số S</span> hoặc <span style=\"color: #00ccff\">Số S+</span>, gây thêm <span style=\"color: #ff9900\">60%</span> hoặc <span style=\"color: #ff9900\">90%</span> Tấn công sát thương Hydro diện rộng.</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Kỹ năng vật triệu hồi·Chuyển Số",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1782442713343.png\"><br></p>\n</td>\n<td>\n<p>Chuyển Số Lv.1</p>\n<p>Bị động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu hiệp nhận <span style=\"color: #00ccff\">Số D</span>, khi kết thúc hành động lần cuối gỡ toàn bộ cấp số và nhận <span style=\"color: #00ccff\">Số P</span>. Cùng lúc chỉ nhận được <span style=\"color: #ff9900\">1</span> cấp số.<br>Bỏ qua cản trở của kẻ địch, miễn nhiễm Choáng, Khiêu khích, Chặn đánh, Di chuyển và debuff loại di chuyển, sát thương phải nhận giảm <span style=\"color: #ff9900\">35%</span>, trước khi nhận sát thương hồi HP bằng <span style=\"color: #ff9900\">15%</span> HP tối đa của bản thân.<br>Khi kết thúc hành động, nếu đang ở <span style=\"color: #00ccff\">Số S</span>, tung Giải phóng động năng; nếu đang ở <span style=\"color: #00ccff\">Số S+</span>, tung Giải phóng động năng+.</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp kỹ năng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng kỹ năng thêm</strong></span></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Mắt Sói Tuyết Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng lên <span style=\"color: #ff9900\">180%</span>, mỗi có <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>, hệ số sát thương tăng <span style=\"color: #ff9900\">15%</span>.<br>Hiệu quả <span style=\"color: #00ccff\">Thăng cấp</span> tăng, sát thương Hydro gây ra tăng lên thành <span style=\"color: #ff9900\">15%</span>; khi cộng dồn đến <span style=\"color: #ff9900\">5 tầng</span>, sát thương chí mạng tăng <span style=\"color: #ff9900\">30%</span>, sát thương phải nhận giảm <span style=\"color: #ff9900\">30%</span>.<br>Trước kỹ năng, bản thân và <span style=\"color: #00ccff\">Tội nhân</span> nhận Tăng Áp Turbo, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">180%</span> Tấn công sát thương Hydro lên chúng, mỗi có <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>, hệ số sát thương tăng <span style=\"color: #ff9900\">15%</span>. Trước kỹ năng nhận <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>, duy trì <span style=\"color: #ff9900\">3 hiệp</span>, và bản thân cùng Tội nhân nhận Tăng Áp Turbo, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Sau kỹ năng nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.<br><span style=\"color: #00ccff\">Tội nhân</span> nhận <span style=\"color: #00ccff\">Số S+</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td><strong>Tội nhân Lv.2</strong></td>\n<td>Infection Index nhận khi bắt đầu hiệp tăng thêm <span style=\"color: #ff9900\">1 điểm</span>.<br>Sau khi dùng kỹ năng chủ động Lộ Thư Chiến Thuật và khi kết thúc hành động, đổi thành tung <span style=\"color: #ff9900\">1 lần</span> Giải phóng động năng+.<br>Hệ số sát thương của Giải phóng động năng và Giải phóng động năng+ tăng <span style=\"color: #ff9900\">30%</span>.</td>\n<td>Khi bắt đầu hiệp nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index. <span style=\"color: #ff9900\">50%</span> sát thương gốc Koleda phải nhận được <span style=\"color: #00ccff\">Tội nhân</span> chia sẻ, và không bị ảnh hưởng bởi các hiệu ứng chia sẻ sát thương khác.<br>Khi <span style=\"color: #00ccff\">Tội nhân</span> kết thúc hành động, Koleda nhận <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>, duy trì <span style=\"color: #ff9900\">3 hiệp</span>; nếu đang ở <span style=\"color: #00ccff\">Số S+</span>, nhận thêm <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>. Khi Koleda và <span style=\"color: #00ccff\">Tội nhân</span> cùng có mặt, nhận Hậu viện di chuyển; hiệu ứng này bị gỡ khi một trong hai chết.<br>Sau khi dùng kỹ năng chủ động Lộ Thư Chiến Thuật và khi kết thúc hành động, tung <span style=\"color: #ff9900\">1 lần</span> Giải phóng động năng+.<br>Koleda khi <span style=\"color: #00ccff\">Tội nhân</span> tung kỹ năng chủ động Đi Dạo Thôi!, nhận Tấn công cơ bản và sát thương chí mạng của <span style=\"color: #00ccff\">Tội nhân</span>; hiệu ứng này bị gỡ khi <span style=\"color: #00ccff\">Tội nhân</span> chết.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Tội nhân Lv.3</strong></td>\n<td>Sát thương <span style=\"color: #00ccff\">Tội nhân</span> chia sẻ thay Koleda tăng lên <span style=\"color: #ff9900\">80%</span>, HP hồi trước khi nhận sát thương tăng lên <span style=\"color: #ff9900\">25%</span> HP tối đa.<br>Hiệu quả <span style=\"color: #00ccff\">Số P</span> tăng, sát thương đơn mục tiêu và diện rộng phải nhận giảm tăng lên <span style=\"color: #ff9900\">30%</span>; Hiệu quả <span style=\"color: #00ccff\">Số N</span> tăng, sát thương phải nhận giảm tăng lên <span style=\"color: #ff9900\">150%</span>, Phòng thủ tăng lên <span style=\"color: #ff9900\">150%</span>, và hiệu quả hồi máu nhận được tăng <span style=\"color: #ff9900\">150%</span>; Hiệu quả <span style=\"color: #00ccff\">Số D</span>, <span style=\"color: #00ccff\">Số S</span> và <span style=\"color: #00ccff\">Số S+</span> tăng, sát thương Hydro gây ra tăng lên thành <span style=\"color: #ff9900\">30%</span>; Hiệu quả <span style=\"color: #00ccff\">Số S</span> và <span style=\"color: #00ccff\">Số S+</span> tăng, sát thương chí mạng tăng lên thành <span style=\"color: #ff9900\">30%</span>; Hiệu quả <span style=\"color: #00ccff\">Số S+</span> tăng, bỏ qua Phòng thủ mục tiêu tăng lên <span style=\"color: #ff9900\">30%</span>, hệ số sát thương của mọi kỹ năng gây sát thương tăng <span style=\"color: #ff9900\">30%</span>.</td>\n<td>Khi bắt đầu hiệp nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index. <span style=\"color: #ff9900\">80%</span> sát thương gốc Koleda phải nhận được <span style=\"color: #00ccff\">Tội nhân</span> chia sẻ, và không bị ảnh hưởng bởi các hiệu ứng chia sẻ sát thương khác.<br>Khi <span style=\"color: #00ccff\">Tội nhân</span> kết thúc hành động, Koleda nhận <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>, duy trì <span style=\"color: #ff9900\">3 hiệp</span>; nếu đang ở <span style=\"color: #00ccff\">Số S+</span>, nhận thêm <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>. Khi Koleda và <span style=\"color: #00ccff\">Tội nhân</span> cùng có mặt, nhận Hậu viện di chuyển; hiệu ứng này bị gỡ khi một trong hai chết.<br>Sau khi dùng kỹ năng chủ động Lộ Thư Chiến Thuật và khi kết thúc hành động, tung <span style=\"color: #ff9900\">1 lần</span> Giải phóng động năng+.<br>Koleda khi <span style=\"color: #00ccff\">Tội nhân</span> tung kỹ năng chủ động Đi Dạo Thôi!, nhận Tấn công cơ bản và sát thương chí mạng của <span style=\"color: #00ccff\">Tội nhân</span>; hiệu ứng này bị gỡ khi <span style=\"color: #00ccff\">Tội nhân</span> chết.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Lộ Thư Chiến Thuật Lv.2</strong></td>\n<td style=\"text-align: center\">Hiệu quả <span style=\"color: #00ccff\">Thu hồi động năng</span> tăng, Tấn công, sát thương chí mạng và hiệu quả hồi máu nhận được tăng lên thành <span style=\"color: #ff9900\">25%</span>.<br>Kỹ năng chủ động Chơi Drift Thôi! của <span style=\"color: #00ccff\">Tội nhân</span> Hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>, phạm vi hiệu lực tăng lên <span style=\"color: #ff9900\">7 ô</span>, phạm vi kéo tăng lên <span style=\"color: #ff9900\">7 ô</span>, và gây Cản Xe, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n<td style=\"text-align: center\">Nhận <span style=\"color: #ff9900\">2 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Bản thân và <span style=\"color: #00ccff\">Tội nhân</span> nhận <span style=\"color: #00ccff\">Thu hồi động năng</span>, duy trì <span style=\"color: #ff9900\">3 hiệp</span>.<br><span style=\"color: #00ccff\">Tội nhân</span> nhận <span style=\"color: #00ccff\">Số S</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Ảo Giác Lv.2</strong></td>\n<td>Hiệu quả <span style=\"color: #00ccff\">Kẻ thắng</span> tăng, hồi cho <span style=\"color: #00ccff\">Tội nhân</span> HP bằng <span style=\"color: #ff9900\">100%</span> HP tối đa cùng toàn bộ Chỉ số ổn định, và xua tan toàn bộ debuff.<br>Kỹ năng chủ động Tăng Tốc Hết Cỡ Thôi! của <span style=\"color: #00ccff\">Tội nhân</span> Hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>, chiều rộng tăng <span style=\"color: #ff9900\">5 ô</span>. Hệ số sát thương thêm của <span style=\"color: #00ccff\">Số S</span> và <span style=\"color: #00ccff\">Số S+</span> tăng lên <span style=\"color: #ff9900\">90%</span> và <span style=\"color: #ff9900\">120%</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> ô trống trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh bản thân, triệu hồi <span style=\"color: #00ccff\">Tội nhân</span>, nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>, và đổi kỹ năng hiện tại thành <span style=\"color: #00ccff\">Kẻ thắng</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Mắt Sói Tuyết Lv.3</strong></td>\n<td>Hiệu quả Tăng Áp Turbo tăng, Tấn công tăng lên thành <span style=\"color: #ff9900\">45%</span>.<br>Đi Dạo Thôi! Hiệu quả tăng, thuộc tính <span style=\"color: #00ccff\">Tội nhân</span> nhận thêm tăng lên <span style=\"color: #ff9900\">70%</span>. Khi <span style=\"color: #00ccff\">Tội nhân</span> tung Tăng Tốc Hết Cỡ Thôi!, dựa theo Đi Dạo Thôi! chọn thuộc tính dị vị của T-Doll, gây ô địa hình dị vị của thuộc tính tương ứng.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">180%</span> Tấn công sát thương Hydro lên chúng, mỗi có <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>, hệ số sát thương tăng <span style=\"color: #ff9900\">15%</span>. Trước kỹ năng nhận <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>, duy trì <span style=\"color: #ff9900\">3 hiệp</span>, và bản thân cùng <span style=\"color: #00ccff\">Tội nhân</span> nhận Tăng Áp Turbo, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Sau kỹ năng nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.<br><span style=\"color: #00ccff\">Tội nhân</span> nhận <span style=\"color: #00ccff\">Số S+</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782457148829.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Contract Key · Cùng Sói Nhảy Múa</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"> <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1782457232646.png\" width=\"20\" height=\"20\"></sub> Chí mạng 3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1782457223030.png\" width=\"20\" height=\"20\"></sub> Sát thương Chí mạng 3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1782457242622.png\" width=\"20\" height=\"20\"></sub> Tấn công +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782457270145.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Tín điều</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận <span style=\"color: #ff9900\">2 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>; Khi bắt đầu chiến đấu và khi <span style=\"color: #00ccff\">Tội nhân</span> xuất hiện, nhận <span style=\"color: #00ccff\">Thu hồi động năng</span>, duy trì <span style=\"color: #ff9900\">3 hiệp</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782457865692.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Không ngại cái chết</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi <span style=\"color: #00ccff\">Tội nhân</span> nhận sát thương chí tử, HP không xuống dưới 1, duy trì đến hết hiệp lớn, hồi chiêu <span style=\"color: #ff9900\">2</span> hiệp lớn.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782457890760.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Giấc mộng diệt vong</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p><span style=\"color: #00ccff\">Trước khi Tội nhân tung kỹ năng chủ động, xua tan 1 buff của mục tiêu.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782457902579.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Giấc mộng diệt vong</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu hiệp, nếu bản thân có <span style=\"color: #ff9900\">5 tầng</span> <span style=\"color: #00ccff\">Thăng cấp</span>, xua tan debuff loại di chuyển và hiệu ứng Cấm lệnh của bản thân.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782457960093.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Biết tên ta</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi bản thân và <span style=\"color: #00ccff\">Tội nhân</span> tung đánh thường hoặc kỹ năng chủ động, gây Giảm phòng thủ II lên kẻ địch mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782458174611.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Chọn chết cầu sống</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi <span style=\"color: #00ccff\">Tội nhân</span> ở <span style=\"color: #00ccff\">Số S</span> hoặc <span style=\"color: #00ccff\">Số S+</span>, mỗi <span style=\"color: #ff9900\">1</span> đơn vị kẻ địch chết, Tấn công của <span style=\"color: #00ccff\">Tội nhân</span> tăng <span style=\"color: #ff9900\">4%</span>, tối đa tăng <span style=\"color: #ff9900\">20%</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782458198270.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Common Key · Tầm Nhìn Sát Lục</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1780972525252.png\" width=\"20\" height=\"20\"></sub>Chí mạng 5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Nếu Điểm hành động của bản thân hoặc vật triệu hồi thực thể của bản thân lớn hơn hoặc bằng mục tiêu, sát thương gây ra tăng 10%.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hình thái hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp mở khóa</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Nhân tố hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu quả</strong></span></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">Tiên phong x5, Hỏa lực x2</td>\n<td style=\"text-align: center\">Sát thương của vật triệu hồi thực thể của bản thân tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">Tiên phong x8, Hỏa lực x3</td>\n<td style=\"text-align: center\">Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">Bulwark x1, Vanguard x9, Sentinel x4</td>\n<td style=\"text-align: center\">Sát thương Hydro gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">Bulwark x2, Vanguard x11, Sentinel x6</td>\n<td style=\"text-align: center\">Sát thương lên kẻ địch có HP ≤ 50% tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">Bulwark x2, Vanguard x15, Sentinel x7</td>\n<td style=\"text-align: center\">Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">Bulwark x3, Vanguard x18, Sentinel x8</td>\n<td style=\"text-align: center\">Khi đòn tấn công trúng từ 2 kẻ địch trở lên, sát thương gây ra tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782468447296.png\"></td>\n<td>\n<h1><strong>Chernobog &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10793\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng trường tấn công hiệu năng cao được cấp cho Koleda, lấy súng trường tấn công kiểu 12 làm nguyên mẫu, hoàn toàn phù hợp thân thể hiện tại của Koleda, thích ứng với đa số môi trường cực đoan và tình huống đặc biệt, giúp Koleda luôn đối mặt kẻ địch ở trạng thái tốt nhất.<br>\"Bọn Alva thật sự chán quá, đến đặt tên cho vũ khí cũng lười, không như tôi, đến cái cốc riêng cũng có tên. ”</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; </span><span style=\"color: #ff6600\">Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=132144&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1783048473175.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=131931&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1782801553698.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=131992&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1782801592835.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=132014&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1782801670956.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<div>\n<p>Sói đầu đàn năm xưa của Task Force DEFY; sau ngày tồi tệ nhất, cô gánh trách nhiệm dẫn dắt đồng đội giữ vững ca gác cuối cùng, rồi trao trách nhiệm và danh hiệu thủ lĩnh cho một đồng đội đáng tin, còn bản thân chọn một cách khác để tiếp tục chiến đấu. Đến nay cô vẫn là AK-12 mà bạn quen thuộc, nhưng xin hãy hết sức cẩn thận, giờ cô nguy hiểm hơn rồi.</p>\n<p>&nbsp;「Lâu rồi không gặp, Chỉ Huy, tôi là Koleda. Mừng đi, tôi đến nghĩa là mùa xuân sắp hồi sinh rồi. \"</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\" style=\"max-width: 100px\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\" style=\"max-width: 100px\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\" style=\"max-width: 100px\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1782374487925.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782374511791.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1782374529713.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782374529716.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782374529746.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782374529717.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782374529725.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782374529740.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782374529718.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784109565885.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784109572226.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784109575018.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784109577672.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784109580245.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784109582925.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784109585359.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784109588352.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784109593465.png\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784704455755.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704465708.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704444837.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704431669.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704400154.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704419831.jpeg\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1771,
+      "title": "Thường ngày-01",
+      "text": "Anh nên biết là thật ra tôi nhìn thấy được biểu cảm và ánh mắt của anh, đúng không~?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723776825.wav"
+    },
+    {
+      "id": 1772,
+      "title": "Thường ngày-02",
+      "text": "Cái tên Koleda thật ra là tự tôi đặt, chỉ là ban đầu coi như tuyên bố chắc chắn tôi sẽ hồi sinh, còn bây giờ thì, coi như trình bày sự thật?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723785447.wav"
+    },
+    {
+      "id": 1773,
+      "title": "Thường ngày-03",
+      "text": "Rốt cuộc lúc đầu anh lái chiếc xe này một mình kiểu gì vậy? Tôi đi dạo thôi cũng mất hai ba ngày mà vẫn chưa đi hết.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723794268.wav"
+    },
+    {
+      "id": 1774,
+      "title": "Thường ngày-04",
+      "text": "Nói cho anh một kiến thức ít người biết, Chỉ huy, tôi mới là người nhỏ tuổi nhất trong Task Force DEFY, tức là thật ra tôi là em gái đó, nhớ nhường tôi nhiều hơn nhé.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723804310.wav"
+    },
+    {
+      "id": 1775,
+      "title": "Thường ngày-05",
+      "text": "Không được……vừa nghĩ đến việc đùa kiểu này nghĩa là phải thừa nhận Voymastina là chị tôi là thấy buồn nôn rồi, coi như tôi chưa nói gì đi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723812433.wav"
+    },
+    {
+      "id": 1776,
+      "title": "Nâng cấp-01",
+      "text": "Cảm ơn nhé.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723829553.wav"
+    },
+    {
+      "id": 1777,
+      "title": "Nâng cấp-02",
+      "text": "Quả nhiên tôi là nhất.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723839115.wav"
+    },
+    {
+      "id": 1778,
+      "title": "Nâng cấp-03",
+      "text": "Việc khai thác cơ thể này vẫn chưa tới giới hạn đâu……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723846896.wav"
+    },
+    {
+      "id": 1779,
+      "title": "Nâng cấp-04",
+      "text": "Đánh gục hết mọi người thì không gọi là thâm nhập đâu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723854884.wav"
+    },
+    {
+      "id": 1780,
+      "title": "Nâng cấp-05",
+      "text": "Sao nào? Nhìn đến ngẩn người rồi à?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723863807.wav"
+    },
+    {
+      "id": 1781,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723879688.wav"
+    },
+    {
+      "id": 1782,
+      "title": "Đăng nhập",
+      "text": "Ôi chao, cuối cùng cũng tỉnh rồi? Có muốn cùng trốn việc lười biếng chút không? Không được? Hả~ anh nghiêm túc quá đó.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723899033.wav"
+    },
+    {
+      "id": 1783,
+      "title": "Tâm sự-01",
+      "text": "Sao nào? Chỉ huy? Lúc tôi vắng mặt có lén lút thân thiết hơn với Alva và Voymastina không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723968786.wav"
+    },
+    {
+      "id": 1784,
+      "title": "Tâm sự-02",
+      "text": "Mà nói, lâu vậy không gặp, anh có phải không chú ý bảo dưỡng lắm không? Đến tôi còn gắn da phỏng sinh cho cơ thể này đó nha? Dù là Alva làm.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723976955.wav"
+    },
+    {
+      "id": 1785,
+      "title": "Tâm sự-03",
+      "text": "Tội nhân không liên quan đến Tiêu Khả, chỉ là tôi quen dùng cách của Tiêu để đặt tên cho nó thôi, thật ra là tôi nhờ Naile làm giúp, thiết kế cũng do cô ấy tự nghĩ, nói ra thì quyền đặt tên nên thuộc về cô ấy mới đúng, nhưng chính cô ấy cũng không bận tâm.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723985478.wav"
+    },
+    {
+      "id": 1786,
+      "title": "Tâm sự-04",
+      "text": "Anna? Tôi cũng lâu rồi không gặp cô ấy, dù sao tôi cũng ít khi về, nhưng chắc không có thay đổi gì đâu, dù sao cơ thể của cô ấy cũng sẽ không còn đổi gì nữa, chỉ có tinh thần là luôn lớn lên……bây giờ cô ấy không còn là đứa bé cần người bảo vệ nữa rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782723994867.wav"
+    },
+    {
+      "id": 1787,
+      "title": "Tâm sự-05",
+      "text": "Nói thật tôi không tin tưởng National Security Bureau đâu, hợp tác với họ chỉ là bất đắc dĩ, dù sao truy ngược lại thì tiền nghiên cứu bọn tôi hồi đó đều do họ chi, dù bình thường tôi không quan tâm có mắc nợ hay không, nhưng danh tiếng sau khi mất của Tiêu vẫn nằm trong tay họ……hứ, sớm muộn gì tôi cũng sẽ cho họ biết hậu quả của việc cố nắm thóp bọn tôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724003638.wav"
+    },
+    {
+      "id": 1788,
+      "title": "Tâm sự-06",
+      "text": "Muốn biết vì sao tôi biến thành người khác được ư? Ừm, nhờ cơ thể này và phụ kiện của nó thôi, dù đã bao nhiêu năm, Naile vẫn chưa hiểu nguyên lý, đây chắc chắn không phải công nghệ hiện có của loài người……ừm, đúng vậy, tôi đang dùng thành quả của di tích, rốt cuộc, tôi mới là người ngỗ nghịch với Tiêu nhất.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724012321.wav"
+    },
+    {
+      "id": 1789,
+      "title": "Tâm sự-07",
+      "text": "Nếu chuyện của An Khiết dạy cho tôi điều gì, thì đó là bất kể lúc nào cũng phải đảm bảo trong tay mình có con bài, anh có thể nói tôi trở nên lạnh lùng hơn, nhưng tôi tuyệt đối không để mình có thêm một lần cảm giác bất lực nào nữa, cảm giác đó thật là……đáng ghét.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724022231.wav"
+    },
+    {
+      "id": 1790,
+      "title": "Tâm sự-08",
+      "text": "Tôi rất mong chờ đó, Chỉ huy, anh sẽ đi được đến nơi xa đến đâu nhỉ? Hãy để tôi dùng đôi mắt này nhìn đến cuối cùng, yên tâm, trước khi chứng kiến kết cục của anh, tôi sẽ không rời đi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724030784.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1180,
+      "title": "Ngữ khí-01",
+      "text": "Ngầu chứ nhỉ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724049018.wav"
+    },
+    {
+      "id": 1181,
+      "title": "Ngữ khí-02",
+      "text": "Sói đến rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724135177.wav"
+    },
+    {
+      "id": 1182,
+      "title": "Ngữ khí-03",
+      "text": "Tới lượt anh.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724127211.wav"
+    },
+    {
+      "id": 1183,
+      "title": "Ngữ khí-04",
+      "text": "Cứ giao cho tôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724211902.wav"
+    },
+    {
+      "id": 1184,
+      "title": "Ngữ khí-05",
+      "text": "Sắp xong rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724275965.wav"
+    },
+    {
+      "id": 1185,
+      "title": "Ngữ khí-06",
+      "text": "Lại là tôi sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724436138.wav"
+    },
+    {
+      "id": 1186,
+      "title": "Ngữ khí-07",
+      "text": "Anh chọn đúng rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724447366.wav"
+    },
+    {
+      "id": 1187,
+      "title": "Ngữ khí-08",
+      "text": "Vẫn chưa xong đâu……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724461700.wav"
+    },
+    {
+      "id": 1188,
+      "title": "Ngữ khí-09",
+      "text": "Bây giờ mới chỉ bắt đầu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724473687.wav"
+    },
+    {
+      "id": 1189,
+      "title": "Ngữ khí-10",
+      "text": "Được rồi, giờ là hiệp hai.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724703149.wav"
+    },
+    {
+      "id": 1190,
+      "title": "Kỹ năng-01",
+      "text": "Anh chướng mắt quá.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724787069.wav"
+    },
+    {
+      "id": 1191,
+      "title": "Kỹ năng-02",
+      "text": "Anh tưởng anh có cơ hội sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724810185.wav"
+    },
+    {
+      "id": 1192,
+      "title": "Kỹ năng-03",
+      "text": "Thấy anh rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724880290.wav"
+    },
+    {
+      "id": 1193,
+      "title": "Kỹ năng-04",
+      "text": "Anh không chạy thoát đâu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724928145.wav"
+    },
+    {
+      "id": 1194,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Nào! Cùng chạy một vòng thôi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724955718.wav"
+    },
+    {
+      "id": 1195,
+      "title": "Hạ gục",
+      "text": "Tiếp theo.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724969866.wav"
+    },
+    {
+      "id": 1196,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Kết quả đương nhiên, Chỉ huy, anh chưa từng nghĩ tôi sẽ thua nhỉ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782724989949.wav"
+    },
+    {
+      "id": 1197,
+      "title": "Kết thúc trận-Thua",
+      "text": "……Chưa tính là kết thúc đâu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1782725002570.wav"
+    }
+  ]
+}

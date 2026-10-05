@@ -1,0 +1,374 @@
+{
+  "id": 1072,
+  "name": "Liushih",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1769756751995.png",
+  "icon": 2,
+  "sort": 0,
+  "attr_id": 6,
+  "role_id": 4,
+  "team_id": 5,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Hydro",
+  "team": "Elmo - Combined Echelon",
+  "weapon": "Type Liu Rifle",
+  "model": "SSD-62D",
+  "ammo_model": "RF",
+  "desc": "T-Doll dịu dàng lễ phép, lương thiện kiên cường, thiếu khái niệm về giá cả và con số, nên đồ dùng cá nhân cực kỳ đắt đỏ, là “nữ đại gia” ai ai cũng biết. Cô cũng ra tay vô cùng hào phóng, vì trong mắt cô, trao nguồn lực tốt nhất không giữ lại chút nào cho người mình trân quý là trách nhiệm đương nhiên của bản thân.\n“Chào mừng trở về, Trưởng quan! Ừm... xin hỏi, ngài có cần thanh toán hoàn chi phí không ạ?”",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1769756762478.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1769756772729.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013229150.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013234821.png"
+  },
+  "skins": [
+    {
+      "id": 64,
+      "name": "Giai Nhân Phương Đông",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1769763671029.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777015658301.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1769757394742.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1769757404926.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1769757417522.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Tôn Diễm Kỳ</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Asakura Momo</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=99\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>195</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>502</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>2028<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo&nbsp;&nbsp;<span style=\"color: #00ccff\">Freeze</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Phá Trận",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784544648718.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Phá Trận Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764315618339.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, gây <span style=\"color: #ff9900\">90%</span> Tấn công sát thương Hydro. Đòn tấn công này là tấn công tải.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Canh Bạc Càn Khôn",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1770021846834.png\"></p>\n</td>\n<td>\n<p>Càn Khôn Nhất Trịch Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764315618339.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, gây <span style=\"color: #ff9900\">90%</span> sát thương Hydro theo ATK và tiêu hao toàn bộ Infection Index, mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, bản thân và Pegaso nhận <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Đơn mục tiêu</span>, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn. Sau kỹ năng nhận Thêm hành động. Đòn tấn công này là tấn công tải. Có thể dùng kỹ năng này khi Pegaso ở trạng thái tác chiến phối hợp.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Hồi chiêu (hiệp): 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Quyết Thắng Ngàn Dặm",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1770021985499.png\"></p>\n</td>\n<td>\n<p>Quyết Thắng Ngàn Dặm Lv.1</p>\n<p>Quyết thắng/Đơn mục tiêu/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1770021962103.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 ô địa hình trong phạm vi chữ thập <span style=\"color: #ff9900\">4</span> đến 8 ô xung quanh, lao xuống ô đó và chuyển Pegaso đến gần bản thân; Nếu Pegaso đang ở trạng thái Hiệp đồng tác chiến hoặc Chỉnh bị, khiến nó thoát trạng thái đó. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Hồi chiêu (hiệp): 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Một Mình Địch Ngàn",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1770022104132.png\"></p>\n</td>\n<td>\n<p>Một Mình Địch Ngàn Lv.1</p>\n<p>Quyết thắng/Đơn mục tiêu/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764315618339.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, khiến Pegaso vào trạng thái Hiệp đồng tác chiến và gây <span style=\"color: #ff9900\">90%</span> Tấn công sát thương Hydro lên mục tiêu. Nếu Pegaso đang ở trạng thái Chỉnh bị, khiến nó thoát trạng thái đó. Đòn tấn công này là tấn công tải.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Hồi chiêu (hiệp): 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Cùng Chung Mối Thù",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1770022223128.png\"></p>\n</td>\n<td>\n<p>Chung Mối Thù Địch Lv.1</p>\n<p>Bị động / Triệu hồi / Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1768189829356.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu chiến đấu, triệu hồi Pegaso gần bản thân.<br>Cứ mỗi <span style=\"color: #ff9900\">60</span> Tấn công gốc, hệ số sát thương đánh thường của bản thân và Pegaso tăng <span style=\"color: #ff9900\">5%</span>, tối đa tăng <span style=\"color: #ff9900\">50%</span>.<br>Trước khi dùng kỹ năng chủ động Càn Khôn Nhất Trịch hoặc kỹ năng Quyết thắng Một Mình Địch Ngàn, gây lên bản thân Khóa địch, duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>. Sau khi Pegaso tung Pháo Phòng Thủ Tầm Gần, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Chung Mối Thù Địch Lv.2</strong></td>\n<td style=\"text-align: center\">Sau khi kết thúc hành động, Pegaso tung <span style=\"color: #ff9900\">1 lần</span> Pháo Phòng Thủ Tầm Gần lên kẻ địch gần nhất trong tầm bắn.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, triệu hồi Pegaso gần bản thân.<br>Cứ mỗi <span style=\"color: #ff9900\">60</span> Tấn công gốc, hệ số sát thương đánh thường của bản thân và Pegaso tăng <span style=\"color: #ff9900\">5%</span>, tối đa tăng <span style=\"color: #ff9900\">50%</span>.<br>Trước khi dùng kỹ năng chủ động Càn Khôn Nhất Trịch hoặc kỹ năng Quyết thắng Một Mình Địch Ngàn, gây lên bản thân Khóa địch, duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>.<br>Sau khi kết thúc hành động, Pegaso tung <span style=\"color: #ff9900\">1 lần</span> Pháo Phòng Thủ Tầm Gần lên kẻ địch gần nhất trong tầm bắn.<br>Sau khi Pegaso tung Pháo Phòng Thủ Tầm Gần, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Quyết Thắng Ngàn Dặm Lv.2</strong></td>\n<td style=\"text-align: center\">\n<p>Tạo ô địa hình Dòng Ngầm trong phạm vi đường đi, duy trì 2 hiệp. Pegaso không còn thoát khỏi trạng thái Hiệp đồng tác chiến.</p>\n</td>\n<td style=\"text-align: center\">Chọn 1 ô địa hình trong phạm vi chữ thập <span style=\"color: #ff9900\">4</span> đến 8 ô xung quanh, lao xuống ô đó và chuyển Pegaso đến gần bản thân; Tạo ô địa hình Dòng Ngầm trong phạm vi đường đi, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; nếu Pegaso đang ở trạng thái Trang bị, khiến nó thoát trạng thái đó. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Càn Khôn Nhất Trịch Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>.<br>Tăng hiệu quả <span style=\"color: #00ccff\">Đơn mục tiêu</span>; mức tăng hệ số sát thương của đánh thường nâng lên <span style=\"color: #ff9900\">20%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong bán kính <span style=\"color: #ff9900\">9 ô</span> xung quanh, gây <span style=\"color: #ff9900\">120%</span> sát thương Hydro theo ATK và tiêu hao toàn bộ <span style=\"color: #00ccff\">Infection Index</span>, mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, bản thân và Pegaso nhận <span style=\"color: #ff9900\">1 tầng</span> <span style=\"color: #00ccff\">Đơn mục tiêu</span>, duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>. Sau kỹ năng nhận Thêm hành động. Đòn tấn công này là sát thương tải. Có thể dùng kỹ năng này khi Pegaso ở trạng thái tác chiến phối hợp.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Một Mình Địch Ngàn Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>.<br>Hiệu quả Hiệp đồng tác chiến bổ sung: sát thương chí mạng của Liushih và Pegaso tăng <span style=\"color: #ff9900\">30%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 mục tiêu kẻ địch trong bán kính <span style=\"color: #ff9900\">9 ô</span> xung quanh, khiến Pegaso vào trạng thái Hiệp đồng tác chiến và gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Hydro lên mục tiêu. Nếu Pegaso đang ở trạng thái Trang bị, khiến nó thoát trạng thái đó. Đòn tấn công này là tấn công tải.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Chung Mối Thù Địch Lv.3</strong></td>\n<td style=\"text-align: center\">Mỗi khi nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index trong hiệp lớn hiện tại, trước khi dùng kỹ năng chủ động Càn Khôn Nhất Trịch ở hiệp lớn kế tiếp, bản thân và mọi vật triệu hồi thực thể đồng minh nhận <span style=\"color: #ff9900\">1 tầng</span> Sắc Bén, duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, triệu hồi Pegaso gần bản thân.<br>Cứ mỗi <span style=\"color: #ff9900\">60</span> Tấn công gốc, hệ số sát thương đánh thường của bản thân và Pegaso tăng <span style=\"color: #ff9900\">5%</span>, tối đa tăng <span style=\"color: #ff9900\">50%</span>.<br>Trước khi dùng kỹ năng chủ động Càn Khôn Nhất Trịch hoặc kỹ năng Quyết thắng Một Mình Địch Ngàn, gây lên bản thân Khóa địch, duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>.<br>Sau khi kết thúc hành động, Pegaso tung <span style=\"color: #ff9900\">1 lần</span> Pháo Phòng Thủ Tầm Gần lên kẻ địch gần nhất trong tầm bắn.<br>Sau khi Pegaso tung Pháo Phòng Thủ Tầm Gần, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Mỗi khi nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index trong hiệp lớn hiện tại, trước khi dùng kỹ năng chủ động Càn Khôn Nhất Trịch ở hiệp lớn kế tiếp, bản thân và mọi vật triệu hồi thực thể đồng minh nhận <span style=\"color: #ff9900\">1 tầng</span> Sắc Bén, duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Càn Khôn Nhất Trịch Lv.3</strong></td>\n<td style=\"text-align: center\">Số tầng <span style=\"color: #00ccff\">Đơn mục tiêu</span> nhận được tăng gấp đôi.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong bán kính <span style=\"color: #ff9900\">9 ô</span> xung quanh, gây <span style=\"color: #ff9900\">120%</span> sát thương Hydro theo ATK và tiêu hao toàn bộ Infection Index, mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, bản thân và Pegaso nhận <span style=\"color: #ff9900\">2 tầng</span> <span style=\"color: #00ccff\">Đơn mục tiêu</span>, duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>. Sau kỹ năng nhận Thêm hành động. Đòn tấn công này là tấn công tải. Có thể dùng kỹ năng này khi Pegaso ở trạng thái tác chiến phối hợp.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Contract Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1770023823676.png\"></td>\n<td>\n<h2>Contract Key·Châu Ngọc Mãn Đường </h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1770023852789.png\" width=\"20\" height=\"20\"></sub>Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1770023864608.png\" width=\"20\" height=\"20\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764478713660.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1770023975441.png\"></td>\n<td>\n<h2>Fixed Key·Tương Đắc Ích Chương</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Pegaso đang ở trạng thái Hiệp đồng tác chiến, sát thương bản thân và Pegaso gây ra tăng 20%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1770024034400.png\"></td>\n<td>\n<h2>Fixed Key·Bách Bộ Xuyên Dương</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Mỗi tầng <span style=\"color: #00ccff\">Đơn mục tiêu</span> tăng thêm 5% tỉ lệ chí mạng.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1770024073139.png\"></td>\n<td>\n<h2>Fixed Key·Hào Phóng Giải Nang</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi Pegaso tung Pháo Phòng Thủ Tầm Gần, xua tan 1 buff của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1770024122108.png\"></td>\n<td>\n<h2>Fixed Key·Tâm Kiên Cường</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Pegaso miễn nhiễm hiệu ứng loại khống chế.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1770024166480.png\"></td>\n<td>\n<h2>Fixed Key·Trọng Kim Cải Tiến</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng kỹ năng chủ động Quyết Thắng Ngàn Dặm, nhận 4 ô di chuyển thêm.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1770024203168.png\"></td>\n<td>\n<h2>Fixed Key·Một Tiếng Trăm Ứng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi vật triệu hồi thực thể đồng minh không phải Pegaso tấn công, bản thân nhận 1 điểm Infection Index, mỗi đơn vị kích hoạt tối đa 1 lần mỗi hiệp lớn.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1770024257888.png\"></td>\n<td>\n<h2>Common Key·Năng Lực Tiền Tỉ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p>Sát thương vật triệu hồi thực thể của bản thân gây ra tăng 10%.</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sát thương Khóa địch của bản thân gây ra tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1790047288253.png\"><br></td>\n<td>\n<h2>Expansion Key·Phúc Vận Tương Bạn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Pegaso lần đầu ở trạng thái Chỉnh bị, xóa thời gian hồi chiêu của kỹ năng chủ động Quyết Thắng Ngàn Dặm, mỗi trận kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>.<br>HP tối đa của bản thân và Pegaso tăng <span style=\"color: #ff9900\">15%</span>; mỗi <span style=\"color: #ff9900\">1 lần</span> Pegaso tấn công trong hiệp lớn hiện tại, ở hiệp lớn kế tiếp sát thương Hydro của bản thân và Pegaso tăng <span style=\"color: #ff9900\">20%</span>.<br>Khi Liushih có mặt, bản thân và mọi vật triệu hồi thực thể đồng minh nhận Điềm Lành.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">Vanguard*1 Sentinel*5 </td>\n<td style=\"text-align: center\">Sát thương triệu hồi thực thể của bản thân tăng 8.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">Bulwark*1 Vanguard*2 Sentinel*7</td>\n<td style=\"text-align: center\">Sát thương vật lý và dị vị nhận vào giảm 5.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">Bulwark*2 Vanguard*3 Sentinel*8</td>\n<td style=\"text-align: center\">Sát thương Hydro gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">Bulwark*3 Vanguard*4 Sentinel*11</td>\n<td style=\"text-align: center\">Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">Bulwark*4 Vanguard*4 Sentinel*15</td>\n<td style=\"text-align: center\">HP tối đa tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">Bulwark*5 Vanguard*6 Sentinel*18</td>\n<td style=\"text-align: center\">Khi đòn tấn công chỉ trúng 1 kẻ địch, sát thương gây ra tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1769769309451.png\"></td>\n<td>\n<h1><strong>Tuyệt Ảnh &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10723\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng bắn tỉa/Heavy Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng trường hiệu năng cao được phân phát cho Liushih, lấy Súng trường họ Lưu làm nguyên mẫu, cường hóa mạnh thân súng và sức sát thương, như Tuyệt Ảnh lao nhanh, đuổi gió theo chớp, mở ra con đường chiến thắng trong chớp mắt.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; </span><span style=\"color: #ff6600\">Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=114626&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1770190007187.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=114687&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1770190105160.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=114445&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1770190084870.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=114690&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1770190149248.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll ôn hòa lễ độ, lương thiện kiên cường, vì đồ dùng cá nhân cực kỳ đắt đỏ nên là \"phú bà\" nổi tiếng thời Griffin. Sau khi rời Griffin, nhờ tay hào phóng và thực chiến ngày càng tinh thông, Liushih đã dựng nên doanh trại riêng ở Vùng Vàng.</p>\n<p>&nbsp; Dù nay đã thành thủ lĩnh một thế lực, nhưng sơ tâm bảo vệ đồng đội và mong muốn chờ người quan trọng trở về của cô chưa bao giờ đổi thay theo năm tháng dài đằng đẵng.</p>\n<p>&nbsp;「Đã lâu không gặp, Chỉ Huy. Để có thể lại trở thành chỗ dựa cho ngài, tôi đã chuẩn bị rất lâu rồi—từ nay, dù đường hiểm trở đến đâu, tôi cũng sẽ dốc hết sức vì ngài! \"</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "Organic Cat Food",
+      "html": "<table border=\"1\">\n<tbody>\n<tr>\n<td rowspan=\"2\"><img style=\"display: block; margin: 0 auto\" src=\"https://gf2.mcc.wiki/image/item/Item_Icon_love_gift_necessity_1.png\"></td>\n<td>\n<p>Vật phẩm lưu thông trên thị trường, được ưa chuộng rộng rãi, thường dùng làm quà tặng.<br>Tặng cho T-Doll thích loại vật phẩm này, độ tương hợp tăng nhiều hơn.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Cách nhận:</p>\n<p>Nhận từ sự kiện chủ đề</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Refined Tea Set",
+      "html": "<table border=\"1\">\n<tbody>\n<tr>\n<td rowspan=\"2\"><img style=\"display: block; margin: 0 auto\" src=\"https://gf2.mcc.wiki/image/item/Item_Icon_love_gift_necessity_2.png\"></td>\n<td>\n<p>Vật phẩm lưu thông trên thị trường, được ưa chuộng rộng rãi, thường dùng làm quà tặng.<br>Tặng cho T-Doll thích loại vật phẩm này, độ tương hợp tăng nhiều hơn.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Cách nhận:</p>\n<p>Nhận từ sự kiện chủ đề</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778145758588.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145758473.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778145784575.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145784579.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145789170.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145808360.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145808246.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145819192.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145819193.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1770626142578.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1770626184809.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1770626193478.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1770626206820.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1770626217710.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1770626228003.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1770626238395.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1770626247537.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1770626256740.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779164307914.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779164323914.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779164339523.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779164378850.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779164356893.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1779164662333.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1612,
+      "title": "Thường ngày-01",
+      "text": "Xin hỏi…… ngài có nhận được bưu kiện của tôi chưa ạ? Ơ…… những, những cái này đều là tôi mua sao? Nhiều vậy ạ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770072585653.wav"
+    },
+    {
+      "id": 1613,
+      "title": "Thường ngày-02",
+      "text": "Cô Mayling cho tôi xem sổ chi tiêu nửa năm đầu của Elmo, không ngờ, ngài thật ra khá là tiết kiệm đấy……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770072599132.wav"
+    },
+    {
+      "id": 1614,
+      "title": "Thường ngày-03",
+      "text": "Đạn ba thùng, khẩu phần năm thùng, túi y tế hai thùng —— không vấn đề, tôi nhớ rồi! ……Ơ, xin lỗi, ngài vừa nói túi y tế là mấy thùng nhỉ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770072614975.wav"
+    },
+    {
+      "id": 1615,
+      "title": "Thường ngày-04",
+      "text": "Dù bây giờ tôi cũng chỉ huy chiến đấu, nhưng thật ra điều tôi quen nhất…… vẫn là hành động theo lệnh của ngài.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770072629463.wav"
+    },
+    {
+      "id": 1616,
+      "title": "Thường ngày-05",
+      "text": "Tôi không giỏi xử lý chuyện số má, mà mãi vẫn không tiến bộ. Thật lòng mà nói, tôi bắt đầu nghi ngờ có phải liên quan đến tầng đáy tâm trí của mình không……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770073562856.wav"
+    },
+    {
+      "id": 1617,
+      "title": "Nâng cấp-01",
+      "text": "Ừm…… cảm thấy có thêm động lực rồi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770082586838.wav"
+    },
+    {
+      "id": 1618,
+      "title": "Nâng cấp-02",
+      "text": "Ngài vất vả rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770082596136.wav"
+    },
+    {
+      "id": 1619,
+      "title": "Nâng cấp-03",
+      "text": "Chừng này là đủ rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770082606057.wav"
+    },
+    {
+      "id": 1620,
+      "title": "Nâng cấp-04",
+      "text": "Tôi sẽ bảo vệ mọi người!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770082614955.wav"
+    },
+    {
+      "id": 1621,
+      "title": "Nâng cấp-05",
+      "text": "Chắc là không phụ kỳ vọng của sếp nhỉ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770082626209.wav"
+    },
+    {
+      "id": 1622,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770073657220.wav"
+    },
+    {
+      "id": 1623,
+      "title": "Đăng nhập",
+      "text": "Chào mừng trở về, sếp, cùng đi mua sắm không ạ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770073671833.wav"
+    },
+    {
+      "id": 1624,
+      "title": "Tâm sự-01",
+      "text": "Cách chiến đấu và phong cách ăn mặc của tôi đã thay đổi để trở thành thủ lĩnh mà mọi người kỳ vọng…… nhưng trước mặt ngài, hình như tôi lại vô thức trở về dáng vẻ ban đầu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770073686341.wav"
+    },
+    {
+      "id": 1625,
+      "title": "Tâm sự-02",
+      "text": "Lạ thật, món này rõ ràng làm từng bước theo công thức, sao lại mặn thế này…… Ơ? Chỉ cần cho 10g muối là đủ? Không phải 100g sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770073707240.wav"
+    },
+    {
+      "id": 1626,
+      "title": "Tâm sự-03",
+      "text": "Sếp có hứng thú với rượu trái cây không? Trên đường đi nhâm nhi một ly rượu thơm nồng, tôi thấy là lựa chọn rất hay.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770073721127.wav"
+    },
+    {
+      "id": 1627,
+      "title": "Tâm sự-04",
+      "text": "Cách gọi \"đại ca\" thì đến giờ tôi vẫn hơi chưa quen…… So với được ngưỡng vọng, tôi muốn trở thành người có thể sánh vai cùng mọi người hơn.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770073748902.wav"
+    },
+    {
+      "id": 1628,
+      "title": "Tâm sự-05",
+      "text": "Tôi rất thích cảm giác cưỡi ngựa tự do phi nước đại…… nghe tiếng gió vi vu bên tai là có thể vứt bỏ hết muộn phiền.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770073764623.wav"
+    },
+    {
+      "id": 1629,
+      "title": "Tâm sự-06",
+      "text": "Trước đây có người nói với tôi, \"vấn đề giải quyết được bằng tiền thì không phải vấn đề\". Nói đúng thật, trên đời này còn rất nhiều chuyện không thể giải quyết bằng tiền.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770073780904.wav"
+    },
+    {
+      "id": 1630,
+      "title": "Tâm sự-07",
+      "text": "Điều ước của tôi ư? Dù quá khứ, hiện tại hay tương lai, điều ước của tôi vẫn không đổi —— đó là theo bước chân ngài, ở bên cạnh ngài.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770073795484.wav"
+    },
+    {
+      "id": 1631,
+      "title": "Tâm sự-08",
+      "text": "Hồi ở Griffin, tôi luôn một mình ngước nhìn bầu trời, thấy nó xa vời không với tới…… Chính ngài khiến tôi hiểu, chỉ cần theo đuổi bầu trời của riêng mình thì sẽ không lạc hướng.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770073809991.wav"
+    },
+    {
+      "id": 1632,
+      "title": "Vào đội",
+      "text": "Lâu rồi không gặp, sếp. Để có thể lại trở thành trợ lực của ngài, tôi đã chuẩn bị rất lâu —— sắp tới, dù là con đường hiểm trở đến đâu, tôi cũng sẽ dốc toàn lực vì ngài!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770073827082.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1035,
+      "title": "Ngữ khí-01",
+      "text": "Ừm…… ngài có cần thanh toán hoàn chi không ạ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075765248.wav"
+    },
+    {
+      "id": 1036,
+      "title": "Ngữ khí-02",
+      "text": "Xin lỗi, xin đừng chắn đường!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075782880.wav"
+    },
+    {
+      "id": 1037,
+      "title": "Ngữ khí-03",
+      "text": "Haa!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075796143.wav"
+    },
+    {
+      "id": 1038,
+      "title": "Ngữ khí-04",
+      "text": "Chuẩn bị nghênh địch!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075809470.wav"
+    },
+    {
+      "id": 1039,
+      "title": "Ngữ khí-05",
+      "text": "Chỗ này cứ giao cho tôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075822063.wav"
+    },
+    {
+      "id": 1040,
+      "title": "Ngữ khí-06",
+      "text": "Tôi đây.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075834680.wav"
+    },
+    {
+      "id": 1041,
+      "title": "Ngữ khí-07",
+      "text": "Là như vậy sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075848555.wav"
+    },
+    {
+      "id": 1042,
+      "title": "Ngữ khí-08",
+      "text": "Ư…… đến đây là hết sao……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075863527.wav"
+    },
+    {
+      "id": 1043,
+      "title": "Ngữ khí-09",
+      "text": "Vì mọi người…… tôi sẽ kiên trì đến cùng!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075879475.wav"
+    },
+    {
+      "id": 1044,
+      "title": "Ngữ khí-10",
+      "text": "Sơ, sơ suất rồi……!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075890760.wav"
+    },
+    {
+      "id": 1045,
+      "title": "Kỹ năng-01",
+      "text": "Cơ hội tốt!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075905678.wav"
+    },
+    {
+      "id": 1046,
+      "title": "Kỹ năng-02",
+      "text": "Chính là bây giờ!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075921929.wav"
+    },
+    {
+      "id": 1047,
+      "title": "Kỹ năng-03",
+      "text": "Thất lễ rồi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075936901.wav"
+    },
+    {
+      "id": 1048,
+      "title": "Kỹ năng-04",
+      "text": "Sẽ không để các ngươi toại nguyện!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075951311.wav"
+    },
+    {
+      "id": 1049,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Tôi sẽ không nhường bước!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075966865.wav"
+    },
+    {
+      "id": 1050,
+      "title": "Hạ gục",
+      "text": "Xin hãy gục xuống!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770075988308.wav"
+    },
+    {
+      "id": 1051,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Hừ…… đi mua chút đồ ăn mừng nhé?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770076005105.wav"
+    },
+    {
+      "id": 1052,
+      "title": "Kết thúc trận-Thua",
+      "text": "Xin lỗi…… là quyết định của tôi sai……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1770076021590.wav"
+    }
+  ]
+}

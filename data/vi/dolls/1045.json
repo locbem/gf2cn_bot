@@ -1,0 +1,374 @@
+{
+  "id": 1045,
+  "name": "Belka",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044921210.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 3,
+  "role_id": 2,
+  "team_id": 3,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Vanguard",
+  "attr": "Electric",
+  "team": "H.I.D.E.404 Team 1",
+  "weapon": "Sturmgewehr 28",
+  "model": "SSD-62G",
+  "ammo_model": "AR",
+  "desc": "Ngây thơ, hoạt bát, những mưu mẹo nhỏ vô hại hiện rõ trên mặt. Tuyệt đối trung thành với Chỉ Huy và chị gái, nỗ lực trở thành T-Doll tinh anh ai cũng yêu mến. Có cô ở đây thì không lo bầu không khí nguội lạnh nữa!",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/比悠卡pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/比悠卡移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014204307.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014213426.png"
+  },
+  "skins": [
+    {
+      "id": 1,
+      "name": "Ảo Mộng U Linh",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/比悠卡pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/比悠卡移动.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261605209.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261615877.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261624249.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Triệu Sảng</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Yamamoto Nozomi</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=56\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>757</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>8</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>528</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1770</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo Freeze</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Đạn Hạt Dẻ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559290523.png\"></p>\n</td>\n<td>\n<p>Đạn Hạt Dẻ Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764417486312.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Nhảy Vọt Cành Thông",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559317735.png\"></p>\n</td>\n<td>\n<p>Phi Thân Cành Thông Lv.1</p>\n<p>Chủ động/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764417544290.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Physical.<br>Sát thương gây ra của đòn tấn công lần này tăng, lượng tăng bằng số Điện Tích Âm trên chiến trường ×<span style=\"color: #ff9900\">3%</span>, tối đa tăng <span style=\"color: #ff9900\">15%</span>; Nếu mục tiêu là đơn vị thủ lĩnh và có Điện Tích Âm, sát thương gây ra tăng thẳng <span style=\"color: #ff9900\">15%</span>.<br>Nếu gây chí mạng, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.<br>Sau kỹ năng có thể chọn ô trống trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân, đáp xuống ô đó.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Tiêu hao Infection: 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Vỏ Quả Nổ Tung",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559332569.png\"></p>\n</td>\n<td>\n<p>Vỏ Quả Nổ Tung Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764417596579.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Electric lên nó, cứ mỗi <span style=\"color: #ff9900\">1</span> Điểm hành động tiêu hao, hệ số sát thương tăng <span style=\"color: #ff9900\">5%</span>. Bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Tích Cực Tác Chiến. Sau kỹ năng có thể tung kỹ năng chủ động Nhảy Cành Thông hoặc đánh thường Đạn Hạt Dẻ.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Cung Quang Nhảy Nhót",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559348741.png\"></p>\n</td>\n<td>\n<p>Hồ Quang Nhảy Vọt Lv.1</p>\n<p>Quyết thắng/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764417667811.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Electric; mỗi <span style=\"color: #ff9900\">1</span> Điểm hành động tiêu hao, hệ số sát thương tăng <span style=\"color: #ff9900\">5%</span>; đồng thời gây Dẫn điện lên chúng, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Bản thân nhận Phóng Điện Liên Tục, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3 Tiêu hao Infection: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Kho Báu Trong Rừng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559364052.png\"></p>\n</td>\n<td>\n<p>Bảo Tàng Trong Rừng Lv.1</p>\n<p>Bị động / Debuff / Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764417721811.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu hiệp, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.<br>Trước khi tấn công, gây Điện tích âm lên kẻ địch mục tiêu và <span style=\"color: #ff9900\">1</span> kẻ địch gần nó nhất, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.<br>Nếu hạ gục kẻ địch mục tiêu, bản thân nhận Ẩn Nấp, không bị kẻ địch chọn làm mục tiêu của đánh thường và kỹ năng chủ động. Buff không thể bị xua tan. 。<br>Mỗi khi đồng minh gây <span style=\"color: #ff9900\">1</span> Điện tích âm, tỉ lệ chí mạng của Belka tăng <span style=\"color: #ff9900\">5%</span>, tối đa tăng <span style=\"color: #ff9900\">30%</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Vỏ Quả Nổ Tung Lv.2</strong></td>\n<td style=\"text-align: center\">Mỗi <span style=\"color: #ff9900\">1</span> Điểm hành động tiêu hao, hệ số sát thương tăng thêm <span style=\"color: #ff9900\">3%</span>. Sát thương lên kẻ địch có Điện tích âm tăng <span style=\"color: #ff9900\">15%</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong bán kính <span style=\"color: #ff9900\">6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Electric lên nó, cứ mỗi 1 Điểm hành động tiêu hao, hệ số sát thương tăng <span style=\"color: #ff9900\">8%</span>. Sát thương lên kẻ địch có Điện tích âm tăng <span style=\"color: #ff9900\">15%</span>. Bản thân đồng thời nhận <span style=\"color: #ff9900\">1 tầng</span> Tích Cực Tác Chiến. Sau kỹ năng có thể tung kỹ năng chủ động Nhảy Cành Thông hoặc đánh thường Đạn Hạt Dẻ.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Hồ Quang Nhảy Vọt Lv.2</strong></td>\n<td style=\"text-align: center\">Bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Tích Cực Tác Chiến. Phóng Điện Liên Tục thêm hiệu ứng: nếu mục tiêu của Phóng Điện Liên Tục hiệp này cũng là mục tiêu của kỹ năng này, trước khi tấn công gây Điện Tử Tràn lên nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong bán kính <span style=\"color: #ff9900\">8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Electric; mỗi 1 Điểm hành động tiêu hao, hệ số sát thương tăng <span style=\"color: #ff9900\">5%</span>; đồng thời gây Dẫn điện lên chúng, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Bản thân nhận Phóng Điện Liên Tục duy trì <span style=\"color: #ff9900\">2 hiệp</span> và <span style=\"color: #ff9900\">1 tầng</span> Tích Cực Tác Chiến.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Bảo Tàng Trong Rừng Lv.2</strong></td>\n<td style=\"text-align: center\">Trước khi tấn công, gây Dẫn điện lên kẻ địch mục tiêu, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Khi tấn công kẻ địch có Điện tích âm, bỏ qua <span style=\"color: #ff9900\">10%</span> Phòng thủ của chúng. Khi Belka gây sát thương đơn mục tiêu Electric lên mục tiêu có Điện tích âm, hệ số sát thương cố định trong hiệu ứng Điện tích âm tăng lên <span style=\"color: #ff9900\">40%</span>. Mỗi khi đồng minh gây <span style=\"color: #ff9900\">1 lần</span> sát thương Electric, Belka nhận <span style=\"color: #ff9900\">1 tầng</span> Tích Trữ Điện Năng.</td>\n<td style=\"text-align: center\">Khi bắt đầu hiệp, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Trước khi tấn công, gây Dẫn điện lên kẻ địch mục tiêu, duy trì <span style=\"color: #ff9900\">1 hiệp</span>, và gây Điện tích âm lên nó cùng <span style=\"color: #ff9900\">1</span> kẻ địch gần nó nhất, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Nếu mục tiêu có Điện tích âm, bỏ qua <span style=\"color: #ff9900\">10%</span> Phòng thủ của nó. Khi Belka gây sát thương đơn mục tiêu Electric lên mục tiêu có Điện tích âm, hệ số sát thương cố định trong hiệu ứng Điện tích âm tăng lên <span style=\"color: #ff9900\">40%</span>. Nếu hạ gục kẻ địch mục tiêu, bản thân nhận Ẩn Nấp. Mỗi khi đồng minh gây 1 Điện tích âm, tỉ lệ chí mạng của Belka tăng <span style=\"color: #ff9900\">5%</span>, tối đa tăng <span style=\"color: #ff9900\">30%</span>. Mỗi khi đồng minh gây <span style=\"color: #ff9900\">1 lần</span> sát thương Electric, Belka nhận <span style=\"color: #ff9900\">1 tầng</span> Tích Trữ Điện Năng.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Bảo Tàng Trong Rừng Lv.3</strong></td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, Điểm hành động và tầm bắn của bản thân tăng <span style=\"color: #ff9900\">1 ô</span>. Giới hạn cộng dồn Tích Trữ Điện Năng tăng <span style=\"color: #ff9900\">4 tầng</span>; mỗi khi bản thân gây <span style=\"color: #ff9900\">1 lần</span> sát thương Electric, nhận thêm <span style=\"color: #ff9900\">1 tầng</span> Tích Trữ Điện Năng.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, Điểm hành động và tầm bắn của bản thân tăng <span style=\"color: #ff9900\">1 ô</span>. Khi bắt đầu hiệp, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Trước khi tấn công, gây Dẫn điện lên kẻ địch mục tiêu, duy trì <span style=\"color: #ff9900\">1 hiệp</span>, và gây Điện tích âm lên nó cùng <span style=\"color: #ff9900\">1</span> kẻ địch gần nó nhất, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Nếu mục tiêu có Điện tích âm, bỏ qua <span style=\"color: #ff9900\">10%</span> Phòng thủ của nó. Khi Belka gây sát thương đơn mục tiêu Electric lên mục tiêu có Điện tích âm, hệ số sát thương cố định trong hiệu ứng Điện tích âm tăng lên <span style=\"color: #ff9900\">40%</span>. Nếu hạ gục kẻ địch mục tiêu, bản thân nhận Ẩn Nấp. Mỗi khi đồng minh gây 1 Điện tích âm, tỉ lệ chí mạng của Belka tăng <span style=\"color: #ff9900\">5%</span>, tối đa tăng <span style=\"color: #ff9900\">30%</span>. Mỗi khi đồng minh gây <span style=\"color: #ff9900\">1 lần</span> sát thương Electric, Belka nhận <span style=\"color: #ff9900\">1 tầng</span> Tích Trữ Điện Năng; Mỗi khi bản thân gây sát thương Electric, nhận thêm <span style=\"color: #ff9900\">1 tầng</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Phi Thân Cành Thông Lv.2</strong></td>\n<td style=\"text-align: center\">Sát thương ổn định tăng <span style=\"color: #ff9900\">2 điểm</span>. Sát thương chí mạng của đòn tấn công này tăng <span style=\"color: #ff9900\">30%</span>. Sát thương gây ra tăng, mức tăng bằng số Điện tích âm trên sân ×<span style=\"color: #ff9900\">6%</span>, tối đa tăng <span style=\"color: #ff9900\">30%</span>; Nếu mục tiêu tấn công là đơn vị thủ lĩnh và có Điện tích âm, sát thương gây ra tăng thẳng <span style=\"color: #ff9900\">30%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong bán kính <span style=\"color: #ff9900\">6 ô</span>, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Physical. Sát thương chí mạng của đòn này tăng <span style=\"color: #ff9900\">30%</span>; Sát thương gây ra tăng, mức tăng bằng số Điện tích âm trên sân ×<span style=\"color: #ff9900\">6%</span>, tối đa tăng <span style=\"color: #ff9900\">30%</span>; Nếu mục tiêu là đơn vị thủ lĩnh và có Điện Tích Âm, sát thương gây ra tăng thẳng <span style=\"color: #ff9900\">30%</span>. Nếu gây chí mạng, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Sau kỹ năng có thể chọn ô trống trong bán kính <span style=\"color: #ff9900\">6 ô</span> quanh bản thân, đáp xuống ô đó.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Hồ Quang Nhảy Vọt Lv.3</strong></td>\n<td style=\"text-align: center\">Mỗi <span style=\"color: #ff9900\">1</span> Điểm hành động tiêu hao, hệ số sát thương tăng thêm <span style=\"color: #ff9900\">5%</span>. Hệ số sát thương của Phóng Điện Liên Tục tăng <span style=\"color: #ff9900\">30%</span>. Nếu mục tiêu có từ <span style=\"color: #ff9900\">2</span> debuff loại Electric trở lên, sát thương chí mạng tăng <span style=\"color: #ff9900\">30%</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong bán kính <span style=\"color: #ff9900\">8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Electric; mỗi 1 Điểm hành động tiêu hao, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>; đồng thời gây Dẫn điện lên chúng, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Nếu mục tiêu có từ <span style=\"color: #ff9900\">2</span> debuff loại Electric trở lên, sát thương chí mạng tăng <span style=\"color: #ff9900\">30%</span>. Bản thân nhận Phóng Điện Liên Tục duy trì <span style=\"color: #ff9900\">2 hiệp</span> và <span style=\"color: #ff9900\">1 tầng</span> Tích Cực Tác Chiến.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559385390.png\"></td>\n<td>\n<h2>Contract Key · Tâm Sự Nhảy Nhót</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764396747429.png\" width=\"20\" height=\"20\"></sub>Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764417817147.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559402013.png\"></td>\n<td>\n<h2>Fixed Key · Sức Sống Bừng Bừng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi hiệu ứng Ẩn Nấp kết thúc, bản thân hồi 30% HP tối đa và 4 điểm Chỉ số ổn định.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559422270.png\"></td>\n<td>\n<h2>Fixed Key · Công Thế Nước Mắt</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu bản thân có Phóng Điện Liên Tục, miễn nhiễm debuff di chuyển.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559451637.png\"></td>\n<td>\n<h2>Fixed Key · Người Khuấy Động Không Khí</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu hiệp, nếu có kẻ địch trong bán kính 5 ô quanh bản thân, nhận Tăng di chuyển I, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559472894.png\"></td>\n<td>\n<h2>Fixed Key · Chiếc Đuôi Vểnh Lên</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Vỏ Quả Nổ Tung tấn công kẻ địch có Điện tích âm, Tấn công tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559490016.png\"></td>\n<td>\n<h2>Fixed Key · Khát Khao Được Khen</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kết thúc hành động, nếu trên sân có đơn vị thủ lĩnh mang Điện tích âm, bản thân nhận Tăng chí mạng I và Tăng sát thương I, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559507679.png\"></td>\n<td>\n<h2>Fixed Key · Mưu Mẹo Quyết Thắng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi tung kỹ năng Quyết thắng Hồ Quang Nhảy Vọt, xua tan 2 buff của kẻ địch mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559525367.png\"></td>\n<td>\n<h2>Common Key · Quyết Tâm Giành Sự Cưng Chiều</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764405202464.png\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Nếu tiêu hao Điểm hành động, sát thương gây ra tăng 10%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559539144.png\"></td>\n<td>\n<h2>Expansion Key · Giác Ngộ Của Sóc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Kỹ năng chủ động Nhảy Cành Thông đổi thành gây sát thương Electric; sát thương chí mạng của đòn này tăng, mức tăng bằng số Điện tích dương trên sân ×5%, tối đa tăng 25%. Khi dùng kỹ năng chủ động Vỏ Quả Nổ Tung và kỹ năng Quyết thắng Hồ Quang Nhảy Vọt, nếu Điểm hành động tiêu hao ít hơn 10, tính là tiêu hao 10 Điểm hành động.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*4 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có debuff loại Electric tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*6 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*7 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Electric gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*9 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có HP từ 50% trở xuống tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*13 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*15 Sentinel*9&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sau khi chí mạng, gây 3 điểm sát thương ổn định cố định lên mục tiêu, mỗi hiệp kích hoạt tối đa 2 lần.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763904579370.png\"></td>\n<td>\n<h1><strong>Tinh Linh Rừng Cổ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10453\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng trường tấn công hiệu năng cao được cấp cho Belka, lấy Gewehr28 làm nguyên mẫu, nâng cao thêm độ chính xác và uy lực khi bắn. Cô hoạt bát trên chiến trường như một tinh linh trong rừng, nhanh nhẹn và chính xác đánh lui mọi kẻ xâm nhập.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=35238&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1730189789533.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=35159&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1730344797333.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=35319&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1733975823955.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=35203&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1730189848700.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p> &nbsp; Ngây thơ, hoạt bát, những mưu mẹo nhỏ vô hại hiện rõ trên mặt. Tuyệt đối trung thành với Chỉ Huy và chị gái, nỗ lực trở thành T-Doll tinh anh ai cũng yêu mến. Có cô ở đây thì không lo bầu không khí nguội lạnh nữa!</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778253242860.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253242849.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778253269681.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253269652.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253269672.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253269644.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253269653.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253269675.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253269677.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1730714448380.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1730714489248.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1730714514778.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1730714541339.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1730714567588.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1730714595504.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1730714625127.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1730714644419.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1730714665942.png\" style=\"max-width: 150px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 80,
+      "title": "Thường ngày-01",
+      "text": "Hi! Chỉ huy! Có nhiệm vụ gì giao cho em không ạ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Daily_001.wav"
+    },
+    {
+      "id": 83,
+      "title": "Thường ngày-02",
+      "text": "Chỉ huy có đói không, cần em giúp chuẩn bị đồ ăn không! Hả? Lo lò vi sóng nổ... mới không có đâu! Em đã đọc kỹ hướng dẫn rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Daily_004.wav"
+    },
+    {
+      "id": 87,
+      "title": "Thường ngày-03",
+      "text": "Chị Klukai bình thường hay trò chuyện gì với Chỉ huy ạ? Có nói về em không! Em muốn biết quá!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Daily_008.wav"
+    },
+    {
+      "id": 88,
+      "title": "Thường ngày-04",
+      "text": "Thật không hiểu nổi, rốt cuộc chị Klukai thích Mechty ở điểm nào nữa... Nếu chỉ là thi ngủ thì em cũng làm được mà!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Daily_009.wav"
+    },
+    {
+      "id": 89,
+      "title": "Thường ngày-05",
+      "text": "Mục tiêu của em là trở thành T-Doll tinh anh như chị ấy. Vì chị, em sẽ dốc hết sức!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Daily_010.wav"
+    },
+    {
+      "id": 91,
+      "title": "Nâng cấp-01",
+      "text": "Mạnh lên rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Up_002.wav"
+    },
+    {
+      "id": 92,
+      "title": "Nâng cấp-02",
+      "text": "Giỏi quá——!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Up_003.wav"
+    },
+    {
+      "id": 93,
+      "title": "Nâng cấp-03",
+      "text": "Giúp được chị rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Up_004.wav"
+    },
+    {
+      "id": 94,
+      "title": "Nâng cấp-04",
+      "text": "Hihi, vui quá~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Up_005.wav"
+    },
+    {
+      "id": 95,
+      "title": "Nâng cấp-05",
+      "text": "Chị sẽ khen em chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Up_006.wav"
+    },
+    {
+      "id": 98,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Title_001.wav"
+    },
+    {
+      "id": 1567,
+      "title": "Đăng nhập",
+      "text": "Hi——Chỉ huy! Có thấy chị Klukai đâu không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766212855509.wav"
+    },
+    {
+      "id": 101,
+      "title": "Tâm sự-01",
+      "text": "Chỉ huy vẫn chưa quen với tên mới của em sao? Hihi, không sao, gọi thêm vài lần là quen thôi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 102,
+      "title": "Tâm sự-02",
+      "text": "Ơ... Chỉ huy bảo em khác trước một chút ạ? Đương nhiên rồi, trải qua bao nhiêu năm, em cũng trưởng thành mà!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 104,
+      "title": "Tâm sự-03",
+      "text": "Hì hì, thỉnh thoảng em cũng nhớ thời ở Griffin lắm... Khi nào Chỉ huy rảnh, mình chơi một ván Texas Hold'em nữa nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 105,
+      "title": "Tâm sự-04",
+      "text": "Chỉ huy~! Giờ nghỉ đừng xem báo cáo nữa mà... nhìn em nhiều hơn đi! Em ở đây lâu lắm rồi đó!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 107,
+      "title": "Tâm sự-05",
+      "text": "Huhu, lần này kẻ địch quá đáng thật, lại toàn bắn vào chân em, tuy đã sửa xong rồi nhưng cứ thấy có gì đó sai sai... Chỉ huy, kiểm tra giúp em được không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 110,
+      "title": "Tâm sự-06",
+      "text": "Chị và Chỉ huy đều là người rất quan trọng! Nhưng chị là người nhà quan trọng, còn Chỉ huy... Chỉ huy thì khác... Chỉ huy là...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Friendliness_011.wav"
+    },
+    {
+      "id": 111,
+      "title": "Tâm sự-07",
+      "text": "Chỉ·huy! Lần sau không được mạo hiểm như vậy nữa! Nếu có chuyện gì, em, em sẽ không bao giờ tha thứ cho bản thân!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Friendliness_012.wav"
+    },
+    {
+      "id": 112,
+      "title": "Tâm sự-08",
+      "text": "Huhu, sao lại tối rồi nữa... rõ ràng chỉ ở bên Chỉ huy làm việc thôi mà, sao thời gian trôi nhanh vậy? Hay là tối nay em ở lại đây, giám sát Chỉ huy nghỉ ngơi nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 114,
+      "title": "Vào đội",
+      "text": "Hi, Chỉ huy, còn nhớ em không! Em là... hihi, chị đặt cho em tên mới rồi, giờ phải gọi em là Belka nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 57,
+      "title": "Ngữ khí-01",
+      "text": "Hây!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 58,
+      "title": "Ngữ khí-02",
+      "text": "Hihi~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 59,
+      "title": "Ngữ khí-03",
+      "text": "Xông lên!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 60,
+      "title": "Ngữ khí-04",
+      "text": "Hehe!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 61,
+      "title": "Ngữ khí-05",
+      "text": "Xem tớ này!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 62,
+      "title": "Ngữ khí-06",
+      "text": "Biến mất cho tôi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 63,
+      "title": "Ngữ khí-07",
+      "text": "Chị, nhìn em này!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 64,
+      "title": "Ngữ khí-08",
+      "text": "Nhẹ nhàng thôi mà!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 65,
+      "title": "Ngữ khí-09",
+      "text": "Đầu hàng đi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 66,
+      "title": "Ngữ khí-10",
+      "text": "Hihi, xem chiêu này!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 69,
+      "title": "Kỹ năng-01",
+      "text": "Chiêu này lợi hại lắm đó!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Skill_001.wav"
+    },
+    {
+      "id": 70,
+      "title": "Kỹ năng-02",
+      "text": "Tránh xa chị tôi ra——!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Skill_002.wav"
+    },
+    {
+      "id": 71,
+      "title": "Kỹ năng-03",
+      "text": "Hứ, không ngờ phải không!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Hit_001.wav"
+    },
+    {
+      "id": 77,
+      "title": "Kỹ năng-04",
+      "text": "Nghe lời chị!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 76,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Cứ giao cho em!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 72,
+      "title": "Hạ gục",
+      "text": "Kết thúc nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Kill_001.wav"
+    },
+    {
+      "id": 73,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Hihi~ nhiệm vụ hoàn thành thuận lợi! Chị Klukai chắc chắn sẽ khen em nhỉ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Win_001.wav"
+    },
+    {
+      "id": 74,
+      "title": "Kết thúc trận-Thua",
+      "text": "Huhu, thất bại rồi... làm sao đây, đã hứa với chị là sẽ thắng mà...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/BiyocaCV/VO_Biyoca_Single_Lose_001.wav"
+    }
+  ]
+}

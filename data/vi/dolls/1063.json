@@ -1,0 +1,374 @@
+{
+  "id": 1063,
+  "name": "Welrod",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1778834039140.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 5,
+  "role_id": 1,
+  "team_id": 4,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Bulwark",
+  "attr": "Corrosion",
+  "team": "H.I.D.E.404 Team 2",
+  "weapon": "HG Nòng Mark II",
+  "model": "SSD-62D",
+  "ammo_model": "HG",
+  "desc": "Khi nói chuyện thường quen lấy bản thân làm trung tâm, tỏ ra hơi nghiêm khắc với đồng đội. Thực ra rất coi trọng đồng đội, nỗ lực giúp đỡ từng người. Đặc biệt tự tin vào khả năng phán đoán của mình, thích đánh giá đúng sai của sự việc và sẽ hành động để bảo vệ chính nghĩa trong lòng. Nội tâm rất dịu dàng, nhưng không giỏi bày tỏ sự quan tâm với người khác. Bản thân cô cũng phiền não vì điều này, cần được đồng đội bao dung và thấu hiểu. Khi vẻ cố tỏ ra mạnh mẽ bị người khác vạch trần, cô sẽ bộc lộ một mặt đáng yêu bất ngờ.",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1778834056784.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1778834064695.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1779092180438.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1779092186366.png"
+  },
+  "skins": [
+    {
+      "id": 75,
+      "name": "Đặc Vụ Thành Phố Sương Mù",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1779092303592.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1779092314703.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1778834076480.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1778834084498.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1778834093973.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Tư Nặc</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Imai Asami</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=128\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>671</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>12</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>577</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>2338<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo&nbsp;<span style=\"color: #ff6600\">Burn</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Thường·Ám Sát Lặng Tiếng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1773705679457.png\"><br></p>\n</td>\n<td>\n<p> Vi Thanh Tiêu Diệt Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778836955881.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Điều Tra Liên Hợp",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1778835325819.png\"><br></p>\n</td>\n<td>\n<p>Điều Tra Liên Hợp Lv.1</p>\n<p>Chủ động / Đơn mục tiêu / Buff / Phòng hộ</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778836974310.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây sát thương Corrosion bằng <span style=\"color: #ff9900\">100%</span> Tấn công lên chúng, đồng thời nhận Chấp Niệm Suy Lý, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Sau kỹ năng nhận <span style=\"color: #ff9900\">2 tầng</span> yểm hộ và <span style=\"color: #ff9900\">4 điểm</span> Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 5 Hồi chiêu (hiệp): 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Chế Tài Tâm Chứng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1778835384097.png\"><br></p>\n</td>\n<td>\n<p>Chế Tài Tâm Chứng Lv.1</p>\n<p>Chủ động / Diện rộng / Ô địa hình</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778837027962.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh để phóng, gây sát thương Corrosion diện rộng bằng <span style=\"color: #ff9900\">100%</span> Tấn công lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh đó, đồng thời gây ô địa hình Độc Chướng, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cứ mỗi <span style=\"color: #ff9900\">1%</span> HP tối đa của bản thân cao hơn HP ban đầu, hệ số sát thương tăng <span style=\"color: #ff9900\">1%</span>, tối đa tăng <span style=\"color: #ff9900\">60%</span>. Cứ mỗi <span style=\"color: #ff9900\">1</span> kẻ địch bị trúng, sát thương tích lũy của Miễn Trừ Thám Tử giảm <span style=\"color: #ff9900\">10%</span>, nếu mục tiêu là đơn vị thủ lĩnh thì giảm <span style=\"color: #ff9900\">30%</span>, tối đa giảm <span style=\"color: #ff9900\">50%</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 5 Tiêu hao Infection: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết Thắng·Khoảnh Khắc Kết Tội",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1778835667881.png\"><br></p>\n</td>\n<td>\n<p>Khoảnh Khắc Kết Tội Lv.1</p>\n<p>Quyết thắng / Debuff / Di chuyển / Hồi máu / Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778837043997.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây sát thương Corrosion diện rộng bằng <span style=\"color: #ff9900\">100%</span> Tấn công lên mọi kẻ địch trong <span style=\"color: #ff9900\">3</span>×9 ô phía trước, kéo <span style=\"color: #ff9900\">3 ô</span> về phía bản thân, đồng thời gây Phản Phệ Tội Ác duy trì <span style=\"color: #ff9900\">1 hiệp</span> và Nghi Phạm duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Bản thân hồi HP bằng <span style=\"color: #ff9900\">20%</span> giá trị sát thương tích lũy và nhận Viện hộ V<span style=\"color: #00ccff\">3</span>, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn. Sau kỹ năng có thể dùng đánh thường Vi Thanh Tiêu Diệt, kỹ năng chủ động Điều Tra Liên Hợp hoặc kỹ năng chủ động Chế Tài Tâm Chứng.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 5 Hồi chiêu (hiệp): 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Người Nắm Quyền Kiểm Soát Vụ Án",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1778835710162.png\"><br></p>\n</td>\n<td>\n<p>Kẻ Nắm Quyền Vụ Án Lv.1</p>\n<p>Bị động / Khống chế / Debuff / Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778837059826.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Bản thân không được vật cản bảo vệ, tỉ lệ chí mạng của bản thân giảm <span style=\"color: #ff9900\">100%</span>, HP tối đa tăng <span style=\"color: #ff9900\">50%</span>, sát thương nhận vào giảm <span style=\"color: #ff9900\">20%</span>.<br>Khi bắt đầu chiến đấu nhận Miễn Trừ Thám Tử. Khi bản thân kết thúc hành động, gây <span style=\"color: #ff9900\">1</span> lần sát thương Corrosion diện rộng bằng 30% giá trị sát thương tích lũy của Miễn Trừ Thám Tử lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, đồng thời gây Nghi Phạm, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Khi kết thúc hành động, gây Khiêu khích lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp kỹ năng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng kỹ năng thêm</strong></span></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Điều Tra Liên Hợp Lv.2</strong></td>\n<td style=\"text-align: center\">Hiệu quả hồi máu trong Chấp Niệm Suy Lý tăng thêm lên <span style=\"color: #ff9900\">30%</span>, sát thương nhận vào giảm thêm lên <span style=\"color: #ff9900\">30%</span>, đồng thời thêm hiệu ứng: sát thương Corrosion gây ra tăng <span style=\"color: #ff9900\">30%</span>.<br>Sau kỹ năng, hồi HP bằng <span style=\"color: #ff9900\">100%</span> Tấn công cho đồng minh (trừ bản thân) có HP thấp nhất trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh bản thân và gây <span style=\"color: #ff9900\">2 tầng</span> yểm hộ.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây sát thương Corrosion bằng <span style=\"color: #ff9900\">100%</span> Tấn công lên chúng, đồng thời nhận Chấp Niệm Suy Lý, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Sau kỹ năng, hồi HP bằng <span style=\"color: #ff9900\">100%</span> Tấn công cho đồng minh (trừ bản thân) có HP thấp nhất trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh bản thân và gây <span style=\"color: #ff9900\">2 tầng</span> yểm hộ; Bản thân nhận <span style=\"color: #ff9900\">2 tầng</span> yểm hộ và <span style=\"color: #ff9900\">4 điểm</span> Infection Index.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td><strong>Kẻ Nắm Quyền Vụ Án Lv.2</strong></td>\n<td>Khi T-Doll đồng minh khác kết thúc hành động, Welrod cũng có thể kích hoạt <span style=\"color: #ff9900\">1 lần</span> sát thương Corrosion diện rộng dựa trên giá trị sát thương tích lũy của Miễn Trừ Thám Tử.<br>Tăng hiệu quả Miễn Trừ Thám Tử: giới hạn trên giá trị hấp thụ tăng thành tổng của <span style=\"color: #ff9900\">250%</span> HP tối đa và <span style=\"color: #ff9900\">150%</span> Tấn công của bản thân khi bắt đầu chiến đấu (không vượt quá <span style=\"color: #ff9900\">800%</span> HP ban đầu của bản thân).</td>\n<td>Bản thân không được vật cản bảo vệ, tỉ lệ chí mạng của bản thân giảm <span style=\"color: #ff9900\">100%</span>, HP tối đa tăng <span style=\"color: #ff9900\">50%</span>, sát thương nhận vào giảm <span style=\"color: #ff9900\">20%</span>.<br>Khi bắt đầu chiến đấu nhận Miễn Trừ Thám Tử. Khi T-Doll đồng minh kết thúc hành động, Welrod gây 1 lần sát thương Corrosion diện rộng bằng <span style=\"color: #ff9900\">30%</span> giá trị sát thương tích lũy của Miễn Trừ Thám Tử lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, đồng thời gây Nghi Phạm, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Khi kết thúc hành động, gây Khiêu khích lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Khoảnh Khắc Kết Tội v.2</strong></td>\n<td>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>.<br>Tăng hiệu quả Phản Phệ Tội Ác: sát thương nhận vào tăng lên tổng của <span style=\"color: #ff9900\">50%</span> giá trị sát thương tích lũy và <span style=\"color: #ff9900\">30%</span> HP tối đa của Welrod.<br>Thời gian hồi chiêu của Viện hộ V<span style=\"color: #00ccff\">3</span> giảm <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây sát thương Corrosion diện rộng bằng <span style=\"color: #ff9900\">120%</span> Tấn công lên mọi kẻ địch trong <span style=\"color: #ff9900\">3</span>×9 ô phía trước, kéo <span style=\"color: #ff9900\">3 ô</span> về phía bản thân, đồng thời gây Phản Phệ Tội Ác duy trì <span style=\"color: #ff9900\">1 hiệp</span> và Nghi Phạm duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Bản thân hồi HP bằng <span style=\"color: #ff9900\">20%</span> giá trị sát thương tích lũy và nhận Viện hộ V<span style=\"color: #00ccff\">3</span>, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn. Sau kỹ năng có thể dùng đánh thường Vi Thanh Tiêu Diệt, kỹ năng chủ động Điều Tra Liên Hợp hoặc kỹ năng chủ động Chế Tài Tâm Chứng.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Chế Tài Tâm Chứng Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>.<br>Cứ mỗi <span style=\"color: #ff9900\">1%</span> HP tối đa của bản thân cao hơn HP ban đầu, hệ số sát thương tăng <span style=\"color: #ff9900\">1.5%</span>, tối đa tăng <span style=\"color: #ff9900\">150%</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh để phóng, gây sát thương Corrosion diện rộng bằng <span style=\"color: #ff9900\">120%</span> Tấn công lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh đó, đồng thời gây ô địa hình Độc Chướng, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cứ mỗi <span style=\"color: #ff9900\">1%</span> HP tối đa của bản thân cao hơn HP ban đầu, hệ số sát thương tăng <span style=\"color: #ff9900\">1.5%</span>, tối đa tăng <span style=\"color: #ff9900\">150%</span>. Cứ mỗi <span style=\"color: #ff9900\">1</span> kẻ địch bị trúng, sát thương tích lũy của Miễn Trừ Thám Tử giảm <span style=\"color: #ff9900\">10%</span>, nếu mục tiêu là đơn vị thủ lĩnh thì giảm <span style=\"color: #ff9900\">30%</span>, tối đa giảm <span style=\"color: #ff9900\">50%</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Khoảnh Khắc Kết Tội Lv.3</strong></td>\n<td>Cứ mỗi <span style=\"color: #ff9900\">1 lần</span> nhận sát thương, sát thương gây ra tăng <span style=\"color: #ff9900\">40%</span>, tối đa tăng <span style=\"color: #ff9900\">80%</span>.<br>Cứ mỗi <span style=\"color: #ff9900\">1</span> kẻ địch bị trúng, sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>, tối đa tăng <span style=\"color: #ff9900\">100%</span>.<br>Tăng hiệu quả Nghi Phạm: sát thương cố định nhận khi kết thúc hiệp tăng lên <span style=\"color: #ff9900\">16%</span> HP tối đa của nó, nếu mục tiêu là đơn vị thủ lĩnh thì sát thương đó tăng lên <span style=\"color: #ff9900\">360%</span> Tấn công của Welrod.<br>Thời gian hồi chiêu giảm <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây sát thương Corrosion diện rộng bằng <span style=\"color: #ff9900\">120%</span> Tấn công lên mọi kẻ địch trong <span style=\"color: #ff9900\">3</span>×9 ô phía trước, kéo <span style=\"color: #ff9900\">3 ô</span> về phía bản thân, đồng thời gây Phản Phệ Tội Ác duy trì <span style=\"color: #ff9900\">1 hiệp</span> và Nghi Phạm duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cứ mỗi <span style=\"color: #ff9900\">1 lần</span> nhận sát thương, sát thương gây ra tăng <span style=\"color: #ff9900\">40%</span>, tối đa tăng <span style=\"color: #ff9900\">80%</span>. Cứ mỗi <span style=\"color: #ff9900\">1</span> kẻ địch bị trúng, sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>, tối đa tăng <span style=\"color: #ff9900\">100%</span>. Bản thân hồi HP bằng <span style=\"color: #ff9900\">20%</span> giá trị sát thương tích lũy và nhận Viện hộ V<span style=\"color: #00ccff\">3</span>, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn. Sau kỹ năng có thể dùng đánh thường Vi Thanh Tiêu Diệt, kỹ năng chủ động Điều Tra Liên Hợp hoặc kỹ năng chủ động Chế Tài Tâm Chứng.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Kẻ Nắm Quyền Vụ Án Lv.3</strong></td>\n<td>Khi bắt đầu chiến đấu, HP tối đa tăng thêm lên <span style=\"color: #ff9900\">150%</span>.<br>Cứ mỗi <span style=\"color: #ff9900\">1 lần</span> nhận sát thương (bao gồm sát thương do Miễn Trừ Thám Tử gây ra), Tấn công của bản thân tăng <span style=\"color: #ff9900\">1%</span>, tối đa tăng <span style=\"color: #ff9900\">50%</span>.</td>\n<td>Bản thân không được vật cản bảo vệ, tỉ lệ chí mạng của bản thân giảm <span style=\"color: #ff9900\">100%</span>, HP tối đa tăng <span style=\"color: #ff9900\">150%</span>, sát thương nhận vào giảm <span style=\"color: #ff9900\">20%</span>.<br>Khi bắt đầu chiến đấu nhận Miễn Trừ Thám Tử. Khi T-Doll đồng minh kết thúc hành động, Welrod gây <span style=\"color: #ff9900\">1 lần</span> sát thương Corrosion diện rộng bằng <span style=\"color: #ff9900\">100</span> giá trị sát thương tích lũy của Miễn Trừ Thám Tử lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, đồng thời gây Nghi Phạm, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Cứ mỗi <span style=\"color: #ff9900\">1 lần</span> nhận sát thương (bao gồm sát thương do Miễn Trừ Thám Tử gây ra), Tấn công của bản thân tăng <span style=\"color: #ff9900\">1%</span>, tối đa tăng <span style=\"color: #ff9900\">50%</span>.<br>Khi kết thúc hành động, gây Khiêu khích lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778836301107.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Contract Key·Lời Thề Lần Theo Dấu Vết</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"> <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1777346818675.png\" width=\"20\" height=\"20\"></sub> Tấn công +3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1778837210534.png\" width=\"20\" height=\"20\"></sub> HP +3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1779153397529.png\" width=\"20\" height=\"20\"></sub> Phòng thủ +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778836078092.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Khí Chất Thám Tử Lừng Danh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận <span style=\"color: #ff9900\">3 điểm</span> Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778836126082.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Thu Thập Chứng Cứ Ban Đầu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Trước khi tấn công chủ động, xua tan <span style=\"color: #ff9900\">1</span> buff của mục tiêu.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778836165906.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Logic Chính Thống</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Tỉ lệ sát thương cuối cùng mà Miễn Trừ Thám Tử hấp thụ tăng lên <span style=\"color: #ff9900\">90%</span>.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778836210465.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Săn Chó Ma</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Khi tấn công đơn vị thủ lĩnh, sát thương Corrosion gây ra tăng <span style=\"color: #ff9900\">20%</span>.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778836244104.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Vụ Án Cuối Cùng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Miễn nhiễm hiệu ứng choáng, né tránh. Hiệu quả hồi máu tăng <span style=\"color: #ff9900\">30%</span>.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778836287413.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Thám Tử Hai Người Một Thể</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Hiệu ứng gây sát thương cố định lên bản thân khi kết thúc hành động của Miễn Trừ Thám Tử đổi thành <span style=\"color: #ff9900\">2 lần</span>, sát thương cố định nhận vào giảm <span style=\"color: #ff9900\">15%</span>,</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778836348006.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Common Key·Chuẩn Tắc Van Dine</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1778837244425.png\" width=\"20\" height=\"20\"></sub>HP +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Khi tấn công, nếu% HP của bản thân ≥ mục tiêu, sát thương dị vị gây ra tăng <span style=\"color: #ff9900\">10%</span>.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hình thái hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp mở khóa</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Nhân tố hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu quả</strong></span></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">Phòng vệ x4, Hỏa lực x2</td>\n<td style=\"text-align: center\">Sát thương lên kẻ địch có debuff loại Corrosion tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">Phòng vệ x6, Support x1, Hỏa lực x3</td>\n<td style=\"text-align: center\">Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">Phòng vệ x7, Support x2, Hỏa lực x5</td>\n<td style=\"text-align: center\">Sát thương Corrosion gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">Phòng vệ x9, Support x3, Hỏa lực x6</td>\n<td style=\"text-align: center\">Khi không được vật cản bảo vệ, sát thương nhận vào giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">Phòng vệ x13, Support x4, Hỏa lực x6</td>\n<td style=\"text-align: center\">Phòng thủ tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">Phòng vệ x15, Support x5, Hỏa lực x9</td>\n<td style=\"text-align: center\">Khi Chỉ số ổn định lớn hơn 0 điểm, sát thương gây ra tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778838130949.png\"></td>\n<td>\n<h1><strong>Silent Sanction &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10633\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng ngắn/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng lục hiệu năng cao được cấp cho Welrod, lấy Súng lục khóa nòng Mark II làm nguyên mẫu, trong khi giữ nguyên \"đặc tính ẩn mình\", cách thức khai hỏa cũng được cải tạo mang tính đột phá, nhờ đó nâng mạnh uy lực và tốc độ đạn. Thám tử ẩn mình trong bóng tối sẽ dùng nó để thực thi chính nghĩa trong lòng.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; </span><span style=\"color: #ff6600\">Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=127785&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1779879930797.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=127742&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1779879989577.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=127687&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1779880044394.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<div>\n<p>&nbsp; Sau khi Griffin giải tán, Welrod chọn một mình đến thành phố vệ tinh, trở thành một thám tử tư. Cô giỏi thu thập manh mối trong bóng tối, lẻn vào cứ điểm của tội phạm không để lại dấu vết, cuối cùng đưa chúng ra trước pháp luật. Welrod từ đó trở thành hiện thân của chính nghĩa ở thành phố vệ tinh.</p>\n<p>&nbsp; Về sau, để truy bắt mạng lưới tội phạm ẩn nấp trong bóng tối thành phố, cô đến Khu Vàng tiếp tục truy tra, trong một cuộc khủng hoảng nhận được sự giúp đỡ của Klukai, cùng Harpsy và những người khác trở thành thành viên Tiểu đội Hai 404.</p>\n<p>&nbsp; \"Chỉ Huy, anh có thể yên tâm rồi. Thám tử xuất sắc nhất sẽ trở thành T-Doll chiến thuật riêng của anh. \"</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\" style=\"max-width: 100px\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\" style=\"max-width: 100px\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\" style=\"max-width: 100px\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778832304715.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778832304876.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778832342167.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778832342246.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778832342206.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778832342184.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778832342204.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778832342177.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778832342186.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779086242957.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1779086244978.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1779086246795.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1779086248486.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1779086250131.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1779086251975.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1779086258251.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1779086255864.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1779086253895.png\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784704697531.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704707791.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704715884.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704722088.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704739882.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704751115.jpeg\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1729,
+      "title": "Thường ngày-01",
+      "text": "Muốn điều tra gì sao? Tôi hẳn có thể đưa ra câu trả lời khiến anh/chị hài lòng.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779090666217.wav"
+    },
+    {
+      "id": 1730,
+      "title": "Thường ngày-02",
+      "text": "Về kế hoạch nhiệm vụ của Vector, tôi có vài đề xuất sau…… Hả? Đây là phương án của Klukai? Vậy…… không có gì.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779090703256.wav"
+    },
+    {
+      "id": 1731,
+      "title": "Thường ngày-03",
+      "text": "Theo tôi thấy, khi quy tắc không thể trừng phạt những kẻ ác thực sự, thì phải có người đứng ra bảo vệ công lý.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779090727657.wav"
+    },
+    {
+      "id": 1732,
+      "title": "Thường ngày-04",
+      "text": "Báo cáo trạng thái Elmo hôm nay: Mọi thứ bình thường, yên ả không gợn sóng. Tuy với tôi hơi thiếu thử thách, nhưng sự yên tĩnh này…… thật ra cũng không tệ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779090771895.wav"
+    },
+    {
+      "id": 1733,
+      "title": "Thường ngày-05",
+      "text": "Tình cảnh của Đội 2 đang tốt lên, nhưng mọi người vẫn như cũ, phải có người ở bên canh chừng mới được. Dù sao, đợi đến khi gặp rắc rối thật rồi mới hành động thì không kịp nữa.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779090786798.wav"
+    },
+    {
+      "id": 1734,
+      "title": "Nâng cấp-01",
+      "text": "Mới chỉ bắt đầu thôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779090815009.wav"
+    },
+    {
+      "id": 1735,
+      "title": "Nâng cấp-02",
+      "text": "Cần thêm manh mối.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779090843246.wav"
+    },
+    {
+      "id": 1736,
+      "title": "Nâng cấp-03",
+      "text": "Câu đố tiếp theo.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779090860331.wav"
+    },
+    {
+      "id": 1737,
+      "title": "Nâng cấp-04",
+      "text": "Logic khớp rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779090873273.wav"
+    },
+    {
+      "id": 1738,
+      "title": "Nâng cấp-05",
+      "text": "Tôi hiện đang ở trạng thái tốt nhất.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779090895652.wav"
+    },
+    {
+      "id": 1739,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779090917913.wav"
+    },
+    {
+      "id": 1740,
+      "title": "Đăng nhập",
+      "text": "Tôi không thích chờ đợi vô nghĩa, việc cần làm hôm nay đã lên kế hoạch xong chưa?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779090949707.wav"
+    },
+    {
+      "id": 1741,
+      "title": "Tâm sự-01",
+      "text": "Chỉ huy, có việc gì sao? Là người giỏi suy nghĩ nhất trong Đội Hai 404, tôi đang bận giúp mọi người hoàn thiện phương án hành động.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091037358.wav"
+    },
+    {
+      "id": 1742,
+      "title": "Tâm sự-02",
+      "text": "Ừm, bị anh/chị phát hiện tôi đổi gọng kính rồi, tôi lắp thêm chức năng truy dấu lên đó…… Đây là vì thực dụng, không phải bắt chước phim ảnh.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091077506.wav"
+    },
+    {
+      "id": 1743,
+      "title": "Tâm sự-03",
+      "text": "Mệt rồi à? Lúc này, người thông minh nên dùng hàng rào quây tư tưởng lại, để tránh kẻ lang thang tự ý xông vào…… Ý tôi là, anh/chị cần yên tĩnh một mình.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091096704.wav"
+    },
+    {
+      "id": 1744,
+      "title": "Tâm sự-04",
+      "text": "Đ, đợi đã! Đứng song song thế này chẳng phải càng làm nổi bật chênh lệch chiều cao giữa tôi và Chỉ huy sao…… Nhưng anh/chị cũng không cần rời đi, tôi không ghét khoảng cách này.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091117911.wav"
+    },
+    {
+      "id": 1745,
+      "title": "Tâm sự-05",
+      "text": "Tự cho mình là đúng là sai lầm mà mọi người thông minh đều mắc phải…… Nhưng may mà có anh/chị, giúp tôi tìm ra hướng đi đúng nhanh hơn.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091148297.wav"
+    },
+    {
+      "id": 1746,
+      "title": "Tâm sự-06",
+      "text": "Bộ phim này xem không nổi, phim truyền hình trước Đại chiến thứ ba hay hơn nó nhiều…… Anh/chị thích? Ừm, vì thái độ nghiêm cẩn với nghệ thuật điện ảnh, tôi miễn cưỡng xem xét lại vậy.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091163801.wav"
+    },
+    {
+      "id": 1747,
+      "title": "Tâm sự-07",
+      "text": "Nhiều năm trước, có một người thà từ bỏ danh dự và tiền đồ cũng muốn tìm kiếm sự thật, đòi công lý cho nạn nhân. Nhờ chịu ảnh hưởng của người đó mới có Welrod ngày hôm nay…… Chỉ huy, anh/chị biết người tôi nói là ai chứ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091191484.wav"
+    },
+    {
+      "id": 1748,
+      "title": "Tâm sự-08",
+      "text": "Trong các nhiệm vụ sau này, tôi cần một người đồng hành hoàn hảo. Và người đồng hành định mệnh của tôi…… chính là anh/chị, Chỉ huy.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091210963.wav"
+    },
+    {
+      "id": 1749,
+      "title": "Vào đội",
+      "text": "Chỉ huy, anh/chị yên tâm rồi. Thám tử xuất sắc nhất sẽ trở thành T-Doll chiến thuật riêng của anh/chị.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091233608.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1144,
+      "title": "Ngữ khí-01",
+      "text": "Trí tuệ mãi là vũ khí đáng tin cậy nhất.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091437856.wav"
+    },
+    {
+      "id": 1145,
+      "title": "Ngữ khí-02",
+      "text": "Chế tài công lý.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091492331.wav"
+    },
+    {
+      "id": 1146,
+      "title": "Ngữ khí-03",
+      "text": "Phát hiện mục tiêu!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091572707.wav"
+    },
+    {
+      "id": 1147,
+      "title": "Ngữ khí-04",
+      "text": "Để xử lý lũ chuột nào.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091592414.wav"
+    },
+    {
+      "id": 1148,
+      "title": "Ngữ khí-05",
+      "text": "Địa điểm tuyệt vời.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091609428.wav"
+    },
+    {
+      "id": 1149,
+      "title": "Ngữ khí-06",
+      "text": "Tôi đang quan sát.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091643578.wav"
+    },
+    {
+      "id": 1150,
+      "title": "Ngữ khí-07",
+      "text": "Đừng vội.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091658483.wav"
+    },
+    {
+      "id": 1151,
+      "title": "Ngữ khí-08",
+      "text": "Sự thật…… ở ngay phía trước.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091702550.wav"
+    },
+    {
+      "id": 1152,
+      "title": "Ngữ khí-09",
+      "text": "Thế yếu nguy hiểm.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091717895.wav"
+    },
+    {
+      "id": 1153,
+      "title": "Ngữ khí-10",
+      "text": "Hự!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091739368.wav"
+    },
+    {
+      "id": 1154,
+      "title": "Kỹ năng-01",
+      "text": "IQ đáng lo.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091762812.wav"
+    },
+    {
+      "id": 1155,
+      "title": "Kỹ năng-02",
+      "text": "Bình tĩnh và thuần khiết.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091788549.wav"
+    },
+    {
+      "id": 1156,
+      "title": "Kỹ năng-03",
+      "text": "Chú ý chi tiết.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091814195.wav"
+    },
+    {
+      "id": 1157,
+      "title": "Kỹ năng-04",
+      "text": "Đừng hòng chạy.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091830225.wav"
+    },
+    {
+      "id": 1158,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Công lý của tôi sẽ được thực thi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091861709.wav"
+    },
+    {
+      "id": 1159,
+      "title": "Hạ gục",
+      "text": "Tội ác tan biến.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091874587.wav"
+    },
+    {
+      "id": 1160,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Đã đến lúc đan sự thật của vụ việc thành một bản báo cáo điều tra đẹp đẽ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091905534.wav"
+    },
+    {
+      "id": 1161,
+      "title": "Kết thúc trận-Thua",
+      "text": "Nhiệm vụ thất bại…… Tôi xin lỗi, vậy mà tự phụ cho rằng có thể giải quyết mọi thứ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1779091922971.wav"
+    }
+  ]
+}

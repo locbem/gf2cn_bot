@@ -1,0 +1,374 @@
+{
+  "id": 1054,
+  "name": "Yoohee",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044805715.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 1,
+  "role_id": 3,
+  "team_id": 10,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Support",
+  "attr": "Physical",
+  "team": "Sparkle Squad",
+  "weapon": "K2",
+  "model": "SSD-62D",
+  "ammo_model": "AR",
+  "desc": "T-Doll nhiệt tình và có trách nhiệm, chuyên tâm cống hiến cho vũ đạo. Nhờ lời khen của Chỉ Huy mà trở thành vũ công, lại vì gánh vác trách nhiệm \"tiền bối\" mà lập nên Vũ Đoàn Tia Lửa, cung cấp nơi nương thân cho nhiều T-Doll lang thang hơn. Trên con đường tinh tiến vũ nghệ chưa từng lơ là, ham học tự giác là nền tảng để cô tiến lên, nhắm đúng mục tiêu không chịu thua là bí quyết thành công của cô. Không cần nghi ngờ, cứ tin cô là được. Vì chuyện đã hứa cô nhất định nói được làm được. \"Bắt kịp nhịp điệu nào, cùng nhau làm bùng nổ cả sân khấu! ”",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763720720069.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763720744154.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014079009.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014092334.png"
+  },
+  "skins": [
+    {
+      "id": 4,
+      "name": "Phép Màu Ngọt Ngào",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1765970824804.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1765970334468.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261237138.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261252672.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261264392.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Cách Lâm</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Fujii Sachiyo</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=61\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>757</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>585</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1851</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo Freeze</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Điểm Nhịp",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784557250854.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Điểm Nhịp Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764412227906.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Bước Nhảy Ngẫu Hứng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784557278135.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Bước Nhảy Ngẫu Hứng Lv.1</p>\n<p>Chủ động/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764412327701.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Physical. Nếu bản thân có từ <span style=\"color: #ff9900\">3 điểm</span> Infection Index trở lên, tiêu hao thêm <span style=\"color: #ff9900\">2 điểm</span> Infection Index, khiến đòn tấn công này bỏ qua <span style=\"color: #ff9900\">30%</span> Phòng thủ của mục tiêu.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3 Tiêu hao Infection: 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Chân Đế Của Vũ Đạo",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557299097.png\"></p>\n</td>\n<td>\n<p>Chân Đế Của Vũ Điệu Lv.1</p>\n<p>Chủ động/Diện rộng/Buff/Khống chế</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764412495964.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 mục tiêu đồng minh trong bán kính 8 ô xung quanh, gây Phòng thủ đơn mục tiêu I lên nó và các đồng minh trong bán kính 2 ô quanh nó, duy trì 2 hiệp; gây 80% Tấn công sát thương Physical diện rộng lên mọi kẻ địch trong phạm vi, và gây Choáng, duy trì 1 hiệp. Sau khi tấn công, có thể dùng thêm 1 lần kỹ năng chủ động Xoay Nhẹ Nhàng hoặc kỹ năng chủ động Cộng Hưởng Nhiệt Tình.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Highlight Chí Mạng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557314309.png\"></p>\n</td>\n<td>\n<p>Ánh Sáng Chí Mạng Lv.1</p>\n<p>Quyết thắng/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764412571495.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Bản thân nhận Hạt Nhân Vũ Đoàn, duy trì 3 hiệp. Gây Thế Công Ổn Định I lên toàn bộ đồng minh, duy trì 2 hiệp. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Khí Thế Vũ Công Chính",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557337015.png\"></p>\n</td>\n<td>\n<p>Khí Thế Vũ Công Chính Lv.1</p>\n<p>Bị động/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764412647316.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi đồng minh gây sát thương Physical, bản thân nhận 1 điểm Infection Index. Sau khi dùng đánh thường hoặc kỹ năng chủ động, có thể dùng kỹ năng chủ động Xoay Nhẹ Nhàng hoặc kỹ năng chủ động Cộng Hưởng Nhiệt Tình (không kích hoạt lặp lại). Mỗi khi gây từ 3 Bước Nhảy trở lên, kích hoạt 1 lần Vũ Công Xuất Sắc Nhất, nhận 1 tầng Không Chịu Thua, đồng thời làm mới thời gian duy trì của toàn bộ Bước Nhảy và Tăng Sát Thương Phản Phòng trên sân.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Ánh Sáng Chí Mạng Lv.2</strong></td>\n<td style=\"text-align: center\">Thế Công Ổn Định I được thay bằng Thế Công Ổn Định II, và gây thêm Tăng tấn công II lên toàn bộ đồng minh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng, trong hiệp này khi dùng kỹ năng chủ động Xoay Nhẹ Nhàng và kỹ năng chủ động Cộng Hưởng Nhiệt Tình, có hiệu lực lên toàn bộ đồng minh.</td>\n<td style=\"text-align: center\">Bản thân nhận Hạt Nhân Vũ Đoàn, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Gây Tăng tấn công II và Thế Công Ổn Định II lên toàn bộ đồng minh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>, và trong hiệp này khi dùng kỹ năng chủ động Xoay Nhẹ Nhàng và kỹ năng chủ động Cộng Hưởng Nhiệt Tình, có hiệu lực lên toàn bộ đồng minh.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" rowspan=\"3\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Khí Thế Vũ Công Chính Lv.2</strong></td>\n<td style=\"text-align: center\" rowspan=\"3\">Tầm bắn của kỹ năng chủ động Xoay Nhẹ Nhàng và kỹ năng chủ động Cộng Hưởng Nhiệt Tình tăng lên toàn sân; Kỹ năng chủ động Xoay Nhẹ Nhàng thêm hiệu ứng: hồi <span style=\"color: #ff9900\">15%</span> HP tối đa cho mục tiêu; Kỹ năng chủ động Cộng Hưởng Nhiệt Tình thêm hiệu ứng: xua tan <span style=\"color: #ff9900\">1</span> debuff của mục tiêu. Khi kích hoạt Vũ Công Xuất Sắc Nhất, gây Giảm phòng thủ II lên kẻ địch có Phòng thủ ban đầu cao nhất, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Khi có Hạt Nhân Vũ Đoàn, Không Chịu Thua nhận hiệu ứng bổ sung, sát thương đồng minh nhận vào giảm <span style=\"color: #ff9900\">30%</span>.</td>\n<td style=\"text-align: center\">Khi đồng minh gây sát thương Physical, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Sau khi dùng đánh thường hoặc kỹ năng chủ động, có thể dùng kỹ năng chủ động Xoay Nhẹ Nhàng hoặc kỹ năng chủ động Cộng Hưởng Nhiệt Tình (không kích hoạt lặp lại). Mỗi khi gây từ <span style=\"color: #ff9900\">3</span> Bước Nhảy trở lên, kích hoạt 1 lần Vũ Công Xuất Sắc Nhất, nhận <span style=\"color: #ff9900\">1 tầng</span> Không Chịu Thua, đồng thời làm mới thời gian duy trì của toàn bộ Bước Nhảy và Tăng Sát Thương Phản Phòng trên sân, duy trì <span style=\"color: #ff9900\">3 hiệp</span>; Gây Giảm phòng thủ II lên kẻ địch có Phòng thủ ban đầu cao nhất, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Khi có Hạt Nhân Vũ Đoàn, Không Chịu Thua nhận hiệu ứng bổ sung, sát thương đồng minh nhận vào giảm <span style=\"color: #ff9900\">30%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Xoay Nhẹ Nhàng Lv.2</strong></td>\n<td style=\"text-align: center\">Chọn 1 đồng minh (không gồm bản thân) trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây Bước Nhảy Nhẹ Nhàng và Tăng Sát Thương Phản Phòng lên nó, duy trì <span style=\"color: #ff9900\">3 hiệp</span>, và hồi <span style=\"color: #ff9900\">15%</span> HP tối đa.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Cộng Hưởng Nhiệt Tình Lv.2</strong></td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> đồng minh (không gồm bản thân) trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây Bước Nhảy Nhiệt Tình và Tăng Sát Thương Phản Phòng lên nó, duy trì <span style=\"color: #ff9900\">3 hiệp</span>, và xua tan 1 debuff.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Ánh Sáng Chí Mạng Lv.3</strong></td>\n<td style=\"text-align: center\">Bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Không Chịu Thua. Hạt Nhân Vũ Đoàn thêm hiệu ứng: khi tấn công, bỏ qua <span style=\"color: #ff9900\">50%</span> Phòng thủ của mục tiêu; Sau khi kích hoạt hiệu ứng Vũ Công Xuất Sắc Nhất, dùng <span style=\"color: #ff9900\">1 lần</span> kỹ năng chủ động Bước Nhảy Ngẫu Hứng lên kẻ địch có HP hiện tại cao nhất trong tầm bắn, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>, và sau kỹ năng không thể dùng Xoay Nhẹ Nhàng và Cộng Hưởng Nhiệt Tình. Mỗi <span style=\"color: #ff9900\">2 lần</span> kích hoạt Vũ Công Xuất Sắc Nhất, thời gian hồi của kỹ năng này giảm <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Không Chịu Thua và Hạt Nhân Vũ Đoàn duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Gây Tăng tấn công II và Thế Công Ổn Định II lên toàn bộ đồng minh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>, và trong hiệp này khi dùng kỹ năng chủ động Xoay Nhẹ Nhàng và kỹ năng chủ động Cộng Hưởng Nhiệt Tình, có hiệu lực lên toàn bộ đồng minh. Mỗi <span style=\"color: #ff9900\">2 lần</span> kích hoạt Vũ Công Xuất Sắc Nhất, thời gian hồi của kỹ năng này giảm <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Bước Nhảy Ngẫu Hứng Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng <span style=\"color: #ff9900\">60%</span>. Mỗi khi gây 1 Bước Nhảy, nhận <span style=\"color: #ff9900\">1 tầng</span> Ý Tưởng Kỳ Diệu.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">180%</span> Tấn công sát thương Physical. Nếu bản thân có từ <span style=\"color: #ff9900\">3 điểm</span> <span style=\"color: #00ccff\">Infection Index</span> trở lên, tiêu hao thêm <span style=\"color: #ff9900\">2 điểm</span> <span style=\"color: #00ccff\">Infection Index</span>, khiến đòn tấn công này bỏ qua <span style=\"color: #ff9900\">30%</span> Phòng thủ của mục tiêu. Mỗi khi gây 1 Bước Nhảy, nhận <span style=\"color: #ff9900\">1 tầng</span> Ý Tưởng Kỳ Diệu.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Chân Đế Của Vũ Điệu Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng <span style=\"color: #ff9900\">50%</span>. Phạm vi hiệu lực tăng <span style=\"color: #ff9900\">1 ô</span>. Phòng thủ đơn mục tiêu I được thay bằng Phòng thủ đơn mục tiêu II, và gỡ Khiêu khích, Né tránh, Choáng và Dẫn dụ cho toàn bộ đồng minh.</td>\n<td style=\"text-align: center\">Chọn 1 mục tiêu đồng minh trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây Phòng thủ đơn mục tiêu II lên nó và các đồng minh trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, và gỡ Khiêu khích, Né tránh, Choáng và Dẫn dụ; gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Physical diện rộng lên mọi kẻ địch trong phạm vi, và gây Choáng, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Sau khi tấn công, có thể dùng thêm 1 lần kỹ năng chủ động Xoay Nhẹ Nhàng hoặc kỹ năng chủ động Cộng Hưởng Nhiệt Tình.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Khí Thế Vũ Công Chính Lv.3</strong></td>\n<td style=\"text-align: center\">Hiệu ứng Bước Nhảy của bản thân nhân đôi (sát thương chí mạng tăng <span style=\"color: #ff9900\">20%</span>, sau khi tấn công hồi <span style=\"color: #ff9900\">40%</span> HP, nhận <span style=\"color: #ff9900\">3 tầng</span> Yểm Hộ). Mỗi khi gây <span style=\"color: #ff9900\">1</span> buff lên đồng minh khác, Tấn công của bản thân tăng <span style=\"color: #ff9900\">1.5%</span>, tối đa tăng <span style=\"color: #ff9900\">45%</span>. Khi kích hoạt Vũ Công Xuất Sắc Nhất, gây Khởi Động Trước Sân Khấu lên toàn bộ đồng minh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n<td style=\"text-align: center\">Hiệu ứng Bước Nhảy của bản thân nhân đôi (sát thương chí mạng tăng <span style=\"color: #ff9900\">20%</span>, sau khi tấn công hồi <span style=\"color: #ff9900\">40%</span> HP, nhận <span style=\"color: #ff9900\">3 tầng</span> Yểm Hộ). Mỗi khi gây <span style=\"color: #ff9900\">1</span> buff lên đồng minh khác, Tấn công của bản thân tăng <span style=\"color: #ff9900\">1.5%</span>, tối đa tăng <span style=\"color: #ff9900\">45%</span>. Khi đồng minh gây sát thương Physical, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Sau khi dùng đánh thường hoặc kỹ năng chủ động, có thể dùng kỹ năng chủ động Xoay Nhẹ Nhàng hoặc kỹ năng chủ động Cộng Hưởng Nhiệt Tình (không kích hoạt lặp lại). Mỗi khi gây từ <span style=\"color: #ff9900\">3</span> Bước Nhảy trở lên, kích hoạt Vũ Công Xuất Sắc Nhất, nhận <span style=\"color: #ff9900\">1 tầng</span> Không Chịu Thua; Gây Khởi Động Trước Sân Khấu lên toàn bộ đồng minh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, đồng thời làm mới thời gian duy trì của toàn bộ Bước Nhảy và Tăng Sát Thương Phản Phòng trên sân; Gây Giảm phòng thủ II lên kẻ địch có Phòng thủ ban đầu cao nhất, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Khi có Hạt Nhân Vũ Đoàn, Không Chịu Thua nhận hiệu ứng bổ sung, sát thương đồng minh nhận vào giảm <span style=\"color: #ff9900\">30%</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557367529.png\"></td>\n<td>\n<h2>Contract Key · Siêu Sao Sân Khấu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764412919788.png\" width=\"20\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764412933351.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557391101.png\"></td>\n<td>\n<h2>Fixed Key · Cho Đi Và Nhận Lại</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kỹ năng chủ động Bước Nhảy Ngẫu Hứng tiêu hao thêm Infection Index, sát thương chí mạng gây ra tăng 5%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557406303.png\"></td>\n<td>\n<h2>Fixed Key · Tận Hưởng Sân Khấu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi kích hoạt Vũ Công Xuất Sắc Nhất, hồi 20% HP tối đa của bản thân.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557441972.png\"></td>\n<td>\n<h2>Fixed Key · Cộng Hưởng Nhịp Điệu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi dùng kỹ năng chủ động Bước Nhảy Ngẫu Hứng, xua tan 1 buff ngẫu nhiên của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557457747.png\"></td>\n<td>\n<h2>Fixed Key · Lan Truyền Cảm Xúc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng kỹ năng chủ động Chân Đế Của Vũ Điệu gây Choáng lên mục tiêu kẻ địch, khi Choáng được gỡ, gây Vô hiệu di chuyển lên nó, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557477939.png\"></td>\n<td>\n<h2>Fixed Key · Di Chuyển Sân Khấu Tuyệt Diệu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu hiệp này không di chuyển, hiệp sau tầm bắn của mọi đánh thường và kỹ năng chủ động tăng 3 ô.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557492437.png\"></td>\n<td>\n<h2>Fixed Key · Thiết Kế Biên Đạo Tinh Xảo</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Không Chịu Thua có hiệu lực, Tấn công của bản thân tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557519554.png\"></td>\n<td>\n<h2>Common Key · Thực Lực Vũ Công Chính</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764405202464.png\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi gây sát thương theo loại đạn, sát thương gây ra tăng 10%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557536227.png\"></td>\n<td>\n<h2>Expansion Key · Dáng Múa Hoàn Hảo</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi tung kỹ năng Quyết thắng Ánh Sáng Chí Mạng, khi dùng kỹ năng chủ động Xoay Nhẹ Nhàng hoặc Cộng Hưởng Nhiệt Tình, sẽ tung kỹ năng đó lên 2 đồng minh (không gồm bản thân) có Tấn công cao nhất ngoài mục tiêu đã chọn, và hiệp này không kích hoạt lại hai kỹ năng chủ động này. Khi gây sát thương Physical bị động, hiệu ứng Không Chịu Thua có hiệu lực; Khi đồng minh gây sát thương dị vị, hiệu ứng này sẽ không bị gián đoạn. Hiệu quả hồi máu nhận vào của toàn bộ đồng minh tăng 50%. Khi bắt đầu chiến đấu, cứ mỗi 1 đồng minh thuộc tính Physical trên sân, sát thương Physical của toàn bộ đồng minh tăng 3%, tối đa tăng 15%.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Support*5 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi đồng minh Physical gây sát thương, bỏ qua 5% Phòng thủ của mục tiêu. Không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Support*8 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Support*9 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*11 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra của toàn bộ đồng minh tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*15 Sentinel*7&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Support*18 Sentinel*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi bắt đầu chiến đấu, 2 đồng minh có Tấn công ban đầu cao nhất nhận Tấn công tăng 3%, không cộng dồn.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763902959331.png\"></td>\n<td>\n<h1><strong>Lưu Quang Hoa Hỏa &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10543\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng trường xung kích được phối cấp cho Yoohee, cải tạo từ nguyên mẫu Carbine 2, tối đa hóa sát thương và tính cơ động. Dù chỉ là những tia lửa lấp lánh, cũng dốc hết sức thắp sáng hướng đi tương lai cho người mình trân quý. Thể hiện sức áp chế tuyệt đối trong tác chiến tầm xa. Đáng yêu và uy lực song hành, muốn thử không nào!</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\"><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=54530&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1739416849091.png\"></a></td>\n<td style=\"text-align: center\"><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=54223&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1739417048424.png\"></a></td>\n<td style=\"text-align: center\"><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=54330&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1739416905597.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll nhiệt tình và có trách nhiệm, chuyên tâm cống hiến cho vũ đạo. Nhờ lời khen của Chỉ Huy mà trở thành vũ công, lại vì gánh vác trách nhiệm \"tiền bối\" mà lập nên Vũ Đoàn Tia Lửa, cung cấp nơi nương thân cho nhiều T-Doll lang thang hơn. Trên con đường tinh tiến vũ nghệ chưa từng lơ là, ham học tự giác là nền tảng để cô tiến lên, nhắm đúng mục tiêu không chịu thua là bí quyết thành công của cô. Không cần nghi ngờ, cứ tin cô là được. Vì chuyện đã hứa cô nhất định nói được làm được. \"Bắt kịp nhịp điệu nào, cùng nhau làm bùng nổ cả sân khấu! ”</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778252533610.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252533729.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778252569037.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252569038.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252584037.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252593569.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252593510.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252593506.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252593538.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1740018556887.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1740018607284.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1740018567786.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1740018597165.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1740018542173.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1740018516639.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1740018582545.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1740018617730.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1740018529810.png\" style=\"max-width: 150px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1471,
+      "title": "Thường ngày-01",
+      "text": "Bạn, bạn nhìn ra tôi đang căng thẳng à? Rõ vậy sao? Thật ra……tuần sau tôi có một buổi biểu diễn……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Daily_001.wav"
+    },
+    {
+      "id": 1472,
+      "title": "Thường ngày-02",
+      "text": "Hửm? \"Sparkle\" là đoàn múa T-Doll do tôi lập đấy, cung cấp nơi nương tựa cho các đàn em không giỏi chiến đấu, là trách nhiệm của đàn chị mà, đúng không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Daily_002.wav"
+    },
+    {
+      "id": 1473,
+      "title": "Thường ngày-03",
+      "text": "Tiền bối Sharkry rất đáng tin, biết chăm sóc đàn em, còn rất biết cách truyền cảm hứng cho họ……bao giờ tôi mới được như chị ấy nhỉ……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Daily_003.wav"
+    },
+    {
+      "id": 1474,
+      "title": "Thường ngày-04",
+      "text": "Lớp học múa, khảo sát địa điểm biểu diễn, cả thời gian nghĩ dàn dựng, đều phải sắp xếp ổn thỏa~ À đúng rồi! Còn phải dành thời gian tâm sự với các đàn em~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Daily_004.wav"
+    },
+    {
+      "id": 1475,
+      "title": "Thường ngày-05",
+      "text": "Tùy dịp và mùa, cách chọn phấn nền và trang điểm cũng khác nhau đấy, Chỉ huy, những điều này bạn chắc đều biết nhỉ~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Daily_005.wav"
+    },
+    {
+      "id": 1476,
+      "title": "Nâng cấp-01",
+      "text": "Hửm? Cảm giác ổn đấy!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Up_001.wav"
+    },
+    {
+      "id": 1477,
+      "title": "Nâng cấp-02",
+      "text": "Học theo tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Up_002.wav"
+    },
+    {
+      "id": 1478,
+      "title": "Nâng cấp-03",
+      "text": "Cảm nhận kỹ……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Up_003.wav"
+    },
+    {
+      "id": 1479,
+      "title": "Nâng cấp-04",
+      "text": "Ừm, tiến bộ nhiều.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Up_004.wav"
+    },
+    {
+      "id": 1480,
+      "title": "Nâng cấp-05",
+      "text": "Chuẩn bị, làm kinh ngạc cả khán phòng!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Up_005.wav"
+    },
+    {
+      "id": 1481,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Title_001.wav"
+    },
+    {
+      "id": 1482,
+      "title": "Đăng nhập",
+      "text": "Chỉ huy, đến sớm thật, xem điệu múa chúng tôi vừa tập xong nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Login_001.wav"
+    },
+    {
+      "id": 1483,
+      "title": "Tâm sự-01",
+      "text": "Chỉ huy, gần đây \"Sparkle\" có một buổi biểu diễn, bạn rảnh đến xem không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 1484,
+      "title": "Tâm sự-02",
+      "text": "Chỉ huy có bánh pudding à? Cho tôi ngửi một miếng được không……sao không ăn? Là diễn viên múa, đương nhiên không thể tùy tiện ăn đồ ngọt rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 1485,
+      "title": "Tâm sự-03",
+      "text": "Chỉ, Chỉ huy! Bạn làm gì vậy? Nói trước, tôi sẽ không cá cược với bạn đâu……gì? Muốn thì cứ đến, Chỉ huy!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 1486,
+      "title": "Tâm sự-04",
+      "text": "Hửm? Không có! Tôi không phải đang theo dõi bạn! Tôi chỉ nghĩ, quan sát Chỉ huy nhiều, có lẽ tôi sẽ hiểu hơn cách biểu đạt của con người……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 1487,
+      "title": "Tâm sự-05",
+      "text": "T-Doll bẩm sinh ở thế bất lợi trong việc \"biểu đạt\". Nhưng tôi sẽ dùng nỗ lực để bù đắp hết! Bắt đầu từ……quan sát con người! Chỉ huy làm đối tượng quan sát của tôi được không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 1488,
+      "title": "Tâm sự-06",
+      "text": "Vì sao lại muốn nhảy múa? Haha, là vì một câu ai đó từng nói đấy. Là ai nhỉ~ bí~mật~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 1489,
+      "title": "Tâm sự-07",
+      "text": "Với diễn viên múa, duy trì vóc dáng rất quan trọng, nên tôi thường bảo dưỡng thân thể. Chỉ huy, bạn thấy, trông tôi……thế nào……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 1490,
+      "title": "Tâm sự-08",
+      "text": "Chỉ huy, tôi có vinh dự mời bạn nhảy một điệu không? Tôi muốn qua điệu múa này truyền đạt lòng biết ơn đến bạn, nhờ có bạn, tôi mới tìm được điều mình thật sự theo đuổi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 1492,
+      "title": "Vào đội",
+      "text": "Biểu cảm, tư thế……ừm, không vấn đề, lúc lên sân khấu phải……hả? Chỉ, Chỉ huy, bạn cũng đến xem tôi múa sao!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 913,
+      "title": "Ngữ khí-01",
+      "text": "Tư thế……phải luôn giữ……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 914,
+      "title": "Ngữ khí-02",
+      "text": "Sân khấu đã sẵn sàng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 915,
+      "title": "Ngữ khí-03",
+      "text": "Đừng chớp mắt!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 916,
+      "title": "Ngữ khí-04",
+      "text": "Tôi cũng ra sân sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 917,
+      "title": "Ngữ khí-05",
+      "text": "Lên sân khấu thôi~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 918,
+      "title": "Ngữ khí-06",
+      "text": "Chú ý nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 919,
+      "title": "Ngữ khí-07",
+      "text": "Thả lỏng chút.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 920,
+      "title": "Ngữ khí-08",
+      "text": "Tôi lui trước……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 921,
+      "title": "Ngữ khí-09",
+      "text": "Nhịp điệu, loạn rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 922,
+      "title": "Ngữ khí-10",
+      "text": "Hơi thở không ổn……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Series_Tone_Negative_003.wav"
+    },
+    {
+      "id": 923,
+      "title": "Kỹ năng-01",
+      "text": "Theo kịp nhịp điệu, cùng bùng nổ khán phòng!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Skill_001.wav"
+    },
+    {
+      "id": 924,
+      "title": "Kỹ năng-02",
+      "text": "Chưa kết thúc đâu, cùng quẩy lên nào!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Skill_002.wav"
+    },
+    {
+      "id": 925,
+      "title": "Kỹ năng-03",
+      "text": "Ồ? Bây giờ là giờ ngẫu hứng sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Hit_001.wav"
+    },
+    {
+      "id": 930,
+      "title": "Kỹ năng-04",
+      "text": "May quá, động tác hoàn hảo.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 929,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Tích lũy thường ngày, hãy nở rộ ngay lúc này!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 926,
+      "title": "Hạ gục",
+      "text": "Về luyện thêm đi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Kill_001.wav"
+    },
+    {
+      "id": 927,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Quả là một buổi biểu diễn thỏa thích, tôi rất mãn nguyện!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Win_001.wav"
+    },
+    {
+      "id": 928,
+      "title": "Kết thúc trận-Thua",
+      "text": "Lại……sai sót rồi……Tôi nhất định sẽ trở lại sân khấu!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/YooHeeCV/VO_YooHee_Single_Lose_001.wav"
+    }
+  ]
+}

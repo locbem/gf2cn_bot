@@ -1,0 +1,370 @@
+{
+  "id": 1081,
+  "name": "Eagletta",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1786084344956.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 4,
+  "role_id": 4,
+  "team_id": 5,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Freeze",
+  "team": "Elmo - Combined Echelon",
+  "weapon": "Desert Eagle",
+  "model": "SSD-62D",
+  "ammo_model": "HG",
+  "desc": "Từ T-Doll biểu diễn của Truyền Thông Cyber, đến T-Doll chiến thuật của Griffin, rồi đến thợ săn tiền thưởng của B.R.I.E.F. — trên hành trình tìm kiếm bản thân, Eagletta chưa từng ngừng bước khám phá. Dù đối mặt vở diễn khó khăn đến đâu, cô độc lập kiên định cũng luôn diễn tốt vai trầm ổn đáng tin cậy.\n“Dù không còn dưới ánh đèn sân khấu nữa, tôi vẫn tự nhận mình là một diễn viên, chỉ là giờ đây, sân khấu của tôi là cả thế giới.”",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1786083071081.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1786083078601.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1786353904819.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1786353925948.png"
+  },
+  "skins": [
+    {
+      "id": 85,
+      "name": "Hoàng Anh Trong Sắc Hồng",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1786087490928.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1786087503909.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1786085862574.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1786085880382.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1786085947382.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Yến Ninh</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Ogura Yui</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=150\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>837</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>577</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>1801<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo&nbsp;<span style=\"color: #cc99ff\">Corrosion</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Tuần Săn Tốc Hành",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1786343783296.png\"></p>\n</td>\n<td>\n<p>Tuần Săn Cấp Tốc Lv.1</p>\n<p>Đánh thường</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1786343768748.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tùy theo tư thế đối địch, dùng đánh thường Ưng Kích Mãnh Liệt hoặc đánh thường Vuốt Nặng Xé Toạc.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Sách Lược Lui Địch",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1786343855714.png\"></p>\n</td>\n<td>\n<p>Sách Lược Lui Địch Lv.1</p>\n<p>Chủ động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1786343768748.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chuyển đổi tư thế đối địch. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>. Kỹ năng này dùng tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi hiệp.</p>\n<p>Bị động: Khi bắt đầu hiệp lớn, chuyển sang trạng thái Ưng Kích.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Treo Lơ Lửng Đâm Xuống",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1786526683093.png\"></p>\n</td>\n<td>\n<p>Treo Lơ Lửng Lao Đâm Lv.1</p>\n<p>Chủ động / Đơn mục tiêu / Debuff / Khống chế</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1786343940412.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, hạ xuống ô đó, gây <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Freeze lên kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh đó và gây Dễ tổn thương II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng, gây Vương Giả Trời Lạnh và Khiêu khích lên toàn bộ đơn vị kẻ địch không phải thủ lĩnh trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Đồng thời nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Hồi chiêu (hiệp): 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Tiệc Lông Vũ Bùng Nổ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1786344038039.png\"></p>\n</td>\n<td>\n<p>Tiệc Lông Vũ Bùng Nổ Lv.1</p>\n<p>Chủ động / Đơn mục tiêu / Debuff / Khống chế</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1786343940412.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn 1 mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Freeze. Tiêu hao toàn bộ Chiến Vũ; khi tiêu hao <span style=\"color: #ff9900\">1 điểm</span> Chiến Vũ, sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>; Khi tiêu hao <span style=\"color: #ff9900\">2 điểm</span> Chiến Vũ, sát thương chí mạng tăng <span style=\"color: #ff9900\">35%</span>, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">4 điểm</span>; Khi tiêu hao <span style=\"color: #ff9900\">3 điểm</span> Chiến Vũ, hệ số sát thương tăng <span style=\"color: #ff9900\">50%</span>, Tấn công tăng <span style=\"color: #ff9900\">10%</span>. Nếu hạ gục mục tiêu, kỹ năng và hiệu ứng kích hoạt khi nó chết sẽ không có hiệu lực. Sau kỹ năng chuyển sang trạng thái Vuốt Nặng. Khi kết thúc hiệp lớn, nhận <span style=\"color: #ff9900\">7 điểm</span> Chiến Vũ.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Hồi chiêu (hiệp): 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Tiếng Gọi Hoang Dã",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1786344168024.png\"></p>\n</td>\n<td>\n<p>Tiếng Gọi Hoang Dã Lv.1</p>\n<p>Bị động / Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1786344150189.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Bản thân không nhận Infection Index. Khi bắt đầu chiến đấu, nhận <span style=\"color: #ff9900\">7 điểm</span> Chiến Vũ. Khi kết thúc hiệp phe ta, tạo ô địa hình Sương Giá trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>, sát thương chí mạng tăng <span style=\"color: #ff9900\">12%</span>; Nếu mục tiêu tấn công không nằm trong vùng 3×<span style=\"color: #ff9900\">3 ô</span> quanh bản thân, mỗi cách mục tiêu <span style=\"color: #ff9900\">1 ô</span>, sát thương gây ra giảm <span style=\"color: #ff9900\">5%</span>, tối đa giảm <span style=\"color: #ff9900\">20%</span>, sát thương chí mạng giảm <span style=\"color: #ff9900\">3%</span>, tối đa giảm <span style=\"color: #ff9900\">12%</span>; Nếu mục tiêu có hiệu ứng loại khống chế, Cứng Lạnh, Tê liệt hoặc là đơn vị cỡ lớn, sát thương và sát thương chí mạng gây ra không bị giảm.</p>\n<p>Ở trạng thái Vuốt Nặng, nếu kẻ địch sắp di chuyển, trước khi tấn công hoặc khi kết thúc hành động nằm trong vùng 3×<span style=\"color: #ff9900\">3 ô</span> quanh bản thân và chưa có Chấn Nhiếp, sẽ kích hoạt kỹ năng bị động Cướp Sát thực hiện <span style=\"color: #ff9900\">1 lần</span> tấn công khóa mục tiêu, mỗi hiệp lớn kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span>.<br>Mỗi khi tiêu hao <span style=\"color: #ff9900\">7 điểm</span> Chiến Vũ, nhận <span style=\"color: #ff9900\">1 tầng</span> Mối Đe Dọa Ngoại Lai. Khi có từ <span style=\"color: #ff9900\">1 tầng</span> Mối Đe Dọa Ngoại Lai trở lên, tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">25%</span>; và khi dùng đánh thường Vuốt Nặng Xé Toạc và kỹ năng bị động Cướp Sát, nhận <span style=\"color: #ff9900\">1 điểm</span> Chiến Vũ. Khi có từ <span style=\"color: #ff9900\">4 tầng</span> Mối Đe Dọa Ngoại Lai trở lên và dùng đánh thường Ưng Kích Mãnh Liệt, tiêu hao <span style=\"color: #ff9900\">2 điểm</span> Chiến Vũ, gây hiệu ứng kỹ năng của kỹ năng Quyết thắng Tiệc Lông Vũ Bùng Nổ, nhận mọi hiệu ứng của việc tiêu hao Chiến Vũ của kỹ năng đó; Tiệc Lông Vũ Bùng Nổ do hiệu ứng này kích hoạt chỉ được coi là đánh thường, và sau kỹ năng sẽ không chuyển sang trạng thái Vuốt Nặng cũng như không có hiệu ứng nhận Chiến Vũ. Mỗi hiệp lớn kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp kỹ năng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng kỹ năng thêm</strong></span></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\">\n<p><strong>Tiếng Gọi Hoang DãLv.2</strong></p>\n</td>\n<td style=\"text-align: center\">\n<p>Khi bắt đầu chiến đấu, nhận <span style=\"color: #ff9900\">1 tầng</span> Mối Đe Dọa Ngoại Lai.<br>Khi có từ <span style=\"color: #ff9900\">1 tầng</span> Mối Đe Dọa Ngoại Lai trở lên, dùng đánh thường Vuốt Nặng Xé Toạc và kỹ năng bị động Cướp Sát nhận thêm <span style=\"color: #ff9900\">1 điểm</span> Chiến Vũ.<br>Khi có từ <span style=\"color: #ff9900\">2 tầng</span> Mối Đe Dọa Ngoại Lai trở lên và kết thúc hiệp lớn, thời gian hồi chiêu của kỹ năng Quyết thắng Tiệc Lông Vũ Bùng Nổ giảm <span style=\"color: #ff9900\">1 hiệp</span>.<br>Nếu đánh thường Ưng Kích Mãnh Liệt hạ gục mục tiêu, nhận <span style=\"color: #ff9900\">2 điểm</span> Chiến Vũ.</p>\n</td>\n<td style=\"text-align: center\">\n<p>Bản thân không nhận Infection Index. Khi bắt đầu chiến đấu, nhận <span style=\"color: #ff9900\">7 điểm</span> Chiến Vũ. Khi kết thúc hiệp phe ta, tạo ô địa hình Sương Giá trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>, sát thương chí mạng tăng <span style=\"color: #ff9900\">12%</span>; Nếu mục tiêu tấn công không nằm trong vùng 3×<span style=\"color: #ff9900\">3 ô</span> quanh bản thân, mỗi cách mục tiêu <span style=\"color: #ff9900\">1 ô</span>, sát thương gây ra giảm <span style=\"color: #ff9900\">5%</span>, tối đa giảm <span style=\"color: #ff9900\">20%</span>, sát thương chí mạng giảm <span style=\"color: #ff9900\">3%</span>, tối đa giảm <span style=\"color: #ff9900\">12%</span>; Nếu mục tiêu có hiệu ứng loại khống chế, Cứng Lạnh, Tê liệt hoặc là đơn vị cỡ lớn, sát thương và sát thương chí mạng gây ra không bị giảm. Nếu đánh thường Ưng Kích Mãnh Liệt hạ gục mục tiêu, nhận <span style=\"color: #ff9900\">2 điểm</span> Chiến Vũ.<br>Ở trạng thái Vuốt Nặng, nếu kẻ địch sắp di chuyển, trước khi tấn công hoặc khi kết thúc hành động nằm trong vùng 3×<span style=\"color: #ff9900\">3 ô</span> quanh bản thân và chưa có Chấn Nhiếp, sẽ kích hoạt kỹ năng bị động Cướp Sát thực hiện <span style=\"color: #ff9900\">1 lần</span> tấn công khóa mục tiêu, mỗi hiệp lớn kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span>.<br>Khi bắt đầu chiến đấu, nhận <span style=\"color: #ff9900\">1 tầng</span> Mối Đe Dọa Ngoại Lai. Mỗi khi tiêu hao <span style=\"color: #ff9900\">7 điểm</span> Chiến Vũ, nhận <span style=\"color: #ff9900\">1 tầng</span> Mối Đe Dọa Ngoại Lai. Khi có từ <span style=\"color: #ff9900\">1 tầng</span> Mối Đe Dọa Ngoại Lai trở lên, tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">25%</span>; và khi dùng đánh thường Vuốt Nặng Xé Toạc và kỹ năng bị động Cướp Sát, nhận <span style=\"color: #ff9900\">2 điểm</span> Chiến Vũ. Khi có từ <span style=\"color: #ff9900\">2 tầng</span> Mối Đe Dọa Ngoại Lai trở lên và kết thúc hiệp lớn, thời gian hồi chiêu của kỹ năng Quyết thắng Tiệc Lông Vũ Bùng Nổ giảm <span style=\"color: #ff9900\">1 hiệp</span>. Khi có từ <span style=\"color: #ff9900\">4 tầng</span> Mối Đe Dọa Ngoại Lai trở lên và dùng đánh thường Ưng Kích Mãnh Liệt, tiêu hao <span style=\"color: #ff9900\">2 điểm</span> Chiến Vũ, gây hiệu ứng kỹ năng của kỹ năng Quyết thắng Tiệc Lông Vũ Bùng Nổ, nhận mọi hiệu ứng của việc tiêu hao Chiến Vũ của kỹ năng đó; Tiệc Lông Vũ Bùng Nổ do hiệu ứng này kích hoạt chỉ được coi là đánh thường, và sau kỹ năng sẽ không chuyển sang trạng thái Vuốt Nặng cũng như không có hiệu ứng nhận Chiến Vũ. Mỗi hiệp lớn kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>.</p>\n</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td><strong>Sách Lược Lui ĐịchLv.2</strong></td>\n<td>Thêm hiệu quả bị động: khi kết thúc hiệp lớn, nếu số lần tấn công khóa mục tiêu của bị động Tiếng Gọi Hoang Dã chưa đạt giới hạn, mỗi <span style=\"color: #ff9900\">1 lần</span> còn lại nhận <span style=\"color: #ff9900\">2 điểm</span> Chiến Vũ.<br>Hệ số sát thương của đánh thường Ưng Kích Mãnh Liệt tăng lên <span style=\"color: #ff9900\">120%</span>, sát thương gây ra tăng thành <span style=\"color: #ff9900\">25%</span>, sát thương chí mạng tăng thành <span style=\"color: #ff9900\">10%</span>.<br>Hệ số sát thương của đánh thường Vuốt Nặng Xé Toạc và kỹ năng bị động Cướp Sát tăng lên <span style=\"color: #ff9900\">80%</span>.</td>\n<td>Chuyển đổi tư thế đối địch. Sau kỹ năng nhận Thêm chỉ lệnh. Kỹ năng này dùng tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi hiệp. Bị động: Khi bắt đầu hiệp lớn, chuyển sang trạng thái Ưng Kích. Khi kết thúc hiệp lớn, nếu số lần tấn công khóa mục tiêu của bị động Tiếng Gọi Hoang Dã chưa đạt giới hạn, tùy số lần còn lại nhận Chiến Vũ.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Treo Lơ Lửng Lao ĐâmLv.2</strong></td>\n<td>Sát thương gây ra tăng lên <span style=\"color: #ff9900\">120%</span>.<br>Phạm vi gây Vương Giả Trời Lạnh tăng lên <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh bản thân.<br>Hiệu quả Vương Giả Trời Lạnh tăng, với sát thương lần đầu lên Eagletta, mức giảm sát thương tăng lên <span style=\"color: #ff9900\">40%</span>.</td>\n<td>Hạ xuống ô địa hình đã chọn, gây sát thương Freeze lên kẻ địch gần nhất trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh đó và gây Dễ tổn thương II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng, gây Vương Giả Trời Lạnh và Khiêu khích lên toàn bộ đơn vị kẻ địch không phải thủ lĩnh trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Đồng thời nhận Thêm chỉ lệnh.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Tập Kích Tập Trung Lv.2</strong></td>\n<td style=\"text-align: center\">Khi tiêu hao <span style=\"color: #ff9900\">1 điểm</span> Chiến Vũ, sát thương gây ra tăng thành <span style=\"color: #ff9900\">30%</span>; Khi tiêu hao <span style=\"color: #ff9900\">2 điểm</span> Chiến Vũ, sát thương chí mạng tăng thành <span style=\"color: #ff9900\">45%</span>; Khi tiêu hao <span style=\"color: #ff9900\">3 điểm</span> Chiến Vũ, hệ số thêm tăng thành <span style=\"color: #ff9900\">80%</span>, Tấn công tăng thành <span style=\"color: #ff9900\">20%</span>.</td>\n<td style=\"text-align: center\">Gây sát thương Freeze lên mục tiêu. Tiêu hao toàn bộ Chiến Vũ; khi tiêu hao <span style=\"color: #ff9900\">1 điểm</span> Chiến Vũ, sát thương gây ra tăng; Khi tiêu hao <span style=\"color: #ff9900\">2 điểm</span> Chiến Vũ, sát thương chí mạng tăng, sát thương ổn định gây ra tăng; Khi tiêu hao <span style=\"color: #ff9900\">3 điểm</span> Chiến Vũ, hệ số sát thương tăng, Tấn công tăng. Nếu hạ gục mục tiêu, kỹ năng và hiệu ứng kích hoạt khi nó chết sẽ không có hiệu lực. Sau kỹ năng chuyển sang trạng thái Vuốt Nặng. Khi kết thúc hiệp lớn, nhận Chiến Vũ.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Tiếng Gọi Hoang DãLv.3</strong></td>\n<td>Số Chiến Vũ cần tiêu hao để nhận Mối Đe Dọa Ngoại Lai giảm xuống <span style=\"color: #ff9900\">3 điểm</span>.</td>\n<td>Bản thân không nhận Infection Index. Khi bắt đầu chiến đấu, nhận <span style=\"color: #ff9900\">7 điểm</span> Chiến Vũ. Khi kết thúc hiệp phe ta, tạo ô địa hình Sương Giá trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>, sát thương chí mạng tăng <span style=\"color: #ff9900\">12%</span>; Nếu mục tiêu tấn công không nằm trong vùng 3×<span style=\"color: #ff9900\">3 ô</span> quanh bản thân, mỗi cách mục tiêu <span style=\"color: #ff9900\">1 ô</span>, sát thương gây ra giảm <span style=\"color: #ff9900\">5%</span>, tối đa giảm <span style=\"color: #ff9900\">20%</span>, sát thương chí mạng giảm <span style=\"color: #ff9900\">3%</span>, tối đa giảm <span style=\"color: #ff9900\">12%</span>; Nếu mục tiêu có hiệu ứng loại khống chế, Cứng Lạnh, Tê liệt hoặc là đơn vị cỡ lớn, sát thương và sát thương chí mạng gây ra không bị giảm. Nếu đánh thường Ưng Kích Mãnh Liệt hạ gục mục tiêu, nhận <span style=\"color: #ff9900\">2 điểm</span> Chiến Vũ.<br>Ở trạng thái Vuốt Nặng, nếu kẻ địch sắp di chuyển, trước khi tấn công hoặc khi kết thúc hành động nằm trong vùng 3×<span style=\"color: #ff9900\">3 ô</span> quanh bản thân và chưa có Chấn Nhiếp, sẽ kích hoạt kỹ năng bị động Cướp Sát thực hiện <span style=\"color: #ff9900\">1 lần</span> tấn công khóa mục tiêu, mỗi hiệp lớn kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span>.<br>Khi bắt đầu chiến đấu, nhận <span style=\"color: #ff9900\">1 tầng</span> Mối Đe Dọa Ngoại Lai. Mỗi khi tiêu hao <span style=\"color: #ff9900\">3 điểm</span> Chiến Vũ, nhận <span style=\"color: #ff9900\">1 tầng</span> Mối Đe Dọa Ngoại Lai. Khi có từ <span style=\"color: #ff9900\">1 tầng</span> Mối Đe Dọa Ngoại Lai trở lên, tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">25%</span>; và khi dùng đánh thường Vuốt Nặng Xé Toạc và kỹ năng bị động Cướp Sát, nhận <span style=\"color: #ff9900\">2 điểm</span> Chiến Vũ. Khi có từ <span style=\"color: #ff9900\">2 tầng</span> Mối Đe Dọa Ngoại Lai trở lên và kết thúc hiệp lớn, thời gian hồi chiêu của kỹ năng Quyết thắng Tiệc Lông Vũ Bùng Nổ giảm <span style=\"color: #ff9900\">1 hiệp</span>. Khi có từ <span style=\"color: #ff9900\">4 tầng</span> Mối Đe Dọa Ngoại Lai trở lên và dùng đánh thường Ưng Kích Mãnh Liệt, tiêu hao <span style=\"color: #ff9900\">2 điểm</span> Chiến Vũ, gây hiệu ứng kỹ năng của kỹ năng Quyết thắng Tiệc Lông Vũ Bùng Nổ, nhận mọi hiệu ứng của việc tiêu hao Chiến Vũ của kỹ năng đó; Tiệc Lông Vũ Bùng Nổ do hiệu ứng này kích hoạt chỉ được coi là đánh thường, và sau kỹ năng sẽ không chuyển sang trạng thái Vuốt Nặng cũng như không có hiệu ứng nhận Chiến Vũ. Mỗi hiệp lớn kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Sách Lược Lui ĐịchLv.3</strong></td>\n<td>Thêm hiệu quả bị động: khi kỹ năng Quyết thắng Tiệc Lông Vũ Bùng Nổ tiêu hao <span style=\"color: #ff9900\">3 điểm</span> Chiến Vũ, hệ số sát thương tăng thêm <span style=\"color: #ff9900\">30%</span>; hiệu ứng này có hiệu lực với hiệu ứng kỹ năng Tiệc Lông Vũ Bùng Nổ do đánh thường Ưng Kích Mãnh Liệt gây ra khi có từ <span style=\"color: #ff9900\">4 tầng</span> Mối Đe Dọa Ngoại Lai trở lên. Mỗi có <span style=\"color: #ff9900\">1 tầng</span> Mối Đe Dọa Ngoại Lai, sát thương bản thân gây ra tăng <span style=\"color: #ff9900\">10%</span>; Khi kẻ địch nhận sát thương từ đồng minh, nếu đứng trên ô địa hình loại Freeze, mỗi có <span style=\"color: #ff9900\">1 tầng</span> Mối Đe Dọa Ngoại Lai, sát thương nó phải nhận tăng <span style=\"color: #ff9900\">10%</span>.<br>Tấn công do trạng thái Ưng Kích tăng lên thành <span style=\"color: #ff9900\">20%</span>.<br>Hệ số sát thương của đánh thường Ưng Kích Mãnh Liệt tăng lên <span style=\"color: #ff9900\">150%</span>, sát thương gây ra tăng thành <span style=\"color: #ff9900\">40%</span>, sát thương chí mạng tăng thành <span style=\"color: #ff9900\">15%</span>.<br>Phòng thủ bị bỏ qua bởi đánh thường Vuốt Nặng Xé Toạc và kỹ năng bị động Cướp Sát tăng lên <span style=\"color: #ff9900\">10%</span>. Khi tiêu hao Chiến Vũ trong trạng thái Vuốt Nặng, hệ số sát thương của đánh thường Vuốt Nặng Xé Toạc và kỹ năng bị động Cướp Sát tăng thành <span style=\"color: #ff9900\">10%</span>.</td>\n<td>\n<p>Chuyển đổi tư thế đối địch. Sau kỹ năng nhận Thêm chỉ lệnh. Kỹ năng này dùng tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi hiệp.</p>\n<p>Bị động: Khi bắt đầu hiệp lớn, chuyển sang trạng thái Ưng Kích. Khi kết thúc hiệp lớn, nếu số lần tấn công khóa mục tiêu của bị động Tiếng Gọi Hoang Dã chưa đạt giới hạn, tùy số lần còn lại nhận Chiến Vũ. Tùy số tầng Mối Đe Dọa Ngoại Lai, sát thương bản thân gây ra tăng; Khi kẻ địch nhận sát thương từ đồng minh, nếu đứng trên ô địa hình loại Freeze, tùy số tầng Mối Đe Dọa Ngoại Lai, sát thương nó phải nhận tăng. Nếu kỹ năng Quyết thắng Tiệc Lông Vũ Bùng Nổ tiêu hao <span style=\"color: #ff9900\">3 điểm</span> Chiến Vũ, hệ số sát thương tăng thêm; hiệu ứng này có hiệu lực với hiệu ứng kỹ năng Tiệc Lông Vũ Bùng Nổ do đánh thường Ưng Kích Mãnh Liệt gây ra khi có từ <span style=\"color: #ff9900\">4 tầng</span> Mối Đe Dọa Ngoại Lai trở lên.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786352827395.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Contract Key · Chân Tâm Không Tô Vẽ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1786352870223.png\" width=\"20\" height=\"20\"></sub> Chí mạng 3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1782457242622.png\" width=\"20\" height=\"20\"></sub>&nbsp;Tấn công +3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1784538855830.png\" width=\"20\" height=\"20\"></sub> HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786352919630.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Uy Hiếp Của Kẻ Săn Mồi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng đánh thường Vuốt Nặng Xé Toạc hoặc kỹ năng bị động Cướp Sát lên đơn vị không phải thủ lĩnh, gây Chấn Nhiếp lên nó.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786352992637.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Lãnh Chúa Trời Cao</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi tấn công chủ động, xua tan 1 buff của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786353105646.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Canh Giữ Trên Cao</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kết thúc hiệp phe ta, mỗi có <span style=\"color: #ff9900\">1 tầng</span> Mối Đe Dọa Ngoại Lai, bản thân hồi <span style=\"color: #ff9900\">1 điểm</span> Chỉ số ổn định.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786353299651.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Kẻ Thống Trị Bầu Trời</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sát thương lên đơn vị không phải thủ lĩnh có HP nhỏ hơn hoặc bằng <span style=\"color: #ff9900\">50%</span> tăng <span style=\"color: #ff9900\">20%</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786353352104.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Vỗ Cánh Ngược Gió</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi dùng đánh thường Ưng Kích Mãnh Liệt, gây Giảm phòng thủ II lên mục tiêu, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786353751934.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Tiến Sâu Vào Vùng Vô Nhân</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Đánh thường Ưng Kích Mãnh Liệt gây sát thương lên đơn vị cơ giới không phải thủ lĩnh tăng <span style=\"color: #ff9900\">30%</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786353811390.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Common Key · Tu Dưỡng Của Diễn Viên</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1784539489447.png\" width=\"20\" height=\"20\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Nếu kỹ năng không tiêu hao Infection Index, sát thương gây ra tăng <span style=\"color: #ff9900\">10%</span>.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hình thái hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp mở khóa</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Nhân tố hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu quả</strong></span></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">Tiên phong x2, Hỏa lực x5</td>\n<td style=\"text-align: center\">Sát thương lên kẻ địch có debuff loại Freeze tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">Tiên phong x3, Hỏa lực x8</td>\n<td style=\"text-align: center\">Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">Bulwark x1, Vanguard x4, Sentinel x9</td>\n<td style=\"text-align: center\">Sát thương Freeze gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">Bulwark x2, Vanguard x6, Sentinel x11</td>\n<td style=\"text-align: center\">Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">Bulwark x2, Vanguard x7, Sentinel x15</td>\n<td style=\"text-align: center\">Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">Bulwark x3, Vanguard x8, Sentinel x18</td>\n<td style=\"text-align: center\">Khi đòn tấn công chỉ trúng 1 kẻ địch, sát thương gây ra tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786118696876.png\"></td>\n<td>\n<h1><strong>Pistrix Cánh Bạc &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10813\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng ngắn/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng lục hiệu năng cao được cấp cho Eagletta, lấy Desert Eagle làm nguyên mẫu, tăng sức phá hoại đồng thời giảm độ giật, ban cho cô dũng khí đối mặt nguy hiểm. Dùng ngọn lửa súng sắc lạnh như tiếng ưng rít, soi sáng chặng đường xa săn tìm sự thật.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; </span><span style=\"color: #ff6600\">Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=139105&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1786501592059.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=139028&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1786502437348.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=139295&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1786676868538.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=138931&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1786428685556.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=139011&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1786444549561.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<div>\n<p>&nbsp; &nbsp;Từ doll nghệ sĩ của Cyber Media, đến tactical doll của Griffin, rồi đến thợ săn tiền thưởng của B.R.I.E.F. — trên con đường trau dồi diễn xuất và làm phong phú trải nghiệm, Eagletta chưa bao giờ ngừng bước thăm dò. Dù đối mặt vở diễn khó đến đâu, cô độc lập kiên định, trầm ổn đáng tin, luôn có thể đưa ra cách diễn giải độc nhất vô nhị.<br>Sau chặng đường dài theo đuổi và bôn ba, cuối cùng cô đã quyết tâm đi tìm sân khấu có thể khiến cô yên lòng dừng chân.</p>\n<p>&nbsp;「Eagletta, từng là diễn viên, nay là nhà thám hiểm. Chỉ Huy, lần này tôi muốn cùng anh đối mặt với thế giới chưa biết này. \"</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\" style=\"max-width: 100px\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\" style=\"max-width: 100px\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\" style=\"max-width: 100px\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1786084746684.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786086788507.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1786086822102.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786086822107.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786086822132.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786086822096.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786086822118.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786086822126.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786086822125.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1786347107815.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786347111469.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786347115428.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786347118187.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786347122847.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786347126767.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786347129986.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786347135451.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1786347138774.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1812,
+      "title": "Thường ngày-01",
+      "text": "Tuy đã không còn dưới ánh đèn sân khấu, nhưng tôi vẫn tự nhận mình là một diễn viên, chỉ là bây giờ sân khấu của tôi là cả thế giới.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786354329988.wav"
+    },
+    {
+      "id": 1813,
+      "title": "Thường ngày-02",
+      "text": "Người ta nói dưới ánh mặt trời không có gì mới, nhưng rốt cuộc có bao nhiêu người thật sự trải nghiệm những \"điều mới\" ấy? Nghe đồn và tự mình trải qua là cảm giác khác nhau.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786354490808.wav"
+    },
+    {
+      "id": 1814,
+      "title": "Thường ngày-03",
+      "text": "Càng đi qua nhiều nơi, càng thấy mình nhỏ bé; nhưng có thể đi được nhiều nơi như vậy, lại thấy mình mạnh mẽ, thật là cảm giác mâu thuẫn……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786354506522.wav"
+    },
+    {
+      "id": 1815,
+      "title": "Thường ngày-04",
+      "text": "Gọi là diễn viên, chính là phải đem những chi tiết trong cuộc sống, qua một mức độ gia công nghệ thuật nhất định, diễn dịch hoàn hảo trước ống kính, đủ loại trải nghiệm và kinh nghiệm là thứ không thể thiếu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786354520352.wav"
+    },
+    {
+      "id": 1816,
+      "title": "Thường ngày-05",
+      "text": "Thám hiểm là quá trình không ngừng mở rộng tầm nhìn và nhận thức, một ngày nào đó, tôi sẽ mang những điều quý giá này về trước khán giả, đặc biệt là trước mặt Chỉ huy.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786354535682.wav"
+    },
+    {
+      "id": 1817,
+      "title": "Nâng cấp-01",
+      "text": "Cảm giác không tệ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786354550297.wav"
+    },
+    {
+      "id": 1818,
+      "title": "Nâng cấp-02",
+      "text": "Nhận thức đang nâng cao.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786354583951.wav"
+    },
+    {
+      "id": 1819,
+      "title": "Nâng cấp-03",
+      "text": "Còn có thể cho tôi thấy nhiều hơn không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786354599276.wav"
+    },
+    {
+      "id": 1820,
+      "title": "Nâng cấp-04",
+      "text": "Khả năng vô hạn.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786354625936.wav"
+    },
+    {
+      "id": 1821,
+      "title": "Nâng cấp-05",
+      "text": "Hãy nhìn tôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786354643624.wav"
+    },
+    {
+      "id": 1822,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786354672070.wav"
+    },
+    {
+      "id": 1823,
+      "title": "Đăng nhập",
+      "text": "Chỉ huy, hôm nay chúng ta đi đâu?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786354689607.wav"
+    },
+    {
+      "id": 1824,
+      "title": "Tâm sự-01",
+      "text": "Phần lớn những gì chúng ta thấy là thứ người khác muốn chúng ta thấy……nên nhất định phải có khả năng phán đoán của riêng mình, đúng không? Chỉ huy?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786355072902.wav"
+    },
+    {
+      "id": 1825,
+      "title": "Tâm sự-02",
+      "text": "Anh đang xem mấy vở kịch ngắn tôi từng diễn sao……không, tôi không thấy ngại, tốt xấu thế nào, đó đều là trải nghiệm trước đây của tôi, là con đường tôi đã đi qua.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786355101456.wav"
+    },
+    {
+      "id": 1826,
+      "title": "Tâm sự-03",
+      "text": "Nếu chỉ diễn theo kịch bản một cách cứng nhắc, rất khó phát hiện vấn đề trong kịch bản, dễ truyền đạt thông tin sai cho khán giả, nên trải nghiệm thực tế rất quan trọng, đây là tâm nguyện ban đầu khi tôi bắt đầu thám hiểm, nhưng dần dần, nỗi rung động khi phát hiện điều mới, sự thoải mái khi kiểm chứng suy nghĩ,",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786414580657.wav"
+    },
+    {
+      "id": 1827,
+      "title": "Tâm sự-04",
+      "text": "Nói ra thì, tôi cũng coi như là thợ săn tiền thưởng đó, cùng nghề với Chỉ huy rồi~ Thật tốt, cảm giác gần Chỉ huy thêm một chút, dù là về mặt thực tế hay tâm lý.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786355145792.wav"
+    },
+    {
+      "id": 1828,
+      "title": "Tâm sự-05",
+      "text": "Chỉ huy hình như cũng đã đi nhiều nơi? Chúng ta trao đổi trải nghiệm của nhau đi, đây là sổ tay thám hiểm của tôi……khoan đã! Quyển、quyển này không được xem!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786355167604.wav"
+    },
+    {
+      "id": 1829,
+      "title": "Tâm sự-06",
+      "text": "Đây là……viên huỳnh thạch tôi nhặt được khi đi ngang một mỏ núi, đẹp chứ? Mà còn rất trong suốt, rất giống đôi mắt của Chỉ huy, nhìn thấy nó lần đầu tôi đã nghĩ đến anh.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786355191101.wav"
+    },
+    {
+      "id": 1830,
+      "title": "Tâm sự-07",
+      "text": "Tôi đã trải qua rất nhiều chuyện khi thám hiểm, nhưng có một điều chưa trải nghiệm, ngày thường không nghĩ đến, cũng không hiểu điều này có ý nghĩa gì, nhưng nhìn thấy Chỉ huy, tôi hơi muốn thử xem sao, đó chính là——yêu đương. Chỉ huy có muốn thử với tôi không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786355207729.wav"
+    },
+    {
+      "id": 1831,
+      "title": "Tâm sự-08",
+      "text": "Chính vì có sự tồn tại của Chỉ huy, tôi mới càng không sợ những gian nan hiểm trở gặp trên đường thám hiểm, vì tôi biết, anh đang đợi tôi trở về, anh là nơi chốn tôi có thể chạm tay tới.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786355224701.wav"
+    },
+    {
+      "id": 1832,
+      "title": "Vào đội",
+      "text": "Eagletta, từng là diễn viên, nay là nhà thám hiểm, Chỉ huy, lần này tôi muốn cùng anh đối mặt với thế giới chưa biết này.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786355295528.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1216,
+      "title": "Ngữ khí-01",
+      "text": "Cuộc phiêu lưu bắt đầu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786355986727.wav"
+    },
+    {
+      "id": 1217,
+      "title": "Ngữ khí-02",
+      "text": "Tôi sẽ không khinh địch.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356027143.wav"
+    },
+    {
+      "id": 1218,
+      "title": "Ngữ khí-03",
+      "text": "Trúng.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356043305.wav"
+    },
+    {
+      "id": 1219,
+      "title": "Ngữ khí-04",
+      "text": "Là cảnh của tôi sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356059259.wav"
+    },
+    {
+      "id": 1220,
+      "title": "Ngữ khí-05",
+      "text": "Đã đến vị trí chỉ định.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356078615.wav"
+    },
+    {
+      "id": 1221,
+      "title": "Ngữ khí-06",
+      "text": "Tôi sẽ dò đường phía trước cho anh.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356094125.wav"
+    },
+    {
+      "id": 1222,
+      "title": "Ngữ khí-07",
+      "text": "Màn hay bắt đầu rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356109851.wav"
+    },
+    {
+      "id": 1223,
+      "title": "Ngữ khí-08",
+      "text": "Cái chết……cũng là một loại trải nghiệm……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356135259.wav"
+    },
+    {
+      "id": 1224,
+      "title": "Ngữ khí-09",
+      "text": "Vẫn còn kịp……vẫn còn đường lui!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356171868.wav"
+    },
+    {
+      "id": 1225,
+      "title": "Ngữ khí-10",
+      "text": "……Phải nâng mức cảnh giác lên rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356193680.wav"
+    },
+    {
+      "id": 1226,
+      "title": "Kỹ năng-01",
+      "text": "Xin anh rời sân.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356218273.wav"
+    },
+    {
+      "id": 1227,
+      "title": "Kỹ năng-02",
+      "text": "Diễn xuất của anh còn quá non.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356255356.wav"
+    },
+    {
+      "id": 1228,
+      "title": "Kỹ năng-03",
+      "text": "Tôi không muốn dây dưa lâu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356339222.wav"
+    },
+    {
+      "id": 1229,
+      "title": "Kỹ năng-04",
+      "text": "Mọi thứ vẫn trong tầm kiểm soát.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356359286.wav"
+    },
+    {
+      "id": 1230,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Hãy kết thúc vài màn diễn vô nghĩa đi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356373473.wav"
+    },
+    {
+      "id": 1231,
+      "title": "Hạ gục",
+      "text": "Cái chết của anh không phải là vô nghĩa.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356391461.wav"
+    },
+    {
+      "id": 1232,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Hãy dùng một cái ôm để ăn mừng chiến thắng của chuyến phiêu lưu này nhé?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356408457.wav"
+    },
+    {
+      "id": 1233,
+      "title": "Kết thúc trận-Thua",
+      "text": "Là chuẩn bị chưa đủ kỹ sao……không sao, lần sau chúng ta nhất định làm được.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1786356461216.wav"
+    }
+  ]
+}

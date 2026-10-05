@@ -1,0 +1,390 @@
+{
+  "id": 1055,
+  "name": "Nikketa",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044606867.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 6,
+  "role_id": 4,
+  "team_id": 5,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Hydro",
+  "team": "Elmo - Combined Echelon",
+  "weapon": "VSK-94",
+  "model": "SSD-62G",
+  "ammo_model": "RF",
+  "desc": "Nhân viên trị an kiên trì chính nghĩa, người chị dịu dàng yêu thương trẻ nhỏ, kẻ tiêu tiền không chớp mắt hết sạch lương mỗi tháng - ai nói những thân phận này không thể là cùng một người? Chiến đấu ở tuyến đầu bảo vệ chính nghĩa, Nikketa bình tĩnh thực hành nguyên tắc của mình, nhưng khi đối diện với bạn, cô cũng bộc lộ một mặt đặc biệt. \"Công việc của tôi dạy tôi rằng, không nên hoàn toàn tin tưởng bất kỳ ai. Nhưng BOSS là ngoại lệ, chúng ta là bạn đồng hành cùng theo đuổi chính nghĩa mà. ”",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/妮基塔pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/妮基塔移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014053203.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014062510.png"
+  },
+  "skins": [
+    {
+      "id": 6,
+      "name": "Vũ Điệu Rực Rỡ Như Nắng",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/妮基塔啦啦队pc.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763815169672.png"
+    },
+    {
+      "id": 55,
+      "name": "Đêm Ngân Hà Xoay Vần",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1765097559269.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1765097567934.png"
+    },
+    {
+      "id": 80,
+      "name": "Khế Ước Thuần Khiết",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1782786961080.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1782786967821.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261170271.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261193550.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261213614.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Dục Đầu</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Kakuma Ai</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=63\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>836</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>519</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>5</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1859</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Light Ammo Electric</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Nổ Súng Cảnh Cáo",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556890842.png\"></p>\n</td>\n<td>\n<p>Bắn Cảnh Cáo Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764405365855.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Gọi Đồng Đội",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556923285.png\"></p>\n</td>\n<td>\n<p>Gọi Đồng Đội Lv.1</p>\n<p>Chủ động / Diện rộng / Triệu hồi / Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764405429581.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 ô trống trong bán kính 9 ô xung quanh, triệu hồi 1 Kulich, và gây 80% Tấn công sát thương Physical diện rộng lên mọi mục tiêu kẻ địch trong bán kính 2 ô xung quanh, và gây 10550501, duy trì 2 hiệp. Nếu trên sân đã có Kulich, dịch chuyển Kulich tới ô địa hình đã chọn. Bản thân nhận 1 điểm Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Lên Án Lạnh Lùng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557009630.png\"></p>\n</td>\n<td>\n<p>Lạnh Lùng Khiển Trách Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764405502347.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 mục tiêu kẻ địch trong bán kính 9 ô xung quanh, gây 80% Tấn công sát thương Hydro, và gây 10550501, duy trì 2 hiệp. Bản thân nhận 2 điểm Infection Index, và nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Phán Quyết Chính Nghĩa",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557038454.png\"></p>\n</td>\n<td>\n<p>Phán Quyết Chính Nghĩa Lv.1</p>\n<p>Quyết thắng/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764405575458.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Hydro. Nếu mục tiêu có Sợ Tội, tấn công bổ sung một lần và xóa Sợ Tội.<br>Tiêu hao toàn bộ Infection Index, mỗi tiêu hao thêm <span style=\"color: #ff9900\">1 điểm</span> Infection Index, sát thương kỹ năng này gây ra tăng <span style=\"color: #ff9900\">5%</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Tiêu hao Infection: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Chấp Hành Ngay",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557056004.png\"></p>\n</td>\n<td>\n<p>Thi Hành Ngay Lv.1</p>\n<p>Bị động/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764405639226.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi Kulich còn tồn tại, Nikketa nhận Nhìn Thấu. Trước khi bản thân và Kulich tung kỹ năng, cả hai đều nhận 1 tầng Manh Mối, nếu có thể tạo khắc chế dị vị, nhận thêm 1 tầng Manh Mối. <span style=\"color: #00ccff\">Phản công</span> của Kulich mỗi hiệp kích hoạt tối đa 1 lần, và sau khi Kulich phản công, Nikketa dùng kỹ năng Quyết thắng Phán Quyết Chính Nghĩa tấn công mục tiêu (không tiêu hao Infection cơ bản).</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Lạnh Lùng Khiển Trách Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng <span style=\"color: #ff9900\">20%</span>. <span style=\"color: #00ccff\">Thêm chỉ lệnh</span> được thay bằng Thêm hành động.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, gây <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Hydro, và gây Sợ Tội, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index, và nhận Thêm hành động.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 2</strong></td>\n<td><strong>Phán Quyết Chính Nghĩa Lv.2</strong></td>\n<td>Hệ số sát thương tăng <span style=\"color: #ff9900\">20%</span>. Tiêu hao Infection giảm <span style=\"color: #ff9900\">1 điểm</span>. Nếu mục tiêu có Sợ Tội, sau kỹ năng gây Giám Sát lên nó, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, gây <span style=\"color: #ff9900\">150%</span> Tấn công sát thương Hydro. Nếu mục tiêu có Sợ Tội, tấn công bổ sung một lần và xóa Sợ Tội, và sau kỹ năng gây Giám Sát lên nó, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Tiêu hao toàn bộ Infection Index, mỗi tiêu hao thêm <span style=\"color: #ff9900\">1 điểm</span> Infection Index, sát thương kỹ năng này gây ra tăng <span style=\"color: #ff9900\">5%</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Thi Hành Ngay Lv.2</strong></td>\n<td>Giới hạn cộng dồn của Manh Mối nhân đôi, cộng dồn tối đa <span style=\"color: #ff9900\">10 tầng</span>. Số lần phản công mỗi hiệp của Kulich tăng <span style=\"color: #ff9900\">1 lần</span>.</td>\n<td>Khi Kulich còn tồn tại, Nikketa nhận Nhìn Thấu. Trước khi bản thân và Kulich tung kỹ năng, cả hai đều nhận <span style=\"color: #ff9900\">1 tầng</span> Manh Mối, nếu có thể tạo khắc chế dị vị, nhận thêm <span style=\"color: #ff9900\">1 tầng</span> Manh Mối. <span style=\"color: #00ccff\">Phản công</span> của Kulich mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span>, và sau khi Kulich phản công, Nikketa dùng kỹ năng Quyết thắng Phán Quyết Chính Nghĩa tấn công mục tiêu (không tiêu hao Infection cơ bản).</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 4</strong></td>\n<td><strong>Gọi Đồng Đội Lv.2</strong></td>\n<td>Sát thương ổn định tăng <span style=\"color: #ff9900\">2 điểm</span>. Sửa hiệu ứng Sợ Tội: sát thương Hydro nhận vào tăng lên <span style=\"color: #ff9900\">10%</span>. Sau khi dịch chuyển, hồi <span style=\"color: #ff9900\">30%</span> HP tối đa cho Kulich.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> ô trống trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, triệu hồi 1 Kulich, và gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical diện rộng lên mọi mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 2 ô</span> xung quanh, và gây Sợ Tội, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Nếu trên sân đã có Kulich, chuyển Kulich tới ô địa hình đã chọn, và hồi <span style=\"color: #ff9900\">30%</span> HP tối đa cho Kulich. Bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Gọi Đồng Đội Lv.3</strong></td>\n<td>Tầm bắn của Trung Thành của Kulich tăng <span style=\"color: #ff9900\">2 ô</span>. HP Kulich kế thừa tăng lên <span style=\"color: #ff9900\">100%</span>. Kulich thêm bị động Uy Hiếp Của Kulich: Tấn công của kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> xung quanh giảm <span style=\"color: #ff9900\">10%</span>.</td>\n<td>Sát thương ổn định tăng <span style=\"color: #ff9900\">2 điểm</span>. Sửa hiệu ứng Sợ Tội: sát thương Hydro nhận vào tăng lên <span style=\"color: #ff9900\">10%</span>. Sau khi dịch chuyển, hồi <span style=\"color: #ff9900\">30%</span> HP tối đa cho Kulich.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Phán Quyết Chính Nghĩa Lv.3</strong></td>\n<td>Mỗi tiêu hao thêm <span style=\"color: #ff9900\">1 điểm</span> Infection Index, sát thương gây ra tăng lên <span style=\"color: #ff9900\">10%</span>. Không còn xóa Sợ Tội.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, gây <span style=\"color: #ff9900\">150%</span> Tấn công sát thương Hydro. Nếu mục tiêu có Sợ Tội, tấn công bổ sung một lần, và sau kỹ năng gây Giám Sát lên nó, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Tiêu hao toàn bộ Infection Index, mỗi tiêu hao thêm <span style=\"color: #ff9900\">1 điểm</span> Infection Index, sát thương kỹ năng này gây ra tăng <span style=\"color: #ff9900\">10%</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557073679.png\"></td>\n<td>\n<h2>Contract Key · Bạn Đồng Hành Chính Nghĩa</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764396747429.png\" width=\"20\" height=\"20\"></sub>Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557088054.png\"></td>\n<td>\n<h2>Fixed Key · T-Doll Chính Trực</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng đánh thường hoặc kỹ năng đơn mục tiêu, nhận 1 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557104683.png\"></td>\n<td>\n<h2>Fixed Key · Sứ Giả Công Lý</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu mục tiêu có Sợ Tội, gây thêm 2 điểm sát thương ổn định lên nó.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557121964.png\"></td>\n<td>\n<h2>Fixed Key · Khí Thế Anh Dũng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Kỹ năng chủ động Lạnh Lùng Khiển Trách đổi thành kỹ năng diện rộng, gây 80% sát thương Hydro diện rộng lên mục tiêu trong bán kính 2 ô xung quanh</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557136851.png\"></td>\n<td>\n<h2>Fixed Key · Thưởng Thiện Phạt Bạo</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng kỹ năng chủ động Gọi Đồng Đội, tạo Dòng Ngầm trong phạm vi hiệu lực, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557150483.png\"></td>\n<td>\n<h2>Fixed Key · Ánh Nhìn Nghiêm Khắc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi tấn công, nếu mục tiêu đang Sụp Đổ Ổn Định, gây Né tránh lên nó, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557180559.png\"></td>\n<td>\n<h2>Fixed Key · Nhuệ Khí Bức Người</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi nhận Manh Mối, bản thân nhận Tăng tấn công II, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557194526.png\"></td>\n<td>\n<h2>Common Key · Người Vệ Đạo</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764406004840.png\" width=\"20\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi bản thân có buff Hydro, tỉ lệ chí mạng tăng 10%</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784557212638.png\"></td>\n<td>\n<h2>Expansion Key · Chính Nghĩa Không Vắng Mặt</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>[Bậc 1] Sau khi kết thúc hành động, nhận <span style=\"color: #ff9900\">1 tầng</span> Chính Khí. Mỗi <span style=\"color: #ff9900\">1 lần</span> Kulich phản công, hồi <span style=\"color: #ff9900\">1 điểm</span> Infection Index cho Nikketa. Tầm bắn của Trung Thành của Kulich tăng <span style=\"color: #ff9900\">2 ô</span>.</p>\n<p>[Bậc 2] Khi bắt đầu chiến đấu, triệu hồi <span style=\"color: #ff9900\">1</span> Kili gần bản thân. Khi Kulich phản công, tạo Dòng Ngầm trong <span style=\"color: #ff9900\">bán kính 2 ô</span> quanh mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau khi Kulich bị tấn công, nếu HP thấp hơn <span style=\"color: #ff9900\">50%</span>, sau lần phản công kế tiếp hồi <span style=\"color: #ff9900\">50%</span> HP tối đa. Sau khi nhận sát thương chí tử sẽ không chết và lập tức hồi <span style=\"color: #ff9900\">50%</span> HP tối đa, mỗi trận chiến kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>. Tấn công và sát thương chí mạng tăng <span style=\"color: #ff9900\">30%</span>; Khi dùng kỹ năng Quyết thắng Phán Quyết Chính Nghĩa, mỗi <span style=\"color: #ff9900\">1 tầng</span> Manh Mối đang có, hệ số sát thương tăng <span style=\"color: #ff9900\">15%</span>, tối đa tăng <span style=\"color: #ff9900\">150%</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*2 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có debuff loại Hydro tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*3 Sentinel*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*4 Sentinel*9&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Hydro gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*6 Sentinel*11&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*7 Sentinel*15&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*8 Sentinel*18&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch ngoài bán kính 5 ô quanh bản thân tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763895578471.png\"></td>\n<td>\n<h1><strong>Hộ Vệ Cánh Bạc &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10553\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng bắn tỉa/Heavy Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng bắn tỉa hiệu năng cao được phối cấp cho Nikketa, cải tạo từ nguyên mẫu Vis 94, nâng cao độ chính xác khi bắn, trở thành lợi khí bảo vệ chính nghĩa. Bóp nghẹt mọi tội ác từ trong trứng nước, trả lại cho lũ trẻ một giấc mơ yên bình.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=57707&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1741591527844.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=57565&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1741593381676.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=57027&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1741147183269.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=56905&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1741069580187.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p> &nbsp; Nhân viên trị an kiên trì chính nghĩa, người chị dịu dàng yêu thương trẻ nhỏ, kẻ tiêu tiền không chớp mắt hết sạch lương mỗi tháng - ai nói những thân phận này không thể là cùng một người? Chiến đấu ở tuyến đầu bảo vệ chính nghĩa, Nikketa bình tĩnh thực hành nguyên tắc của mình, nhưng khi đối diện với bạn, cô cũng bộc lộ một mặt đặc biệt. \"Công việc của tôi dạy tôi rằng, không nên hoàn toàn tin tưởng bất kỳ ai. Nhưng BOSS là ngoại lệ, chúng ta là bạn đồng hành cùng theo đuổi chính nghĩa mà. ”</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778252374580.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252374453.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252393469.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778252416645.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252416603.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252416642.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252416647.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782787026947.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252416606.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252416609.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252416610.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252416666.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252448931.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782787018615.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1741590760032.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1741590783313.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1741590798217.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1741590809807.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1741590825866.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1741590838544.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1741590853577.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1741590882365.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1741590895576.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779166382892.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166741643.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166741650.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784705747060.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784705758805.jpeg\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 964,
+      "title": "Thường ngày-01",
+      "text": "BOSS, tôi dự định mở một buổi giáo dục về điều lệ an toàn trên Elmo, phiền BOSS thông báo cho các T-Doll nhé. Còn nữa, bạn cũng phải có mặt!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211111374.wav"
+    },
+    {
+      "id": 967,
+      "title": "Thường ngày-02",
+      "text": "Nói mới nhớ, Nagant đã giúp tôi không ít đấy. Bạn hỏi chúng tôi gặp nhau thế nào? Chuyện đó phải bắt đầu từ một vụ nhầm lẫn của cô ấy……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211162022.wav"
+    },
+    {
+      "id": 968,
+      "title": "Thường ngày-03",
+      "text": "Ksenia à, nhờ lời khuyên của cô ấy, tôi mới biết thêm nhiều thông tin về Manny Security.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211200259.wav"
+    },
+    {
+      "id": 969,
+      "title": "Thường ngày-04",
+      "text": "Hả? BOSS, tôi đâu có lười biếng! Tôi chỉ đang nghĩ \"chính nghĩa\" trong mắt BOSS là như thế nào thôi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211222202.wav"
+    },
+    {
+      "id": 971,
+      "title": "Thường ngày-05",
+      "text": "Cái còng tay này? Đừng hiểu lầm, không phải tôi lén mang ra từ lúc nhập ngũ trước đây. Là tôi tự làm riêng, chỉ để làm bùa hộ mệnh thôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211251340.wav"
+    },
+    {
+      "id": 977,
+      "title": "Nâng cấp-01",
+      "text": "Hoàn thành hoàn hảo!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211269607.wav"
+    },
+    {
+      "id": 978,
+      "title": "Nâng cấp-02",
+      "text": "Được đề bạt rồi sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211284835.wav"
+    },
+    {
+      "id": 979,
+      "title": "Nâng cấp-03",
+      "text": "Sẽ tăng lương chứ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211305627.wav"
+    },
+    {
+      "id": 980,
+      "title": "Nâng cấp-04",
+      "text": "Thăng chức?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211321869.wav"
+    },
+    {
+      "id": 981,
+      "title": "Nâng cấp-05",
+      "text": "Vì chính nghĩa!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211336600.wav"
+    },
+    {
+      "id": 982,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211353064.wav"
+    },
+    {
+      "id": 983,
+      "title": "Đăng nhập",
+      "text": "BOSS, hôm nay người trực là tôi, trên tiền đề tuân thủ 《Điều lệ an toàn Elmo》, bắt đầu công việc hôm nay thôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211365772.wav"
+    },
+    {
+      "id": 985,
+      "title": "Tâm sự-01",
+      "text": "Đây là bánh nhỏ do bọn trẻ ở cô nhi viện nướng, BOSS nếm thử không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211403337.wav"
+    },
+    {
+      "id": 987,
+      "title": "Tâm sự-02",
+      "text": "Tôi định đi thăm bọn trẻ, BOSS đi cùng không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211433791.wav"
+    },
+    {
+      "id": 996,
+      "title": "Tâm sự-03",
+      "text": "Hửm? BOSS ngủ thiếp đi vậy sao? Nhìn kỹ lại, dáng ngủ của BOSS đáng yêu như trẻ con vậy.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211620868.wav"
+    },
+    {
+      "id": 989,
+      "title": "Tâm sự-04",
+      "text": "Ừm……có thể nhờ BOSS giúp tôi lập kế hoạch chi tiêu tháng sau không? Tôi……tháng này tôi lại vượt chi rồi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211480777.wav"
+    },
+    {
+      "id": 992,
+      "title": "Tâm sự-05",
+      "text": "Nhờ sự giúp đỡ của BOSS, tôi hiểu sâu sắc hơn về ý nghĩa của chính nghĩa. Chỉ cần tâm trí và hành vi của chúng ta đều sáng như gương, thì sẽ không đi lệch trên con đường chính nghĩa, đúng không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211523532.wav"
+    },
+    {
+      "id": 993,
+      "title": "Tâm sự-06",
+      "text": "《Truyện cổ Andersen》? Đây là quà BOSS chọn cho bọn trẻ sao? Tôi thay bọn trẻ cảm ơn BOSS trước nhé!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211552697.wav"
+    },
+    {
+      "id": 994,
+      "title": "Tâm sự-07",
+      "text": "BOSS, để tôi kiểm tra bạn, điều thứ sáu của 《Điều lệ an toàn Elmo》 là gì? Ừm……nhớ khá rõ nhỉ, xem ra gần đây có làm việc tuân thủ quy định tốt.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211574530.wav"
+    },
+    {
+      "id": 995,
+      "title": "Tâm sự-08",
+      "text": "Kinh nghiệm công việc trước đây cho tôi biết, đừng hoàn toàn tin ai cả. Nhưng BOSS là ngoại lệ, tôi và BOSS là bạn đồng hành cùng theo đuổi chính nghĩa.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211602270.wav"
+    },
+    {
+      "id": 998,
+      "title": "Vào đội",
+      "text": "Cùng tôi bảo vệ chính nghĩa không, BOSS?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211639580.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 586,
+      "title": "Ngữ khí-01",
+      "text": "Bạn bị bắt rồi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211664944.wav"
+    },
+    {
+      "id": 587,
+      "title": "Ngữ khí-02",
+      "text": "Bỏ vũ khí xuống!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211675746.wav"
+    },
+    {
+      "id": 588,
+      "title": "Ngữ khí-03",
+      "text": "Hà!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211686450.wav"
+    },
+    {
+      "id": 589,
+      "title": "Ngữ khí-04",
+      "text": "Ừm……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211698397.wav"
+    },
+    {
+      "id": 590,
+      "title": "Ngữ khí-05",
+      "text": "Hành động!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211708420.wav"
+    },
+    {
+      "id": 591,
+      "title": "Ngữ khí-06",
+      "text": "Chờ lệnh.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211718396.wav"
+    },
+    {
+      "id": 592,
+      "title": "Ngữ khí-07",
+      "text": "Trúng mục tiêu!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211729252.wav"
+    },
+    {
+      "id": 593,
+      "title": "Ngữ khí-08",
+      "text": "Ngoan ngoãn chịu trói đi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211744897.wav"
+    },
+    {
+      "id": 594,
+      "title": "Ngữ khí-09",
+      "text": "Cứ giao cho tôi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211756639.wav"
+    },
+    {
+      "id": 595,
+      "title": "Ngữ khí-10",
+      "text": "Giơ tay lên!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211769165.wav"
+    },
+    {
+      "id": 598,
+      "title": "Kỹ năng-01",
+      "text": "Theo điều lệ liên quan, bạn bị bắt!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211786101.wav"
+    },
+    {
+      "id": 599,
+      "title": "Kỹ năng-02",
+      "text": "Nhân danh chính nghĩa!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211806817.wav"
+    },
+    {
+      "id": 600,
+      "title": "Kỹ năng-03",
+      "text": "Chính nghĩa không dung ô uế!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211846592.wav"
+    },
+    {
+      "id": 605,
+      "title": "Kỹ năng-04",
+      "text": "Cùng chính nghĩa tiến bước.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211864039.wav"
+    },
+    {
+      "id": 604,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Chịu chế tài đi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211930989.wav"
+    },
+    {
+      "id": 601,
+      "title": "Hạ gục",
+      "text": "Mục tiêu im lặng.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211948282.wav"
+    },
+    {
+      "id": 602,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Hoàn thành nhiệm vụ thuận lợi, nghi phạm đã bị bắt toàn bộ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211966727.wav"
+    },
+    {
+      "id": 603,
+      "title": "Kết thúc trận-Thua",
+      "text": "Đáng ghét……chẳng lẽ phải nhìn những kẻ này……ung dung ngoài vòng pháp luật sao……?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766211988675.wav"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "id": 1037,
+  "name": "Ullrid",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045154141.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 1,
+  "role_id": 2,
+  "team_id": 12,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Vanguard",
+  "attr": "Physical",
+  "team": "Doll Community",
+  "weapon": "Pluma Edge",
+  "model": "SSD-62G",
+  "ammo_model": "Blade",
+  "desc": "T-Doll mang lý tưởng lớn lao. Tính cách quả cảm và khả năng hành động siêu việt khiến đồng đội tụ họp quanh cô. Nhưng gánh đầy kỳ vọng, đôi khi cô cũng mong được trong một góc yên tĩnh đặt gánh nặng xuống, nghỉ ngơi chốc lát.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/乌尔丽德pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/乌尔丽德移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014452162.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014461093.png"
+  },
+  "skins": [],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768262028649.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1777014482154.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768262055745.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Cúc Hoa Hoa</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Saitō Yūka</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=49\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>740</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>8</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>528</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1519</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo Freeze</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Bắn Tuần Canh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784591605926.png\"></p>\n</td>\n<td>\n<p>Bắn Canh Gác Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764429570487.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Tầm Nhìn Thợ Săn",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784591653769.png\"></p>\n</td>\n<td>\n<p>Tầm Nhìn Thợ Săn Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Cận chiến/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764429636557.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 1 ô</span> xung quanh, gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Physical cận chiến, và nhận <span style=\"color: #ff9900\">6 ô</span> di chuyển thêm. Nếu chưa hạ gục, gây Dấu Con Mồi lên nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Liên Hoàn Xoay Lưỡi Dao",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784591680932.png\"></p>\n</td>\n<td>\n<p>Lưỡi Dao Xoay Liên Hoàn Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Cận chiến</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764429712692.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 1 ô</span> xung quanh, gây <span style=\"color: #ff9900\">90%</span> Tấn công sát thương Physical cận chiến, sau khi tấn công nhận Liên Xoay.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 1 Tiêu hao Infection: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Truy Săn Ẩn Tích",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784591699180.png\"></p>\n</td>\n<td>\n<p>Săn Đuổi Ẩn Tích Lv.1</p>\n<p>Quyết thắng/Đơn mục tiêu/Cận chiến</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764429782412.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô trong phạm vi chữ thập <span style=\"color: #ff9900\">5 ô</span>, hạ xuống ô đó, gây <span style=\"color: #ff9900\">180%</span> Tấn công sát thương Physical cận chiến lên <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch có HP cao nhất trong <span style=\"color: #ff9900\">bán kính 1 ô</span> xung quanh. Tiêu hao toàn bộ Thiên Phú Thợ Săn, cứ mỗi <span style=\"color: #ff9900\">1 tầng</span> tiêu hao, sát thương gây ra của đòn này tăng <span style=\"color: #ff9900\">10%</span>, tối đa tăng <span style=\"color: #ff9900\">30%</span>; Nếu Thiên Phú Thợ Săn từ <span style=\"color: #ff9900\">2 tầng</span> trở lên, nhận <span style=\"color: #ff9900\">2 tầng</span> Ngụy Trang, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Ngụy Trang Quang Học",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784591827399.png\"></p>\n</td>\n<td>\n<p>Ngụy Trang Quang Học Lv.1</p>\n<p>Bị động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764429840179.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sau khi tấn công chủ động nhận <span style=\"color: #ff9900\">1 tầng</span> Thiên Phú Thợ Săn và <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Khi đơn vị kẻ địch kết thúc hành động, nếu HP của Ullrid thấp hơn <span style=\"color: #ff9900\">30%</span>, nhận <span style=\"color: #ff9900\">1 tầng</span> Ngụy Trang, duy trì <span style=\"color: #ff9900\">1 hiệp</span>, hồi chiêu <span style=\"color: #ff9900\">3 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Lưỡi Dao Xoay Liên Hoàn Lv.2</strong></td>\n<td style=\"text-align: center\">Trong một lần hành động, nếu tấn công cùng một mục tiêu, sát thương gây ra tăng <span style=\"color: #ff9900\">30%</span>. Hiệu ứng Liên Xoay được nâng cao, khi tấn công bỏ qua giảm sát thương của vật cản.</td>\n<td style=\"text-align: center\">Chọn 1 mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 1 ô</span> xung quanh, gây <span style=\"color: #ff9900\">90%</span> Tấn công sát thương Physical cận chiến, sau khi tấn công nhận Liên Xoay. Trong một lần hành động, nếu tấn công cùng một mục tiêu, sát thương gây ra tăng <span style=\"color: #ff9900\">30%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Ngụy Trang Quang Học Lv.2</strong></td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, cứ mỗi <span style=\"color: #ff9900\">1</span> mục tiêu đồng minh (không gồm bản thân), bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Thiên Phú Thợ Săn và <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, cứ mỗi 1 mục tiêu đồng minh (không gồm bản thân), bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Thiên Phú Thợ Săn và <span style=\"color: #ff9900\">1 điểm</span> <span style=\"color: #00ccff\">Infection Index</span>. Sau khi tấn công chủ động nhận <span style=\"color: #ff9900\">1 tầng</span> Thiên Phú Thợ Săn và <span style=\"color: #ff9900\">1 điểm</span> <span style=\"color: #00ccff\">Infection Index</span>. Khi đơn vị kẻ địch kết thúc hành động, nếu HP của Ullrid thấp hơn <span style=\"color: #ff9900\">30%</span>, nhận <span style=\"color: #ff9900\">1 tầng</span> Ngụy Trang, duy trì <span style=\"color: #ff9900\">1 hiệp</span>, hồi chiêu <span style=\"color: #ff9900\">3 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Tầm Nhìn Thợ Săn Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu chưa hạ gục, gây thêm Giảm di chuyển II lên mục tiêu kẻ địch, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Khi Ullrid bị mục tiêu có Dấu Con Mồi tấn công, sát thương nhận vào giảm.</td>\n<td style=\"text-align: center\">Chọn 1 mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 1 ô</span> xung quanh, gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Physical cận chiến, và nhận <span style=\"color: #ff9900\">6 ô</span> di chuyển thêm. Nếu chưa hạ gục, gây Dấu Con Mồi và Giảm di chuyển II lên nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Khi Ullrid bị mục tiêu có Dấu Con Mồi tấn công, sát thương nhận vào giảm <span style=\"color: #ff9900\">20%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Săn Đuổi Ẩn Tích Lv.2</strong></td>\n<td style=\"text-align: center\">Tầm bắn tăng <span style=\"color: #ff9900\">2 ô</span>; Tiêu hao Thiên Phú Thợ Săn, giới hạn sát thương gây ra tăng lên <span style=\"color: #ff9900\">60%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 ô trong phạm vi chữ thập <span style=\"color: #ff9900\">7 ô</span>, hạ xuống ô đó, gây <span style=\"color: #ff9900\">180%</span> Tấn công sát thương Physical cận chiến lên 1 mục tiêu kẻ địch có HP cao nhất trong <span style=\"color: #ff9900\">bán kính 1 ô</span> xung quanh. Tiêu hao toàn bộ Thiên Phú Thợ Săn, cứ mỗi <span style=\"color: #ff9900\">1 tầng</span> tiêu hao, sát thương gây ra của đòn này tăng <span style=\"color: #ff9900\">10%</span>, tối đa tăng <span style=\"color: #ff9900\">60%</span>; Nếu Thiên Phú Thợ Săn từ <span style=\"color: #ff9900\">2 tầng</span> trở lên, nhận <span style=\"color: #ff9900\">2 tầng</span> Ngụy Trang, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Ngụy Trang Quang Học Lv.3</strong></td>\n<td style=\"text-align: center\">Trước khi tấn công, nếu di chuyển từ <span style=\"color: #ff9900\">2 ô</span> trở lên, Tấn công tăng <span style=\"color: #ff9900\">20%</span>; HP của Ullrid thấp hơn <span style=\"color: #ff9900\">50%</span> là có thể nhận Ngụy Trang, và hồi chiêu giảm <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, cứ mỗi 1 mục tiêu đồng minh (không gồm bản thân), bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Thiên Phú Thợ Săn và <span style=\"color: #ff9900\">1 điểm</span> <span style=\"color: #00ccff\">Infection Index</span>. Sau khi tấn công chủ động nhận <span style=\"color: #ff9900\">1 tầng</span> Thiên Phú Thợ Săn và <span style=\"color: #ff9900\">1 điểm</span> <span style=\"color: #00ccff\">Infection Index</span>. Trước khi tấn công, nếu di chuyển từ <span style=\"color: #ff9900\">2 ô</span> trở lên, Tấn công tăng <span style=\"color: #ff9900\">20%</span>. Khi đơn vị kẻ địch kết thúc hành động, nếu HP của Ullrid thấp hơn <span style=\"color: #ff9900\">50%</span>, nhận <span style=\"color: #ff9900\">1 tầng</span> Ngụy Trang, duy trì <span style=\"color: #ff9900\">1 hiệp</span>, hồi chiêu <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Săn Đuổi Ẩn Tích Lv.3</strong></td>\n<td style=\"text-align: center\">Trước khi tấn công, cứ mỗi <span style=\"color: #ff9900\">2%</span> HP mục tiêu hao hụt, Tấn công bản thân tăng <span style=\"color: #ff9900\">1%</span>. Nếu hạ gục, sát thương gây ra của lần tấn công chủ động kế tiếp tăng <span style=\"color: #ff9900\">30%</span>. Nếu Thiên Phú Thợ Săn từ <span style=\"color: #ff9900\">2 tầng</span> trở lên, nhận <span style=\"color: #ff9900\">1 tầng</span> Ngụy Trang, hiệu ứng Ngụy Trang được nâng cao, không bị tiêu hao sau khi nhận sát thương.</td>\n<td style=\"text-align: center\">Chọn 1 ô trong phạm vi chữ thập <span style=\"color: #ff9900\">7 ô</span>, hạ xuống ô đó, gây <span style=\"color: #ff9900\">180%</span> Tấn công sát thương Physical cận chiến lên 1 mục tiêu kẻ địch có HP cao nhất trong <span style=\"color: #ff9900\">bán kính 1 ô</span> xung quanh. Cứ mỗi <span style=\"color: #ff9900\">2%</span> HP mục tiêu kẻ địch hao hụt, Tấn công của bản thân trong đòn này tăng <span style=\"color: #ff9900\">1%</span>. Nếu hạ gục, sát thương gây ra của lần tấn công chủ động kế tiếp tăng <span style=\"color: #ff9900\">30%</span>. Tiêu hao toàn bộ Thiên Phú Thợ Săn, cứ mỗi <span style=\"color: #ff9900\">1 tầng</span> tiêu hao, sát thương gây ra của đòn này tăng <span style=\"color: #ff9900\">10%</span>, tối đa tăng <span style=\"color: #ff9900\">60%</span>; Nếu Thiên Phú Thợ Săn từ <span style=\"color: #ff9900\">2 tầng</span> trở lên, nhận <span style=\"color: #ff9900\">1 tầng</span> Ngụy Trang, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784591874194.png\"></td>\n<td>\n<h2>Contract Key·Kẻ Kết Liễu Nắn Nắn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764429960779.png\" width=\"20\"></sub>HP +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784591888889.png\"></td>\n<td>\n<h2>Fixed Key·Hành Động Mau Lẹ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi có Liên Xoay có thể dùng đánh thường và các kỹ năng chủ động khác, nhưng tiêu hao thêm 2 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784591916618.png\"></td>\n<td>\n<h2>Fixed Key·Khóa Chặt Con Mồi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi trong bán kính 3 ô quanh mục tiêu kẻ địch không có đơn vị kẻ địch nào, bỏ qua 30% Phòng thủ của mục tiêu kẻ địch đó.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784591950101.png\"></td>\n<td>\n<h2>Fixed Key·Cảnh Giác Vừa Phải</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784591963259.png\"></td>\n<td>\n<h2>Fixed Key·Trạng Thái Lý Tưởng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi trong phạm vi 3 ô quanh bản thân không có mục tiêu đồng minh (không gồm vật triệu hồi), tỉ lệ chí mạng bản thân tăng 20%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784591976690.png\"></td>\n<td>\n<h2>Fixed Key·Uy Áp Của Thủ Lĩnh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bản thân đầy HP, sát thương gây ra tăng 15%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784591992691.png\"></td>\n<td>\n<h2>Fixed Key·Nhạy Bén Của Thợ Săn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi tạo khắc chế, bản thân nhận Tăng tấn công I, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784592019792.png\"></td>\n<td>\n<h2>Common Key·Xé Toạc Vết Thương</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764430193259.png\" width=\"20\"></sub>Chí mạng 5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Trước khi tấn công, nếu HP mục tiêu kẻ địch chưa đầy, sát thương gây cho nó tăng 7%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784592034146.png\"></td>\n<td>\n<h2>Expansion Key·Truy Kích Quyết Tuyệt</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>[Bậc <span style=\"color: #ff9900\">1</span>] Sau khi dùng kỹ năng chủ động Lưỡi Dao Xoay Liên Hoàn, nếu chưa hạ gục mục tiêu kẻ địch, tấn công thêm 1 lần 90% Tấn công sát thương Physical và 1 điểm sát thương ổn định lên nó, và sát thương gây ra của đòn này tăng 30%. Mỗi hiệp kích hoạt tối đa 3 lần.</p>\n<p>Trước khi dùng kỹ năng chủ động Lưỡi Dao Xoay Liên Hoàn, gây Dấu Con Mồi lên mục tiêu, sau kỹ năng hồi chiêu của kỹ năng Quyết thắng Săn Đuổi Ẩn Tích giảm 1 hiệp. Nếu trúng liên tiếp cùng một mục tiêu kẻ địch, hồi 1 điểm Infection Index cho bản thân. Mỗi hiệp lớn kích hoạt tối đa 1 lần. Trước khi tung kỹ năng Quyết thắng Săn Đuổi Ẩn Tích, bản thân nhận đầy tầng Thiên Phú Thợ Săn. Thêm hiệu ứng mới cho Thiên Phú Thợ Săn: nếu tỉ lệ chí mạng bản thân lớn hơn 100%, cứ mỗi 1% tỉ lệ chí mạng dư, sát thương chí mạng tăng 0.3%. Sát thương cận chiến của mọi đơn vị đồng minh tăng 10%; Cứ mỗi 1 tầng Thiên Phú Thợ Săn tiêu hao, hồi 1 điểm Infection Index cho bản thân. Thêm hiệu ứng mới cho Dấu Con Mồi: người mang nhận Vết Rách.</p>\n<p><span style=\"color: #ff9900\">Thêm hiệu ứng mới cho Thiên Phú Thợ Săn: nếu tỉ lệ chí mạng bản thân lớn hơn 100%, cứ mỗi 1% tỉ lệ chí mạng dư, sát thương chí mạng tăng 0.3%. Sát thương cận chiến của mọi đơn vị đồng minh tăng 10%; cứ mỗi 1 tầng Thiên Phú Thợ Săn tiêu hao, hồi 1 điểm Infection Index cho bản thân.</span></p>\n<p><span style=\"color: #ff9900\">Thêm hiệu ứng mới cho Dấu Con Mồi: người mang nhận Vết Rách.</span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*5 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi tấn công chủ động liên tiếp cùng một mục tiêu kẻ địch trong hiệp này, sát thương chí mạng tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*8 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*9 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*11 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có HP từ 50% trở xuống tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*15 Sentinel*7&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*18 Sentinel*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây lên đơn vị kẻ địch trong bán kính 3 ô quanh bản thân tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763991040283.png\"></td>\n<td>\n<h1><strong>Rectrix &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10373\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Blade/Cận chiến</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Vũ khí cận chiến hiệu năng cao được cấp cho Ullrid, chọn thép tốt, rèn tinh xảo, điểm xuyết họa tiết hoa giản dị, khiến tổng thể vũ khí sắc bén mà không kém phần linh hoạt.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Mua sắm định hướng</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=5905&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1718615235940.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=5124&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1718334905973.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=2252&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1717731358535.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=1626&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1717731276989.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p> &nbsp; T-Doll mang lý tưởng lớn lao. Tính cách quả cảm và khả năng hành động siêu việt khiến đồng đội tụ họp quanh cô. Nhưng gánh đầy kỳ vọng, đôi khi cô cũng mong được trong một góc yên tĩnh đặt gánh nặng xuống, nghỉ ngơi chốc lát.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778294705439.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778294744937.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294744902.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294744879.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294744930.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294744942.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/感到鸭力.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/可靠.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/灵魂出窍.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091967437.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091987540.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092004196.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092022241.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092036876.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092050356.png\" style=\"max-width: 150px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1416,
+      "title": "Thường ngày-01",
+      "text": "Ngay cả Littara cũng nói, kiểu dáng của Krolik rất hiếm gặp. Không hổ là Chỉ huy, thu nạp được nhiều T-Doll mỗi người một vẻ như vậy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Series_Daily_002.wav"
+    },
+    {
+      "id": 1419,
+      "title": "Thường ngày-02",
+      "text": "Trước đây tôi nghe Suomi kể không ít chuyện về Chỉ huy, tôi tin đánh giá của cô ấy về anh, cũng tin anh khác với những con người kia.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Series_Daily_005.wav"
+    },
+    {
+      "id": 1420,
+      "title": "Thường ngày-03",
+      "text": "Thật ra tôi không có ác ý với con người, tôi biết con người có người tốt người xấu. Nhưng phân biệt thế nào……tôi vẫn phải tiếp tục học hỏi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Series_Daily_006.wav"
+    },
+    {
+      "id": 1423,
+      "title": "Thường ngày-04",
+      "text": "Phương án phân chia này hợp lý không……có lẽ tôi nên hỏi ý kiến của Littara……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Series_Daily_009.wav"
+    },
+    {
+      "id": 1424,
+      "title": "Thường ngày-05",
+      "text": "Cách thư giãn? Hỏi tôi là đúng người rồi, tôi giới thiệu \"Máy Chiết Xuất Linh Hồn\", là đạo cụ giải tỏa căng thẳng rất hữu dụng đó.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Series_Daily_010.wav"
+    },
+    {
+      "id": 1426,
+      "title": "Nâng cấp-01",
+      "text": "Tiếp tục cố gắng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Series_Up_002.wav"
+    },
+    {
+      "id": 1427,
+      "title": "Nâng cấp-02",
+      "text": "Kinh nghiệm rất hữu ích.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Series_Up_003.wav"
+    },
+    {
+      "id": 1428,
+      "title": "Nâng cấp-03",
+      "text": "Trưởng thành hơn một chút……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Series_Up_004.wav"
+    },
+    {
+      "id": 1430,
+      "title": "Nâng cấp-04",
+      "text": "Đã quyết định thì phải hành động.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Series_Up_006.wav"
+    },
+    {
+      "id": 1431,
+      "title": "Nâng cấp-05",
+      "text": "Cảm giác thoải mái.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Series_Up_007.wav"
+    },
+    {
+      "id": 1433,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Single_Title_001.wav"
+    },
+    {
+      "id": 1434,
+      "title": "Đăng nhập",
+      "text": "Chỉ huy, có việc gì cần tôi giúp không? Cứ nói.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Single_Login_001.wav"
+    },
+    {
+      "id": 1436,
+      "title": "Tâm sự-01",
+      "text": "Trước khi lên Elmo, tôi có chút lo lắng, nhưng sau khi ở bên Chỉ huy, những bất an ấy đều tan biến.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 1438,
+      "title": "Tâm sự-02",
+      "text": "Là người lãnh đạo, tôi còn nhiều thiếu sót, nếu có thể lấy anh làm mục tiêu học tập……Chỉ huy, sao anh lại cười? Tôi nghiêm túc mà……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 1439,
+      "title": "Tâm sự-03",
+      "text": "A, thích thật……mấy tấm xốp hơi này, lốp bốp, lốp bốp……Chỉ huy cần không? Có thể khiến anh thư giãn ngay lập tức đó.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 1440,
+      "title": "Tâm sự-04",
+      "text": "Tôi thích nghe nhạc không lời, tuy hay bị người khác bảo gu đơn điệu, nhưng chúng giúp tâm trí tôi bình lặng……Chỉ huy muốn thử không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 1442,
+      "title": "Tâm sự-05",
+      "text": "Cây cung cơ khí này là thứ tôi trân quý nhất, mỗi lần giương cung, tôi đều nhớ lại những kỷ niệm xưa. Chỉ huy cũng muốn thử sao? Để tôi dạy anh……Ừm……hình như anh hơi căng thẳng, là do tôi đứng quá gần sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Single_Friendliness_009.wav"
+    },
+    {
+      "id": 1443,
+      "title": "Tâm sự-06",
+      "text": "Đối diện các T-Doll, Chỉ huy cũng có lúc khó mở lời nhỉ? Tốt quá……tôi cũng vậy. Quả nhiên chúng ta có thể thấu hiểu nhau.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Single_Friendliness_010.wav"
+    },
+    {
+      "id": 1445,
+      "title": "Tâm sự-07",
+      "text": "Nhiều T-Doll gặp bất hạnh vì phe sở hữu tồi tệ, nếu con người ai cũng như Chỉ huy thì tốt biết mấy……Thế giới sẽ diệt vong? Sao có thể, con người như anh chỉ khiến thế giới tốt đẹp hơn thôi chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Single_Friendliness_012.wav"
+    },
+    {
+      "id": 1446,
+      "title": "Tâm sự-08",
+      "text": "Chỉ huy, cái này tặng anh. Tôi ngày xưa giống như mũi tên này, tưởng rằng rời dây cung bay thật xa mới là tự do. Nhưng tự do nghĩa là có quyền lựa chọn, bây giờ……tôi mong được nằm trong tay xạ thủ hơn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 1448,
+      "title": "Vào đội",
+      "text": "Chỉ huy, xin hãy chỉ hướng cho mũi tên của tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/UllridCV/VO_Ullrid_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 860,
+      "title": "Ngữ khí-01",
+      "text": "Đừng do dự.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765866748928.wav"
+    },
+    {
+      "id": 861,
+      "title": "Ngữ khí-02",
+      "text": "Con mồi ở gần đây.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765866771527.wav"
+    },
+    {
+      "id": 862,
+      "title": "Ngữ khí-03",
+      "text": "Đang hành động.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765866796396.wav"
+    },
+    {
+      "id": 863,
+      "title": "Ngữ khí-04",
+      "text": "Xuyên thấu!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765866816153.wav"
+    },
+    {
+      "id": 864,
+      "title": "Ngữ khí-05",
+      "text": "Mười điểm.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765866839540.wav"
+    },
+    {
+      "id": 865,
+      "title": "Ngữ khí-06",
+      "text": "Bắt đầu săn.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765866856970.wav"
+    },
+    {
+      "id": 866,
+      "title": "Ngữ khí-07",
+      "text": "Vút——",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765866873537.wav"
+    },
+    {
+      "id": 867,
+      "title": "Ngữ khí-08",
+      "text": "Ẩn thân.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765866889361.wav"
+    },
+    {
+      "id": 868,
+      "title": "Ngữ khí-09",
+      "text": "Tôi ở đây.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765866905884.wav"
+    },
+    {
+      "id": 869,
+      "title": "Ngữ khí-10",
+      "text": "Suỵt, nhỏ tiếng thôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765866924751.wav"
+    },
+    {
+      "id": 870,
+      "title": "Kỹ năng-01",
+      "text": "Đừng chớp mắt, kẻo không thấy tôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765866980471.wav"
+    },
+    {
+      "id": 871,
+      "title": "Kỹ năng-02",
+      "text": "Hãy tin vào độ chuẩn của tôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765867010157.wav"
+    },
+    {
+      "id": 872,
+      "title": "Kỹ năng-03",
+      "text": "Mũi tên tự do, không bao giờ trượt!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765867212880.wav"
+    },
+    {
+      "id": 876,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Mũi tên chung kết!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765867323437.wav"
+    },
+    {
+      "id": 873,
+      "title": "Hạ gục",
+      "text": "Ngã xuống đi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765867236333.wav"
+    },
+    {
+      "id": 874,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Đây là kết quả nỗ lực chung của mọi người!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765867263055.wav"
+    },
+    {
+      "id": 875,
+      "title": "Kết thúc trận-Thua",
+      "text": "Kích hoạt ngụy trang quang học! Xin lỗi……là sai sót của tôi, tôi sẽ chịu trách nhiệm……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765867290141.wav"
+    }
+  ]
+}

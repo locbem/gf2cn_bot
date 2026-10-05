@@ -1,0 +1,380 @@
+{
+  "id": 1025,
+  "name": "Tololo",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045339411.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 6,
+  "role_id": 4,
+  "team_id": 11,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Hydro",
+  "team": "Frostfall Squad",
+  "weapon": "Model Alpha",
+  "model": "SST-05",
+  "ammo_model": "AR",
+  "desc": "T-Doll yên tĩnh bầu bạn cùng bầu trời sao. Dưới sự trầm lặng là một nội tâm mảnh mai và nhạy cảm. Khi vạn vật say ngủ, cô gửi gắm mình vào dải ngân hà bao la, và bầu trời đêm vì cô mà biến ảo lấp lánh.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/托洛洛pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/托洛洛移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014794882.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014804543.png"
+  },
+  "skins": [
+    {
+      "id": 38,
+      "name": "Mộ Dạ Thiên Hà",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763950164313.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763950175774.png"
+    },
+    {
+      "id": 39,
+      "name": "Du Hành Trời Quang",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763950190714.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763950207294.png"
+    }
+  ],
+  "gifs": [],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Ông Viên</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Kitō Akari</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>836</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>528</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>5</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1819</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo Electric</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Sao Rơi",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599741141.png\"></p>\n</td>\n<td>\n<p>Sao Rơi Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764495661376.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Đảo Ngược Hố Đen",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600273963.png\"></p>\n</td>\n<td>\n<p>Nghịch Đảo Hố Đen Lv.1</p>\n<p>Chủ động/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764495731271.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Hydro; Đồng thời gây Ứ Trệ, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Nếu tạo được khắc chế, nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Xung Kích Siêu Tân Tinh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600311615.png\"></p>\n</td>\n<td>\n<p>Xung Kích Siêu Tân Tinh Lv.1</p>\n<p>Chủ động/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764495786815.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Physical lên chúng; Nếu bản thân có từ <span style=\"color: #ff9900\">2</span> buff trở lên, sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>, đồng thời nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index. Nếu có đồng minh tấn công chi viện trước đòn đánh của bản thân, gây Choáng lên mục tiêu, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Tinh Huy Hủy Diệt",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600350423.png\"></p>\n</td>\n<td>\n<p>Tinh Quang Hủy Diệt Lv.1</p>\n<p>Quyết thắng/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764495849193.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">180%</span> Tấn công sát thương Hydro; Nếu bản thân có từ <span style=\"color: #ff9900\">3</span> buff trở lên, sát thương gây ra tăng <span style=\"color: #ff9900\">15%</span>, đồng thời thời gian hồi chiêu của kỹ năng này giảm <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Màn Cực Quang",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600394474.png\"></p>\n</td>\n<td>\n<p>Màn Cực Quang Lv.1</p>\n<p>Bị động/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764495909539.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu chiến đấu, nạp đầy Infection Index. Sau khi tấn công nếu Infection Index đầy, tiêu hao toàn bộ Infection Index, nhận <span style=\"color: #ff9900\">1 lần</span> hành động thêm. Khi bắt đầu hành động, mỗi <span style=\"color: #ff9900\">2 điểm</span> Infection Index đang có, nhận ngẫu nhiên <span style=\"color: #ff9900\">1</span> buff, duy trì đến khi kết thúc hành động lần này. Mỗi <span style=\"color: #ff9900\">1 lần</span> đồng minh gây sát thương Hydro, nhận <span style=\"color: #ff9900\">1 tầng</span> Gai Sáng.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Nghịch Đảo Hố Đen Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu tạo được khắc chế, đòn đánh này bỏ qua <span style=\"color: #ff9900\">15%</span> giảm sát thương của vật cản.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Hydro; Nếu tạo được khắc chế, đòn đánh này bỏ qua <span style=\"color: #ff9900\">15%</span> giảm sát thương của vật cản, đồng thời nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 2</strong></td>\n<td><strong>Xung Kích Siêu Tân Tinh Lv.2</strong></td>\n<td>Nếu có từ <span style=\"color: #ff9900\">3</span> buff trở lên, đòn đánh này gây sát thương Hydro, đồng thời nhận thêm <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n<td>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Physical lên chúng; Nếu bản thân có từ <span style=\"color: #ff9900\">2</span> buff trở lên, sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>, đồng thời nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index; Nếu có từ <span style=\"color: #ff9900\">3</span> buff trở lên, đòn đánh này gây sát thương Hydro, nhận thêm <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Tinh Quang Hủy Diệt Lv.2</strong></td>\n<td>Nếu có từ <span style=\"color: #ff9900\">3</span> buff trở lên, sát thương gây ra tăng lên <span style=\"color: #ff9900\">30%</span>, đồng thời thời gian hồi chiêu của kỹ năng này giảm <span style=\"color: #ff9900\">3 hiệp</span>.</td>\n<td>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">180%</span> Tấn công sát thương Hydro; Nếu bản thân có từ <span style=\"color: #ff9900\">3</span> buff trở lên, sát thương gây ra tăng <span style=\"color: #ff9900\">30%</span>, đồng thời thời gian hồi chiêu của kỹ năng này giảm <span style=\"color: #ff9900\">3 hiệp</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 4</strong></td>\n<td><strong>Màn Cực Quang Lv.2</strong></td>\n<td>Khi hành động thêm, nhận Tăng Chính Xác II, Tăng Chí Mạng II, Tăng Dị Vị II, Xuyên Thấu II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br></td>\n<td>Khi bắt đầu chiến đấu, nạp đầy Infection Index. Sau khi tấn công nếu Infection Index đầy, tiêu hao toàn bộ Infection Index, nhận <span style=\"color: #ff9900\">1</span> lần hành động thêm. Khi hành động thêm, nhận Tăng Chính Xác II, Tăng Chí Mạng II, Tăng Dị Vị II, Xuyên Thấu II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Khi bắt đầu hành động, mỗi <span style=\"color: #ff9900\">2 điểm</span> Infection Index đang có, nhận ngẫu nhiên 1 buff, duy trì đến khi kết thúc hành động lần này. Mỗi 1 lần đồng minh gây sát thương Hydro, nhận <span style=\"color: #ff9900\">1 tầng</span> Gai Sáng.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Màn Cực Quang Lv.3</strong></td>\n<td>Hiệu quả Gai Sáng được nâng cao, tỉ lệ chí mạng và sát thương chí mạng tăng thêm <span style=\"color: #ff9900\">2%</span>.</td>\n<td>Khi bắt đầu chiến đấu, nạp đầy Infection Index. Sau khi tấn công nếu Infection Index đầy, tiêu hao toàn bộ Infection Index, nhận <span style=\"color: #ff9900\">1</span> lần hành động thêm. Khi hành động thêm, nhận Tăng Chính Xác II, Tăng Chí Mạng II, Tăng Dị Vị II, Xuyên Thấu II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Khi bắt đầu hành động, mỗi <span style=\"color: #ff9900\">2 điểm</span> Infection Index đang có, nhận ngẫu nhiên 1 buff, duy trì đến khi kết thúc hành động lần này. Mỗi 1 lần đồng minh gây sát thương Hydro, nhận <span style=\"color: #ff9900\">1 tầng</span> Gai Sáng.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Tinh Quang Hủy Diệt Lv.3</strong></td>\n<td>Nếu hạ gục, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n<td>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">180%</span> Tấn công sát thương Hydro; Nếu bản thân có từ <span style=\"color: #ff9900\">3</span> buff trở lên, sát thương gây ra tăng <span style=\"color: #ff9900\">30%</span>, đồng thời thời gian hồi chiêu của kỹ năng này giảm <span style=\"color: #ff9900\">3 hiệp</span>; Nếu hạ gục, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600408419.png\"></td>\n<td>\n<h2>Contract Key·Thì Thầm Của Quần Tinh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764496016117.png\" width=\"20\"></sub>HP +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600424609.png\"></td>\n<td>\n<h2>Fixed Key·Sao Chổi Đi Qua</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi hành động thêm, Điểm hành động tăng 1 ô.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600472806.png\"></td>\n<td>\n<h2>Fixed Key·Quy Luật Quan Trắc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Nghịch Đảo Hố Đen, gây Ứ Trệ lên mục tiêu, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600496057.png\"></td>\n<td>\n<h2>Fixed Key·Tia Sáng Vô Hình</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi hành động thêm, nhận Tăng Tấn Công II và Tăng Sát Thương II, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600511224.png\"></td>\n<td>\n<h2>Fixed Key·Quỹ Đạo Nghịch Hành</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Xung Kích Siêu Tân Tinh, nếu có đồng minh tấn công chi viện trước đòn đánh của bản thân, gây Choáng lên mục tiêu, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600525126.png\"></td>\n<td>\n<h2>Fixed Key·Dạo Chơi Ngân Hà</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu tạo được khắc chế, trước khi tấn công xua tan 2 buff của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600539880.png\"></td>\n<td>\n<h2>Fixed Key·Nhật Thực Che Sao</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi đầy HP và Chỉ số ổn định, bỏ qua 10% giảm sát thương của vật cản của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600554790.png\"></td>\n<td>\n<h2>Common Key·Ánh Chiều Tà</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764405202464.png\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi Infection Index chưa đầy, sát thương gây ra tăng 7%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784600567550.png\"></td>\n<td>\n<h2>Expansion Key·Ánh Sao Bị Bắt Giữ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>[Bậc 1] Sau khi dùng kỹ năng chủ động, bản thân nhận 2 điểm Infection Index. Nếu đồng minh (không gồm bản thân) gây sát thương Hydro, thời gian hồi chiêu kỹ năng chủ động Nghịch Đảo Hố Đen của bản thân giảm 1 hiệp.</p>\n<p>[Bậc 2] Khi bắt đầu chiến đấu, nhận 3 tầng Dự Trữ Tinh Năng. Khi Tololo kết thúc hành động, nhận 1 tầng Ưu Thế Quan Trắc, duy trì 1 hiệp lớn. Nếu số vệ tinh định điểm trên sân chưa đạt giới hạn, tiêu hao 1 tầng Dự Trữ Tinh Năng, triệu hồi 1 vệ tinh định điểm quanh bản thân, duy trì 2 hiệp lớn. Mỗi cách 1 hiệp khi bắt đầu hiệp, nhận 3 tầng Dự Trữ Tinh Năng. Sau khi Tololo tấn công chủ động, gây Dấu Ấn Lực Hấp Dẫn lên mục tiêu. Sau khi vệ tinh định điểm gây sát thương, Tololo gây 1 tầng Khúc Xạ Ánh Sao lên mục tiêu, bản thân nhận 1 tầng Cộng Hưởng Quỹ Đạo.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*1 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Trong hiệp này khi liên tục tấn công chủ động cùng một kẻ địch, sát thương gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*2 Sentinel*7&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*3 Sentinel*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Hydro gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*4 Sentinel*11&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*4 Sentinel*15&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*6 Sentinel*18&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra khi tấn công chỉ trúng 1 kẻ địch tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763994421421.png\"></td>\n<td>\n<h1><strong>Thiên Thể &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=11038\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng trường tấn công hiệu năng cao được cấp cho Tololo, lấy Kalash-Alpha làm nguyên mẫu, thân súng nhẹ hơn, độ chính xác khi bắn cao hơn. Phong cách thiết kế nhẹ nhàng và độc đáo, vừa có sự lý trí thực dụng vừa có sự lãng mạn khám phá điều chưa biết, rất giống chủ nhân của nó.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Mua sắm thường</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\"><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=177&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1717560363921.png\"></a></td>\n<td style=\"text-align: center\"><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=82&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1716878438158.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll yên tĩnh bầu bạn cùng bầu trời sao. Dưới sự trầm lặng là một nội tâm mảnh mai và nhạy cảm. Khi vạn vật say ngủ, cô gửi gắm mình vào dải ngân hà bao la, và bầu trời đêm vì cô mà biến ảo lấp lánh.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778312812444.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312812456.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312812437.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778312851456.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312851402.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312851440.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312851427.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312851399.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312851392.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312851405.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312851414.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312851449.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/乖巧.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/开始自闭.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/睡了.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092721848.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092734378.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092744986.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092759015.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092769127.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092780838.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779167177158.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779167177180.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1289,
+      "title": "Thường ngày-01",
+      "text": "Những điều tưởng chừng xa vời không hẳn là không thể với tới, con người đã có thể lên vũ trụ hái sao, thì cũng có thể thực hiện lý tưởng tối thượng của mình.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Daily_002.wav"
+    },
+    {
+      "id": 1291,
+      "title": "Thường ngày-02",
+      "text": "Gặp rắc rối sao? Cùng suy nghĩ cho thật kỹ để tìm cách giải quyết nhé. Hửm? Tôi cũng không phải người hoàn toàn xa rời thực tế đâu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Daily_004.wav"
+    },
+    {
+      "id": 1292,
+      "title": "Thường ngày-03",
+      "text": "Đây là kẹp tóc đội trưởng Qiongjiu tặng tôi, viên đá mặt trăng lấp lánh mang màu của bầu trời.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Daily_005.wav"
+    },
+    {
+      "id": 1293,
+      "title": "Thường ngày-04",
+      "text": "Ngôi sao mất đi sự sống sẽ hóa thành thiên thạch, còn con người và T-Doll thì sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Daily_006.wav"
+    },
+    {
+      "id": 1297,
+      "title": "Thường ngày-05",
+      "text": "Nói đến nơi muốn đến…… tôi muốn bước vào chính cái tên của mình——Đài thiên văn Cerro Tololo.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Daily_010.wav"
+    },
+    {
+      "id": 1299,
+      "title": "Nâng cấp-01",
+      "text": "Năng lực đồng nghĩa với trách nhiệm.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Up_002.wav"
+    },
+    {
+      "id": 1300,
+      "title": "Nâng cấp-02",
+      "text": "Đẹp như các vì sao.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Up_003.wav"
+    },
+    {
+      "id": 1301,
+      "title": "Nâng cấp-03",
+      "text": "Tôi sẽ trân trọng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Up_004.wav"
+    },
+    {
+      "id": 1303,
+      "title": "Nâng cấp-04",
+      "text": "Tôi sẽ bảo vệ anh.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Up_006.wav"
+    },
+    {
+      "id": 1305,
+      "title": "Nâng cấp-05",
+      "text": "Con đường phía trước sáng hơn rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Up_008.wav"
+    },
+    {
+      "id": 1306,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Title_001.wav"
+    },
+    {
+      "id": 1307,
+      "title": "Đăng nhập",
+      "text": "Đến rồi, bắt đầu công việc hôm nay thôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Login_001.wav"
+    },
+    {
+      "id": 1309,
+      "title": "Tâm sự-01",
+      "text": "Lúc rảnh tôi sẽ ngắm sao và liên lạc với bạn bè. Những chuyện đã qua dạy tôi rằng, phải học cách thẳng thắn và tin tưởng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 1310,
+      "title": "Tâm sự-02",
+      "text": "Âm nhạc tuyệt vời và trí tưởng tượng phi thường đều giúp bộ não mệt mỏi được thư giãn, còn tôi thì——tôi chọn bia.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 1311,
+      "title": "Tâm sự-03",
+      "text": "Các vì sao và trái tim rất giống nhau, đều đủ xa xôi, đủ đẹp đẽ. Khi bạn hỏi các vì sao, cũng là đang hỏi chính mình.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 1314,
+      "title": "Tâm sự-04",
+      "text": "Nghe thử Mozart đi, cùng tôi, trong giai điệu ấy chỉ có niềm vui và hạnh phúc.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 1316,
+      "title": "Tâm sự-05",
+      "text": "Những ngôi sao trong vũ trụ ở rất xa chúng ta, nhưng có vài ngôi sao lại rất gần tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Friendliness_009.wav"
+    },
+    {
+      "id": 1317,
+      "title": "Tâm sự-06",
+      "text": "Mỗi nguyên tử trong cơ thể chúng ta đều đến từ một ngôi sao đã tàn lụi. Tay trái và tay phải của con người có thể đến từ những ngôi sao khác nhau…… Trong quá khứ xa xôi, liệu cơ thể chúng ta từng thuộc về cùng một ngôi sao không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Friendliness_010.wav"
+    },
+    {
+      "id": 1318,
+      "title": "Tâm sự-07",
+      "text": "Tiểu thuyết khoa học viễn tưởng là sự thể hiện lý tưởng của tác giả. Tôi sẵn lòng cùng bạn sáng tác những câu chuyện như vậy, và biến chúng từ lý tưởng thành hiện thực.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Friendliness_011.wav"
+    },
+    {
+      "id": 1320,
+      "title": "Tâm sự-08",
+      "text": "\"Anh yêu em nồng nhiệt như ba nghìn mặt trời\", câu thơ của một tác giả vô danh, bạn có thích nó không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 1322,
+      "title": "Vào đội",
+      "text": "Lực hấp dẫn đã thay đổi quỹ đạo của ngôi sao, kéo tôi đến đây. Tololo, gia nhập đội.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 782,
+      "title": "Ngữ khí-01",
+      "text": "Ừm!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 783,
+      "title": "Ngữ khí-02",
+      "text": "Ha.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 784,
+      "title": "Ngữ khí-03",
+      "text": "Hừ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 785,
+      "title": "Ngữ khí-04",
+      "text": "Cẩn thận!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 786,
+      "title": "Ngữ khí-05",
+      "text": "Đã hiểu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 787,
+      "title": "Ngữ khí-06",
+      "text": "Xác nhận mục tiêu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 789,
+      "title": "Ngữ khí-07",
+      "text": "Được.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 790,
+      "title": "Ngữ khí-08",
+      "text": "Vỡ vụn đi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 791,
+      "title": "Ngữ khí-09",
+      "text": "Không thoát được đâu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 793,
+      "title": "Ngữ khí-10",
+      "text": "Hãy tin tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 794,
+      "title": "Kỹ năng-01",
+      "text": "Hãy rơi rụng như sao băng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Skill_001.wav"
+    },
+    {
+      "id": 795,
+      "title": "Kỹ năng-02",
+      "text": "Đây là ánh sáng cuối cùng của ngươi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Skill_002.wav"
+    },
+    {
+      "id": 796,
+      "title": "Kỹ năng-03",
+      "text": "Ánh sao bắn tung tóe.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Hit_001.wav"
+    },
+    {
+      "id": 801,
+      "title": "Kỹ năng-04",
+      "text": "Cô tinh.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 800,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Ẩn giữa các vì sao.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 797,
+      "title": "Hạ gục",
+      "text": "Nỗi đau sẽ kết thúc.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Kill_001.wav"
+    },
+    {
+      "id": 798,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Như vậy sẽ có thời gian làm điều mình thích rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Win_001.wav"
+    },
+    {
+      "id": 799,
+      "title": "Kết thúc trận-Thua",
+      "text": "Là tôi không bảo vệ được mọi người……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/TololoCV/VO_Tololo_Single_Lose_001.wav"
+    }
+  ]
+}

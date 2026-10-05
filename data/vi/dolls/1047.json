@@ -1,0 +1,390 @@
+{
+  "id": 1047,
+  "name": "Springfield",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044872555.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 6,
+  "role_id": 3,
+  "team_id": 8,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Support",
+  "attr": "Hydro",
+  "team": "Zucchero Café",
+  "weapon": "M1903",
+  "model": "SSD-62D",
+  "ammo_model": "RF",
+  "desc": "T-Doll nhanh nhạy, dịu dàng mà kiên cường, thấu hiểu lòng người, lách giữa nhiều nhóm người mà không để lộ sơ hở. Đằng sau sự bao dung là sự kiên trì với nguyên tắc, mà nguyên tắc của Springfield chỉ có một: bạn bè và người quan trọng, cô đều phải bảo vệ.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/春田pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/春田移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014177782.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014189004.png"
+  },
+  "skins": [
+    {
+      "id": 44,
+      "name": "Nữ Hoàng Dưới Ánh Đèn",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763949615305.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763949624281.png"
+    },
+    {
+      "id": 45,
+      "name": "Thưởng Thức Hương Nồng",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763949639804.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763949651446.png"
+    },
+    {
+      "id": 91,
+      "name": "Giấc Mộng Tiên Cá",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1790046687019.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1790046694002.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261471953.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261487434.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261506966.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Lương Sảng</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Horie Yui</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=58\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>696</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>585</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1909</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Light Ammo Electric</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Thủ Đoạn Ôn Hòa",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558997749.png\"></p>\n</td>\n<td>\n<p>Thủ Đoạn Ôn Hòa Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764416013703.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Chiến Thuật Tình Báo",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559020553.png\"></p>\n</td>\n<td>\n<p>Chiến Thuật Tình Báo Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764416093802.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, gây Tình Báo Giả lên chúng, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Hydro, đồng thời gây Ứ Trệ lên chúng, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.<br>Bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Viện Trợ Từ Xa",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559036776.png\"></p>\n</td>\n<td>\n<p>Viện Trợ Từ Xa Lv.1</p>\n<p>Chủ động/Hồi máu/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764416161833.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> đồng minh trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, hồi cho chúng HP bằng <span style=\"color: #ff9900\">100%</span> Tấn công và <span style=\"color: #ff9900\">3 điểm</span> Chỉ số ổn định, đồng thời gây Quan Tâm Tràn Đầy, duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn.<br>Bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Đạo Hộ Vệ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559053371.png\"></p>\n</td>\n<td>\n<p>Đạo Hộ Vệ Lv.1</p>\n<p>Quyết thắng / Diện rộng / Triệu hồi</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764416237137.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, triệu hồi Tarez tại mục tiêu để bám theo, duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn; Gây Ẩm ướt và Tình Báo Giả lên mục tiêu cùng mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, đồng thời gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Hydro diện rộng.<br>Gây Tình Nghĩa Chôn Sâu và Quan Tâm Tràn Đầy lên toàn thể đồng minh, duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn, hồi cho chúng HP bằng <span style=\"color: #ff9900\">100%</span> Tấn công và <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định, đồng thời xua tan <span style=\"color: #ff9900\">1</span> debuff, gỡ Khiêu khích và Né tránh.<br>Khi mục tiêu Tarez bám theo chết, nó chuyển sang bám theo kẻ địch có HP hiện tại cao nhất.<br>Bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Nhãn Quan Chim Ưng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784559066959.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Mắt Ưng Thấu Suốt Lv.1</p>\n<p>Bị động/Buff/Phản công</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764416295215.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi kết thúc hành động, nếu bản thân đầy Infection Index, tiêu hao toàn bộ Infection Index để nhận lượt hành động thêm.<br>Khi bắt đầu hiệp, nếu HP bản thân cao hơn <span style=\"color: #ff9900\">80%</span>, nhận Thấu Suốt, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Nếu mục tiêu Tarez bám theo gây sát thương lên đồng minh, phản công nó, gây sát thương Hydro bằng <span style=\"color: #ff9900\">20%</span> HP tối đa của Springfield và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định, đồng thời hồi cho đồng minh HP bằng <span style=\"color: #ff9900\">20%</span> HP tối đa của Springfield, kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span> mỗi hiệp.<br>Nếu trên sân có Tarez, khi kết thúc hành động, bản thân hồi <span style=\"color: #ff9900\">20%</span> HP tối đa.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Viện Trợ Từ Xa Lv.2</strong></td>\n<td style=\"text-align: center\">Lượng HP hồi tăng lên <span style=\"color: #ff9900\">130%</span> Tấn công. Hiệu quả Quan Tâm Tràn Đầy tăng, lượng HP hồi tăng lên <span style=\"color: #ff9900\">15%</span> Tấn công, giới hạn tăng sát thương <span style=\"color: #00ccff\">Hydro</span> chuyển hóa tăng lên <span style=\"color: #ff9900\">70%</span>. Gây thêm <span style=\"color: #ff9900\">6 tầng</span> Đồng Tâm Cảm Ứng lên mục tiêu.</td>\n<td style=\"text-align: center\">Chọn 1 đồng minh trong bán kính <span style=\"color: #ff9900\">9 ô</span> xung quanh, hồi cho chúng HP bằng <span style=\"color: #ff9900\">130%</span> Tấn công và <span style=\"color: #ff9900\">3 điểm</span> Chỉ số ổn định, đồng thời gây Quan Tâm Tràn Đầy duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span> và <span style=\"color: #ff9900\">6 tầng</span> Đồng Tâm Cảm Ứng. Bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Đạo Hộ Vệ Lv.2</strong></td>\n<td style=\"text-align: center\">Infection Index nhận được tăng <span style=\"color: #ff9900\">1 điểm</span>. Lượng HP hồi tăng lên <span style=\"color: #ff9900\">120%</span> Tấn công, Chỉ số ổn định hồi tăng <span style=\"color: #ff9900\">4 điểm</span>, số debuff xua tan tăng <span style=\"color: #ff9900\">1</span>, đồng thời gỡ thêm Choáng và Dụ dẫn.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong bán kính <span style=\"color: #ff9900\">9 ô</span> xung quanh, triệu hồi Tarez tại mục tiêu để bám theo, duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>; Gây Ẩm ướt và Tình Báo Giả lên mục tiêu cùng mọi kẻ địch trong bán kính <span style=\"color: #ff9900\">3 ô</span> quanh nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, đồng thời gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Hydro diện rộng. Gây Tình Nghĩa Chôn Sâu và Quan Tâm Tràn Đầy lên toàn thể đồng minh, duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>, hồi cho chúng HP bằng <span style=\"color: #ff9900\">120%</span> Tấn công và <span style=\"color: #ff9900\">6 điểm</span> Chỉ số ổn định, đồng thời xua tan <span style=\"color: #ff9900\">2</span> debuff, gỡ Khiêu khích, Né tránh, Choáng và Dụ dẫn. Khi mục tiêu Tarez bám theo chết, nó chuyển sang bám theo kẻ địch có HP hiện tại cao nhất. Bản thân nhận <span style=\"color: #ff9900\">3 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Mắt Ưng Thấu Suốt Lv.2</strong></td>\n<td style=\"text-align: center\">Hiệu ứng mới của Tarez: sát thương Hydro mà mục tiêu Tarez bám theo và mọi kẻ địch trong bán kính <span style=\"color: #ff9900\">3 ô</span> quanh nó phải nhận tăng <span style=\"color: #ff9900\">10%</span>. Khi trên sân có Tarez, sát thương Hydro của đòn tấn công ngoài hiệp của toàn thể đồng minh tăng <span style=\"color: #ff9900\">40%</span>. Thêm hiệu ứng chi viện: khi đồng minh tấn công chủ động mục tiêu bị bám theo và gây sát thương Hydro, thực hiện chi viện hành động, gây sát thương Hydro bằng <span style=\"color: #ff9900\">20%</span> HP tối đa của Springfield và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định, đồng thời hồi cho đồng minh đó HP bằng <span style=\"color: #ff9900\">20%</span> HP tối đa của Springfield. Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span>.</td>\n<td style=\"text-align: center\">Khi kết thúc hành động, nếu bản thân đầy Infection Index, tiêu hao toàn bộ Infection Index để nhận lượt hành động thêm. Khi bắt đầu hiệp, nếu HP bản thân cao hơn <span style=\"color: #ff9900\">80%</span>, nhận Thấu Suốt, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sát thương Hydro mà mục tiêu Tarez bám theo và mọi kẻ địch trong bán kính <span style=\"color: #ff9900\">3 ô</span> quanh nó phải nhận tăng <span style=\"color: #ff9900\">10%</span>. Nếu mục tiêu Tarez bám theo gây sát thương lên đồng minh, phản công nó; Khi đồng minh tấn công chủ động mục tiêu bị bám theo và gây sát thương Hydro, thực hiện chi viện hành động, đều gây sát thương Hydro bằng <span style=\"color: #ff9900\">20%</span> HP tối đa của Springfield và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định, đồng thời hồi cho đồng minh đó HP bằng <span style=\"color: #ff9900\">20%</span> HP tối đa của Springfield, mỗi loại kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span> mỗi hiệp. Nếu trên sân có Tarez, sát thương Hydro của đòn tấn công ngoài hiệp của toàn thể đồng minh tăng <span style=\"color: #ff9900\">40%</span>; và khi kết thúc hành động, bản thân hồi <span style=\"color: #ff9900\">20%</span> HP tối đa.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Chiến Thuật Tình Báo Lv.2</strong></td>\n<td style=\"text-align: center\">Sát thương gây ra tăng lên <span style=\"color: #ff9900\">150%</span> Tấn công. Khi bản thân đang chịu Tình Báo Giả mà sụp Chỉ số ổn định, mức tăng sát thương Hydro phải nhận tăng lên <span style=\"color: #ff9900\">20%</span>. Ứ Trệ được thay bằng hiệu ứng Hàn Triều, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong bán kính <span style=\"color: #ff9900\">9 ô</span> xung quanh, gây Tình Báo Giả lên chúng, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, gây <span style=\"color: #ff9900\">150%</span> Tấn công sát thương Hydro, đồng thời gây Hàn Triều lên chúng, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Đạo Hộ Vệ Lv.3</strong></td>\n<td style=\"text-align: center\">Phạm vi hiệu lực tăng <span style=\"color: #ff9900\">1 ô</span>. Hiệu ứng mới của Tình Nghĩa Chôn Sâu: sát thương phải nhận giảm <span style=\"color: #ff9900\">15%</span>; và thời gian duy trì tăng <span style=\"color: #ff9900\">1 hiệp lớn</span>. Thời gian duy trì của Tarez tăng <span style=\"color: #ff9900\">1 hiệp lớn</span>, và khi mục tiêu bị bám theo chết, gây sát thương cố định bằng <span style=\"color: #ff9900\">40%</span> Tấn công của Springfield lên mọi kẻ địch trong bán kính <span style=\"color: #ff9900\">4 ô</span> xung quanh.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong bán kính <span style=\"color: #ff9900\">9 ô</span> xung quanh, triệu hồi Tarez tại mục tiêu để bám theo, duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span>; Gây Ẩm ướt và Tình Báo Giả lên mục tiêu cùng mọi kẻ địch trong bán kính <span style=\"color: #ff9900\">4 ô</span> quanh nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, đồng thời gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Hydro diện rộng. Gây Tình Nghĩa Chôn Sâu duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span> và Quan Tâm Tràn Đầy duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span> lên toàn thể đồng minh, hồi cho chúng HP bằng <span style=\"color: #ff9900\">120%</span> Tấn công của bản thân và <span style=\"color: #ff9900\">6 điểm</span> Chỉ số ổn định, đồng thời xua tan <span style=\"color: #ff9900\">2</span> debuff, gỡ Khiêu khích, Né tránh, Choáng và Dụ dẫn. Khi mục tiêu Tarez bám theo chết, gây sát thương cố định bằng <span style=\"color: #ff9900\">40%</span> Tấn công của Springfield lên mọi kẻ địch trong bán kính <span style=\"color: #ff9900\">4 ô</span> xung quanh, rồi chuyển sang bám theo kẻ địch có HP hiện tại cao nhất. Bản thân nhận <span style=\"color: #ff9900\">3 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Mắt Ưng Thấu Suốt Lv.3</strong></td>\n<td style=\"text-align: center\">Tarez nâng cấp thành Tarez·Cường Hiệp; mọi hệ số hiệu ứng khi Tarez·Cường Hiệp tấn công nhân đôi, hệ số sát thương Hydro tăng <span style=\"color: #ff9900\">20%</span>, sát thương ổn định tăng <span style=\"color: #ff9900\">1 điểm</span>, hệ số HP hồi tăng <span style=\"color: #ff9900\">20%</span>, số lần kích hoạt mỗi hiệp tăng <span style=\"color: #ff9900\">2 lần</span> cho mỗi loại; và trước khi tấn công, gây Phân Tích Sơ Hở lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n<td style=\"text-align: center\">Khi kết thúc hành động, nếu bản thân đầy Infection Index, tiêu hao toàn bộ Infection Index để nhận lượt hành động thêm. Khi bắt đầu hiệp, nếu HP bản thân cao hơn <span style=\"color: #ff9900\">80%</span>, nhận Thấu Suốt, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sát thương Hydro mà mục tiêu Tarez·Cường Hiệp bám theo và mọi kẻ địch trong bán kính <span style=\"color: #ff9900\">3 ô</span> quanh nó phải nhận tăng <span style=\"color: #ff9900\">10%</span>. Trước khi Tarez·Cường Hiệp tấn công, gây Phân Tích Sơ Hở lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Nếu mục tiêu Tarez·Cường Hiệp bám theo gây sát thương lên đồng minh, phản công nó; Khi đồng minh tấn công chủ động mục tiêu bị bám theo và gây sát thương Hydro, thực hiện chi viện hành động, đều gây sát thương Hydro bằng <span style=\"color: #ff9900\">40%</span> HP tối đa của Springfield và <span style=\"color: #ff9900\">2 điểm</span> sát thương ổn định, đồng thời hồi cho đồng minh đó HP bằng <span style=\"color: #ff9900\">40%</span> HP tối đa của Springfield, mỗi loại kích hoạt tối đa <span style=\"color: #ff9900\">4 lần</span> mỗi hiệp. Nếu trên sân có Tarez·Cường Hiệp, sát thương Hydro của đòn tấn công ngoài hiệp của toàn thể đồng minh tăng <span style=\"color: #ff9900\">40%</span>; và khi kết thúc hành động, bản thân hồi <span style=\"color: #ff9900\">20%</span> HP tối đa.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559090111.png\"></td>\n<td>\n<h2>Contract Key · Tâm Linh Tương Thông Canh Giữ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764416414689.png\" width=\"20\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764416425688.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559108017.png\"></td>\n<td>\n<h2>Fixed Key · Ngưng Tụ Hạt Nhân</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng Quyết thắng Đạo Hộ Vệ, kéo mọi mục tiêu về tâm 3 ô.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559124365.png\"></td>\n<td>\n<h2>Fixed Key · Dò Xét Tình Báo</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi tấn công chủ động, xua tan 1 buff trên mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559137831.png\"></td>\n<td>\n<h2>Fixed Key · Liên Kết Phi Tấn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi trên sân có Tarez, Phòng thủ của toàn thể đồng minh tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559161686.png\"></td>\n<td>\n<h2>Fixed Key · Thấu Hiểu Lòng Người</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu HP của mục tiêu thấp hơn 80%, hiệu quả hồi máu tăng 15%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559175567.png\"></td>\n<td>\n<h2>Fixed Key · Sau Nụ Cười</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi tấn công chủ động, gây Điểm Yếu Hydro lên kẻ địch mục tiêu, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559191358.png\"></td>\n<td>\n<h2>Fixed Key · Vỗ Về Dịu Dàng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi hồi máu chủ động cho mục tiêu sụp Chỉ số ổn định, hồi thêm 2 điểm Chỉ số ổn định.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559207264.png\"></td>\n<td>\n<h2>Common Key · Kín Kẽ Không Sơ Hở</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p>Khi bắt đầu hiệp, nếu Chỉ số ổn định của bản thân chưa đầy, nhận Hồi ổn định liên tục II, duy trì 1 hiệp.</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1773706761062.png\"></td>\n<td>\n<h2>Expansion Key · Nương Tựa Canh Chừng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Hiệu ứng của kỹ năng chủ động Viện Trợ Từ Xa có hiệu lực lên toàn thể đồng minh. Sau khi dùng kỹ năng Quyết thắng Đạo Hộ Vệ, triệu hồi Elsin quanh mục tiêu. Nếu Elsin tồn tại, sát thương của vật triệu hồi thực thể đồng minh tăng 50%. Mỗi khi vật triệu hồi thực thể đồng minh khác gây 1 lần sát thương Hydro, gây 1 tầng Ẩm Thấm lên mục tiêu; khi kỹ năng bị động Mổ của Elsin kích hoạt sẽ tiêu hao Ẩm Thấm, mỗi 1 tầng hiệu ứng này tiêu hao, hệ số sát thương của Mổ tăng 5%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Mỗi khi bản thân gây 1 lần sát thương Hydro, sát thương Hydro của toàn thể đồng minh tăng 1%, tối đa tăng 3%. Không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Support*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Support*9 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Hydro gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*11 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra của toàn bộ đồng minh tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*7 Support*15 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*8 Support*18 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi bắt đầu chiến đấu, 2 đồng minh có Tấn công ban đầu cao nhất nhận Tấn công tăng 3%, không cộng dồn.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763903769684.png\"></td>\n<td>\n<h1><strong>Thánh Quang &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10473\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng bắn tỉa/Heavy Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng bắn tỉa hiệu năng cao được cấp cho Springfield, lấy M1903 làm nguyên mẫu, nâng cao thêm tính cơ động và tốc độ bắn. Xuyên thủng mọi cảnh khốn cùng, chỉ để mở ra tương lai sáng rõ hơn cho người quan trọng.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=42570&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1733810850092.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=43024&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1733887820801.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=42830&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1733972683334.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=43699&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1733972121445.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll nhanh nhạy, dịu dàng mà kiên cường, thấu hiểu lòng người, lách giữa nhiều nhóm người mà không để lộ sơ hở. Đằng sau sự bao dung là sự kiên trì với nguyên tắc, mà nguyên tắc của Springfield chỉ có một: bạn bè và người quan trọng, cô đều phải bảo vệ.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778253101994.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253102010.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253102046.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1790046796476.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778253163979.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253142686.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253142721.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253142684.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253142564.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253142685.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253142720.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253142724.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253180495.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1790046822052.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1790046822057.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1734429430929.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1734429486258.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1734429542985.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1734429564866.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1734429617820.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1734429633952.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1734429652811.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1734429673869.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1734429694274.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779165831903.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165831899.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166772116.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 185,
+      "title": "Thường ngày-01",
+      "text": "Doanh thu quán cà phê tháng này lại tăng, mọi người đều đang nỗ lực làm việc, tôi cũng không thể lơ là.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Daily_001.wav"
+    },
+    {
+      "id": 194,
+      "title": "Thường ngày-02",
+      "text": "Mỗi buổi sáng và chiều là lúc quán cà phê bận rộn nhất... có người đuổi theo thời gian, có người tận hưởng thời gian, Chỉ huy, hôm nay anh là loại nào?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Daily_010.wav"
+    },
+    {
+      "id": 188,
+      "title": "Thường ngày-03",
+      "text": "Chỉ huy, dù cuộc sống bận rộn thế nào, cũng xin đừng quên chăm sóc bản thân.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Daily_004.wav"
+    },
+    {
+      "id": 186,
+      "title": "Thường ngày-04",
+      "text": "Mỗi loại hạt cà phê có cách pha khác nhau, độ mịn khi xay, nhiệt độ nước đều ảnh hưởng đến hương vị. Gần đây tôi đang chỉnh lý các kỹ thuật này, anh có hứng thú tìm hiểu không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Daily_002.wav"
+    },
+    {
+      "id": 190,
+      "title": "Thường ngày-05",
+      "text": "Ừm... tôi muốn thêm vài loại bánh vị mới cho quán, anh có đề xuất nào không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Daily_006.wav"
+    },
+    {
+      "id": 196,
+      "title": "Nâng cấp-01",
+      "text": "Vũ trang mới?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Up_002.wav"
+    },
+    {
+      "id": 197,
+      "title": "Nâng cấp-02",
+      "text": "Xuất kích bất cứ lúc nào.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Up_003.wav"
+    },
+    {
+      "id": 198,
+      "title": "Nâng cấp-03",
+      "text": "Tôi và anh có chung mục tiêu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Up_004.wav"
+    },
+    {
+      "id": 200,
+      "title": "Nâng cấp-04",
+      "text": "Hỏa lực đã nâng cấp.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Up_006.wav"
+    },
+    {
+      "id": 201,
+      "title": "Nâng cấp-05",
+      "text": "Springfield, sẵn sàng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Up_007.wav"
+    },
+    {
+      "id": 203,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Title_001.wav"
+    },
+    {
+      "id": 204,
+      "title": "Đăng nhập",
+      "text": "Chào mừng trở lại, Chỉ huy, uống một ly cà phê làm nóng người trước nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Login_001.wav"
+    },
+    {
+      "id": 205,
+      "title": "Tâm sự-01",
+      "text": "Chỉ huy, tài liệu trên bàn xử lý xong chưa? Trà chiều phải đợi làm xong việc đã nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 206,
+      "title": "Tâm sự-02",
+      "text": "Anh nói ngày mai sao? Ừm... tôi tạm thời chưa chắc có rảnh không, nhưng tôi sẽ cố gắng dành thời gian cho anh.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 209,
+      "title": "Tâm sự-03",
+      "text": "Chỉ huy, anh thích loại điểm tâm nào? Sandwich hay bánh táo? Nói trước cho tôi, lần sau có thể chuẩn bị tốt hơn cho anh.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 210,
+      "title": "Tâm sự-04",
+      "text": "Chỉ huy, anh có hứng thú với bài poker không? Thỉnh thoảng đấu trí sẽ giúp hiểu nhau hơn, lúc rảnh hãy chơi với tôi một ván nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 212,
+      "title": "Tâm sự-05",
+      "text": "Chỉ có mái nhà đủ vững chắc mới che mưa chắn gió cho mọi người. Tàu Elmo đối với anh, và quán cà phê Zucchero đối với tôi, là cùng một ý nghĩa.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 214,
+      "title": "Tâm sự-06",
+      "text": "Bên ngoài mưa gió càng lớn, sự bình yên trong nhà càng đáng quý. Chỉ huy, khi mệt thì cứ đến quán tôi trú mưa nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Friendliness_010.wav"
+    },
+    {
+      "id": 216,
+      "title": "Tâm sự-07",
+      "text": "Ở bên anh luôn khiến tôi thấy yên tâm, như ngồi bên cửa sổ lúc trời quang thưởng thức một phần trà bánh... anh cũng có cảm giác đó chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Friendliness_012.wav"
+    },
+    {
+      "id": 217,
+      "title": "Tâm sự-08",
+      "text": "Chỉ cần nghĩ mỗi ngày sau này đều có thể gặp anh như thế, bầu trời dường như cũng sáng lên.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 219,
+      "title": "Vào đội",
+      "text": "Chỉ huy, rất vui được lại sát cánh cùng anh. Đây chính là tàu Elmo sao? Tôi vẫn luôn mong được đến xem.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 117,
+      "title": "Ngữ khí-01",
+      "text": "Hừ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 118,
+      "title": "Ngữ khí-02",
+      "text": "Ừm.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 119,
+      "title": "Ngữ khí-03",
+      "text": "Xin mời dùng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 120,
+      "title": "Ngữ khí-04",
+      "text": "Xuất kích.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 121,
+      "title": "Ngữ khí-05",
+      "text": "Không thành vấn đề.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 122,
+      "title": "Ngữ khí-06",
+      "text": "Xin chào anh.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 123,
+      "title": "Ngữ khí-07",
+      "text": "Ây da.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 124,
+      "title": "Ngữ khí-08",
+      "text": "Xin cẩn thận.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 125,
+      "title": "Ngữ khí-09",
+      "text": "Thư giãn nào.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 126,
+      "title": "Ngữ khí-10",
+      "text": "Đã nhận.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 129,
+      "title": "Kỹ năng-01",
+      "text": "Dùng một tách trà nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Skill_001.wav"
+    },
+    {
+      "id": 130,
+      "title": "Kỹ năng-02",
+      "text": "Dùng một phần điểm tâm nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Skill_002.wav"
+    },
+    {
+      "id": 131,
+      "title": "Kỹ năng-03",
+      "text": "Một đòn hiệu quả.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Hit_001.wav"
+    },
+    {
+      "id": 136,
+      "title": "Kỹ năng-04",
+      "text": "Có thêm đường không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 135,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Món đã giao.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 132,
+      "title": "Hạ gục",
+      "text": "Ôi chao, đi thong thả~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Kill_001.wav"
+    },
+    {
+      "id": 133,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Kết thúc rồi sao? Nhanh hơn dự kiến nhỉ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Win_001.wav"
+    },
+    {
+      "id": 134,
+      "title": "Kết thúc trận-Thua",
+      "text": "Chỉ là thất bại tạm thời, không cần nản lòng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SpringfieldCV/VO_Springfield_Single_Lose_001.wav"
+    }
+  ]
+}

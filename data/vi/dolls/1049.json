@@ -1,0 +1,367 @@
+{
+  "id": 1049,
+  "name": "Harpsy",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044580170.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 5,
+  "role_id": 2,
+  "team_id": 4,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Vanguard",
+  "attr": "Corrosion",
+  "team": "H.I.D.E.404 Team 2",
+  "weapon": "Styler SMG",
+  "model": "SSD-62D",
+  "ammo_model": "SMG",
+  "desc": "Thành viên Đội 2 của 404, là hỗ trợ kỹ thuật mạnh mẽ trong đội. Nhút nhát sợ chuyện là ấn tượng đầu tiên dễ để lại, nhưng chính sự có trách nhiệm đến cùng mới là yếu tố quyết định giúp cô trở thành một thành viên của 404. Luôn tìm kiếm cảm giác an toàn, ngoài việc không ngừng trau dồi kỹ thuật, cô còn cố gắng khắc phục khuyết điểm của mình. Hay là xoa đầu chú mèo con hướng nội này, khích lệ cô một chút nhé?",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1764345131741.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1764561903634.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013478401.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013486978.png"
+  },
+  "skins": [],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1767949119548.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1767949131972.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1767950683722.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">CV tiếng Trung</td>\n<td style=\"text-align: center\">Vạn Thuần</td>\n</tr>\n<tr style=\"text-align: center\">\n<td>CV tiếng Nhật</td>\n<td>Naganawa Maria</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>757</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>8</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>545</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1754</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Medium Ammo&nbsp; <span style=\"color: #ff6600\">Burn</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Tấn Công Nhắm Mục Tiêu",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545062284.png\"></p>\n</td>\n<td>\n<p>Tấn Công Nhắm Mục Tiêu Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1766052414828.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Khuếch Đại Diện Rộng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545098293.png\"></p>\n</td>\n<td>\n<p>Tăng Cường Diện Rộng Lv.1</p>\n<p>Chủ động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1766052425959.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 đồng minh trong bán kính 6 ô xung quanh, gây Tiến Trình Ưu Tiên lên chúng, duy trì 2 hiệp lớn, đồng thời kéo dài Tiến Trình Ưu Tiên của mọi đồng minh thêm 1 hiệp lớn. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>. Nếu mục tiêu đã mang Tiến Trình Ưu Tiên, bản thân hồi 3 điểm Infection Index. Kỹ năng này dùng tối đa 1 lần mỗi hiệp.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Lấy Độc Trị Độc",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545114722.png\"></p>\n</td>\n<td>\n<p>Lấy Độc Trị Độc Lv.1</p>\n<p>Chủ động / Diện rộng / Debuff / Di chuyển</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1766052437006.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong bán kính 6 ô xung quanh, gây 90% Tấn công sát thương Corrosion diện rộng, đẩy lùi 3 ô và gây 2 tầng Chương Trình Diệt Virus.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Cú Đấm Mạng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545127002.png\"></p>\n</td>\n<td>\n<p>Đấm Mạng Lv.1</p>\n<p>Quyết thắng/Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1766052446376.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong bán kính 6 ô xung quanh, gây 90% Tấn công sát thương Corrosion diện rộng. Khi số T-Doll đồng minh mang Tiến Trình Ưu Tiên trên sân lớn hơn 2, sát thương của Chương Trình Diệt Virus tăng 30%, duy trì 1 hiệp lớn.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3 Tiêu hao Infection: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Virus Macro",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545140577.png\"></p>\n</td>\n<td>\n<p>Macro Virus Lv.1</p>\n<p>Bị động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1766052461316.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sau khi tấn công chủ động, bản thân hồi 2 điểm Infection Index. Khi dùng kỹ năng Quyết thắng, mỗi 1 điểm Infection Index tiêu hao, kích hoạt 1 lần hiệu ứng Tiến Trình Ưu Tiên.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Tăng Cường Diện Rộng Lv.2</strong></td>\n<td style=\"text-align: center\">Infection Index tiêu hao giảm <span style=\"color: #ff9900\">1 điểm</span>, số lần dùng mỗi hiệp tăng 1.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây Tiến Trình Ưu Tiên lên chúng, duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn, đồng thời kéo dài Tiến Trình Ưu Tiên của mọi đồng minh thêm 1 hiệp lớn. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>. Nếu mục tiêu đã mang Tiến Trình Ưu Tiên, bản thân hồi <span style=\"color: #ff9900\">3 điểm</span> Infection Index. Kỹ năng này dùng tối đa 2 lần mỗi hiệp.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 2</strong></td>\n<td><strong>Đấm Mạng Lv.2</strong></td>\n<td>Khi Infection Index đang có lớn hơn <span style=\"color: #ff9900\">3 điểm</span>, tiêu hao toàn bộ Infection Index; mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao thêm, hệ số sát thương tăng <span style=\"color: #ff9900\">20%</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">90%</span> Tấn công sát thương Corrosion diện rộng. Khi Infection Index đang có lớn hơn <span style=\"color: #ff9900\">3 điểm</span>, tiêu hao toàn bộ Infection Index; mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao thêm, hệ số sát thương tăng <span style=\"color: #ff9900\">20%</span>. Khi số T-Doll đồng minh mang Tiến Trình Ưu Tiên trên sân lớn hơn <span style=\"color: #ff9900\">2</span>, sát thương của Chương Trình Diệt Virus tăng <span style=\"color: #ff9900\">30%</span>, duy trì 1 hiệp lớn.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Macro Virus Lv.2</strong></td>\n<td>Mỗi 1 lần kích hoạt hiệu ứng Tiến Trình Ưu Tiên, Tấn công và sát thương chí mạng của bản thân tăng <span style=\"color: #ff9900\">3%</span>, tối đa tăng <span style=\"color: #ff9900\">15%</span>.</td>\n<td>Sau khi tấn công chủ động, bản thân hồi <span style=\"color: #ff9900\">2 điểm</span> Infection Index.<br>Khi dùng kỹ năng Quyết thắng, mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, kích hoạt 1 lần hiệu ứng Tiến Trình Ưu Tiên.<br>Mỗi 1 lần kích hoạt hiệu ứng Tiến Trình Ưu Tiên, Tấn công và sát thương chí mạng của bản thân tăng <span style=\"color: #ff9900\">3%</span>, tối đa tăng <span style=\"color: #ff9900\">15%</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 4</strong></td>\n<td><strong>Lấy Độc Trị Độc Lv.2</strong></td>\n<td>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>.<br>Hiệu ứng mới của Chương Trình Diệt Virus: sau khi người mang chết, chuyển số tầng hiệu ứng này sang một đồng minh ngẫu nhiên.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong bán kính 6 ô xung quanh, gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Corrosion diện rộng, đẩy lùi 3 ô và gây <span style=\"color: #ff9900\">2 tầng</span> Chương Trình Diệt Virus.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Đấm Mạng Lv.3</strong></td>\n<td>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>.<br>Hiệu ứng mới: khi trên sân có T-Doll đồng minh mang Tiến Trình Ưu Tiên, hệ số sát thương của kỹ năng này nhân đôi.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong bán kính 6 ô xung quanh, gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Corrosion diện rộng. Khi Infection Index đang có lớn hơn <span style=\"color: #ff9900\">3 điểm</span>, tiêu hao toàn bộ Infection Index; mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao thêm, hệ số sát thương tăng <span style=\"color: #ff9900\">20%</span>. Khi trên sân có T-Doll đồng minh mang Tiến Trình Ưu Tiên, hệ số sát thương của kỹ năng này nhân đôi. Khi số T-Doll đồng minh mang Tiến Trình Ưu Tiên trên sân lớn hơn <span style=\"color: #ff9900\">2</span>, sát thương của Chương Trình Diệt Virus tăng <span style=\"color: #ff9900\">30%</span>, duy trì 1 hiệp lớn.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Lấy Độc Trị Độc Lv.3</strong></td>\n<td>Hiệu ứng Chương Trình Diệt Virus đổi: khi có hiệu lực tiêu hao <span style=\"color: #ff9900\">70%</span> số tầng (làm tròn lên), hệ số sát thương mỗi tầng tăng lên <span style=\"color: #ff9900\">30%</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong bán kính 6 ô xung quanh, gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Corrosion diện rộng, đẩy lùi 3 ô và gây <span style=\"color: #ff9900\">2 tầng</span> Chương Trình Diệt Virus.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545156648.png\"></td>\n<td>\n<h2>Contract Key · Nỗi Phiền Của Kẻ Nhát Gan</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1765094670705.png\" width=\"20\"></sub>Sát thương Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764478713660.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545172231.png\"></td>\n<td>\n<h2>Fixed Key · Trạm Gốc Di Động</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng kỹ năng chủ động Tăng Cường Diện Rộng, nhận thêm 6 ô di chuyển.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545194482.png\"></td>\n<td>\n<h2>Fixed Key · Độ Chế Bạo Lực</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi gây Chương Trình Diệt Virus, gây thêm Thoái Hóa lên mục tiêu, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545206555.png\"></td>\n<td>\n<h2>Fixed Key · Chuẩn Bị Nhiều Tay</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi bản thân kết thúc hành động, đồng minh mang Tiến Trình Ưu Tiên nhận Tăng di chuyển II, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545219228.png\"></td>\n<td>\n<h2>Fixed Key · Sức Mạnh Đồng Đội</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Cứ mỗi 1 đồng minh mang Tiến Trình Ưu Tiên trên sân, hệ số sát thương mỗi tầng Chương Trình Diệt Virus khi có hiệu lực tăng 2%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545232744.png\"></td>\n<td>\n<h2>Fixed Key · Ngưng Tụ Dũng Khí</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng kỹ năng chủ động Tăng Cường Diện Rộng lên T-Doll đồng minh mang Tiến Trình Ưu Tiên, tỉ lệ chí mạng bản thân tăng 20%, duy trì 1 hiệp lớn.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545245319.png\"></td>\n<td>\n<h2>Fixed Key · Lắng Nghe Từ Xa</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Tầm bắn của kỹ năng chủ động và đánh thường tăng 2 ô.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545257442.png\"></td>\n<td>\n<h2>Common Key · Kỹ Thuật Đáng Tin</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1765094943288.png\" width=\"20\"></sub>Chí mạng 5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Sau khi gây debuff, sát thương gây ra tăng 10%, duy trì 1 hiệp lớn.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784597774315.png\"></td>\n<td>\n<h2>Expansion Key · Xâm Nhập Phân Rã</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng kỹ năng Quyết thắng Đấm Mạng, gây Thoái Hóa lên mục tiêu, duy trì 1 hiệp. Sau khi kỹ năng chủ động tấn công, nếu mục tiêu có Thoái Hóa, gây Giảm di chuyển III, duy trì 1 hiệp.<br>Sau khi kỹ năng chủ động tấn công, gây 3 tầng Chương Trình Diệt Virus.<br>Khi bản thân gây sát thương, cứ mỗi 1 đồng minh có Tiến Trình Ưu Tiên, sát thương Corrosion bản thân gây ra tăng 5%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">Vanguard*4 Sentinel*2</td>\n<td style=\"text-align: center\">Sát thương lên kẻ địch có debuff loại Corrosion tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">Bulwark*1 Vanguard*6 Sentinel*3</td>\n<td style=\"text-align: center\">Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">Bulwark*2 Vanguard*7 Sentinel*5</td>\n<td style=\"text-align: center\">Sát thương Corrosion gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">Bulwark*3 Vanguard*9 Sentinel*6</td>\n<td style=\"text-align: center\">Sát thương lên kẻ địch có HP ≤ 50% tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">Bulwark*4 Vanguard*13 Sentinel*6</td>\n<td style=\"text-align: center\">Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">Bulwark*5 Vanguard*15 Sentinel*9</td>\n<td style=\"text-align: center\">Khi đòn tấn công chỉ trúng 1 kẻ địch, sát thương gây ra tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1765007670099.png\"></td>\n<td>\n<h1><strong>Antinomy &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10493\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Tiểu liên/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng tiểu liên hiệu năng cao được cấp cho Harpsy, lấy Styler SMG làm nguyên mẫu, phối hợp với thiết kế riêng của Harpsy, tăng mạnh độ chính xác. Dù ở mặt phẳng nào, cũng không để kẻ địch thoát thân. Công thủ đều được, vô địch thiên hạ.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; Thành viên Đội 2 của 404, là hỗ trợ kỹ thuật mạnh mẽ trong đội. Nhút nhát sợ chuyện là ấn tượng đầu tiên dễ để lại, nhưng chính sự có trách nhiệm đến cùng mới là yếu tố quyết định giúp cô trở thành một thành viên của 404. Luôn tìm kiếm cảm giác an toàn, ngoài việc không ngừng trau dồi kỹ thuật, cô còn cố gắng khắc phục khuyết điểm của mình. Hay là xoa đầu chú mèo con hướng nội này, khích lệ cô một chút nhé?</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778221427305.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778221450670.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221450648.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221450668.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221450672.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221450680.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1764844195721.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1764844209445.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1764844224710.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1764844243730.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1764844255615.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1764844265502.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1764844275834.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1764844284884.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1764844294163.png\" style=\"max-width: 150px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1515,
+      "title": "Thường ngày-01",
+      "text": "Á! Nhột quá! Chỉ huy, xin, xin đừng chạm vào tai em... Nhưng... xoa đầu thì được ạ...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Daily_001.wav"
+    },
+    {
+      "id": 1516,
+      "title": "Thường ngày-02",
+      "text": "Đuôi còn phải gắn thêm bộ khuếch đại tín hiệu nữa... ưm... không tương thích lắm với kiểu dáng hiện tại... hay là... đổi một bộ trang bị nhỉ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Daily_002.wav"
+    },
+    {
+      "id": 1517,
+      "title": "Thường ngày-03",
+      "text": "Chỉ, Chỉ huy! Cái đó... máy quét lần trước nói, em sửa xong rồi ạ... xin, xin hãy thử xem!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Daily_003.wav"
+    },
+    {
+      "id": 1518,
+      "title": "Thường ngày-04",
+      "text": "Một, một mình xuất chiến? Không được không được, tuyệt đối không được... hu... ít nhất... ít nhất cho em đi cùng Welrod...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Daily_004.wav"
+    },
+    {
+      "id": 1519,
+      "title": "Thường ngày-05",
+      "text": "Hồi hộp quá hồi hộp quá, chiều nay có buổi tổng kết với Klukai và mọi người! Tuy dạo này em không làm sai gì, nhưng vẫn hồi hộp lắm... hu...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Daily_005.wav"
+    },
+    {
+      "id": 1520,
+      "title": "Nâng cấp-01",
+      "text": "Là... không hài lòng về em sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Up_001.wav"
+    },
+    {
+      "id": 1521,
+      "title": "Nâng cấp-02",
+      "text": "Ơ, là linh kiện mới sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Up_002.wav"
+    },
+    {
+      "id": 1522,
+      "title": "Nâng cấp-03",
+      "text": "Em có... mạnh lên không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Up_003.wav"
+    },
+    {
+      "id": 1523,
+      "title": "Nâng cấp-04",
+      "text": "Có thêm dũng khí rồi...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Up_004.wav"
+    },
+    {
+      "id": 1524,
+      "title": "Nâng cấp-05",
+      "text": "Sẽ theo kịp Welrod chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Up_005.wav"
+    },
+    {
+      "id": 1525,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Title_001.wav"
+    },
+    {
+      "id": 1526,
+      "title": "Đăng nhập",
+      "text": "A! Xin, xin đừng đột nhiên xuất hiện chứ... không phải, em không, không có ý không hoan nghênh Chỉ huy...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Login_001.wav"
+    },
+    {
+      "id": 1527,
+      "title": "Tâm sự-01",
+      "text": "Chỉ cần không ra ngoài, thì sẽ không... xảy ra mâu thuẫn với người khác nhỉ... A, Chỉ huy thì chắc... không sao đâu...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 1528,
+      "title": "Tâm sự-02",
+      "text": "Hóa trang sao, sao lại là tật lạ chứ! Chỉ huy thấy kỳ lạ sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 1529,
+      "title": "Tâm sự-03",
+      "text": "Dù em thường chi tiêu quá mức... cũng không sao ạ? Oa... Chỉ huy thông cảm được, thật tốt quá...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 1530,
+      "title": "Tâm sự-04",
+      "text": "Chỉ, Chỉ huy! Anh... có phải quên gì không ạ... ý em là, chuyện đã hứa trước đó... xoa đầu... hu...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 1531,
+      "title": "Tâm sự-05",
+      "text": "Trò chuyện với Chỉ huy rất, rất vui ạ... em rất thí... thí... hu... dù đã luyện bao nhiêu lần, vẫn không nói ra được... Hự! Chỉ huy! Anh xuất hiện từ bao giờ vậy?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 1532,
+      "title": "Tâm sự-06",
+      "text": "Dạo này, so với ở trong phòng sửa chữa, em hình như... thích ở cạnh Chỉ huy hơn... A, không, không cần lo! Em sẽ hoàn thành công việc đàng hoàng!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 1533,
+      "title": "Tâm sự-07",
+      "text": "Thật kỳ diệu, từ khi gặp Chỉ huy, em không còn hay khóc nữa... Chỉ huy, sau này... em có thể tiếp tục nương tựa vào anh không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 1534,
+      "title": "Tâm sự-08",
+      "text": "Sau này việc hóa trang... Chỉ huy có thể giúp em quyết định không? Như vậy... mỗi ngày em đều sẽ là dáng vẻ... Chỉ huy thích nhỉ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 1536,
+      "title": "Vào đội",
+      "text": "Hù, bộ cải tạo mới đại công cáo thành... Híííí đừng túm đuôi em! Là, là Chỉ huy ạ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 949,
+      "title": "Ngữ khí-01",
+      "text": "Á, là Chỉ huy... có, có đồ nào cần em sửa không ạ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 950,
+      "title": "Ngữ khí-02",
+      "text": "Không được sợ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 951,
+      "title": "Ngữ khí-03",
+      "text": "Á!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 952,
+      "title": "Ngữ khí-04",
+      "text": "Hả?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 953,
+      "title": "Ngữ khí-05",
+      "text": "Rõ, rõ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 954,
+      "title": "Ngữ khí-06",
+      "text": "Em, em sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 955,
+      "title": "Ngữ khí-07",
+      "text": "Cố lên!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 956,
+      "title": "Ngữ khí-08",
+      "text": "Hu——không muốn!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 957,
+      "title": "Ngữ khí-09",
+      "text": "Đau, đau quá!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 958,
+      "title": "Ngữ khí-10",
+      "text": "Đáng sợ quá——",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Series_Tone_Negative_003.wav"
+    },
+    {
+      "id": 959,
+      "title": "Kỹ năng-01",
+      "text": "Sẽ hơi đau đấy...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Skill_001.wav"
+    },
+    {
+      "id": 960,
+      "title": "Kỹ năng-02",
+      "text": "Đừng lại gần!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Skill_002.wav"
+    },
+    {
+      "id": 961,
+      "title": "Kỹ năng-03",
+      "text": "Thấy chưa?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Hit_001.wav"
+    },
+    {
+      "id": 966,
+      "title": "Kỹ năng-04",
+      "text": "Thế này!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 965,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Em nhất định làm được!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 962,
+      "title": "Hạ gục",
+      "text": "Xử xong rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Kill_001.wav"
+    },
+    {
+      "id": 963,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Tốt quá... có thể về phòng sửa chữa rồi...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Win_001.wav"
+    },
+    {
+      "id": 964,
+      "title": "Kết thúc trận-Thua",
+      "text": "Hu... xin lỗi... tại em quá nhát gan...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VO_Harpsy_Single_Lose_001.wav"
+    }
+  ]
+}

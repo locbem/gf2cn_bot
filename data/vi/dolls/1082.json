@@ -1,0 +1,364 @@
+{
+  "id": 1082,
+  "name": "Cecilia",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1787889375596.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 2,
+  "role_id": 4,
+  "team_id": 8,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Burn",
+  "team": "Zucchero Café",
+  "weapon": "G36 Compact",
+  "model": "SSD-62D",
+  "ammo_model": "AR",
+  "desc": "Tactical doll dịu dàng thân thiện, được đồng đội tin cậy vì tính tình nhân hậu thật thà. So với chiến đấu, cô dường như giỏi vai trò người em tri kỷ hơn, lắng nghe và giải tỏa muộn phiền cho mọi người. Nhiều năm một mình rèn luyện sau khi rời Griffin giúp cô phát huy trọn vẹn thế mạnh của bản thân, biến lời nói và con mắt tinh tường thành vũ khí độc nhất vô nhị. Để chi viện cho Chỉ Huy đang lâm nguy, cô bất chấp mọi giá, nhân danh chuyên gia đàm phán bước lên hành trình mờ mịt. Cecilia tin rằng, bản thân trở nên trưởng thành và kiên cường hơn nhất định có thể nắm lấy tia hy vọng tái ngộ giữa thế cục hỗn độn.",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1787889383949.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1787889389369.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1788163415231.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1788163424333.png"
+  },
+  "skins": [
+    {
+      "id": 88,
+      "name": "Noãn Trà Thư Khế",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1788225940867.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1788225945509.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1787896937051.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1787896957717.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1787896978616.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Đa Đa poi</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Fujita Akane</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=154\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>816</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>545</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>1893<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo&nbsp;<span style=\"color: #00ffff\">Freeze</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Lời An Ủi",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1773628647201.png\"></p>\n</td>\n<td>\n<p>Lời An Ủi Lv.1</p>\n<p>Đánh thường / Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1787909980517.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong bán kính 8 ô, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Phản Hồi Tích Cực",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1788224664666.png\"></p>\n</td>\n<td>\n<p>Đáp Lại Tích Cực Lv.1</p>\n<p>Chủ động / Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1787910033754.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>Đánh thường Lời An Ủi đổi thành Lời An Ủi · Diện rộng, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn, nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>, và gây Tâm Vực Kiên Cường lên T-Doll đồng minh, duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn; lượng hấp thụ của Tâm Vực Kiên Cường là <span style=\"color: #ff9900\">50%</span> Tấn công của người gây, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu, không thể cộng dồn. Kỹ năng này mỗi hiệp lớn dùng tối đa <span style=\"color: #ff9900\">1 lần</span>.</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Chiến Thuật Giải Mẫn Cảm",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1788224731378.png\"></p>\n</td>\n<td>\n<p>Chiến Thuật Giải Mẫn Cảm Lv.1</p>\n<p>Chủ động / Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1787910033754.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>Đánh thường Lời An Ủi đổi thành Lời An Ủi · Đơn mục tiêu, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn, nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>, và gây Tâm Vực Kiên Cường lên T-Doll đồng minh, duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn; lượng hấp thụ của Tâm Vực Kiên Cường là <span style=\"color: #ff9900\">50%</span> Tấn công của người gây, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu, không thể cộng dồn. Kỹ năng này hoặc kỹ năng chủ động Đáp Lại Tích Cực mỗi hiệp lớn dùng tối đa 1 lần.</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Bắt Tay Giảng Hòa",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1788224769241.png\"></p>\n</td>\n<td>\n<p>Bắt Tay Giảng Hòa Lv.1</p>\n<p>Quyết thắng / Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1787909980517.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Burn lên chúng, bản thân nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>. Mỗi khi thực hiện <span style=\"color: #ff9900\">1 lần</span> đánh thường hoặc chi viện hành động, hệ số sát thương của lần dùng kỹ năng này kế tiếp tăng <span style=\"color: #ff9900\">25%</span>.</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Nguyên Tắc An Toàn Trên Hết",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1787910524723.png\"></p>\n</td>\n<td>\n<p>Nguyên Tắc An Toàn Trên Hết Lv.1</p>\n<p>Bị động / Buff / Support</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1787910033754.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu chiến đấu nhận <span style=\"color: #00ccff\">Thermal Conduction</span>. Khi đánh thường hoặc chi viện hành động gây sát thương diện rộng, nhận <span style=\"color: #ff9900\">6 điểm</span> Scorch; Khi đánh thường hoặc chi viện hành động gây sát thương đơn mục tiêu, nhận <span style=\"color: #ff9900\">3 điểm</span> Scorch.<br>Khi bản thân nhận Tâm Vực Kiên Cường, chuyển thành Tâm Vực Vững Chắc cùng lượng, duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn.<br>Khi kẻ địch trong tầm bắn nhận sát thương đơn mục tiêu từ đồng minh, nếu bản thân có Lời An Ủi · Diện rộng hoặc Lời An Ủi · Đơn mục tiêu, tiêu hao <span style=\"color: #ff9900\">3 điểm</span> Infection Index và thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động lên nó, gây hiệu ứng kỹ năng của Lời An Ủi hiện tại, mỗi hiệp lớn kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>; sau chi viện hành động, bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Tận Tâm Dốc Sức duy trì <span style=\"color: #ff9900\">2 hiệp</span> và Tâm Vực Kiên Cường duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn, lượng hấp thụ của Tâm Vực Kiên Cường là <span style=\"color: #ff9900\">50%</span> Tấn công của người gây, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu, không thể cộng dồn; và gây Điều Hòa Tương Trợ lên các đơn vị đồng minh khác, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Mỗi khi thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, khi bắt đầu hiệp lớn kế tiếp, bản thân nhận <span style=\"color: #ff9900\">3 điểm</span> Infection Index.</p>\n<p>Khi Centaureissi có mặt, sát thương và hồi máu của cô ấy tăng <span style=\"color: #ff9900\">100%</span>, hệ số sát thương đánh thường và chi viện hành động của Cecilia tăng <span style=\"color: #ff9900\">30%</span>, và có thể nhận Canh Giữ do Centaureissi gây ra.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp kỹ năng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng kỹ năng thêm</strong></span></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\">\n<p><strong>Đáp Lại Tích CựcLv.2</strong></p>\n</td>\n<td style=\"text-align: center\">\n<p>Hệ số sát thương của Lời An Ủi · Diện rộng tăng lên <span style=\"color: #ff9900\">100%</span>.<br>Hiệu quả Nóng Nảy tăng, sát thương phải nhận từ Cecilia tăng thành <span style=\"color: #ff9900\">60%</span>.</p>\n</td>\n<td style=\"text-align: center\">\n<p>Đánh thường Lời An Ủi đổi thành Lời An Ủi · Diện rộng, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn, nhận Thêm chỉ lệnh, và gây Tâm Vực Kiên Cường lên T-Doll đồng minh, duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn; lượng hấp thụ của Tâm Vực Kiên Cường là <span style=\"color: #ff9900\">50%</span> Tấn công của người gây, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu, không thể cộng dồn. Kỹ năng này mỗi hiệp lớn dùng tối đa <span style=\"color: #ff9900\">1 lần</span>.</p>\n</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td><strong>Chiến Thuật Giải Mẫn CảmLv.2</strong></td>\n<td>Hệ số sát thương của Lời An Ủi · Đơn mục tiêu tăng lên <span style=\"color: #ff9900\">130%</span>, và tạo ô địa hình Incineration Tile trong <span style=\"color: #ff9900\">bán kính 2 ô</span> quanh đó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Hiệu quả Tự Ám Thị tăng, sát thương Burn bản thân gây ra tăng thành <span style=\"color: #ff9900\">30%</span>, tỉ lệ chí mạng tăng thành <span style=\"color: #ff9900\">50%</span>, sát thương chí mạng tăng thành <span style=\"color: #ff9900\">50%</span>.</td>\n<td>Đánh thường Lời An Ủi đổi thành Lời An Ủi · Đơn mục tiêu, duy trì <span style=\"color: #ff9900\">1</span> hiệp lớn, nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>, và gây Tâm Vực Kiên Cường lên T-Doll đồng minh, duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn; lượng hấp thụ của Tâm Vực Kiên Cường là <span style=\"color: #ff9900\">50%</span> Tấn công của người gây, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu, không thể cộng dồn. Kỹ năng này mỗi hiệp lớn dùng tối đa <span style=\"color: #ff9900\">1 lần</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Bắt Tay Giảng HòaLv.2</strong></td>\n<td>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">160%</span>, hệ số sát thương tăng thành <span style=\"color: #ff9900\">50%</span>. Trước kỹ năng, gây Dễ vỡ II lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Thời gian hồi chiêu giảm <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Burn lên chúng, bản thân nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>. Mỗi khi thực hiện <span style=\"color: #ff9900\">1 lần</span> đánh thường hoặc chi viện hành động, hệ số sát thương của lần dùng kỹ năng này kế tiếp tăng <span style=\"color: #ff9900\">50%</span>. Trước kỹ năng, gây Dễ vỡ II lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Nguyên Tắc An Toàn Trên HếtLv.2</strong></td>\n<td style=\"text-align: center\">Sát thương do chi viện hành động gây ra tăng <span style=\"color: #ff9900\">40%</span> và sát thương ổn định tăng <span style=\"color: #ff9900\">2 điểm</span>.<br>Hiệu quả Điều Hòa Tương Trợ tăng, sát thương Burn ngoài hiệp gây ra tăng thành <span style=\"color: #ff9900\">30%</span>, sát thương ổn định bản thân phải nhận giảm <span style=\"color: #ff9900\">1 điểm</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu nhận <span style=\"color: #00ccff\">Thermal Conduction</span>. Khi đánh thường hoặc chi viện hành động gây sát thương diện rộng, nhận <span style=\"color: #ff9900\">6 điểm</span> <span style=\"color: #00ccff\">Scorch</span>; Khi đánh thường hoặc chi viện hành động gây sát thương đơn mục tiêu, nhận <span style=\"color: #ff9900\">3 điểm</span> Scorch.<br>Khi bản thân nhận Tâm Vực Kiên Cường, chuyển thành Tâm Vực Vững Chắc cùng lượng, duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn.<br>Khi kẻ địch trong tầm bắn nhận sát thương đơn mục tiêu từ đồng minh, nếu bản thân có Lời An Ủi · Diện rộng hoặc Lời An Ủi · Đơn mục tiêu, tiêu hao <span style=\"color: #ff9900\">3 điểm</span> Infection Index và thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động lên nó, gây hiệu ứng kỹ năng của Lời An Ủi hiện tại, mỗi hiệp lớn kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>; sau chi viện hành động, bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Tận Tâm Dốc Sức duy trì <span style=\"color: #ff9900\">2 hiệp</span> và Tâm Vực Kiên Cường duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn, lượng hấp thụ của Tâm Vực Kiên Cường là <span style=\"color: #ff9900\">50%</span> Tấn công của người gây, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu, không thể cộng dồn; và gây Điều Hòa Tương Trợ lên các đơn vị đồng minh khác, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Sát thương do chi viện hành động gây ra tăng <span style=\"color: #ff9900\">40%</span> và sát thương ổn định tăng <span style=\"color: #ff9900\">2 điểm</span>. Mỗi khi thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, khi bắt đầu hiệp lớn kế tiếp, bản thân nhận <span style=\"color: #ff9900\">3 điểm</span> Infection Index. Khi Centaureissi có mặt, sát thương và hồi máu của cô ấy tăng <span style=\"color: #ff9900\">100%</span>, hệ số sát thương đánh thường và chi viện hành động của Cecilia tăng <span style=\"color: #ff9900\">30%</span>, và có thể nhận Canh Giữ do Centaureissi gây ra.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Bắt Tay Giảng HòaLv.3</strong></td>\n<td>Sau kỹ năng, nếu dùng đánh thường Lời An Ủi, sát thương gây ra tăng <span style=\"color: #ff9900\">100%</span>; nếu bản thân có Tâm Vực Vững Chắc, tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">100%</span>, sát thương chí mạng tăng <span style=\"color: #ff9900\">50%</span>, có hiệu lực tối đa <span style=\"color: #ff9900\">2 lần</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Burn lên chúng, bản thân nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>. Mỗi khi thực hiện <span style=\"color: #ff9900\">1 lần</span> đánh thường hoặc chi viện hành động, hệ số sát thương của lần dùng kỹ năng này kế tiếp tăng <span style=\"color: #ff9900\">50%</span>. Sau kỹ năng, nếu dùng đánh thường Lời An Ủi, sát thương gây ra tăng <span style=\"color: #ff9900\">100%</span>; nếu bản thân có Tâm Vực Vững Chắc, tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">100%</span>, sát thương chí mạng tăng <span style=\"color: #ff9900\">50%</span>, có hiệu lực tối đa <span style=\"color: #ff9900\">2 lần</span>. Trước kỹ năng, gây Dễ vỡ II lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Nguyên Tắc An Toàn Trên HếtLv.3</strong></td>\n<td>Giới hạn cộng dồn của Tận Tâm Dốc Sức tăng lên <span style=\"color: #ff9900\">10 tầng</span>.<br>Khi kẻ địch trong tầm bắn nhận sát thương đơn mục tiêu từ đồng minh, Cecilia nhận <span style=\"color: #ff9900\">1 tầng</span> Tận Tâm Dốc Sức, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Nếu tỉ lệ chí mạng của bản thân lớn hơn <span style=\"color: #ff9900\">100%</span>, phần tỉ lệ chí mạng vượt thêm chuyển thành hệ số sát thương đánh thường tương đương.</td>\n<td>\n<p>Khi bắt đầu chiến đấu nhận <span style=\"color: #00ccff\">Thermal Conduction</span>. Khi đánh thường hoặc chi viện hành động gây sát thương diện rộng, nhận <span style=\"color: #ff9900\">6 điểm</span> Scorch; Khi đánh thường hoặc chi viện hành động gây sát thương đơn mục tiêu, nhận <span style=\"color: #ff9900\">3 điểm</span> Scorch.<br>Khi bản thân nhận Tâm Vực Kiên Cường, chuyển thành Tâm Vực Vững Chắc cùng lượng, duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn.<br>Khi kẻ địch trong tầm bắn nhận sát thương đơn mục tiêu từ đồng minh, Cecilia nhận <span style=\"color: #ff9900\">1 tầng</span> Tận Tâm Dốc Sức, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; nếu bản thân có Lời An Ủi · Diện rộng hoặc Lời An Ủi · Đơn mục tiêu, tiêu hao <span style=\"color: #ff9900\">3 điểm</span> Infection Index và thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động lên nó, gây hiệu ứng kỹ năng của Lời An Ủi hiện tại, mỗi hiệp lớn kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>; sau chi viện hành động, bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Tận Tâm Dốc Sức duy trì <span style=\"color: #ff9900\">2 hiệp</span> và Tâm Vực Kiên Cường duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn, lượng hấp thụ của Tâm Vực Kiên Cường là <span style=\"color: #ff9900\">50%</span> Tấn công của người gây, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu, không thể cộng dồn; và gây Điều Hòa Tương Trợ lên các đơn vị đồng minh khác, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Sát thương do chi viện hành động gây ra tăng <span style=\"color: #ff9900\">40%</span> và sát thương ổn định tăng <span style=\"color: #ff9900\">2 điểm</span>. Nếu tỉ lệ chí mạng của bản thân lớn hơn <span style=\"color: #ff9900\">100%</span>, phần tỉ lệ chí mạng vượt thêm chuyển thành hệ số sát thương đánh thường tương đương. Mỗi khi thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, khi bắt đầu hiệp lớn kế tiếp, bản thân nhận <span style=\"color: #ff9900\">3 điểm</span> Infection Index. Nếu tỉ lệ chí mạng của bản thân lớn hơn <span style=\"color: #ff9900\">100%</span>, phần tỉ lệ chí mạng vượt thêm chuyển thành hệ số sát thương đánh thường tương đương. Khi Centaureissi có mặt, sát thương và hồi máu của cô ấy tăng <span style=\"color: #ff9900\">100%</span>, hệ số sát thương đánh thường và chi viện hành động của Cecilia tăng <span style=\"color: #ff9900\">30%</span>, và có thể nhận Canh Giữ do Centaureissi gây ra.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787987579544.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Contract Key · Trị Liệu Bằng Lời Định Hướng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1786352870223.png\" width=\"20\" height=\"20\"></sub> Chí mạng 3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1782457242622.png\" width=\"20\" height=\"20\"></sub>&nbsp;Tấn công +3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1784538855830.png\" width=\"20\" height=\"20\"></sub> HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787987857190.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Cảm Xúc Ổn Định</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787987906776.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Sức Hút Thân Thiện</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi đánh thường, xua tan 1 buff của kẻ địch mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787987906776.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Xoay Mình Nhẹ Nhàng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi chủ động dùng đánh thường Lời An Ủi, nhận Di chuyển thêm 4 ô và xua tan 1 debuff của bản thân.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787987906776.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Ngụy Trang Vô Hại</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi kết thúc hành động nhận Tâm Vực Kiên Cường, duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn. Lượng hấp thụ của Tâm Vực Kiên Cường là <span style=\"color: #ff9900\">50%</span> Tấn công của người gây, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787988041437.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Nhìn Thấu Chí Mạng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi có Tâm Vực Vững Chắc, sát thương Burn ngoài hiệp bản thân gây ra tăng 15%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787988094314.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Tự Khích Lệ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi gây sát thương diện rộng, nhận Tăng Phạm Vi II, duy trì 2 hiệp; Trước khi gây sát thương đơn mục tiêu, nhận Tăng Chính Xác II, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787988133354.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Common Key · Không Chỉ Biết Thấu Hiểu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1784539489447.png\" width=\"20\" height=\"20\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Khi có khiên, sát thương Burn gây ra tăng 10%.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">Tiên phong x2, Hỏa lực x5</td>\n<td style=\"text-align: center\">Sát thương của đòn tấn công chi viện tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\"> Tiên phong x3, Hỏa lực x8</td>\n<td style=\"text-align: center\">Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">Bulwark x1, Vanguard x4, Sentinel x9</td>\n<td style=\"text-align: center\">Sát thương Burn gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">Bulwark x2, Vanguard x6, Sentinel x11</td>\n<td style=\"text-align: center\">Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">Bulwark x2, Vanguard x7, Sentinel x15</td>\n<td style=\"text-align: center\">Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">Bulwark x3, Vanguard x8, Sentinel x18</td>\n<td style=\"text-align: center\">Sát thương gây lên kẻ địch ngoài bán kính 5 ô quanh bản thân tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787930334324.png\"></td>\n<td>\n<h1><strong>Snotra&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10823\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Tiểu liên/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng trường tấn công hiệu năng cao được cấp cho Cecilia, lấy Gewehr 36-Compact làm nguyên mẫu, làm nổi bật đặc tính nhẹ đồng thời hết sức tăng cường hiệu năng chiến đấu, để bảo vệ Cecilia toàn thân thoát khỏi xung đột khốc liệt.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; </span><span style=\"color: #ff6600\">Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=141124&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1788243183652.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=141132&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1788243217456.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=141211&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1788318231972.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<div>\n<p>&nbsp; Tactical doll dịu dàng thân thiện, được đồng đội tin cậy vì tính tình nhân hậu thật thà. So với chiến đấu, cô dường như giỏi vai trò người em tri kỷ hơn, lắng nghe và giải tỏa muộn phiền cho mọi người. Nhiều năm một mình rèn luyện sau khi rời Griffin giúp cô phát huy trọn vẹn thế mạnh của bản thân, biến lời nói và con mắt tinh tường thành vũ khí độc nhất vô nhị. Để chi viện cho Chỉ Huy đang lâm nguy, cô bất chấp mọi giá, nhân danh chuyên gia đàm phán bước lên hành trình mờ mịt. Cecilia tin rằng, bản thân trở nên trưởng thành và kiên cường hơn nhất định có thể nắm lấy tia hy vọng tái ngộ giữa thế cục hỗn độn. </p>\n<p>「Chỉ Huy! Anh bình an vô sự thật là tốt quá. Hu... sau này em sẽ bảo vệ anh thật tốt. \"</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\" style=\"max-width: 100px\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\" style=\"max-width: 100px\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\" style=\"max-width: 100px\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1787908182899.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787908188785.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1787908220298.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787908220272.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787908234220.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787908220245.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787908220277.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787908220280.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787908220275.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1787988721132.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787988748354.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787988739574.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787988759606.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787988880995.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787988870556.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787988890095.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787988898378.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1787988913044.png\" style=\"max-width: 150px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1833,
+      "title": "Thường ngày-01",
+      "text": "Có chuyện phiền lòng gì, cứ tìm em nói bất cứ lúc nào nhé.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162125637.wav"
+    },
+    {
+      "id": 1834,
+      "title": "Thường ngày-02",
+      "text": "Em muốn hiểu thêm về Chỉ huy hiện tại……thử theo danh sách mục tiêu Kuro tặng em, phỏng vấn từng người một xem sao.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162143767.wav"
+    },
+    {
+      "id": 1835,
+      "title": "Thường ngày-03",
+      "text": "Chỉ huy! Chị Reissi nói em trưởng thành rồi đó. Thật không? Anh cũng nghĩ vậy sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162160917.wav"
+    },
+    {
+      "id": 1836,
+      "title": "Thường ngày-04",
+      "text": "Người hòa giải, chuyên gia đàm phán, cố vấn tình cảm……đây đều là chức danh mọi người trao cho em đó. Hửm? Hơi nhiều? Vậy khen em đi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162651381.wav"
+    },
+    {
+      "id": 1837,
+      "title": "Thường ngày-05",
+      "text": "Mối quan hệ giữa các T-Doll có thể gọi là \"quan hệ liên T-Doll\" không nhỉ? Gần đây, em đang học cách hòa giải quan hệ giữa các T-Doll……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162666603.wav"
+    },
+    {
+      "id": 1838,
+      "title": "Nâng cấp-01",
+      "text": "Em sẽ cố gắng hơn.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162678837.wav"
+    },
+    {
+      "id": 1839,
+      "title": "Nâng cấp-02",
+      "text": "Oa, cơ thể nhẹ quá.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162691544.wav"
+    },
+    {
+      "id": 1840,
+      "title": "Nâng cấp-03",
+      "text": "Có thể bảo vệ anh tốt hơn rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162704719.wav"
+    },
+    {
+      "id": 1841,
+      "title": "Nâng cấp-04",
+      "text": "Hãy dựa vào em nhiều hơn.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162717375.wav"
+    },
+    {
+      "id": 1842,
+      "title": "Nâng cấp-05",
+      "text": "Anh có thích em như thế này không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162730512.wav"
+    },
+    {
+      "id": 1843,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162749946.wav"
+    },
+    {
+      "id": 1844,
+      "title": "Đăng nhập",
+      "text": "Chỉ huy, có việc gì cần đến em, xin cứ gọi em bất cứ lúc nào nhé.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162762445.wav"
+    },
+    {
+      "id": 1845,
+      "title": "Tâm sự-01",
+      "text": "Cuối cùng cũng trở về bên anh rồi, Chỉ huy.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162777493.wav"
+    },
+    {
+      "id": 1846,
+      "title": "Tâm sự-02",
+      "text": "Dạo này anh vất vả quá, cần em xoa bóp cho anh không? Có thể giảm mệt mỏi đó.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162796878.wav"
+    },
+    {
+      "id": 1847,
+      "title": "Tâm sự-03",
+      "text": "Chỉ huy thích loại bánh ngọt nào? Donut, apple strudel, bánh Black Forest……em học hết rồi đó.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162810350.wav"
+    },
+    {
+      "id": 1848,
+      "title": "Tâm sự-04",
+      "text": "Để em chỉnh lại trang phục cho anh……ơ? Gay、gay rồi, cơ thể nóng quá.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162824281.wav"
+    },
+    {
+      "id": 1849,
+      "title": "Tâm sự-05",
+      "text": "Em có thể ôm anh không? Ôm chặt thế này, là có thể bảo vệ vật lý toàn diện cho anh đó, hì hì.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162835721.wav"
+    },
+    {
+      "id": 1850,
+      "title": "Tâm sự-06",
+      "text": "Chỉ huy, xin hãy chịu khó một chút, em cần xác nhận kỹ lưỡng anh hoàn toàn lành lặn. Là vệ sĩ riêng của anh, đây là trách nhiệm của em.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162849313.wav"
+    },
+    {
+      "id": 1851,
+      "title": "Tâm sự-07",
+      "text": "Đợ、đợi một chút! Để em tắt mô-đun ghi âm ghi hình luôn bật đã. Cái đó……phần làm người ta xấu hổ không được ghi lại đâu mà!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162876427.wav"
+    },
+    {
+      "id": 1852,
+      "title": "Tâm sự-08",
+      "text": "Phải làm sao mới có thể luôn ở bên Chỉ huy đây? Em không muốn xa Chỉ huy thêm lần nào nữa.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162889964.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1234,
+      "title": "Ngữ khí-01",
+      "text": "Em biết rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162915846.wav"
+    },
+    {
+      "id": 1235,
+      "title": "Ngữ khí-02",
+      "text": "Luôn sẵn sàng.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162933885.wav"
+    },
+    {
+      "id": 1236,
+      "title": "Ngữ khí-03",
+      "text": "Được rồi mà……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162953060.wav"
+    },
+    {
+      "id": 1237,
+      "title": "Ngữ khí-04",
+      "text": "Em làm được.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162966318.wav"
+    },
+    {
+      "id": 1238,
+      "title": "Ngữ khí-05",
+      "text": "Đã chuẩn bị xong.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162978907.wav"
+    },
+    {
+      "id": 1239,
+      "title": "Ngữ khí-06",
+      "text": "Xin hãy tin em.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788162990076.wav"
+    },
+    {
+      "id": 1240,
+      "title": "Ngữ khí-07",
+      "text": "Để em đi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788163002753.wav"
+    },
+    {
+      "id": 1241,
+      "title": "Ngữ khí-08",
+      "text": "Hức……không được……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788163015672.wav"
+    },
+    {
+      "id": 1242,
+      "title": "Ngữ khí-09",
+      "text": "Cố lên.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788163028839.wav"
+    },
+    {
+      "id": 1243,
+      "title": "Ngữ khí-10",
+      "text": "Á!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788163040027.wav"
+    },
+    {
+      "id": 1244,
+      "title": "Kỹ năng-01",
+      "text": "Em hiểu mà.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788163079864.wav"
+    },
+    {
+      "id": 1245,
+      "title": "Kỹ năng-02",
+      "text": "Xin hãy bình tĩnh một chút.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788163091108.wav"
+    },
+    {
+      "id": 1246,
+      "title": "Kỹ năng-03",
+      "text": "Điều anh phiền muộn là gì?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788163102215.wav"
+    },
+    {
+      "id": 1247,
+      "title": "Kỹ năng-04",
+      "text": "Nguôi giận đi mà.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788163116301.wav"
+    },
+    {
+      "id": 1248,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Mọi người đừng cãi nhau nữa!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788163142176.wav"
+    },
+    {
+      "id": 1249,
+      "title": "Hạ gục",
+      "text": "Vất vả rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788163156954.wav"
+    },
+    {
+      "id": 1250,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Lần này đã bảo vệ được mọi người rồi nhỉ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788163170171.wav"
+    },
+    {
+      "id": 1251,
+      "title": "Kết thúc trận-Thua",
+      "text": "Không……không thể nào……làm lại lần nữa……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1788163182641.wav"
+    }
+  ]
+}

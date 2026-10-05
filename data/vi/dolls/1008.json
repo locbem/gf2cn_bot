@@ -1,0 +1,334 @@
+{
+  "id": 1008,
+  "name": "Nemesis",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045454800.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 5,
+  "role_id": 4,
+  "team_id": 7,
+  "rarity_level": 4,
+  "rarity": "T-Doll Elite",
+  "role": "Sentinel",
+  "attr": "Corrosion",
+  "team": "Groza Squad",
+  "weapon": ".50 Nemesis",
+  "model": "SST-05A2",
+  "ammo_model": "RF",
+  "desc": "Đam mê thần bí học và bói toán, luôn mang theo đạo cụ bói thần kỳ \"Lăng Kính\". Kết quả bói của cô thường được diễn đạt bằng lối nói đầy huyền bí, khó hiểu. Nhưng cô vẫn là đồng đội rất đáng tin cậy, chỉ trừ việc khó giao tiếp.",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1765955141549.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/纳美西丝移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014974596.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014985363.png"
+  },
+  "skins": [
+    {
+      "id": 28,
+      "name": "Đồ huấn luyện của Nemesis",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1765786813387.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763950589209.png"
+    },
+    {
+      "id": 29,
+      "name": "Quỹ Tích Sao Vô Định",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763950602914.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763950618779.png"
+    },
+    {
+      "id": 57,
+      "name": "Dòng Sông Ngầm Tĩnh Lặng",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1765786714461.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1765786501800.png"
+    }
+  ],
+  "gifs": [],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">CV tiếng Trung</td>\n<td style=\"text-align: center\">Tần Tử Dực</td>\n</tr>\n<tr style=\"text-align: center\">\n<td>CV tiếng Nhật</td>\n<td>Endō Aya</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>703</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>463</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>4</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1656</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Light Ammo <span style=\"color: #00ccff\">Hydro</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Điềm Báo Chiến Thắng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784542915153.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Điềm Báo Thắng Lợi Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764315618339.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Khai Tinh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784542956177.png\"></p>\n</td>\n<td>\n<p>Khải Tinh Lv.1</p>\n<p>Chủ động/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764315717343.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span>, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Physical. Khi tấn công gần vật cản, sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span> và nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Hộp Xuyên Hầm",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543030459.png\"></p>\n</td>\n<td>\n<p>Hộp Xuyên Hầm Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764315918109.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span>, gây Giảm phòng thủ II duy trì <span style=\"color: #ff9900\">1 hiệp</span> và gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Tinh Quần Hưởng Ứng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784543051268.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Tinh Đàn Truy Ứng Lv.1</p>\n<p>Quyết thắng/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764316165568.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span>, gây <span style=\"color: #ff9900\">170%</span> Tấn công sát thương Corrosion. Cứ mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index dư, sát thương của đòn đánh này tăng <span style=\"color: #ff9900\">10%</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 3 Sát thương ổn định: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Quan Trắc Định Điểm",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784543073100.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Quan Trắc Định Điểm Lv.1</p>\n<p>Chủ động/Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764316318799.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu hành động, gây dấu Lời Tiên Tri Điếu Vong lên <span style=\"color: #ff9900\">2</span> kẻ địch gần nhất trong tầm bắn, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Chi viện hành động gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">2 điểm</span> sát thương ổn định. Sau khi chi viện hành động, nhận Thấu Suốt duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Quan Trắc Định Điểm Lv.2</strong></td>\n<td style=\"text-align: center\">Thời gian Lời Tiên Tri Điếu Vong tăng <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu hành động, gây dấu Lời Tiên Tri Điếu Vong lên <span style=\"color: #ff9900\">2</span> kẻ địch gần nhất trong tầm bắn, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Chi viện hành động gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">2 điểm</span> sát thương ổn định. Sau khi chi viện hành động, nhận Thấu Suốt duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Khải Tinh Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu mục tiêu có Lời Tiên Tri Điếu Vong, sát thương gây ra tăng <span style=\"color: #ff9900\">10%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span>, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Physical. Khi tấn công gần vật cản, sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span> và nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index. Nếu mục tiêu có Lời Tiên Tri Điếu Vong, sát thương gây ra tăng <span style=\"color: #ff9900\">10%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Hộp Xuyên Hầm Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu mục tiêu có debuff loại phòng thủ, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span>, gây Giảm phòng thủ II duy trì <span style=\"color: #ff9900\">1 hiệp</span> và gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Physical. Nếu mục tiêu có debuff loại phòng thủ, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Quan Trắc Định Điểm Lv.3</strong></td>\n<td style=\"text-align: center\">Khi có Thấu Suốt, sát thương gây ra tăng <span style=\"color: #ff9900\">10%</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu hành động, gây dấu Lời Tiên Tri Điếu Vong lên <span style=\"color: #ff9900\">2</span> kẻ địch gần nhất trong tầm bắn, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Chi viện hành động gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">2 điểm</span> sát thương ổn định. Sau khi chi viện hành động, nhận Thấu Suốt duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Khi có Thấu Suốt, sát thương gây ra tăng <span style=\"color: #ff9900\">10%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Tinh Đàn Truy Ứng Lv.2</strong></td>\n<td style=\"text-align: center\">Khi có Thấu Suốt, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span>, gây <span style=\"color: #ff9900\">170%</span> Tấn công sát thương Corrosion. Cứ mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index dư, sát thương của đòn đánh này tăng <span style=\"color: #ff9900\">10%</span>. Khi có Thấu Suốt, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Tinh Đàn Truy Ứng Lv.3</strong></td>\n<td style=\"text-align: center\">Cứ mỗi <span style=\"color: #ff9900\">1</span> debuff trên mục tiêu, tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">20%</span>, tối đa <span style=\"color: #ff9900\">100%</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 9 ô</span>, gây <span style=\"color: #ff9900\">170%</span> Tấn công sát thương Corrosion. Cứ mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index dư, sát thương của đòn đánh này tăng <span style=\"color: #ff9900\">10%</span>. Khi có Thấu Suốt, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>. Cứ mỗi 1 debuff trên mục tiêu, tỉ lệ chí mạng của đòn đánh này tăng <span style=\"color: #ff9900\">20%</span>, tối đa <span style=\"color: #ff9900\">100%</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543093649.png\"></td>\n<td>\n<h2>Contract Key·Thì Thầm</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764506121278.png\" width=\"20\"></sub>HP +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Mở khóa theo Affinity</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784543127872.png\"></td>\n<td>\n<h2>Fixed Key·Lời Nguyền Ứng Nghiệm</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu mục tiêu có Lời Tiên Tri Điếu Vong, trước khi tấn công chủ động sẽ gây Giảm phòng thủ II lên nó.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1784543172549.png\"></td>\n<td>\n<h2>Fixed Key·Vận Mệnh Luân Chuyển</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi có Thấu Suốt, tầm bắn của kỹ năng chủ động Khải Tinh và Hộp Xuyên Hầm tăng 1 ô.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1784543307270.png\"></td>\n<td>\n<h2>Fixed Key·Lời Gọi May Mắn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi có Thấu Suốt, nếu gần bản thân có vật cản, sát thương diện rộng phải nhận giảm 20%.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1784543324904.png\"></td>\n<td>\n<h2>Fixed Key·Tai Ương Vô Thanh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi hạ gục mục tiêu có dấu Lời Tiên Tri Điếu Vong, nhận Tăng tấn công I và Tăng sát thương I duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1784543343770.png\"></td>\n<td>\n<h2>Fixed Key·Đại Kiếp Định Mệnh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi hạ gục mục tiêu có dấu Lời Tiên Tri Điếu Vong, nhận thêm 1 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1784543360011.png\"></td>\n<td>\n<h2>Fixed Key·Ánh Nhìn Ngưng Tụ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi có Thấu Suốt, miễn nhiễm hiệu ứng di chuyển do đơn vị kẻ địch gây ra.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1784543262483.png\"></td>\n<td>\n<h2>Common Key·Lời Chúc Của Sao Mai</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764405202464.png\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi tấn công chủ động hạ gục mục tiêu, nếu bản thân có Thấu Suốt, nhận 3 ô Thêm di chuyển.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1784543279722.png\"></td>\n<td>\n<h2>Expansion Key·Lời Tiên Tri Điếu Vong</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu hiệp, gây dấu Lời Tiên Tri Điếu Vong lên kẻ địch có HP cao nhất trong tầm bắn.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*2 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp; Sát thương của chi viện tấn công tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*3 Sentinel*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*4 Sentinel*9&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Corrosion gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*6 Sentinel*11&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*7 Sentinel*15&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*8 Sentinel*18&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch ngoài bán kính 5 ô quanh bản thân tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763995591863.png\"></td>\n<td>\n<h1><strong>Arcana &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10003\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng bắn tỉa/Heavy Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng bắn tỉa hiệu năng cao, vẻ ngoài lạnh lẽo đậm chất công nghệ. Trong quỹ đạo viên đạn, liệu có ẩn chứa quy luật vận hành của vạn vật trời đất?</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nhật ký viễn hành</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=248&amp;hash_flag=2\"><img style=\"display: block; margin: 0 auto\" src=\"https://community.cdn.sunborngame.com/prod/image/1717560741784.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; Đam mê thần bí học và bói toán, luôn mang theo đạo cụ bói thần kỳ \"Lăng Kính\". Kết quả bói của cô thường được diễn đạt bằng lối nói đầy huyền bí, khó hiểu. Nhưng cô vẫn là đồng đội rất đáng tin cậy, chỉ trừ việc khó giao tiếp.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778316277119.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316276990.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316277118.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316428091.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778316169022.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316142245.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316169031.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316169012.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316168992.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316142077.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316168995.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316168993.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316169008.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316169030.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316169036.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/点赞.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/再会.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727090902664.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727090911566.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727090931321.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1773631236951.png\" style=\"max-width: 150px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 939,
+      "title": "Thường ngày-01",
+      "text": "……Bầy chim cánh khổng lồ……in bóng vào đồng tử……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Daily_009.wav"
+    },
+    {
+      "id": 934,
+      "title": "Thường ngày-02",
+      "text": "……Ngước nhìn……bức tường biên giới……ánh mắt lưu luyến……vực sâu vô tận……bóng tối chợt dâng……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Daily_004.wav"
+    },
+    {
+      "id": 935,
+      "title": "Thường ngày-03",
+      "text": "……Tặng dòng xiết cho núi sông……tặng hoàng hôn cho bờ biển……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Daily_005.wav"
+    },
+    {
+      "id": 936,
+      "title": "Thường ngày-04",
+      "text": "……Cơn gió dữ bất chợt nổi lên……than thở……tĩnh lặng cuộn trào……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Daily_006.wav"
+    },
+    {
+      "id": 940,
+      "title": "Thường ngày-05",
+      "text": "……Trong suốt thuần khiết……yên bình sáng tỏ……phòng gương……tảng đá vững chắc……nương tựa trong nghịch cảnh……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Daily_010.wav"
+    },
+    {
+      "id": 941,
+      "title": "Nâng cấp-01",
+      "text": "……Ừm……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Up_001.wav"
+    },
+    {
+      "id": 942,
+      "title": "Nâng cấp-02",
+      "text": "……patefactast……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Up_002.wav"
+    },
+    {
+      "id": 943,
+      "title": "Nâng cấp-03",
+      "text": "……Lời gọi……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Up_003.wav"
+    },
+    {
+      "id": 944,
+      "title": "Nâng cấp-04",
+      "text": "……nusquam……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Up_004.wav"
+    },
+    {
+      "id": 945,
+      "title": "Nâng cấp-05",
+      "text": "……nomenclator……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Up_005.wav"
+    },
+    {
+      "id": 947,
+      "title": "Màn hình tiêu đề",
+      "text": "……Girls' Frontline 2: Exilium……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Single_Title_001.wav"
+    },
+    {
+      "id": 948,
+      "title": "Đăng nhập",
+      "text": "……Các vì sao……dịch chuyển trên quỹ đạo dọc ngang……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Single_Login_001.wav"
+    },
+    {
+      "id": 1563,
+      "title": "Vào đội",
+      "text": "……Trang giấy……gió núi khẽ lướt……kéo dài……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765946452428.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 567,
+      "title": "Ngữ khí-01",
+      "text": "……(Ừm)……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 568,
+      "title": "Ngữ khí-02",
+      "text": "……(Ừ)……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 569,
+      "title": "Ngữ khí-03",
+      "text": "……Hà……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 570,
+      "title": "Ngữ khí-04",
+      "text": "……Ừm!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 571,
+      "title": "Ngữ khí-05",
+      "text": "……Fatigat……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 572,
+      "title": "Ngữ khí-06",
+      "text": "……Vết nứt……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 573,
+      "title": "Ngữ khí-07",
+      "text": "……Tan biến……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 574,
+      "title": "Ngữ khí-08",
+      "text": "……Oras……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 575,
+      "title": "Ngữ khí-09",
+      "text": "……Khụ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 576,
+      "title": "Ngữ khí-10",
+      "text": "……Hô hô……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 577,
+      "title": "Kỹ năng-01",
+      "text": "……Nhân danh chân lý và trang nghiêm……xin dâng……!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Single_Skill_001.wav"
+    },
+    {
+      "id": 578,
+      "title": "Kỹ năng-02",
+      "text": "……Linh kết của Pontus……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Single_Skill_002.wav"
+    },
+    {
+      "id": 579,
+      "title": "Kỹ năng-03",
+      "text": "……Một đòn……!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Single_Hit_001.wav"
+    },
+    {
+      "id": 985,
+      "title": "Kỹ năng-04",
+      "text": "……Tĩnh lặng……!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765946358760.wav"
+    },
+    {
+      "id": 583,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "……Ngọn lửa……ruptis……!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765946393890.wav"
+    },
+    {
+      "id": 580,
+      "title": "Hạ gục",
+      "text": "……Hình ảnh phản chiếu……lao vút……!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Single_Kill_001.wav"
+    },
+    {
+      "id": 581,
+      "title": "Kết thúc trận-Thắng",
+      "text": "……Từ biệt vương quốc vĩnh hằng……cầu xin giáng lâm……ánh sao vô biên……bóng tối yên bình……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Single_Win_001.wav"
+    },
+    {
+      "id": 582,
+      "title": "Kết thúc trận-Thua",
+      "text": "……Cơn gió dữ cuốn qua……rừng cây……chìm đắm……xâm nhập……tinh tú ấm mát……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NemesisCV/VO_Nemesis_Single_Lose_001.wav"
+    }
+  ]
+}

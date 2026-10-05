@@ -1,0 +1,353 @@
+{
+  "id": 1036,
+  "name": "Ksenia",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045242033.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 2,
+  "role_id": 3,
+  "team_id": 6,
+  "rarity_level": 4,
+  "rarity": "T-Doll Elite",
+  "role": "Support",
+  "attr": "Burn",
+  "team": "POL-03 Cục quản lý trị an",
+  "weapon": "Stechkin",
+  "model": "SSD-62D",
+  "ammo_model": "HG",
+  "desc": "T-Doll có chấp niệm khác thường với việc kiếm tiền. Nỗ lực kiếm tiền rồi tiêu hết sạch, hành vi này chính là nguồn cảm giác an toàn của cô. Nhưng khoảng thời gian làm việc cùng những đồng đội đáng tin cậy cũng là báu vật của cô.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/科谢尼娅pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/科谢尼娅移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014660712.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014670329.png"
+  },
+  "skins": [],
+  "gifs": [],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Chi Mao</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Kitamura Eri</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>539</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>463</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1842</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo&nbsp;<span style=\"color: #ff6600\">Burn</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Ưu Đãi Giảm Giá",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595338833.png\"></p>\n</td>\n<td>\n<p>Giảm Giá Ưu Đãi Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764473305972.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Vòng Lặp Có Lợi",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595356110.png\"></p>\n</td>\n<td>\n<p>Vòng Tuần Hoàn Có Lợi Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764473379605.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">75%</span> Tấn công sát thương Physical, và gây <span style=\"color: #ff9900\">2 tầng</span> Vật Dễ Cháy. Nếu bản thân có từ <span style=\"color: #ff9900\">2</span> buff loại Burn trở lên, tấn công thêm một lần vào mục tiêu ban đầu, gây <span style=\"color: #ff9900\">75%</span> Tấn công sát thương Burn và <span style=\"color: #ff9900\">2 điểm</span> sát thương ổn định.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Tiêu hao Infection: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Cứu Viện Toàn Diện",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595374193.png\"></p>\n</td>\n<td>\n<p>Cứu Viện Toàn Diện Lv.1</p>\n<p>Chủ động/Hồi máu/Hồi ổn định/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764473541316.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, hồi <span style=\"color: #ff9900\">130%</span> Tấn công HP, <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định cho họ, và gây <span style=\"color: #00ccff\">Heat Recovery</span>. Nếu sau khi hồi máu HP mục tiêu đầy, gây Hỏa Nhiệt Công Thế II lên nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Bí Quyết Kiếm Tiền",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595389324.png\"></p>\n</td>\n<td>\n<p>Bí Quyết Kiếm Tiền Lv.1</p>\n<p>Quyết thắng/Đơn mục tiêu/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764473615258.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Bản thân nhận <span style=\"color: #00ccff\">Heat Recovery</span> và Hỏa Nhiệt Công Thế II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Burn lên chúng.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 5</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Nhiệt Huyết Mua Sắm",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595401217.png\"></p>\n</td>\n<td>\n<p>Nhiệt Huyết Mua Sắm Lv.1</p>\n<p>Bị động/Support/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764473673767.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi kẻ địch trong tầm bắn nhận sát thương đơn mục tiêu từ đồng minh, ưu tiên thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định, đồng thời gây Hỏa Nhiệt Công Thế II lên đơn vị đồng minh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>. Khi có <span style=\"color: #00ccff\">Heat Recovery</span>, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">1 điểm</span>. Khi kết thúc hành động, cứ mỗi <span style=\"color: #ff9900\">1</span> buff loại Burn đang có, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Vòng Tuần Hoàn Có Lợi Lv.2</strong></td>\n<td style=\"text-align: center\">Sau lần tấn công đầu tiên gây <span style=\"color: #00ccff\">Overflow Fire</span>, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Chọn 1 mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">75%</span> Tấn công sát thương Physical, và gây <span style=\"color: #ff9900\">2 tầng</span> Vật Dễ Cháy và <span style=\"color: #00ccff\">Overflow Fire</span>, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Nếu bản thân có từ <span style=\"color: #ff9900\">2</span> buff loại Burn trở lên, tấn công thêm một lần vào mục tiêu ban đầu, gây <span style=\"color: #ff9900\">75%</span> Tấn công sát thương Burn và <span style=\"color: #ff9900\">2 điểm</span> sát thương ổn định.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Nhiệt Huyết Mua Sắm Lv.2</strong></td>\n<td style=\"text-align: center\">Khi có Hỏa Nhiệt Công Thế, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">1 điểm</span>.</td>\n<td style=\"text-align: center\">Khi kẻ địch trong tầm bắn nhận sát thương đơn mục tiêu từ đồng minh, ưu tiên thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định, đồng thời gây Hỏa Nhiệt Công Thế II lên đơn vị đồng minh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>. Khi có <span style=\"color: #00ccff\">Heat Recovery</span> hoặc Hỏa Nhiệt Công Thế, sát thương ổn định gây ra tăng lần lượt <span style=\"color: #ff9900\">1 điểm</span>. Khi kết thúc hành động, cứ mỗi <span style=\"color: #ff9900\">1</span> buff loại Burn đang có, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Bí Quyết Kiếm Tiền Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu tạo khắc chế, sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>.</td>\n<td style=\"text-align: center\">Bản thân nhận <span style=\"color: #00ccff\">Heat Recovery</span> và Hỏa Nhiệt Công Thế II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Burn lên chúng. Nếu tạo khắc chế, sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Nhiệt Huyết Mua Sắm Lv.3</strong></td>\n<td style=\"text-align: center\">Giới hạn số lần chi viện hành động tăng <span style=\"color: #ff9900\">1 lần</span>.</td>\n<td style=\"text-align: center\">Khi kẻ địch trong tầm bắn nhận sát thương đơn mục tiêu từ đồng minh, ưu tiên thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định, đồng thời gây Hỏa Nhiệt Công Thế II lên đơn vị đồng minh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span>. Khi có <span style=\"color: #00ccff\">Heat Recovery</span> hoặc Hỏa Nhiệt Công Thế, sát thương ổn định gây ra tăng lần lượt <span style=\"color: #ff9900\">1 điểm</span>. Khi kết thúc hành động, cứ mỗi <span style=\"color: #ff9900\">1</span> buff loại Burn đang có, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Cứu Viện Toàn Diện Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu sau khi hồi máu HP mục tiêu đầy, và trước khi hồi HP chưa đầy, hồi thêm <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định cho nó.</td>\n<td style=\"text-align: center\">Chọn 1 mục tiêu đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, hồi <span style=\"color: #ff9900\">130%</span> Tấn công HP, <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định cho họ, và gây <span style=\"color: #00ccff\">Heat Recovery</span>. Nếu sau khi hồi máu HP mục tiêu đầy, gây Hỏa Nhiệt Công Thế II lên nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; Khi trước khi hồi HP chưa đầy và sau khi hồi đầy, hồi thêm <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định cho nó.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Bí Quyết Kiếm Tiền Lv.3</strong></td>\n<td style=\"text-align: center\">Tỉ lệ chí mạng lên mục tiêu có <span style=\"color: #00ccff\">Overflow Fire</span> tăng <span style=\"color: #ff9900\">100%</span>.</td>\n<td style=\"text-align: center\">Bản thân nhận <span style=\"color: #00ccff\">Heat Recovery</span> và Hỏa Nhiệt Công Thế II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Burn lên chúng. Nếu tạo khắc chế, sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>. Tỉ lệ chí mạng lên mục tiêu có <span style=\"color: #00ccff\">Overflow Fire</span> tăng <span style=\"color: #ff9900\">100%</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595543204.png\"></td>\n<td>\n<h2>Contract Key·Đạo Sinh Tài</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764473767741.png\" width=\"20\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764473776934.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595560481.png\"></td>\n<td>\n<h2>Fixed Key·Hợp Tác Đôi Bên Cùng Lợi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi hồi máu cho đồng minh khác bản thân, gây ngẫu nhiên 1 buff lên họ và bản thân.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595577195.png\"></td>\n<td>\n<h2>Fixed Key·Trao Đổi Ngang Giá</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Vòng Tuần Hoàn Có Lợi, cứ mỗi 1 lần hạ gục, số lần chi viện hành động hiệp này tăng 1 lần.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595591481.png\"></td>\n<td>\n<h2>Fixed Key·Lợi Nhuận Ổn Định</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi gây sát thương Burn, hồi HP bằng 10% sát thương gây ra và 1 điểm Chỉ số ổn định.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595607098.png\"></td>\n<td>\n<h2>Fixed Key·Cùng Có Lợi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Cứu Viện Toàn Diện, bản thân cũng nhận được buff giống trong kỹ năng.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595621577.png\"></td>\n<td>\n<h2>Fixed Key·Quà Tặng Tình Bạn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi gây buff loại Burn, xua tan thêm 1 debuff.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595635533.png\"></td>\n<td>\n<h2>Fixed Key·Chiến Lược Ưu Đãi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu khi kết thúc hành động có <span style=\"color: #00ccff\">Heat Recovery</span>, nhận 1 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595654955.png\"></td>\n<td>\n<h2>Common Key·Cháy Rực Hừng Hực</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764474027301.png\" width=\"20\"></sub>HP +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi gây buff loại Burn, có 50% tỉ lệ gây 1 buff lên mục tiêu, duy trì 1 hiệp.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784595671418.png\"></td>\n<td>\n<h2>Expansion Key·Tình Nghĩa Hơn Nghìn Vàng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kết thúc hành động, hồi 2 điểm Chỉ số ổn định cho T-Doll đồng minh có Chỉ số ổn định thấp nhất.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Cứ mỗi 1 lần bản thân gây sát thương Burn, sát thương Burn của mọi đơn vị đồng minh tăng 1%, tối đa tăng 3%. Không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Support*6 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Support*7 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Burn gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*9 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra của toàn bộ đồng minh tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*13 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*9 Support*15 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi bắt đầu chiến đấu, 2 đồng minh có Tấn công ban đầu cao nhất nhận Tấn công tăng 3%, không cộng dồn.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763992558861.png\"></td>\n<td>\n<h1><strong>Stechkin &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10362\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng ngắn/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng có độ tương hợp cao với Ksenia, được cải tiến phần nào theo sở thích tác chiến của cô, thân súng nhẹ hơn, độ chuẩn xác cũng được nâng cao.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Mua sắm thường</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=253&amp;hash_flag=2\"><img style=\"display: block; margin: 0 auto\" src=\"https://community.cdn.sunborngame.com/prod/image/1717560987570.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp;T-Doll có chấp niệm khác thường với việc kiếm tiền. Nỗ lực kiếm tiền rồi tiêu hết sạch, hành vi này chính là nguồn cảm giác an toàn của cô. Nhưng khoảng thời gian làm việc cùng những đồng đội đáng tin cậy cũng là báu vật của cô.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table border=\"1\">\n<tbody>\n<tr>\n<td rowspan=\"2\"><img style=\"display: block; margin: 0 auto; max-width: 146px\" src=\"https://gf2.mcc.wiki/image/item/Item_Icon_love_gift_electrical_2.png\"></td>\n<td>\n<p>Vật phẩm lưu thông trên thị trường, được ưa chuộng rộng rãi, thường dùng làm quà tặng.<br>Tặng cho T-Doll thích loại vật phẩm này, độ tương hợp tăng nhiều hơn.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Cách nhận:</p>\n<p>Nhận từ sự kiện chủ đề</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778310446685.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778310079784.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778309988931.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778309989053.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778310079907.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778310079948.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 428,
+      "title": "Thường ngày-01",
+      "text": "Công việc ngoài giờ? Đương nhiên được, nhưng phải có tiền tăng ca nhé~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Daily_003.wav"
+    },
+    {
+      "id": 429,
+      "title": "Thường ngày-02",
+      "text": "Chỉ huy, cần phục vụ không? Yên tâm, trình độ của em không thua Centaureissi đâu, có điều, phải boa cho em nhé~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Daily_004.wav"
+    },
+    {
+      "id": 431,
+      "title": "Thường ngày-03",
+      "text": "Tuy tiền bối Nagant hơi lải nhải, nhưng chị ấy cũng vì hậu bối mà thôi. À, anh hỏi \"kinh nghiệm chiến đấu\" của tiền bối? Thôi bỏ đi, nghe cho vui là được……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Daily_006.wav"
+    },
+    {
+      "id": 432,
+      "title": "Thường ngày-04",
+      "text": "Tiền kiếm được phải tiêu ngay, đó là sự tôn trọng cơ bản với tiền, nếu không, tiền sẽ khóc đấy~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Daily_007.wav"
+    },
+    {
+      "id": 426,
+      "title": "Thường ngày-05",
+      "text": "Việc còn lại để mai tính, Chỉ huy, có muốn đi mua sắm với em không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Daily_001.wav"
+    },
+    {
+      "id": 437,
+      "title": "Nâng cấp-01",
+      "text": "Cảm ơn nha~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Up_002.wav"
+    },
+    {
+      "id": 438,
+      "title": "Nâng cấp-02",
+      "text": "Kiếm bộn tiền thôi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Up_003.wav"
+    },
+    {
+      "id": 439,
+      "title": "Nâng cấp-03",
+      "text": "Tiền phải tiêu đúng chỗ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Up_004.wav"
+    },
+    {
+      "id": 440,
+      "title": "Nâng cấp-04",
+      "text": "Tăng lương rồi à?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Up_005.wav"
+    },
+    {
+      "id": 441,
+      "title": "Nâng cấp-05",
+      "text": "An tâm hơn rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Up_006.wav"
+    },
+    {
+      "id": 444,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Title_001.wav"
+    },
+    {
+      "id": 445,
+      "title": "Đăng nhập",
+      "text": "Chỉ huy, anh về rồi à? Em còn tưởng hôm nay được nghỉ chứ……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Login_001.wav"
+    },
+    {
+      "id": 447,
+      "title": "Tâm sự-01",
+      "text": "Kiếm tiền vất vả quá, anh biết việc nào lắm tiền ít việc không? Giới thiệu cho em với!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 448,
+      "title": "Tâm sự-02",
+      "text": "Lâu rồi không gặp, sao tình hình tài chính của Chỉ huy vẫn tệ thế. Không chịu khó kiếm tiền thì không được đâu, không thì đến Elmo cũng không đủ tiền sửa đó.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 450,
+      "title": "Tâm sự-03",
+      "text": "Trên Elmo có đồ gì không cần không? Chắc chắn có chứ? Giao cho em đi, để em bán lại biến phế phẩm thành vàng!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 451,
+      "title": "Tâm sự-04",
+      "text": "Cửa hàng ở thành vệ tinh phần lớn giảm giá vào tối thứ Bảy hàng tuần, mẹo tiết kiệm chi tiêu này, người thường em không nói đâu nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 452,
+      "title": "Tâm sự-05",
+      "text": "Con người có tuổi vàng để kiếm tiền, T-Doll cũng vậy. Nên trước khi mẫu cũ đi, phải tranh thủ kiếm thật nhiều!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 458,
+      "title": "Tâm sự-06",
+      "text": "Chỉ huy, mình đi mua sắm đi! Ây da, đừng lo chuyện tiền, dạo này em kiếm được kha khá, em mời~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 456,
+      "title": "Tâm sự-07",
+      "text": "Nghề thợ săn tiền thưởng đầy nguy hiểm, chi bằng theo em đến Khu Xanh làm nhân viên an ninh, vừa nhẹ nhàng vừa ổn định~ Chỉ huy thấy sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Friendliness_011.wav"
+    },
+    {
+      "id": 457,
+      "title": "Tâm sự-08",
+      "text": "Oa——lương Chỉ huy trả chỉ có chút này thôi à——đùa thôi. Có điều, nếu Elmo không có Chỉ huy, biết đâu em đã đổi việc khác rồi~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Friendliness_012.wav"
+    },
+    {
+      "id": 460,
+      "title": "Vào đội",
+      "text": "Chủ thuê……là Chỉ huy? Vậy thì……em giảm giá thù lao cho anh, rồi mình ký hợp đồng thuê dài hạn nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Obtain_SR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 281,
+      "title": "Ngữ khí-01",
+      "text": "Tai nạn lao động, có được bồi thường không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 270,
+      "title": "Ngữ khí-02",
+      "text": "Nhận~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 271,
+      "title": "Ngữ khí-03",
+      "text": "Được rồi được rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 272,
+      "title": "Ngữ khí-04",
+      "text": "Hả?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 273,
+      "title": "Ngữ khí-05",
+      "text": "Có động tĩnh?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 274,
+      "title": "Ngữ khí-06",
+      "text": "Đứng yên!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 275,
+      "title": "Ngữ khí-07",
+      "text": "Biết rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 276,
+      "title": "Ngữ khí-08",
+      "text": "Nghe theo anh.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 277,
+      "title": "Ngữ khí-09",
+      "text": "Khai công!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 278,
+      "title": "Ngữ khí-10",
+      "text": "Phiền thật……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 282,
+      "title": "Kỹ năng-01",
+      "text": "Kiếm tiền thật chẳng dễ chút nào.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Skill_001.wav"
+    },
+    {
+      "id": 283,
+      "title": "Kỹ năng-02",
+      "text": "Phải có tiền boa nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Skill_002.wav"
+    },
+    {
+      "id": 284,
+      "title": "Kỹ năng-03",
+      "text": "Mau kết thúc đi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Hit_001.wav"
+    },
+    {
+      "id": 288,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Tiền thưởng là của em!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Ultimate_SR_001.wav"
+    },
+    {
+      "id": 285,
+      "title": "Hạ gục",
+      "text": "Nằm yên đó.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Kill_001.wav"
+    },
+    {
+      "id": 286,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Công việc hoàn thành viên mãn! Mau về thôi, em không muốn lỡ giờ giảm giá của cửa hàng!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Win_001.wav"
+    },
+    {
+      "id": 287,
+      "title": "Kết thúc trận-Thua",
+      "text": "A, tiền thưởng của em——thôi thôi, chỉ là trắc trở nhỏ, cơ hội kiếm tiền còn nhiều lắm!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/KseniaCV/VO_Ksenia_Single_Lose_001.wav"
+    }
+  ]
+}

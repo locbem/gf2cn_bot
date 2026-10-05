@@ -1,0 +1,378 @@
+{
+  "id": 1042,
+  "name": "Andoris",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044910235.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 3,
+  "role_id": 1,
+  "team_id": 3,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Bulwark",
+  "attr": "Electric",
+  "team": "H.I.D.E.404 Team 1",
+  "weapon": "G36K-KSK",
+  "model": "SSD-62F",
+  "ammo_model": "AR",
+  "desc": "T-Doll dịu dàng thân thiện, dù bị hạn chế về hiệu năng cũng không oán trách bản thân, luôn tích cực tìm kiếm nơi thuộc về mình, và bao dung mọi người xung quanh, có lẽ trong vô thức, cô cũng đã trở thành nơi thuộc về của người khác.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/安朵丝pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/安朵丝移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014228791.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014236895.png"
+  },
+  "skins": [
+    {
+      "id": 15,
+      "name": "Lời Thì Thầm Nửa Đêm",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/安朵丝pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/安朵丝移动.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261534591.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261553850.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261562964.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><strong>CV tiếng Trung</strong></sub></td>\n<td style=\"text-align: center\">Trương Tinh</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><strong>CV tiếng Nhật</strong></sub></td>\n<td style=\"text-align: center\">Yasuno Kiyono</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=57\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>591</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>12</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>642</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>2288</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo&nbsp;<span style=\"color: #cc99ff\">Corrosion</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Diễn Tập Bắn Thử",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559581139.png\"></p>\n</td>\n<td>\n<p>Diễn Tập Bắn Thử Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764404507330.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 7 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Công Thế Ôn Tình",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559601257.png\"></p>\n</td>\n<td>\n<p>Thế Công Ấm Áp Lv.1</p>\n<p>Chủ động / Triệu hồi</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764416841580.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô trống trong <span style=\"color: #ff9900\">bán kính 3 ô</span> xung quanh, triệu hồi <span style=\"color: #ff9900\">1</span> Pháo Tự Tuần, tồn tại tối đa 2. Khi số Pháo Tự Tuần vượt quá <span style=\"color: #ff9900\">2</span>, Pháo Tự Tuần được triệu hồi sớm nhất trên chiến trường sẽ tự hủy. Khi Pháo Tự Tuần chết, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.<br>Sau kỹ năng có thể tung lại kỹ năng này.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Quyết Sách Tối Giản",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559615591.png\"></p>\n</td>\n<td>\n<p>Quyết Sách Tối Giản Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764416893801.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 7 ô</span> xung quanh, trước khi tấn công gây Nạp Điện duy trì <span style=\"color: #ff9900\">2 hiệp</span>, và gây <span style=\"color: #ff9900\">110%</span> Tấn công sát thương Electric.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Chương Trình Gia Cố",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559629826.png\"></p>\n</td>\n<td>\n<p>Chương Trình Gia Cố Lv.1</p>\n<p>Quyết thắng/Phòng hộ/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764416952304.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Bản thân hồi <span style=\"color: #ff9900\">8 điểm</span> Chỉ số ổn định. Gây <span style=\"color: #ff9900\">2 tầng</span> Yểm Hộ và Điện Tích Dương duy trì <span style=\"color: #ff9900\">3 hiệp</span> cho mọi T-Doll đồng minh, bản thân nhận Tư Thế Gia Cố: không còn được vật cản bảo vệ, sát thương phải nhận giảm <span style=\"color: #ff9900\">20%</span>, sát thương ổn định phải nhận giảm <span style=\"color: #ff9900\">2 điểm</span>, khi chịu sát thương nếu kẻ tấn công có debuff loại Electric thì sát thương phải nhận giảm thêm <span style=\"color: #ff9900\">15%</span>. Không thể xua tan., duy trì <span style=\"color: #ff9900\">2</span> hiệp lớn.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Phản Hồi Trì Hoãn",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559643714.png\"></p>\n</td>\n<td>\n<p>Hồi Đáp Trễ Lv.1</p>\n<p>Bị động/Chia sẻ/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764417020520.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu chiến đấu, nhận Tự Kiểm Tu, hiệu ứng có hiệu lực sau <span style=\"color: #ff9900\">3 hiệp</span> mới có thể có hiệu lực lại.<br>Khi đồng minh có Điện Tích Dương chịu sát thương, chia sẻ <span style=\"color: #ff9900\">45%</span> sát thương gốc cho nó. Khi chủ động tấn công kẻ địch có Điện Tích Âm, bản thân hồi lượng HP bằng <span style=\"color: #ff9900\">20%</span> HP tối đa.<br>Khi chịu sát thương, bản thân hồi lượng HP bằng <span style=\"color: #ff9900\">5%</span> HP tối đa, và nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, gây <span style=\"color: #ff9900\">1 tầng</span> Trì Độn lên bản thân và mọi Pháo Tự Tuần trên chiến trường; Nếu bản thân không được vật cản bảo vệ, tiêu hao <span style=\"color: #ff9900\">1 điểm</span> Chỉ số ổn định, giúp sát thương bản thân phải nhận giảm <span style=\"color: #ff9900\">20%</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Thế Công Ấm Áp Lv.2</strong></td>\n<td style=\"text-align: center\">Tầm bắn khi tung Pháo Tự Tuần tăng <span style=\"color: #ff9900\">3 ô</span>. Tầm bắn đánh thường Viền Cực Trạng của Pháo Tự Tuần tăng <span style=\"color: #ff9900\">1 ô</span>. Kỹ năng bị động Mô Phỏng Đình Trệ bổ sung hiệu ứng, sát thương Electric bản thân gây ra tăng <span style=\"color: #ff9900\">30%</span>. Pháo Tự Tuần bổ sung kỹ năng bị động Quan Tâm Thuận Thế: trước khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu Electric do đồng minh chủ động tấn công gây ra, chi viện hành động lên nó, gây <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Electric và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định, đồng thời gây Điện Tích Âm duy trì <span style=\"color: #ff9900\">2 hiệp</span>, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> ô trống trong bán kính <span style=\"color: #ff9900\">6 ô</span> xung quanh, triệu hồi 1 Pháo Tự Tuần, tồn tại tối đa 2. Khi số Pháo Tự Tuần vượt quá <span style=\"color: #ff9900\">2</span>, Pháo Tự Tuần được triệu hồi sớm nhất trên chiến trường sẽ tự hủy. Khi Pháo Tự Tuần chết, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Sau kỹ năng có thể tung lại kỹ năng này.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Chương Trình Gia Cố Lv.2</strong></td>\n<td style=\"text-align: center\">Hiệu quả tăng cường: bản thân hồi toàn bộ Chỉ số ổn định, và hồi lượng HP bằng <span style=\"color: #ff9900\">20%</span> HP tối đa, xua tan toàn bộ debuff của bản thân. Khi Andoris có mặt, gây Tăng Di Chuyển II và Tăng Sát Thương II cho mọi T-Doll đồng minh có Điện Tích Dương.</td>\n<td style=\"text-align: center\">Bản thân hồi toàn bộ Chỉ số ổn định, và hồi lượng HP bằng <span style=\"color: #ff9900\">20%</span> HP tối đa, xua tan toàn bộ debuff của bản thân. Gây <span style=\"color: #ff9900\">2 tầng</span> Yểm Hộ và Điện Tích Dương duy trì <span style=\"color: #ff9900\">3 hiệp</span> cho mọi T-Doll đồng minh, bản thân nhận Tư Thế Gia Cố, duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>. Khi Andoris có mặt, gây Tăng Di Chuyển II và Tăng Sát Thương II cho mọi đồng minh có Điện Tích Dương.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Hồi Đáp Trễ Lv.2</strong></td>\n<td style=\"text-align: center\">Hiệu quả bổ sung: sát thương ổn định phải nhận giảm <span style=\"color: #ff9900\">1 điểm</span>. Khi bắt đầu chiến đấu, Tấn công của bản thân và Pháo Tự Tuần tăng, lượng tăng bằng <span style=\"color: #ff9900\">30%</span> Phòng thủ ban đầu của Andoris. Khi Pháo Tự Tuần chịu sát thương, có thể gây <span style=\"color: #ff9900\">1 tầng</span> Trì Độn lên bản thân và Andoris. Hiệu quả Trì Độn được sửa đổi: hệ số tăng Phòng thủ tăng <span style=\"color: #ff9900\">10%</span>, giới hạn cộng dồn tăng <span style=\"color: #ff9900\">3 tầng</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, Tấn công của bản thân và Pháo Tự Tuần tăng, lượng tăng bằng <span style=\"color: #ff9900\">30%</span> Phòng thủ ban đầu của Andoris. Bản thân nhận Tự Kiểm Tu, hiệu ứng có hiệu lực sau <span style=\"color: #ff9900\">3 hiệp</span> mới có thể có hiệu lực lại. Khi đồng minh có Điện Tích Dương chịu sát thương, chia sẻ <span style=\"color: #ff9900\">45%</span> sát thương gốc cho nó. Khi chủ động tấn công kẻ địch có Điện Tích Âm, bản thân hồi lượng HP bằng <span style=\"color: #ff9900\">20%</span> HP tối đa. Khi chịu sát thương, sát thương ổn định phải nhận giảm <span style=\"color: #ff9900\">1 điểm</span>, bản thân hồi lượng HP bằng <span style=\"color: #ff9900\">5%</span> HP tối đa, và nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, gây <span style=\"color: #ff9900\">1 tầng</span> Trì Độn lên bản thân và mọi Pháo Tự Tuần trên chiến trường; Nếu bản thân không được vật cản bảo vệ, tiêu hao <span style=\"color: #ff9900\">1 điểm</span> Chỉ số ổn định, giúp sát thương bản thân phải nhận giảm <span style=\"color: #ff9900\">20%</span>. Khi Pháo Tự Tuần chịu sát thương, gây <span style=\"color: #ff9900\">1 tầng</span> Trì Độn lên bản thân và Andoris.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Hồi Đáp Trễ Lv.3</strong></td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, giới hạn Chỉ số ổn định tăng <span style=\"color: #ff9900\">6 điểm</span>. Hiệu quả Tự Kiểm Tu được sửa đổi: khi chịu sát thương chí tử, lượng HP hồi phục tăng lên <span style=\"color: #ff9900\">60%</span> HP tối đa, hồi toàn bộ Chỉ số ổn định, và nhận Tư Thế Gia Cố duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, Tấn công của bản thân và Pháo Tự Tuần tăng, lượng tăng bằng <span style=\"color: #ff9900\">30%</span> Phòng thủ ban đầu của Andoris. Giới hạn Chỉ số ổn định của bản thân tăng <span style=\"color: #ff9900\">6 điểm</span>. Nhận Tự Kiểm Tu, hiệu ứng có hiệu lực sau <span style=\"color: #ff9900\">3 hiệp</span> mới có thể có hiệu lực lại. Khi đồng minh có Điện Tích Dương chịu sát thương, chia sẻ <span style=\"color: #ff9900\">45%</span> sát thương gốc cho nó. Khi chủ động tấn công kẻ địch có Điện Tích Âm, bản thân hồi lượng HP bằng <span style=\"color: #ff9900\">20%</span> HP tối đa. Khi chịu sát thương, sát thương ổn định phải nhận giảm <span style=\"color: #ff9900\">1 điểm</span>, bản thân hồi lượng HP bằng <span style=\"color: #ff9900\">5%</span> HP tối đa, và nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, gây <span style=\"color: #ff9900\">1 tầng</span> Trì Độn lên bản thân và mọi Pháo Tự Tuần trên chiến trường; Nếu bản thân không được vật cản bảo vệ, tiêu hao <span style=\"color: #ff9900\">1 điểm</span> Chỉ số ổn định, giúp sát thương bản thân phải nhận giảm <span style=\"color: #ff9900\">20%</span>. Khi Pháo Tự Tuần chịu sát thương, gây <span style=\"color: #ff9900\">1 tầng</span> Trì Độn lên bản thân và Andoris.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Quyết Sách Tối Giản Lv.2</strong></td>\n<td style=\"text-align: center\">Hiệu quả Nạp Điện bổ sung: khi kết thúc hành động của mục tiêu có Nạp Điện, gây Nạp Điện duy trì <span style=\"color: #ff9900\">2 hiệp</span> cho các đồng minh không có Nạp Điện trong bán kính <span style=\"color: #ff9900\">3 ô</span> quanh nó. Khi chịu sát thương Electric, sát thương phải nhận tăng <span style=\"color: #ff9900\">15%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 mục tiêu kẻ địch trong bán kính <span style=\"color: #ff9900\">7 ô</span> xung quanh, trước khi tấn công gây Nạp Điện duy trì <span style=\"color: #ff9900\">2 hiệp</span>, và gây <span style=\"color: #ff9900\">110%</span> Tấn công sát thương Electric.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Thế Công Ấm Áp Lv.3</strong></td>\n<td style=\"text-align: center\">Số Pháo Tự Tuần tồn tại tối đa tăng từ <span style=\"color: #ff9900\">2</span> lên <span style=\"color: #ff9900\">3</span>, và Infection tiêu hao khi tung Pháo Tự Tuần giảm <span style=\"color: #ff9900\">1 điểm</span>. Hiệu quả bổ sung: cứ mỗi <span style=\"color: #ff9900\">1</span> Pháo Tự Tuần trên chiến trường, khi toàn thể T-Doll đồng minh gây sát thương Electric, Tấn công tăng <span style=\"color: #ff9900\">10%</span>. Hiệu quả \"sau kỹ năng có thể tung lại kỹ năng này\" được tăng cường thành: sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> ô trống trong bán kính <span style=\"color: #ff9900\">6 ô</span> xung quanh, triệu hồi <span style=\"color: #ff9900\">1</span> Pháo Tự Tuần, tồn tại tối đa 3. Khi số Pháo Tự Tuần vượt quá <span style=\"color: #ff9900\">3</span>, Pháo Tự Tuần được triệu hồi sớm nhất trên chiến trường sẽ tự hủy. Khi Pháo Tự Tuần chết, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Cứ mỗi 1 Pháo Tự Tuần trên chiến trường, khi toàn thể đồng minh gây sát thương Electric, Tấn công tăng <span style=\"color: #ff9900\">10%</span>. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559661202.png\"></td>\n<td>\n<h2>Contract Key · Thấm Nhuần Lặng Lẽ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764417110612.png\" width=\"20\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764417119646.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559677032.png\"></td>\n<td>\n<h2>Fixed Key · Nghiêng Tai Lắng Nghe</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784559690796.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Mạch Vòng Chậm Rãi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bản thân gây sát thương Electric, nếu mục tiêu đang Sụp Đổ Ổn Định và có Nạp Điện, gây thêm sát thương cố định bằng 10% Tấn công.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559703785.png\"></td>\n<td>\n<h2>Fixed Key · Làm Việc Chậm Mà Kỹ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Andoris gây Điện Tích Dương cho đồng minh, xua tan 2 debuff cho nó và mọi Pháo Tự Tuần.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784559715823.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Liên Kết Điều Hòa</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Andoris có mặt, khi kết thúc hành động của đồng minh có Điện Tích Dương, nếu trong bán kính 3 ô quanh bản thân có đồng minh khác có Điện Tích Dương, nhận 1 tầng Yểm Hộ.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784559728366.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Chia Sẻ Tình Báo</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, gây Điện Tích Dương duy trì 3 hiệp cho mọi T-Doll đồng minh.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559741937.png\"></td>\n<td>\n<h2>Fixed Key · Trinh Sát Trước</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, gây Nạp Điện duy trì 2 hiệp lên kẻ địch có HP tối đa cao nhất.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559759916.png\"></td>\n<td>\n<h2>Common Key · Từ Trường Cảm Tính</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764417371010.png\" width=\"20\"></sub>Phòng thủ +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi bắt đầu hiệp, cứ mỗi 1 debuff loại Electric trên chiến trường, sát thương bản thân gây ra tăng 5%, tối đa tăng 10%, kéo dài đến khi kết thúc hiệp lớn.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784559774772.png\"></td>\n<td>\n<h2>Expansion Key · Canh Gác Không Đổi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kết thúc hành động của Pháo Tự Tuần, nếu không gây sát thương, Andoris hồi 2 điểm Infection Index. Trước khi Pháo Tự Tuần tấn công mục tiêu kẻ địch có Điện Tích Âm, Tấn công của bản thân tăng 50%. Khi đồng minh có Điện Tích Dương chịu sát thương, sát thương do Andoris gánh chịu tăng lên 65%, sau khi gánh sát thương thay đồng minh, cứ mỗi 1 tầng Trì Độn của toàn thể đồng minh trên chiến trường, Andoris hồi 0.5% HP tối đa của bản thân. Khi kết thúc hành động của Andoris, gây Điện Tích Dương duy trì 3 hiệp cho T-Doll đồng minh gần bản thân nhất.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Support*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi bị kẻ địch có debuff loại Electric tấn công, sát thương phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*7 Support*2 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*8 Support*3 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Electric gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*11 Support*4 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi không được vật cản che chắn, sát thương phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*15 Support*4 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Phòng thủ tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*18 Support*6 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi Chỉ số ổn định lớn hơn 0 điểm, HP tối đa tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763903881652.png\"></td>\n<td>\n<h1><strong>Aglaea &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10423\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng trường tấn công hiệu năng cao được cấp cho Andoris, lấy Gewehr 36-Spezifikation làm nguyên mẫu, dễ thao tác, độ tin cậy cao, uy lực cũng được nâng lên đáng kể. Nắm trong tay, Andoris cũng có thêm tự tin để bảo vệ người quan trọng.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Mua sắm định hướng</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=38472&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1732004805546.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=38419&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1732074399161.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=38698&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1732074601842.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=38797&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1732089651206.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p> &nbsp; T-Doll dịu dàng thân thiện, dù bị hạn chế về hiệu năng cũng không oán trách bản thân, luôn tích cực tìm kiếm nơi thuộc về mình, và bao dung mọi người xung quanh, có lẽ trong vô thức, cô cũng đã trở thành nơi thuộc về của người khác.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778253327078.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253327082.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778253355204.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253372821.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253355203.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253355187.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253355193.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253355206.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253355223.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1732701207120.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1732701142318.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1732701176688.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1732701227665.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1732701243524.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1732701263790.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1732701292423.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1732701312849.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1732701332616.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779163981813.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779163996178.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 23,
+      "title": "Thường ngày-01",
+      "text": "Hehe, chúc Chỉ huy hôm nay cũng mọi sự thuận lợi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Daily_001.wav"
+    },
+    {
+      "id": 30,
+      "title": "Thường ngày-02",
+      "text": "Bất cứ lúc nào Chỉ huy tìm tôi, tôi đều rất hoan nghênh nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Daily_008.wav"
+    },
+    {
+      "id": 32,
+      "title": "Thường ngày-03",
+      "text": "Ừm... mệt rồi sao? Cần tôi xoa bóp vai cho không? Sẽ dễ chịu hơn đấy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Daily_010.wav"
+    },
+    {
+      "id": 25,
+      "title": "Thường ngày-04",
+      "text": "Ưm... Chỉ huy đội Klukai lại bảo tôi chiều Mechty quá rồi... À, Chỉ huy cũng nghĩ vậy sao? Còn tôi thì hoàn toàn không thấy thế đâu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Daily_003.wav"
+    },
+    {
+      "id": 29,
+      "title": "Thường ngày-05",
+      "text": "Lúc rảnh rỗi... ưm, tôi sẽ chọn bảo dưỡng súng của mình, vì có được nó đâu có dễ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Daily_007.wav"
+    },
+    {
+      "id": 33,
+      "title": "Nâng cấp-01",
+      "text": "Vô cùng cảm ơn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Up_001.wav"
+    },
+    {
+      "id": 34,
+      "title": "Nâng cấp-02",
+      "text": "Thật tốt.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Up_002.wav"
+    },
+    {
+      "id": 35,
+      "title": "Nâng cấp-03",
+      "text": "Ra là vậy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Up_003.wav"
+    },
+    {
+      "id": 37,
+      "title": "Nâng cấp-04",
+      "text": "Thế là giúp được mọi người rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Up_005.wav"
+    },
+    {
+      "id": 38,
+      "title": "Nâng cấp-05",
+      "text": "Tôi sẽ nhớ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Up_006.wav"
+    },
+    {
+      "id": 41,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Title_001.wav"
+    },
+    {
+      "id": 42,
+      "title": "Đăng nhập",
+      "text": "Hôm nay cũng sẽ là một ngày tuyệt vời.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Login_001.wav"
+    },
+    {
+      "id": 44,
+      "title": "Tâm sự-01",
+      "text": "Dạo này có nhiều tình báo cần chỉnh lý lắm, chỉ phân loại thôi cũng tốn không ít thời gian. Hehe, xin đừng lo, tôi sẽ không vì chuyện này mà treo máy đâu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 47,
+      "title": "Tâm sự-02",
+      "text": "Hù... mọi người bình an thật tốt quá. Dù đã quen chiến đấu, nhưng thấy đồng đội bị thương vẫn hơi căng thẳng... Ừm, đây chính là \"quan tâm sinh loạn\" sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 49,
+      "title": "Tâm sự-03",
+      "text": "Gần đây tôi trò chuyện với chủ quán Springfield về chuyện trước kia của Chỉ huy. Tôi nghĩ, giá mà tôi gặp Chỉ huy sớm hơn thì tốt biết bao.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 50,
+      "title": "Tâm sự-04",
+      "text": "Gần đây lúc luyện tập, tôi đã bắn trúng bia rồi. Tin tốt này, tôi muốn báo cho Chỉ huy đầu tiên.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 51,
+      "title": "Tâm sự-05",
+      "text": "Chỉ huy có thích chụp ảnh không? Những khoảnh khắc đẹp bên nhau, tôi muốn dùng ảnh để lưu giữ. Dù nhiều năm sau, lật album ra cũng sẽ nhớ lại những kỷ niệm đẹp ấy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Friendliness_009.wav"
+    },
+    {
+      "id": 53,
+      "title": "Tâm sự-06",
+      "text": "Khoảnh khắc yên tĩnh như lúc này thật hiếm, chỉ lặng lẽ ở bên anh thế này thôi đã khiến tôi thấy rất tuyệt rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Friendliness_011.wav"
+    },
+    {
+      "id": 54,
+      "title": "Tâm sự-07",
+      "text": "Cơ thể con người rất mong manh, môi trường khu ô nhiễm lại khắc nghiệt. Chỉ huy, vẫn nên chú ý ăn mặc và ăn uống, quá tùy tiện có thể làm hại chính mình.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Friendliness_012.wav"
+    },
+    {
+      "id": 55,
+      "title": "Tâm sự-08",
+      "text": "Bên cạnh anh... tôi có cảm giác đặc biệt, thật ấm áp. Chỉ huy, tôi muốn ở lại đây... nơi anh ở chính là chốn về khác của tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 57,
+      "title": "Vào đội",
+      "text": "Cuối cùng cũng gặp được Chỉ huy. Mọi người ở 404 đều kể với tôi về Chỉ huy đấy, được làm việc cùng Chỉ huy, tôi rất mong đợi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765962008388.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 19,
+      "title": "Ngữ khí-01",
+      "text": "Khóa mục tiêu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 20,
+      "title": "Ngữ khí-02",
+      "text": "Không thoát được đâu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 21,
+      "title": "Ngữ khí-03",
+      "text": "Hehe.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 22,
+      "title": "Ngữ khí-04",
+      "text": "Hiệu chỉnh xong.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 23,
+      "title": "Ngữ khí-05",
+      "text": "Chính là bây giờ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 24,
+      "title": "Ngữ khí-06",
+      "text": "Đừng hòng chạy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 25,
+      "title": "Ngữ khí-07",
+      "text": "Kịch liệt thật.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 26,
+      "title": "Ngữ khí-08",
+      "text": "Sợ rồi sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 27,
+      "title": "Ngữ khí-09",
+      "text": "Xin lỗi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 28,
+      "title": "Ngữ khí-10",
+      "text": "Đã nhận.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 31,
+      "title": "Kỹ năng-01",
+      "text": "Thế này thì sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Skill_001.wav"
+    },
+    {
+      "id": 32,
+      "title": "Kỹ năng-02",
+      "text": "Xin cẩn thận dưới chân.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Skill_002.wav"
+    },
+    {
+      "id": 33,
+      "title": "Kỹ năng-03",
+      "text": "Sắp xong rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Hit_001.wav"
+    },
+    {
+      "id": 38,
+      "title": "Kỹ năng-04",
+      "text": "Cũng không tệ nhỉ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 37,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Kết thúc ở đây thôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765962033972.wav"
+    },
+    {
+      "id": 34,
+      "title": "Hạ gục",
+      "text": "A? Tốt quá rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Kill_001.wav"
+    },
+    {
+      "id": 35,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Hy vọng đây là kết quả mà Chỉ huy mong đợi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Win_001.wav"
+    },
+    {
+      "id": 36,
+      "title": "Kết thúc trận-Thua",
+      "text": "A... xin đừng buồn, chúng ta vẫn có thể cùng vượt qua khó khăn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AndorisCV/VO_Andoris_Single_Lose_001.wav"
+    }
+  ]
+}

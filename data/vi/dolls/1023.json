@@ -1,0 +1,378 @@
+{
+  "id": 1023,
+  "name": "Dushevnaya",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045084504.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 4,
+  "role_id": 3,
+  "team_id": 12,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Support",
+  "attr": "Freeze",
+  "team": "Doll Community",
+  "weapon": "KSVK",
+  "model": "SSD-62D",
+  "ammo_model": "RF",
+  "desc": "T-Doll mất đi bản ghi tâm trí nên nội tâm nhạy cảm, kiên trì tìm lại quá khứ của mình, và cũng dốc hết sức cho lời nhờ vả của người khác. Cách biểu đạt cảm xúc có phần cường điệu và trung nhị, thường khiến người ta khó hiểu, nhưng thực ra cô đang dùng nó để che giấu sự bối rối của mình.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/杜莎妮pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/杜莎妮移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014377792.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014385982.png"
+  },
+  "skins": [
+    {
+      "id": 69,
+      "name": "Cứu Tinh Ngày Mai",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1773703930371.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1773703938847.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261928468.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261943663.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261958655.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Ngô Triết Như</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Ōzeki Eri</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=51\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>757</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>585</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1851</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Light Ammo Electric</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Rạng Đông",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784589896283.png\"></p>\n</td>\n<td>\n<p>Bình Minh Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764426698327.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Quy Tắc Dũng Giả",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784589937110.png\"></p>\n</td>\n<td>\n<p>Quy Tắc Dũng Giả Lv.1</p>\n<p>Chủ động/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764426766137.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">110%</span> Tấn công sát thương Physical. Khi kẻ địch có debuff Freeze chết, bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Phúc Lành Băng Giá.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Sự Cho Phép Của Thần Mùa Đông",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784589960935.png\"></p>\n</td>\n<td>\n<p>Sự Cho Phép Của Thần Mùa Đông Lv.1</p>\n<p>Chủ động/Debuff/Ô địa hình</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764426856382.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">50%</span> Tấn công sát thương Freeze diện rộng lên tất cả mục tiêu kẻ địch trên ô đó và trong <span style=\"color: #ff9900\">bán kính 2 ô</span> quanh nó, đồng thời tạo ô địa hình Sương Giá, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cường hóa kỹ năng, lần thi triển kế tiếp hệ số sát thương tăng lên <span style=\"color: #ff9900\">70%</span>, đồng thời gây Cứng Lạnh lên mục tiêu, duy trì <span style=\"color: #ff9900\">1 hiệp</span>; khi đang ở trạng thái cường hóa không thể kích hoạt cường hóa lần nữa. Khi Infection Index đầy, sau kỹ năng có thể dùng lại kỹ năng chủ động Sự Cho Phép Của Thần Mùa Đông.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Tiêu hao Infection: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Sách Điềm Báo",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784589980880.png\"></p>\n</td>\n<td>\n<p>Sách Điềm Báo Lv.1</p>\n<p>Quyết thắng/Buff/Support</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764426949248.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Gây <span style=\"color: #ff9900\">1 tầng</span> Cực Hàn Chúc Đảo lên tất cả đồng minh trong <span style=\"color: #ff9900\">bán kính 7 ô</span> xung quanh. Bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index, đồng thời nhận Lãnh Địa Cực Hàn, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Khi có Lãnh Địa Cực Hàn, nếu Infection Index khi kết thúc hành động là 0 thì nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Bức Họa Được Ban Phúc",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784589996177.png\"></p>\n</td>\n<td>\n<p>Bức Họa Được Ban Phúc Lv.1</p>\n<p>Bị động/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764427013635.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương gây ra của toàn thể đồng minh tăng <span style=\"color: #ff9900\">10%</span>, sát thương Freeze gây ra tăng thêm <span style=\"color: #ff9900\">10%</span>. Khi kết thúc hành động, nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index. Khi HP bản thân lớn hơn <span style=\"color: #ff9900\">80%</span>, sát thương ổn định nhận vào giảm <span style=\"color: #ff9900\">1 điểm</span>, đồng thời nhận Thấu Thị; khi có Thấu Thị, tầm bắn của kỹ năng chủ động ngoài kỹ năng Quyết thắng và tấn công chi viện cũng tăng <span style=\"color: #ff9900\">1 ô</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Sách Điềm Báo Lv.2</strong></td>\n<td style=\"text-align: center\">Phạm vi hiệu lực tăng <span style=\"color: #ff9900\">2 ô</span>, gây <span style=\"color: #ff9900\">1</span> buff mạnh ngẫu nhiên và Tăng Di Chuyển II lên tất cả đồng minh trong phạm vi, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Hiệu quả tăng sát thương trong Cực Hàn Chúc Đảo tăng thêm <span style=\"color: #ff9900\">10%</span>.</td>\n<td style=\"text-align: center\">Gây <span style=\"color: #ff9900\">1 tầng</span> Cực Hàn Chúc Đảo, Tăng Di Chuyển II và <span style=\"color: #ff9900\">1</span> buff mạnh ngẫu nhiên lên tất cả đồng minh trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index, đồng thời nhận Lãnh Địa Cực Hàn, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Khi có Lãnh Địa Cực Hàn, nếu Infection Index khi kết thúc hành động là <span style=\"color: #ff9900\">0</span> thì nhận thêm <span style=\"color: #ff9900\">2 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Bức Họa Được Ban Phúc Lv.2</strong></td>\n<td style=\"text-align: center\">Đòn đánh bỏ qua <span style=\"color: #ff9900\">15%</span> giảm sát thương của vật cản của mục tiêu. Khi bắt đầu hành động, tạo ô địa hình Sương Giá trong <span style=\"color: #ff9900\">bán kính 1 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Khi bản thân đứng trên ô địa hình hệ Freeze của phe ta, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">1 điểm</span>.</td>\n<td style=\"text-align: center\">Sát thương gây ra của toàn thể đồng minh tăng <span style=\"color: #ff9900\">10%</span>, sát thương Freeze gây ra tăng thêm <span style=\"color: #ff9900\">10%</span>. Đòn đánh bỏ qua <span style=\"color: #ff9900\">15%</span> giảm sát thương của vật cản của mục tiêu. Khi bắt đầu hành động, tạo ô địa hình Sương Giá trong <span style=\"color: #ff9900\">bán kính 1 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Khi bản thân đứng trên ô địa hình hệ Freeze của phe ta, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">1 điểm</span>. Khi kết thúc hành động, nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index. Khi HP bản thân lớn hơn <span style=\"color: #ff9900\">80%</span>, sát thương ổn định nhận vào giảm <span style=\"color: #ff9900\">1 điểm</span>, đồng thời nhận Thấu Thị; khi có Thấu Thị, tầm bắn của kỹ năng chủ động ngoài kỹ năng Quyết thắng và tấn công chi viện cũng tăng <span style=\"color: #ff9900\">1 ô</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Sự Cho Phép Của Thần Mùa Đông Lv.2</strong></td>\n<td style=\"text-align: center\">Phạm vi hiệu lực tăng <span style=\"color: #ff9900\">1 ô</span>. Hệ số sát thương tăng lên <span style=\"color: #ff9900\">70%</span>, hệ số sát thương cường hóa tăng lên <span style=\"color: #ff9900\">90%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 ô địa hình trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">70%</span> Tấn công sát thương Freeze diện rộng lên tất cả mục tiêu kẻ địch trên ô đó và trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh nó, đồng thời tạo ô địa hình Sương Giá, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cường hóa kỹ năng, lần thi triển kế tiếp hệ số sát thương tăng lên <span style=\"color: #ff9900\">90%</span>, đồng thời gây Cứng Lạnh lên mục tiêu, duy trì <span style=\"color: #ff9900\">1 hiệp</span>; khi đang ở trạng thái cường hóa không thể kích hoạt cường hóa lần nữa. Khi Infection Index đầy, sau kỹ năng có thể dùng lại kỹ năng chủ động Sự Cho Phép Của Thần Mùa Đông.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Quy Tắc Dũng Giả Lv.2</strong></td>\n<td style=\"text-align: center\">Số tầng nhận được của Phúc Lành Băng Giá tăng <span style=\"color: #ff9900\">1 tầng</span>, hiệu quả khi chồng đủ <span style=\"color: #ff9900\">4 tầng</span> được nâng cao, sát thương gây ra tăng lên <span style=\"color: #ff9900\">140%</span>, nếu mục tiêu đứng trên ô địa hình hệ Freeze của phe ta, sát thương gây ra tăng lên <span style=\"color: #ff9900\">160%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">110%</span> Tấn công sát thương Physical. Khi kẻ địch có debuff Freeze chết, bản thân nhận <span style=\"color: #ff9900\">2 tầng</span> Phúc Lành Băng Giá.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Sách Điềm Báo Lv.3</strong></td>\n<td style=\"text-align: center\">Xua tan 1 buff của <span style=\"color: #ff9900\">4</span> kẻ địch ngẫu nhiên trong phạm vi. Cực Hàn Chúc Đảo gây ra tăng <span style=\"color: #ff9900\">1 tầng</span>. Khi có Lãnh Địa Cực Hàn, bỏ qua <span style=\"color: #ff9900\">30%</span> phòng thủ của mục tiêu. Số lần tấn công chi viện tăng <span style=\"color: #ff9900\">1 lần</span>.</td>\n<td style=\"text-align: center\">Gây <span style=\"color: #ff9900\">2 tầng</span> Cực Hàn Chúc Đảo, Tăng Di Chuyển II và <span style=\"color: #ff9900\">1</span> buff mạnh ngẫu nhiên lên tất cả đồng minh trong <span style=\"color: #ff9900\">bán kính 9 ô</span> xung quanh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, đồng thời xua tan <span style=\"color: #ff9900\">1</span> buff của <span style=\"color: #ff9900\">4</span> kẻ địch ngẫu nhiên trong phạm vi. Bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index, đồng thời nhận Lãnh Địa Cực Hàn, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Khi có Lãnh Địa Cực Hàn, bỏ qua <span style=\"color: #ff9900\">30%</span> phòng thủ của mục tiêu, nếu Infection Index khi kết thúc hành động là <span style=\"color: #ff9900\">0</span> thì nhận thêm <span style=\"color: #ff9900\">2 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Bức Họa Được Ban Phúc Lv.3</strong></td>\n<td style=\"text-align: center\">Hiệu quả tăng sát thương tăng lên <span style=\"color: #ff9900\">20%</span>, sát thương Freeze gây ra tăng lên <span style=\"color: #ff9900\">40%</span>. Sau khi tấn công chủ động, xua tan <span style=\"color: #ff9900\">1</span> buff phòng thủ của mục tiêu; khi đứng trên ô địa hình hệ Freeze của phe ta, gây Dễ Tổn Thương II lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n<td style=\"text-align: center\">Sát thương gây ra của toàn thể đồng minh tăng <span style=\"color: #ff9900\">20%</span>, sát thương Freeze gây ra tăng thêm <span style=\"color: #ff9900\">40%</span>. Đòn đánh bỏ qua <span style=\"color: #ff9900\">15%</span> giảm sát thương của vật cản của mục tiêu. Khi bắt đầu hành động, tạo ô địa hình Sương Giá trong <span style=\"color: #ff9900\">bán kính 1 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Khi bản thân đứng trên ô địa hình hệ Freeze của phe ta, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">1 điểm</span>. Khi kết thúc hành động, nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index. Khi HP bản thân lớn hơn <span style=\"color: #ff9900\">80%</span>, sát thương ổn định nhận vào giảm <span style=\"color: #ff9900\">1 điểm</span>, đồng thời nhận Thấu Thị; khi có Thấu Thị, tầm bắn của kỹ năng chủ động ngoài kỹ năng Quyết thắng và tấn công chi viện cũng tăng <span style=\"color: #ff9900\">1 ô</span>. Sau khi tấn công chủ động, xua tan <span style=\"color: #ff9900\">1</span> buff phòng thủ của mục tiêu; khi đứng trên ô địa hình hệ Freeze của phe ta, gây Dễ Tổn Thương II lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590018306.png\"></td>\n<td>\n<h2>Contract Key·Dư Âm Ánh Sáng Mờ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764396747429.png\" width=\"20\" height=\"20\"></sub>Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764427122687.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590035315.png\"></td>\n<td>\n<h2>Fixed Key·Cây Súng Chúc Phúc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Mỗi tầng Phúc Lành Băng Giá tràn ra sẽ tăng 5% tỉ lệ chí mạng của kỹ năng chủ động Quy Tắc Dũng Giả, tăng tối đa 30%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590049339.png\"></td>\n<td>\n<h2>Fixed Key·Ý Chí Nhà Mạo Hiểm</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi tấn công chủ động chỉ trúng 1 mục tiêu, sát thương Freeze gây ra tăng 20%, sát thương ổn định gây ra tăng 2 điểm.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590062777.png\"></td>\n<td>\n<h2>Fixed Key·Chi Viện Ma Pháp</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kỹ năng chủ động tạo ô địa hình hệ Freeze, nếu trong phạm vi đã có ô địa hình hệ Freeze thì kích hoạt phản ứng ô địa hình, xóa ô dưới chân mục tiêu kẻ địch và xua tan 1 buff. Mỗi khi xóa 1 ô địa hình, nhận 1 tầng Phúc Lành Băng Giá, nhận tối đa 3 tầng.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590081023.png\"></td>\n<td>\n<h2>Fixed Key·Trọng Kiếm Dũng Khí</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Sự Cho Phép Của Thần Mùa Đông, sau kỹ năng nếu khiến mục tiêu Sụp Đổ Ổn Định thì gây Giảm Phòng Thủ II lên nó, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590095443.png\"></td>\n<td>\n<h2>Fixed Key·Trái Tim Hiền Giả</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi có Lãnh Địa Cực Hàn, miễn nhiễm debuff di chuyển.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590109111.png\"></td>\n<td>\n<h2>Fixed Key·Ánh Sáng Thần Thánh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu hiệp, nếu đứng trên ô địa hình hệ Freeze của phe ta, xua tan 2 debuff của bản thân.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590122301.png\"></td>\n<td>\n<h2>Common Key·Cảm Hóa Nghệ Thuật</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764405202464.png\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Với mục tiêu có Điểm hành động nhỏ hơn hoặc bằng bản thân hoặc không thể di chuyển, sát thương dị vị gây ra tăng 10%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590138588.png\"></td>\n<td>\n<h2>Expansion Key·Khúc Ca Mùa Đông Của Dũng Giả</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi đồng minh gây sát thương Freeze, nhận 1 tầng Phúc Lành Băng Giá, đồng thời khiến sát thương Freeze của toàn thể đồng minh tăng 5%, tăng tối đa 15%. Sát thương tấn công đơn mục tiêu của bản thân chuyển thành sát thương Freeze và bỏ qua 30% phòng thủ mục tiêu, đồng thời sát thương Freeze lên kẻ địch tăng 30%. Khi bắt đầu chiến đấu, khiến 2 T-Doll đồng minh (không gồm bản thân) có Tấn công ban đầu cao nhất gây sát thương tăng 10%, sát thương Freeze gây ra tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Support*5 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Mỗi khi bản thân gây 1 lần sát thương Freeze, sát thương Freeze của tất cả đồng minh tăng 1%, tăng tối đa 3%. Không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Support*7 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*8 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Freeze gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Support*11 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra của toàn bộ đồng minh tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Support*15 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Support*18 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi bắt đầu chiến đấu, 2 đồng minh có Tấn công ban đầu cao nhất nhận Tấn công tăng 3%, không cộng dồn.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763990304417.png\"></td>\n<td>\n<h1><strong>Trường Ca Truyền Tụng &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10233\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng bắn tỉa/Heavy Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng bắn tỉa hiệu năng cao được cấp cho Dushevnaya, lấy Kovrov làm nguyên mẫu, giảm độ giật mà không mất sức mạnh. \"Nó đang thì thầm với tôi điều gì đó, có lẽ là bài thơ anh hùng vẫn tỏa sáng sau ngàn năm. \" Trên đây là đánh giá của người dùng Dushevnaya.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=15680&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1722243695432.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=13015&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1721274585219.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=12958&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1721202530350.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=13537&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1727349720122.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p> &nbsp; T-Doll mất đi bản ghi tâm trí nên nội tâm nhạy cảm, kiên trì tìm lại quá khứ của mình, và cũng dốc hết sức cho lời nhờ vả của người khác. Cách biểu đạt cảm xúc có phần cường điệu và trung nhị, thường khiến người ta khó hiểu, nhưng thực ra cô đang dùng nó để che giấu sự bối rối của mình.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778294335423.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294335428.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778294369847.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294369848.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294383947.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294369975.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294369974.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294369973.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294390955.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/中二.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/得瑟.gif\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/瞄准.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091475093.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091495826.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091523957.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091545931.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091565292.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091581985.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779166212139.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166212179.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 255,
+      "title": "Thường ngày-01",
+      "text": "Điềm báo từ bầu khí quyển……ừm, ngày ấm áp và sáng sủa, hợp để nhàn rỗi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961072029.wav"
+    },
+    {
+      "id": 257,
+      "title": "Thường ngày-02",
+      "text": "Tiếng động cơ trầm thấp, bánh xe lăn bánh hướng về miền vô định…… Chỉ huy! Tôi、tôi đang cảnh giới!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961090083.wav"
+    },
+    {
+      "id": 262,
+      "title": "Thường ngày-03",
+      "text": "……A, Chỉ huy, tôi đang sáng tác tranh dưới sự triệu gọi của nghệ thuật. Cái này? Vẽ sinh linh khổ sở lang thang trên vùng đất rộng lớn quạnh hiu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961149519.wav"
+    },
+    {
+      "id": 259,
+      "title": "Thường ngày-04",
+      "text": "……Hả? Tôi không có đờ người, tôi đang suy nghĩ. Ừm, suy nghĩ về tương lai của thế giới này và phương hướng của con đường vận mệnh.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961171019.wav"
+    },
+    {
+      "id": 264,
+      "title": "Thường ngày-05",
+      "text": "Quần áo của tôi? Chỉ là vẽ thêm trang sức hợp với nhân vật anh hùng…… Nếu kỳ quặc, thay bằng một bộ giáp giản dị cũng nằm trong các lựa chọn khả thi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961198996.wav"
+    },
+    {
+      "id": 265,
+      "title": "Nâng cấp-01",
+      "text": "Không cần mong đợi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961280175.wav"
+    },
+    {
+      "id": 268,
+      "title": "Nâng cấp-02",
+      "text": "Không được lạc lối.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961303117.wav"
+    },
+    {
+      "id": 269,
+      "title": "Nâng cấp-03",
+      "text": "Phán quyết của vận mệnh……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961323952.wav"
+    },
+    {
+      "id": 271,
+      "title": "Nâng cấp-04",
+      "text": "Sức mạnh sôi trào……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961348277.wav"
+    },
+    {
+      "id": 272,
+      "title": "Nâng cấp-05",
+      "text": "Lắng nghe sự tĩnh lặng.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961361588.wav"
+    },
+    {
+      "id": 273,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961377493.wav"
+    },
+    {
+      "id": 274,
+      "title": "Đăng nhập",
+      "text": "Việc cần làm hôm nay đã được viết trong sách vận mệnh.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961391808.wav"
+    },
+    {
+      "id": 276,
+      "title": "Tâm sự-01",
+      "text": "Ồ, Chỉ huy, ngài đến đúng lúc, giúp tôi một tay được không? Giúp tôi giành lại tuổi thọ của linh kiện thân thể gốc từ tay yêu linh mang đến tai ương.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961426324.wav"
+    },
+    {
+      "id": 279,
+      "title": "Tâm sự-02",
+      "text": "Hà…… Không có gì, chỉ là mô-đun tâm trí hơi quá nhiệt…… Không cần lo, mức nhiệt này chưa đủ làm tan chảy lớp vỏ lạnh lẽo của T-Doll……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961450033.wav"
+    },
+    {
+      "id": 281,
+      "title": "Tâm sự-03",
+      "text": "Không ngờ trong vùng ô nhiễm cũng thấy được phong cảnh như tranh sơn dầu, có điều rốt cuộc nó cũng sẽ bị thời gian mài thành trống không.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961476321.wav"
+    },
+    {
+      "id": 282,
+      "title": "Tâm sự-04",
+      "text": "Một mình băng qua bóng tối, định sẵn là nỗi đau và cô độc của lữ khách, Chỉ huy nếu có phiền muộn, xin hãy tâm sự với tôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961497023.wav"
+    },
+    {
+      "id": 283,
+      "title": "Tâm sự-05",
+      "text": "Nếu không thể tìm lại quá khứ, thì cùng ngài dệt nên bức tranh vận mệnh tương lai, tôi đã quyết định như vậy, Chỉ huy.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961520717.wav"
+    },
+    {
+      "id": 285,
+      "title": "Tâm sự-06",
+      "text": "Chỉ huy được vận mệnh chọn, câu chuyện của ngài sẽ được viết thế nào? Tôi……tôi rất mong đợi, tôi có thể ở bên ngài chứng kiến không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961547633.wav"
+    },
+    {
+      "id": 286,
+      "title": "Tâm sự-07",
+      "text": "Bản thân âm tiết không có ý nghĩa, là người phát ra những âm tiết ấy mới ban cho nó ý nghĩa…… Nghe không hiểu cũng không sao, lời của Chỉ huy rất quan trọng với tôi, hiểu điều đó là đủ rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961571632.wav"
+    },
+    {
+      "id": 287,
+      "title": "Tâm sự-08",
+      "text": "Chỉ huy, có thể cho tôi vài mảnh thời gian lưu giữ bí mật thời Griffin không? Trong khoảng thời gian bị đánh cắp ấy, tôi cũng ở bên cạnh ngài như bây giờ sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961590182.wav"
+    },
+    {
+      "id": 289,
+      "title": "Vào đội",
+      "text": "Thấy chưa? Ánh lửa đang bùng lên từ bóng tối, còn tôi, đứng ngay tại đây.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961614698.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 157,
+      "title": "Ngữ khí-01",
+      "text": "Hừ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961667641.wav"
+    },
+    {
+      "id": 158,
+      "title": "Ngữ khí-02",
+      "text": "Hây!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961681174.wav"
+    },
+    {
+      "id": 159,
+      "title": "Ngữ khí-03",
+      "text": "Trúng.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961701328.wav"
+    },
+    {
+      "id": 160,
+      "title": "Ngữ khí-04",
+      "text": "Bắt đầu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961723420.wav"
+    },
+    {
+      "id": 161,
+      "title": "Ngữ khí-05",
+      "text": "Sẵn sàng.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961739524.wav"
+    },
+    {
+      "id": 162,
+      "title": "Ngữ khí-06",
+      "text": "Thử cái này xem!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961760685.wav"
+    },
+    {
+      "id": 163,
+      "title": "Ngữ khí-07",
+      "text": "Đừng hòng chạy trốn!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961778624.wav"
+    },
+    {
+      "id": 164,
+      "title": "Ngữ khí-08",
+      "text": "Viên đạn của vận mệnh……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961795111.wav"
+    },
+    {
+      "id": 165,
+      "title": "Ngữ khí-09",
+      "text": "Dừng lại.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961809217.wav"
+    },
+    {
+      "id": 166,
+      "title": "Ngữ khí-10",
+      "text": "Vẫn chưa bỏ cuộc sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961822437.wav"
+    },
+    {
+      "id": 169,
+      "title": "Kỹ năng-01",
+      "text": "Là lời hiệu triệu chiến thắng!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961833785.wav"
+    },
+    {
+      "id": 170,
+      "title": "Kỹ năng-02",
+      "text": "Tương lai đã định.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961845159.wav"
+    },
+    {
+      "id": 171,
+      "title": "Kỹ năng-03",
+      "text": "Hãy chấp nhận vận mệnh!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961857063.wav"
+    },
+    {
+      "id": 176,
+      "title": "Kỹ năng-04",
+      "text": "Kẻ bất hạnh.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961887453.wav"
+    },
+    {
+      "id": 175,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Đây là……sức nặng của quyết tâm!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961902554.wav"
+    },
+    {
+      "id": 172,
+      "title": "Hạ gục",
+      "text": "Tương lai định sẵn.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961921943.wav"
+    },
+    {
+      "id": 173,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Chỉ là một chiến thắng bình thường, nhưng làm cái cớ để dừng lại nghỉ ngơi một chút, cũng không tồi nhỉ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961933125.wav"
+    },
+    {
+      "id": 174,
+      "title": "Kết thúc trận-Thua",
+      "text": "Kẻ trống rỗng, quả nhiên không thể gánh vác kỳ vọng của mọi người……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765961947010.wav"
+    }
+  ]
+}

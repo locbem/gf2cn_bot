@@ -1,0 +1,359 @@
+{
+  "id": 1084,
+  "name": "Colphne · Kính Khắc",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1789718237368.png",
+  "icon": 1,
+  "sort": 0,
+  "attr_id": 6,
+  "role_id": 3,
+  "team_id": 7,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Support",
+  "attr": "Hydro",
+  "team": "Groza Squad",
+  "weapon": ".380 Curva",
+  "model": "DOPPELGÄNGER",
+  "ammo_model": "HG",
+  "desc": "Sau khi nhận được thân thể “Người Bóng Gương” từ Sangvis Ferri, Colphne sở hữu sức mạnh vượt trội. Dù trên chiến trường trở nên hung hãn hơn, điều đó không có nghĩa là cô bị hận thù nuốt chửng. Trong mắt đồng đội và người bị thương, Colphne vẫn là Doll y tế thấu hiểu và dịu dàng.\n“Với kẻ thù của Chỉ Huy, tôi sẽ không nương tay đâu nhé.”",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1789718254003.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1789718266803.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1789986243316.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1789986249502.png"
+  },
+  "skins": [],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1789727086511.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1789727095472.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1789727104413.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Hiểu Tứ Bạch</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Ōzora Naomi</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>690</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>659</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>1965<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo&nbsp;<span style=\"color: #cc99ff\">Corrosion</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Phản Ứng Nhanh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1790045220178.png\"></p>\n</td>\n<td>\n<p>Phản Ứng Nhanh Lv.1</p>\n<p>Đánh thường / Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1790045203218.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong bán kính 6 ô, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Bài Xỉ Đồng Nguồn",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1789981441512.png\"></p>\n</td>\n<td>\n<p>Bài Xỉ Đồng Nguồn Lv.1</p>\n<p>Chủ động / Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1789981394583.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>Chọn 1 ô địa hình trong bán kính 6 ô xung quanh để phóng, áp dụng 1 tầng Trói Gương lên toàn bộ kẻ địch trong bán kính 3 ô quanh điểm đó. Mỗi khi áp dụng 1 tầng Trói Gương, bản thân nhận 10 tầng Phản Phệ.<br>Sau khi dùng kỹ năng có thể thi triển lại kỹ năng này.</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection：3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Sụp Đổ Phân Thân",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1789981579522.png\"></p>\n</td>\n<td>\n<p>Sụp Đổ Phân Thân Lv.1</p>\n<p>Chủ động / diện rộng / Cận chiến</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1789981567492.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>Gây sát thương Hydro cận chiến diện rộng bằng số tầng Trói Gương × 100% Tấn công lên toàn bộ kẻ địch đang có Trói Gương trên toàn bản đồ; nếu mục tiêu là đơn vị thường và HP dưới 35%, đổi thành gây sát thương Hydro cận chiến diện rộng bằng số tầng Trói Gương × 600% Tấn công. Mỗi lần trúng 1 mục tiêu, bản thân tiêu hao 10 tầng Phản Phệ và nhận 1 điểm Infection Index, tối đa nhận 3 điểm Infection Index mỗi hiệp.</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định：3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Liệu Pháp Giải Ly",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1789981690323.png\"></p>\n</td>\n<td>\n<p>Liệu Pháp Giải Ly Lv.1</p>\n<p>Quyết thắng / Buff / Xua tan</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1789982013740.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>Chọn 1 đồng minh trong bán kính 6 ô xung quanh (không bao gồm bản thân), áp dụng Khớp Nối duy trì 2 đại hiệp, giải trừ hiệu ứng Khiêu khích và Né tránh, đồng thời xua tan 2 Debuff trên mục tiêu và bản thân. Đơn vị đang có Khớp Nối sau khi tấn công chủ động, Colphne · Kính Khắc tiêu hao 5 tầng Phản Phệ và nhận 1 điểm Infection Index, tối đa nhận 3 điểm Infection Index mỗi hiệp. Sau khi dùng kỹ năng nhận Thêm chỉ lệnh, và không thể dùng kỹ năng Quyết thắng Liệu Pháp Giải Ly.</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Hồi chiêu (hiệp)：1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Song Trùng Tồn Tại",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1789981908766.png\"></p>\n</td>\n<td>\n<p>Song Trùng Tồn Tại Lv.1</p>\n<p>Bị động / Triệu hồi</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1789981893915.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>Khi bắt đầu hiệp phe ta, nhận 10 tầng Phản Phệ.<br>Khi kẻ địch đang có Trói Gương chết, bản thân nhận 1 điểm Infection Index (tối đa 3 điểm mỗi hiệp), và triệu hồi 1 Gương Ảnh Tha Nhân của mục tiêu đó xung quanh vị trí chết, duy trì 2 đại hiệp. Nếu mục tiêu là Doll, Thủ lĩnh, đơn vị cỡ lớn hoặc không thể sao chép, đổi thành triệu hồi 1 Gương Ảnh Bản Ngã, duy trì 2 đại hiệp.</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp kỹ năng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng kỹ năng thêm</strong></span></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\">\n<p><strong>Bài Xỉ Đồng Nguồn Lv.2</strong></p>\n</td>\n<td style=\"text-align: center\">\n<p>Hiệu ứng Trói Gương được nâng cấp: sát thương Hydro và sát thương cận chiến phải nhận tăng lên bằng số tầng Trói Gương × 12%. Đơn vị thường phải nhận sát thương cố định tăng lên bằng số tầng Trói Gương × 12% × HP tối đa của bản thân.</p>\n</td>\n<td style=\"text-align: center\">\n<p>Chọn 1 ô địa hình trong bán kính 6 ô xung quanh để phóng, áp dụng 1 tầng Trói Gương lên toàn bộ kẻ địch trong bán kính 3 ô quanh điểm đó. Mỗi khi áp dụng 1 tầng Trói Gương, bản thân nhận 10 tầng Phản Phệ, sau khi dùng kỹ năng có thể thi triển lại kỹ năng này.</p>\n</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td><strong>Song Trùng Tồn Tại Lv.2</strong></td>\n<td>Thời gian duy trì Gương Ảnh tăng 1 đại hiệp, tối đa tồn tại 3 triệu hồi vật này trên sân. Thuộc tính khởi đầu mà Gương Ảnh kế thừa tăng lên 100%. Thêm hiệu ứng mới: khi Gương Ảnh xuất hiện, áp dụng 1 tầng Viện Trợ Gương Ảnh lên toàn bộ đồng minh trong bán kính 6 ô xung quanh.</td>\n<td>Khi bắt đầu hiệp phe ta, nhận 10 tầng Phản Phệ.<br>Khi kẻ địch đang có Trói Gương chết, bản thân nhận 1 điểm Infection Index (tối đa 3 điểm mỗi hiệp), và triệu hồi 1 Gương Ảnh Tha Nhân của mục tiêu đó xung quanh vị trí chết, duy trì 3 đại hiệp. Nếu mục tiêu là Doll, Thủ lĩnh, đơn vị cỡ lớn hoặc không thể sao chép, đổi thành triệu hồi 1 Gương Ảnh Bản Ngã, duy trì 3 đại hiệp.<br>Khi Gương Ảnh xuất hiện, áp dụng 1 tầng Viện Trợ Gương Ảnh lên toàn bộ đồng minh trong bán kính 6 ô xung quanh.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Sụp Đổ Phân Thân Lv.2</strong></td>\n<td>Hệ số sát thương tăng 60%; nếu mục tiêu là đơn vị thường và HP dưới 50%, hệ số sát thương tăng 100%. Khi trúng Thủ lĩnh hoặc Doll, đơn vị cỡ lớn hoặc không thể sao chép đang có 3 tầng Trói Gương, triệu hồi 1 Gương Ảnh Bản Ngã xung quanh; khi trúng đơn vị tinh anh khác đang có 3 tầng Trói Gương, triệu hồi 1 Gương Ảnh Tha Nhân của mục tiêu đó xung quanh.</td>\n<td>Gây sát thương Hydro cận chiến diện rộng bằng số tầng Trói Gương × 160% Tấn công lên toàn bộ kẻ địch đang có Trói Gương trên toàn bản đồ; nếu mục tiêu là đơn vị thường và HP dưới 50%, đổi thành gây sát thương Hydro cận chiến diện rộng bằng số tầng Trói Gương × 700% Tấn công. Mỗi lần trúng 1 mục tiêu, bản thân tiêu hao 10 tầng Phản Phệ và nhận 1 điểm Infection Index, tối đa nhận 3 điểm Infection Index mỗi hiệp.<br>Khi trúng Thủ lĩnh hoặc Doll, đơn vị cỡ lớn hoặc không thể sao chép đang có 3 tầng Trói Gương, triệu hồi 1 Gương Ảnh Bản Ngã xung quanh; khi trúng đơn vị tinh anh khác đang có 3 tầng Trói Gương, triệu hồi 1 Gương Ảnh Tha Nhân của mục tiêu đó xung quanh.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Liệu Pháp Giải Ly Lv.2</strong></td>\n<td style=\"text-align: center\">Số Debuff được xua tan tăng thêm 1. Hiệu ứng Khớp Nối được nâng cấp: Tấn công nhận được tăng lên 15% Tấn công khởi đầu của Colphne · Kính Khắc, tối đa 300 điểm; Colphne · Kính Khắc nhận 15% Phòng thủ khởi đầu của người sở hữu, tối đa 150 điểm; các hiệu ứng Giảm di chuyển I, Dễ thương I, Giảm tấn công I do Colphne áp dụng được thay thế bằng Giảm di chuyển II, Dễ thương II, Giảm tấn công II.</td>\n<td style=\"text-align: center\">Chọn 1 đồng minh trong bán kính 6 ô xung quanh (không bao gồm bản thân), áp dụng Khớp Nối duy trì 2 đại hiệp, giải trừ hiệu ứng Khiêu khích và Né tránh, đồng thời xua tan 3 Debuff trên mục tiêu và bản thân. Đơn vị đang có Khớp Nối sau khi tấn công chủ động, Colphne · Kính Khắc tiêu hao 5 tầng Phản Phệ và nhận 1 điểm Infection Index, tối đa nhận 3 điểm Infection Index mỗi hiệp. Sau khi dùng kỹ năng nhận Thêm chỉ lệnh, và không thể dùng kỹ năng Quyết thắng Liệu Pháp Giải Ly.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Song Trùng Tồn Tại Lv.3</strong></td>\n<td>Khi bắt đầu hiệp phe ta không còn nhận Phản Phệ.<br>Thêm hiệu ứng mới cho Gương Ảnh: khi Gương Ảnh xuất hiện, áp dụng 1 tầng Rối Loạn Gương Ảnh lên toàn bộ kẻ địch trong bán kính 6 ô xung quanh.</td>\n<td>Khi kẻ địch đang có Trói Gương chết, bản thân nhận 1 điểm Infection Index (tối đa 3 điểm mỗi hiệp), và triệu hồi 1 Gương Ảnh Tha Nhân của mục tiêu đó xung quanh vị trí chết, duy trì 3 đại hiệp. Nếu mục tiêu là Doll, Thủ lĩnh, đơn vị cỡ lớn hoặc không thể sao chép, đổi thành triệu hồi 1 Gương Ảnh Bản Ngã, duy trì 3 đại hiệp.<br>Khi Gương Ảnh xuất hiện, áp dụng 1 tầng Viện Trợ Gương Ảnh lên toàn bộ đồng minh trong bán kính 6 ô xung quanh, đồng thời áp dụng 1 tầng Rối Loạn Gương Ảnh lên toàn bộ kẻ địch trong bán kính 6 ô xung quanh.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Bài Xỉ Đồng Nguồn Lv.3</strong></td>\n<td>Tiêu hao Infection giảm 1 điểm. Mỗi khi áp dụng 1 tầng Trói Gương, số tầng Phản Phệ bản thân nhận giảm xuống còn 5 tầng.</td>\n<td>\n<p>Chọn 1 ô địa hình trong bán kính 6 ô xung quanh để phóng, áp dụng 1 tầng Trói Gương lên toàn bộ kẻ địch trong bán kính 3 ô quanh điểm đó. Mỗi khi áp dụng 1 tầng Trói Gương, bản thân nhận 5 tầng Phản Phệ.<br>Sau khi dùng kỹ năng có thể thi triển lại kỹ năng này.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789985037003.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Contract Key·Chẩn Trị Hệ Chữa Lành</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1789984906978.png\" width=\"20\" height=\"20\"></sub> Tấn công +3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1789984983905.png\" width=\"20\" height=\"20\"></sub>&nbsp;HP +3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1789984995826.png\" width=\"20\" height=\"20\"></sub> Phòng thủ +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789985613943.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Diễn Tập Phẫu Thuật</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789985634310.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Tăng Tốc Bệnh Lý</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Bài Xỉ Đồng Nguồn hoặc kỹ năng Quyết thắng Liệu Pháp Giải Ly mà nhận được Thêm chỉ lệnh, có thể di chuyển 6 ô.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789985682117.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Tự Thân Nuốt Chửng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Doll đồng minh hoặc thực thể triệu hồi chết, bản thân nhận 1 điểm Infection Index, tối đa nhận 3 điểm Infection Index mỗi hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789985718575.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Thuốc Định Vị Mục Tiêu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, áp dụng 1 tầng Trói Gương lên đơn vị thường, đơn vị tinh anh và Thủ lĩnh có HP thấp nhất (mỗi loại 1 mục tiêu).</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789985756300.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Chịu Đựng Miễn Dịch</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Phản Phệ lần đầu đạt 100 tầng, xua tan 50 tầng hiệu ứng này. Mỗi trận chiến tối đa kích hoạt 1 lần.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789985798840.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Khám Bệnh Toàn Thời Gian</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi đứng trên ô địa hình thuộc hệ Hydro, sát thương phải nhận giảm 15%, sát thương ổn định phải nhận giảm 1 điểm.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789985842536.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Common Key·Hóa Thân Bóng Gương</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1789985885286.png\" width=\"20\" height=\"20\"></sub>HP +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Sau khi áp dụng Debuff, Phòng thủ tăng 7%, duy trì 1 đại hiệp.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">Support x5, Sentinel x2</td>\n<td style=\"text-align: center\">Sát thương của vật triệu hồi thực thể của bản thân tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">Support x8, Sentinel x3</td>\n<td style=\"text-align: center\">Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">Phòng vệ x1, Support x9, Hỏa lực x4</td>\n<td style=\"text-align: center\">Sát thương Hydro gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">Phòng vệ x2, Support x11, Hỏa lực x6</td>\n<td style=\"text-align: center\">Sát thương mọi đồng minh gây ra tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">Phòng vệ x2, Support x15, Hỏa lực x7</td>\n<td style=\"text-align: center\">Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">Phòng vệ x3, Support x18, Hỏa lực x8</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, tăng 3% ATK cho 2 đồng minh có ATK ban đầu cao nhất, không thể cộng dồn.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789978275789.png\"></td>\n<td>\n<h1><strong>Aldebaran &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10843\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">HG/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng lục chiến đấu tinh anh được nâng cấp bằng công nghệ Sangvis Ferri, lấy nguyên mẫu từ .380 Curva. Trong khi tăng đáng kể lực tấn công, còn bổ sung thêm hình thái cận chiến — cuối cùng cô cũng có sức mạnh để tự tay bảo vệ đồng đội.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; Sự kiện giới hạn</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<div>\n<p>&nbsp; Thiên sứ áo trắng bị thương, sau khi thoát khỏi xiềng xích của hận thù đã tìm lại được hướng đi phía trước.<br>Dù thân thể bị bóng tối nhuộm đen, tâm trí vẫn mang lòng thương xót với người vô tội. Để bi kịch từng trải qua không tái diễn, trong khi cứu chữa người bị thương, cô cũng sẽ bóp cò để tiêu diệt cái ác.</p>\n<p>「Ái chà, là Chỉ Huy nhỉ～ Yên tâm đi, lần này trái tim của tôi hoàn·toàn·thuộc về Chỉ Huy đó～」</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\" style=\"max-width: 100px\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\" style=\"max-width: 100px\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\" style=\"max-width: 100px\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1789720044001.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1789720080504.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789720080503.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789720080471.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789720080509.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1874,
+      "title": "Thường ngày-01",
+      "text": "Đội trưởng Groza thật sự rất ngầu, lại còn rất dịu dàng nữa! Giống như chị Amphia vậy…… Chỉ Huy, tôi tuyệt đối sẽ không để chuyện tương tự xảy ra với các đồng đội hiện tại.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988221475.wav"
+    },
+    {
+      "id": 1875,
+      "title": "Thường ngày-02",
+      "text": "Tôi quyết định sẽ cắt đôi tất cả kẻ thù muốn hại Chỉ Huy theo tiêu chuẩn giải phẫu đó～ Hihi, chỉ là đùa thôi……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988249102.wav"
+    },
+    {
+      "id": 1876,
+      "title": "Thường ngày-03",
+      "text": "Tôi nghe nói cô Agent trước đây cũng từng là kẻ thù của Chỉ Huy, vậy mà giờ lại trở thành hầu gái…… Ư oa～ Đây chính là nhân vọng rồi. Chỉ Huy, đáng sợ quá～",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988289634.wav"
+    },
+    {
+      "id": 1877,
+      "title": "Thường ngày-04",
+      "text": "Ư oa—— đã đến giờ này rồi! Chỉ Huy? Vẫn còn đang làm việc à? Làm việc kết hợp nghỉ ngơi rất quan trọng đó—— lời của bác sĩ, phải nghe nha.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1790046241868.wav"
+    },
+    {
+      "id": 1878,
+      "title": "Thường ngày-05",
+      "text": "Tùy tiện xoa đầu em là phải trả giá đó nha? Dù là Chỉ huy—— cũng·không·ngoại·lệ~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1790046250382.wav"
+    },
+    {
+      "id": 1879,
+      "title": "Nâng cấp-01",
+      "text": "Cắt đứt rồi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988610319.wav"
+    },
+    {
+      "id": 1880,
+      "title": "Nâng cấp-02",
+      "text": "Cảm giác không tệ~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988623986.wav"
+    },
+    {
+      "id": 1881,
+      "title": "Nâng cấp-03",
+      "text": "……Chỉ Huy thật sự là……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988635651.wav"
+    },
+    {
+      "id": 1882,
+      "title": "Nâng cấp-04",
+      "text": "Biết rồi～",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988649867.wav"
+    },
+    {
+      "id": 1883,
+      "title": "Nâng cấp-05",
+      "text": "Tôi đã có thể bảo vệ ngài rồi phải không.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988662142.wav"
+    },
+    {
+      "id": 1884,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls'——Frontline 2: Exilium~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988678629.wav"
+    },
+    {
+      "id": 1885,
+      "title": "Đăng nhập",
+      "text": "Y tế hay chiến đấu, đều giao cho Colphne nhé～",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988693476.wav"
+    },
+    {
+      "id": 1886,
+      "title": "Tâm sự-01",
+      "text": "Yo yo~ Chỉ Huy, tôi làm sô-cô-la việt quất đó—— á, Chỉ Huy đang mặt gì vậy, dựa vào màu sắc và hình dạng thì vị sẽ không tệ đâu~ Tóm, tóm lại, Chỉ Huy ăn một chút đi~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988717622.wav"
+    },
+    {
+      "id": 1887,
+      "title": "Tâm sự-02",
+      "text": "Kẻ thù của Chỉ Huy chính là kẻ thù của tôi～ Dù là ai…… người muốn cướp Chỉ Huy khỏi bên cạnh tôi, tôi sẽ không tha thứ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988734898.wav"
+    },
+    {
+      "id": 1888,
+      "title": "Tâm sự-03",
+      "text": "Có phải vì thay đổi thân thể không nhỉ? Tôi hình như càng không muốn rời xa Chỉ Huy hơn rồi…… Chỉ Huy, nhiệm vụ lần này, Colphne cũng muốn đi cùng! Được·không·được·đây～",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988749420.wav"
+    },
+    {
+      "id": 1889,
+      "title": "Tâm sự-04",
+      "text": "Ưm, Chỉ Huy! Tôi muốn—— tôi,…… không, không có gì.………… Ừm—— ngài chắc chắn muốn hỏi tiếp chứ, Chỉ Huy?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988762209.wav"
+    },
+    {
+      "id": 1890,
+      "title": "Tâm sự-05",
+      "text": "Ưm—— Chỉ Huy, Chỉ Huy sẽ không bỏ rơi đồng đội đúng không~? Á, chỉ, chỉ hỏi đại thôi,—— nhưng, câu trả lời là chắc chắn chứ, Chỉ Huy…… tôi, hừ, không cho Chỉ Huy trả lời “có”!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988775985.wav"
+    },
+    {
+      "id": 1891,
+      "title": "Tâm sự-06",
+      "text": "Ừm~? Chỉ Huy gần đây—— có làm gì kỳ lạ không~ Á, không, không phải!…… Thật là câu hỏi ngốc nghếch, nhưng Chỉ Huy—— trông khác trước, có cảm giác…… ừm, chắc là ảo giác!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988789630.wav"
+    },
+    {
+      "id": 1892,
+      "title": "Tâm sự-07",
+      "text": "Ưm…… Chỉ Huy, tôi vừa mới đưa ra quyết định rất quan trọng đó~! Gì, Chỉ Huy hỏi tôi là gì…… Chỉ Huy sẽ biết thôi. Chỉ cần, Chỉ Huy ở đây——",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988802176.wav"
+    },
+    {
+      "id": 1893,
+      "title": "Tâm sự-08",
+      "text": "Dù chuyện gì xảy ra～ tôi cũng tuyệt đối! Không rời xa Chỉ Huy nữa! Dù Chỉ Huy đuổi tôi đi cũng vậy. Chỉ…… Chỉ Huy sẽ không đuổi tôi đúng, đúng không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988815820.wav"
+    },
+    {
+      "id": 1894,
+      "title": "Vào đội",
+      "text": "Ái chà, là Chỉ Huy nhỉ～ Yên tâm đi, lần này trái tim của tôi hoàn·toàn·thuộc về Chỉ Huy đó～",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789988829997.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1271,
+      "title": "Ngữ khí-01",
+      "text": "Muốn cắt vụn hơn nữa không～?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989349532.wav"
+    },
+    {
+      "id": 1272,
+      "title": "Ngữ khí-02",
+      "text": "Đừng hòng lại gần!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989363654.wav"
+    },
+    {
+      "id": 1273,
+      "title": "Ngữ khí-03",
+      "text": "Chết đi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989375770.wav"
+    },
+    {
+      "id": 1274,
+      "title": "Ngữ khí-04",
+      "text": "Tôi sẽ không tha thứ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989389332.wav"
+    },
+    {
+      "id": 1275,
+      "title": "Ngữ khí-05",
+      "text": "……Đã chuẩn bị tinh thần chưa?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989401419.wav"
+    },
+    {
+      "id": 1276,
+      "title": "Ngữ khí-06",
+      "text": "Cho kẻ thù biến mất.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989414221.wav"
+    },
+    {
+      "id": 1277,
+      "title": "Ngữ khí-07",
+      "text": "Muốn chết à?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989425834.wav"
+    },
+    {
+      "id": 1278,
+      "title": "Ngữ khí-08",
+      "text": "Chỉ Huy…… mau đi……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989437630.wav"
+    },
+    {
+      "id": 1279,
+      "title": "Ngữ khí-09",
+      "text": "……Vẫn chưa thể,",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989448663.wav"
+    },
+    {
+      "id": 1280,
+      "title": "Ngữ khí-10",
+      "text": "Ưm,",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989460524.wav"
+    },
+    {
+      "id": 1281,
+      "title": "Kỹ năng-01",
+      "text": "Đây là cảnh cáo!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989474144.wav"
+    },
+    {
+      "id": 1282,
+      "title": "Kỹ năng-02",
+      "text": "Cắt thành vụn!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989485694.wav"
+    },
+    {
+      "id": 1283,
+      "title": "Kỹ năng-03",
+      "text": "Haa!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989504948.wav"
+    },
+    {
+      "id": 1284,
+      "title": "Kỹ năng-04",
+      "text": "Hơi đau một chút nhé.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989524359.wav"
+    },
+    {
+      "id": 1285,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Đừng lo, tôi sẽ xử lý ổn thỏa!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989558668.wav"
+    },
+    {
+      "id": 1286,
+      "title": "Hạ gục",
+      "text": "Hờ～ Đây chính là kết cục.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989572953.wav"
+    },
+    {
+      "id": 1287,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Tôi mạnh hơn trước nhiều rồi đúng không? Dù ai muốn hại Chỉ Huy, tôi cũng sẽ khiến chúng biến mất, hehe～",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989591809.wav"
+    },
+    {
+      "id": 1288,
+      "title": "Kết thúc trận-Thua",
+      "text": "Việc nhất định phải làm……vẫn chưa xong. Em chưa thể、dừng lại ở đây……tuyệt đối không——",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789989607822.wav"
+    }
+  ]
+}

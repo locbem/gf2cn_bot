@@ -1,0 +1,374 @@
+{
+  "id": 1066,
+  "name": "Voymastina",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044666308.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 1,
+  "role_id": 4,
+  "team_id": 13,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Physical",
+  "team": "Task Force DEFY",
+  "weapon": "Kalashnikova-15",
+  "model": "CSD-09B4M",
+  "ammo_model": "AR",
+  "desc": "Dù nhiệm vụ khó khăn đến đâu, Voymastina cũng luôn có cách đưa ra phương án thực thi khả thi. Trong đội, cô là lưỡi dao sắc bén nhất, tấm khiên vững chắc nhất, và cũng là mắt xích đáng tin cậy nhất của cả kế hoạch. Có điều đôi khi bạn sẽ thầm cảm thán: may mà cô ấy chưa từng đứng đối diện mình.\n“Muốn trở thành ‘T-Doll mạnh nhất’, chiến thuật, hiệu suất, kinh nghiệm... thứ nào cũng không thể thiếu.”",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1764140465464.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/威玛西娜移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013604185.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013616056.png"
+  },
+  "skins": [
+    {
+      "id": 26,
+      "name": "Elvin",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/威玛西娜pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/威玛西娜移动.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215306669.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215319317.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215333367.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>Tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Diệp Tri Thu</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Kaida Yūko</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=72\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>844</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>12</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>528</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>7</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1819</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo&nbsp;<span style=\"color: #ff6600\">Burn</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Tuyên Cáo Kinh Hồn",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545761683.png\"></p>\n</td>\n<td>\n<p>Tuyên Cáo Phá Đảm Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764397816085.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Bầy Sói Thiên Khung",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545777789.png\"></p>\n</td>\n<td>\n<p>Bầy Sói Thiên Khung Lv.1</p>\n<p>Chủ động/Diện rộng/Chi viện</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764397946917.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong bán kính 8 ô xung quanh, gây 120% sát thương Physical diện rộng theo ATK lên chúng và mọi kẻ địch trong bán kính 3 ô quanh chúng. Bị động: khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, thực hiện 1 lần chi viện hành động, gây 100% sát thương Physical diện rộng theo ATK và 3 điểm sát thương ổn định lên nó và mọi kẻ địch trong bán kính 3 ô quanh nó, mỗi hiệp kích hoạt tối đa 1 lần.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Đồng Tử Ngao Trắng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545791201.png\"></p>\n</td>\n<td>\n<p>Đồng Tử Ngao Trắng Lv.1</p>\n<p>Chủ động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764398056410.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Bản thân nhận Hệ Thống Nhãn Lang, duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n<p>Bản thân nhận Hệ Thống Nhãn Lang, duy trì 2 hiệp lớn. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>. Bị động: khi bắt đầu chiến đấu, gây 100% sát thương Physical theo ATK bỏ qua vật cản và 3 điểm sát thương ổn định lên 5 kẻ địch gần nhất trên toàn chiến trường. Bản thân miễn nhiễm sát thương và sát thương cố định, kéo dài đến khi hiệu ứng bị động này kết thúc.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Nanh Nhọn Bùng Nổ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545805062.png\"></p>\n</td>\n<td>\n<p>Nanh Sắc Bùng Nổ Lv.1</p>\n<p>Quyết thắng/Diện rộng/Di chuyển/Chi viện</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764398156881.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 hướng xung quanh, gây 200% sát thương Physical cận chiến diện rộng theo ATK bỏ qua vật cản lên mọi kẻ địch trong vùng 1×2 ô phía trước. Sau kỹ năng nhận Thêm di chuyển. Bị động: khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, thực hiện 1 lần chi viện hành động, xung phong tới ô trống trong phạm vi rộng 2 ô ngoài ô của mục tiêu đó, gây 150% sát thương Physical cận chiến đơn mục tiêu theo ATK bỏ qua vật cản và 3 điểm sát thương ổn định lên nó; nếu không có ô trống để xung phong thì bắn vào mục tiêu gây sát thương, mỗi hiệp kích hoạt tối đa 1 lần.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 5</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Lời Hứa Của Ngao Trắng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545824795.png\"></p>\n</td>\n<td>\n<p>Lời Hứa Của Ngao Trắng Lv.1</p>\n<p>Bị động/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764398264513.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Miễn nhiễm di chuyển và các debuff về di chuyển. Bản thân không được vật cản che chắn, sát thương nhận vào giảm 30%; Khi Chỉ số ổn định lớn hơn 0, mức giảm sát thương nhận vào tăng lên 80%. Khi gây sát thương Physical, bỏ qua 50% phòng thủ của mục tiêu. Sau khi dùng kỹ năng chủ động hoặc đánh thường, nhận 2 điểm Infection Index. Khi bản thân đầy Infection Index, tiêu hao toàn bộ Infection Index để nhận Quy Luật Săn Mồi.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Bầy Sói Thiên Khung Lv.2</strong></td>\n<td>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">180%</span>, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">2 điểm</span>, phạm vi hiệu lực tăng <span style=\"color: #ff9900\">2 ô</span>. Hệ số sát thương của bị động tăng lên <span style=\"color: #ff9900\">150%</span>, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">1 điểm</span>, phạm vi hiệu lực tăng <span style=\"color: #ff9900\">2 ô</span>.</td>\n<td>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">180%</span> sát thương Physical diện rộng theo ATK lên chúng và mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh chúng. Bị động: khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, gây <span style=\"color: #ff9900\">150%</span> sát thương Physical diện rộng theo ATK và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định lên nó và mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh nó, mỗi hiệp kích hoạt tối đa 1 lần.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Nanh Sắc Bùng Nổ Lv.2</strong></td>\n<td>Trước mỗi đòn tấn công chủ động và bị động của kỹ năng này, ATK bản thân tăng <span style=\"color: #ff9900\">10%</span>, duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>; đồng thời gây Phá Đảm lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây <span style=\"color: #ff9900\">200%</span> sát thương Physical cận chiến diện rộng theo ATK bỏ qua vật cản lên mọi kẻ địch trong vùng <span style=\"color: #ff9900\">1</span>×<span style=\"color: #ff9900\">2 ô</span> phía trước. Sau kỹ năng nhận Thêm di chuyển. Bị động: khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, xung phong tới ô trống trong phạm vi 2 ô ngoài ô của mục tiêu đó, gây <span style=\"color: #ff9900\">150%</span> sát thương Physical cận chiến theo ATK bỏ qua vật cản và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định lên nó, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>. Trước mỗi đòn tấn công chủ động và bị động của kỹ năng này, ATK bản thân tăng <span style=\"color: #ff9900\">10%</span>, duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>; đồng thời gây Phá Đảm lên mục tiêu, duy trì <span style=\"color: #00ccff\">2 hiệp lớn</span>.<br></span></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Đồng Tử Ngao Trắng Lv.2</strong></td>\n<td>Thời gian duy trì Hệ Thống Nhãn Lang tăng <span style=\"color: #ff9900\">1 hiệp lớn</span>; Hệ số sát thương tăng lên <span style=\"color: #ff9900\">130%</span>, và bỏ giới hạn tổng số lần kích hoạt; Thêm hiệu ứng: nếu có kẻ địch xuất hiện trong tầm bắn, gây <span style=\"color: #ff9900\">130%</span> sát thương đơn mục tiêu theo ATK và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định lên nó. Hệ số sát thương hiệu ứng bị động tăng lên <span style=\"color: #ff9900\">300%</span>, số mục tiêu có hiệu lực tăng lên <span style=\"color: #ff9900\">10</span>, sau khi tấn công gây Choáng, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Trước mỗi đòn tấn công chủ động và bị động của kỹ năng này, gây Hoảng Sợ lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n<td>Bản thân nhận Hệ Thống Nhãn Lang, duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span>. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>. Bị động: khi bắt đầu chiến đấu, gây <span style=\"color: #ff9900\">300%</span> sát thương Physical theo ATK bỏ qua vật cản và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định lên <span style=\"color: #ff9900\">10</span> kẻ địch gần nhất trên toàn chiến trường, đồng thời gây Choáng, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Bản thân miễn nhiễm sát thương và sát thương cố định, kéo dài đến khi hiệu ứng bị động này kết thúc. Trước mỗi đòn tấn công chủ động và bị động của kỹ năng này, gây Hoảng Sợ lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Bầy Sói Thiên Khung Lv.3</strong></td>\n<td>Bị động có thêm hiệu ứng: khi thực hiện bất kỳ chi viện hành động nào, nhận <span style=\"color: #ff9900\">1 tầng</span> Săn Mồi Phối Hợp.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">180%</span> sát thương Physical diện rộng theo ATK lên chúng và mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh chúng. Bị động: khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, gây <span style=\"color: #ff9900\">150%</span> sát thương Physical diện rộng theo ATK và <span style=\"color: #ff9900\">4 điểm</span> sát thương ổn định lên nó và mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh nó, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>. Khi thực hiện bất kỳ chi viện hành động nào, nhận <span style=\"color: #ff9900\">1 tầng</span> Săn Mồi Phối Hợp.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Nanh Sắc Bùng Nổ Lv.3</strong></td>\n<td>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">300%</span>. Nếu bản thân có Quy Luật Săn Mồi, ATK tăng <span style=\"color: #ff9900\">30%</span>. Trước mỗi đòn tấn công chủ động và bị động của kỹ năng này, gây Giảm phòng thủ II lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây <span style=\"color: #ff9900\">300%</span> sát thương Physical cận chiến diện rộng theo ATK bỏ qua vật cản lên mọi kẻ địch trong vùng <span style=\"color: #ff9900\">1</span>×<span style=\"color: #ff9900\">2 ô</span> phía trước. Nếu bản thân có Quy Luật Săn Mồi, ATK tăng <span style=\"color: #ff9900\">30%</span>. Sau kỹ năng nhận Thêm di chuyển. Bị động: khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, xung phong tới ô trống trong phạm vi 2 ô ngoài ô của mục tiêu đó, gây <span style=\"color: #ff9900\">150%</span> sát thương Physical cận chiến theo ATK bỏ qua vật cản và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định lên nó; nếu không có ô trống để xung phong thì tấn công mục tiêu bằng cách bắn gây sát thương, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>. Trước mỗi đòn tấn công chủ động và bị động của kỹ năng này, ATK bản thân tăng <span style=\"color: #ff9900\">10%</span>, duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>; Gây Phá Đảm duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span> và Giảm phòng thủ II duy trì <span style=\"color: #ff9900\">2 hiệp</span> lên mục tiêu.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Lời Hứa Của Ngao Trắng Lv.2</strong></td>\n<td>Điểm hành động tăng <span style=\"color: #ff9900\">2 ô</span>. Khi bắt đầu chiến đấu, nhận Kẻ Truy Săn; Mỗi hiệp lớn, khi dùng từ <span style=\"color: #ff9900\">2</span> loại kỹ năng chủ động trở lên hoặc hiệu ứng bị động của chúng gây sát thương, nhận Kẻ Truy Săn hoặc làm mới thời gian duy trì của nó. Mỗi 1 lần tấn công chi viện, nhận <span style=\"color: #ff9900\">1 tầng</span> Nhịp Điệu Săn. Khi ATK tăng, tăng phòng thủ bằng <span style=\"color: #ff9900\">50%</span> giá trị ATK tăng thêm, tối đa tăng <span style=\"color: #ff9900\">30%</span> phòng thủ ban đầu. Khi gây sát thương Physical, tỷ lệ bỏ qua phòng thủ của mục tiêu tăng lên <span style=\"color: #ff9900\">125%</span>.</td>\n<td>Miễn nhiễm di chuyển và các debuff về di chuyển. Điểm hành động tăng <span style=\"color: #ff9900\">2 ô</span>. Bản thân không được vật cản che chắn, sát thương nhận vào giảm <span style=\"color: #ff9900\">30%</span>; Khi Chỉ số ổn định lớn hơn 0, mức giảm sát thương nhận vào tăng lên <span style=\"color: #ff9900\">80%</span>. Khi bắt đầu chiến đấu, nhận Kẻ Truy Săn, duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>; Mỗi hiệp lớn, khi dùng từ <span style=\"color: #ff9900\">2</span> loại kỹ năng chủ động trở lên hoặc hiệu ứng bị động của chúng gây sát thương, nhận Kẻ Truy Săn hoặc làm mới thời gian duy trì của nó. Mỗi <span style=\"color: #ff9900\">1 lần</span> tấn công chi viện, nhận <span style=\"color: #ff9900\">1 tầng</span> Nhịp Điệu Săn. Khi ATK tăng, tăng phòng thủ bằng <span style=\"color: #ff9900\">50%</span> giá trị ATK tăng thêm, tối đa tăng <span style=\"color: #ff9900\">30%</span> phòng thủ ban đầu. Khi gây sát thương Physical, bỏ qua <span style=\"color: #ff9900\">125%</span> phòng thủ của mục tiêu. Sau khi dùng kỹ năng chủ động hoặc đánh thường, nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index. Khi bản thân đầy Infection Index, tiêu hao toàn bộ Infection Index để nhận Quy Luật Săn Mồi.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545837689.png\"></td>\n<td>\n<h2>Contract Key·Lặng Lẽ Chờ Đợi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764396747429.png\" width=\"20\" height=\"20\"></sub>Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545852889.png\"></td>\n<td>\n<h2>Fixed Key·Màn Mảnh Vỡ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi kỹ năng chủ động Bầy Sói Thiên Khung và bị động của nó trúng đơn vị thủ lĩnh hoặc từ 3 kẻ địch trở lên, nhận Khiên tác dụng nhanh.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545868509.png\"></td>\n<td>\n<h2>Fixed Key·Tầm Nhìn Rộng Lớn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi kích hoạt bị động của kỹ năng Quyết thắng Nanh Sắc Bùng Nổ, nhận Tăng di chuyển II, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545906937.png\"></td>\n<td>\n<h2>Fixed Key·Săn Bắt Toàn Vực</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Tầm bắn của mọi chi viện hành động đổi thành toàn chiến trường, sát thương gây lên đơn vị không phải thủ lĩnh tăng 30%.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545920607.png\"></td>\n<td>\n<h2>Fixed Key·Tuyệt Sát Cô Lập</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kỹ năng chủ động Bầy Sói Thiên Khung và bị động của nó chỉ trúng 1 kẻ địch, sát thương gây ra tăng 20%, sát thương ổn định tăng 2 điểm.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545936558.png\"></td>\n<td>\n<h2>Fixed Key·Kẻ Diệt Cường Giả</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi tấn công, bản thân nhận Phản Phòng Tăng Sát, duy trì 3 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545952075.png\"></td>\n<td>\n<h2>Fixed Key·Vết Thương Là Sức Mạnh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi bị tấn công, lần dùng kỹ năng Quyết thắng Nanh Sắc Bùng Nổ tiếp theo gây sát thương tăng 15%.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545966186.png\"></td>\n<td>\n<h2>Common Key·Liên Khúc Xé Rách</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><img src=\"https://community-cdn.exiliumgf.com/prod/1764399117979.png\" width=\"20\">Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi gây sát thương cận chiến, sát thương Physical tăng 10%, duy trì 1 hiệp lớn.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*1 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi gây sát thương cận chiến, sát thương gây ra tăng 8%&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*2 Sentinel*7&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*3 Sentinel*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*4 Sentinel*11&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*4 Sentinel*15&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*6 Sentinel*18&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra khi tấn công chỉ trúng 1 kẻ địch tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763893892603.png\"></td>\n<td>\n<h1><strong>6P71 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10663\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng trường tấn công hiệu năng cao được cấp cho Voymastina, lấy súng trường tấn công Kalashnikov 15 làm nguyên mẫu, sau cải tạo có hỏa lực đầu ra mạnh mẽ, giúp Voymastina chiếm ưu thế áp đảo trong giao chiến tầm trung và gần. Trên chiến trường, bám sát bước chân cô, phạm vi hỏa lực của cô chính là nơi an toàn.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=92411&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1754648300407.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=89055&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1753783114322.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=89660&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1753974693339.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=89039&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1753782891607.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; Từng được tôn là \"T-Doll mạnh nhất\", cũng là lưỡi dao vô địch của Task Force DEFY, mật danh \"Ngao Trắng\". Mười năm trước phục vụ tại Cục An ninh Tân Liên Xô, hiện trên danh nghĩa đã rời tổ chức, với tư cách T-Doll vô chủ thực hiện nhiệm vụ tiêu diệt Paradeus.</p>\n<p><br>&nbsp; Thân hình cao lớn, lạnh lùng cẩn trọng, thường tự coi mình là \"vũ khí\", rất coi trọng hiệu suất hành động. Là một người thực thi xuất sắc, dù không đồng tình với phương án tác chiến của người chỉ huy, cô vẫn làm theo kế hoạch từng bước một. Cô luôn mang theo bộ giáp cơ khí ngoại cốt \"Kẻ Phán Tội\", dùng hỏa lực vô song quét sạch mọi chướng ngại trước mặt.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778222031786.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222031785.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778222087205.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222087117.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222087123.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222108755.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222108754.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222108629.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778222108795.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1753433777763.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1753433791576.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1753433814219.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1753433834256.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1753433854016.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1753433869622.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1753433885010.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1753433903776.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1753433916961.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779163920902.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779163900499.png\"> &nbsp;<img src=\"https://community-cdn.exiliumgf.com/prod/1779165126837.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165032235.png\" style=\"max-width: 92px\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165146053.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165161555.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1323,
+      "title": "Thường ngày-01",
+      "text": "Chỉ huy, anh/chị hiểu ý nghĩa cái tên \"Defy\" không? Không…… Tôi chỉ không hiểu vì sao Tiến sĩ Tiêu lại thiết kế logic nền tảng như vậy cho T-Doll. Vô điều kiện phục tùng mệnh lệnh, chẳng phải là ưu điểm lớn nhất của T-Doll sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Daily_001.wav"
+    },
+    {
+      "id": 1324,
+      "title": "Thường ngày-02",
+      "text": "Không nghi ngờ gì, Alva là một đội trưởng xứng chức. Nên dù đôi khi tôi không hiểu ý cô ấy, tôi cũng sẽ chấp hành không do dự.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Daily_002.wav"
+    },
+    {
+      "id": 1325,
+      "title": "Thường ngày-03",
+      "text": "Đương nhiên, tôi thích yên tĩnh. Nhưng nếu anh/chị muốn trò chuyện, tôi cũng sẵn lòng tiếp chuyện.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Daily_003.wav"
+    },
+    {
+      "id": 1326,
+      "title": "Thường ngày-04",
+      "text": "Hiệu năng không đại diện cho tất cả. Muốn trở thành \"T-Doll mạnh nhất\", chiến thuật, hiệu suất, kinh nghiệm…… thứ nào cũng không thể thiếu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Daily_004.wav"
+    },
+    {
+      "id": 1327,
+      "title": "Thường ngày-05",
+      "text": "Các thành viên Task Force DEFY không hay trò chuyện với nhau. Có lẽ vì hễ mở lời là sẽ không tránh khỏi nhắc đến một vài người.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Daily_005.wav"
+    },
+    {
+      "id": 1328,
+      "title": "Nâng cấp-01",
+      "text": "Chỉ đến mức này thôi sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Up_001.wav"
+    },
+    {
+      "id": 1329,
+      "title": "Nâng cấp-02",
+      "text": "Còn có thể mạnh hơn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Up_002.wav"
+    },
+    {
+      "id": 1330,
+      "title": "Nâng cấp-03",
+      "text": "Chỉ có hiệu năng thôi thì còn lâu mới đủ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Up_003.wav"
+    },
+    {
+      "id": 1331,
+      "title": "Nâng cấp-04",
+      "text": "Quả không hổ là thiết kế của Tiến sĩ Tiêu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Up_004.wav"
+    },
+    {
+      "id": 1332,
+      "title": "Nâng cấp-05",
+      "text": "Tôi sẽ dọn sạch mọi chướng ngại cho ngài.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Up_005.wav"
+    },
+    {
+      "id": 1333,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Title_001.wav"
+    },
+    {
+      "id": 1334,
+      "title": "Đăng nhập",
+      "text": "Hôm nay ngài rất đúng giờ. Lịch trình đã gửi đến ngài rồi, nếu ngài không có ý kiến thì xin hãy bắt tay xử lý ngay.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Login_001.wav"
+    },
+    {
+      "id": 1335,
+      "title": "Tâm sự-01",
+      "text": "Tôi đã phân tích và sắp xếp dữ liệu của vài lần thử nghiệm gần đây. Mời ngài xem qua.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 1336,
+      "title": "Tâm sự-02",
+      "text": "Tôi không nghi ngờ quyết định của ngài. Nhưng nếu nhất định phải làm vậy, xin cho phép tôi lập kế hoạch thực hiện chi tiết hơn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 1337,
+      "title": "Tâm sự-03",
+      "text": "Trước khi ngài xuất phát, xin cho phép tôi kiểm tra trang bị phòng hộ của ngài lần cuối.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 1338,
+      "title": "Tâm sự-04",
+      "text": "Xin đừng rời xa tôi quá. Trong phạm vi hỏa lực của tôi chính là nơi an toàn nhất.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 1339,
+      "title": "Tâm sự-05",
+      "text": "Công việc trong tay ngài nhiều lắm sao? Xin đừng hiểu lầm, tôi không định làm thay ngài… nhưng tôi có thể giúp ngài sắp xếp phương án tiến hành hiệu quả nhất.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 1340,
+      "title": "Tâm sự-06",
+      "text": "Nhiệm vụ sắp tới rất nguy hiểm. Nếu ngài nhất quyết đích thân đi, xin cho phép tôi đi cùng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 1341,
+      "title": "Tâm sự-07",
+      "text": "Xin lỗi, tôi chưa hiểu ý ngài. Tại sao lại hẹn nói chuyện vào buổi tối? Như vậy ngài sẽ không đảm bảo được giấc ngủ lành mạnh… Tất nhiên, nếu đó là sắp xếp của ngài, tôi sẽ có mặt đúng giờ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 1342,
+      "title": "Tâm sự-08",
+      "text": "Tôi quả thực đã nói DEFY không cần chỉ huy mới. Nhưng nếu người đó là ngài, tôi sẽ dâng hiến toàn bộ lòng trung thành.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 1344,
+      "title": "Vào đội",
+      "text": "Để ngài đợi lâu rồi, Chỉ huy. So với hư danh \"T-Doll thế hệ hai mạnh nhất\", tôi hy vọng ngài đặt trọng tâm vào những điều thực tế hơn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 802,
+      "title": "Ngữ khí-01",
+      "text": "Tôi đây.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 803,
+      "title": "Ngữ khí-02",
+      "text": "Chỉ có thế thôi sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 804,
+      "title": "Ngữ khí-03",
+      "text": "Chậc……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 805,
+      "title": "Ngữ khí-04",
+      "text": "Lựa chọn sáng suốt.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 806,
+      "title": "Ngữ khí-05",
+      "text": "Có cần giữ lại người sống không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 807,
+      "title": "Ngữ khí-06",
+      "text": "Đã sẵn sàng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 808,
+      "title": "Ngữ khí-07",
+      "text": "Động cơ đã kích hoạt.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 809,
+      "title": "Ngữ khí-08",
+      "text": "Đừng bận tâm đến tôi……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 810,
+      "title": "Ngữ khí-09",
+      "text": "Tôi chỉ còn hai băng đạn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 811,
+      "title": "Ngữ khí-10",
+      "text": "Chỉ thế này thôi sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Series_Tone_Negative_003.wav"
+    },
+    {
+      "id": 812,
+      "title": "Kỹ năng-01",
+      "text": "Mau kết thúc thôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Skill_001.wav"
+    },
+    {
+      "id": 813,
+      "title": "Kỹ năng-02",
+      "text": "Chạy thoát được sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Skill_002.wav"
+    },
+    {
+      "id": 814,
+      "title": "Kỹ năng-03",
+      "text": "Giãy giụa vô ích.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Hit_001.wav"
+    },
+    {
+      "id": 819,
+      "title": "Kỹ năng-04",
+      "text": "Bất ngờ lắm sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 818,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "\"Kẻ Xử Tội\", mở công suất tối đa!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 815,
+      "title": "Hạ gục",
+      "text": "Tiếp theo.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Kill_001.wav"
+    },
+    {
+      "id": 816,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Mục tiêu tiếp theo là gì?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Win_001.wav"
+    },
+    {
+      "id": 817,
+      "title": "Kết thúc trận-Thua",
+      "text": "Tôi sẽ chịu toàn bộ trách nhiệm.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VoymastinaCV/VO_Voymastina_Single_Lose_001.wav"
+    }
+  ]
+}

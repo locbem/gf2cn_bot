@@ -1,0 +1,374 @@
+{
+  "id": 1022,
+  "name": "Sharkry",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045368592.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 2,
+  "role_id": 4,
+  "team_id": 8,
+  "rarity_level": 4,
+  "rarity": "T-Doll Elite",
+  "role": "Sentinel",
+  "attr": "Burn",
+  "team": "Zucchero Café",
+  "weapon": "Robinson XCR",
+  "model": "SSD-62D",
+  "ammo_model": "AR",
+  "desc": "T-Doll mang khí chất \"tiểu ác ma\", sau nụ cười ngọt ngào là những toan tính đáng yêu. Thứ cô muốn không chỉ là sân khấu, mà còn là tình yêu không bao giờ cạn của các vị khách nhé♥",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/夏克里pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/夏克里移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014846544.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014856175.png"
+  },
+  "skins": [
+    {
+      "id": 17,
+      "name": "Ngôi Sao Bơi Lội",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/夏克里泳装pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/夏克里泳装移动.png"
+    },
+    {
+      "id": 81,
+      "name": "Chủ Tiệm Tạm Quyền",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1782787076804.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1782787109964.png"
+    }
+  ],
+  "gifs": [],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Lưu Văn</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Machico</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>679</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>463</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>5</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1706</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Medium Ammo&nbsp;<span style=\"color: #800080\">Corrosion</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Bắn Trái Tim",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560458622.png\"></p>\n</td>\n<td>\n<p>Phóng Trái Tim Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764497067315.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Âm Lãng Bỏng Rát",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560497769.png\"></p>\n</td>\n<td>\n<p>Sóng Âm Nóng Bỏng Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764497122275.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #00ccff\">Overflow Fire</span> duy trì <span style=\"color: #ff9900\">1 hiệp</span>; và gây <span style=\"color: #ff9900\">140%</span> Tấn công sát thương Burn. Nếu bản thân có Tụ Tiêu, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">1 điểm</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Lên Tông Hoàn Hảo",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560514805.png\"></p>\n</td>\n<td>\n<p>Lên Tông Hoàn Hảo Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Buff/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764497177439.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">150%</span> Tấn công sát thương Physical, và nhận Tụ Tiêu. Nếu mục tiêu có <span style=\"color: #00ccff\">Overflow Fire</span>, trước khi tấn công gây <span style=\"color: #ff9900\">2 tầng</span> Vật Dễ Cháy lên nó, loại sát thương đổi thành sát thương Burn.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Khoảnh Khắc Tỏa Sáng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560531560.png\"></p>\n</td>\n<td>\n<p>Khoảnh Khắc Tỏa Sáng Lv.1</p>\n<p>Quyết thắng/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764497242984.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Nhận <span style=\"color: #ff9900\">1 tầng</span> Tụ Tiêu, và nhận <span style=\"color: #ff9900\">1 lần</span> <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Chỉnh Trang Điểm",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560546274.png\"></p>\n</td>\n<td>\n<p>Dặm Lại Lớp Trang Điểm Lv.1</p>\n<p>Bị động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764497295052.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu hành động, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index; Khi kẻ địch bị gây <span style=\"color: #00ccff\">Overflow Fire</span>, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Tỉ lệ chí mạng lên mục tiêu có <span style=\"color: #00ccff\">Overflow Fire</span> tăng <span style=\"color: #ff9900\">20%</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Sóng Âm Nóng Bỏng Lv.2</strong></td>\n<td style=\"text-align: center\">Thời gian <span style=\"color: #00ccff\">Overflow Fire</span> tăng <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong bán kính 8 ô, gây <span style=\"color: #00ccff\">Overflow Fire</span> duy trì <span style=\"color: #ff9900\">2 hiệp</span>; và gây <span style=\"color: #ff9900\">140%</span> Tấn công sát thương Burn. Nếu bản thân có Tụ Tiêu, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">1 điểm</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 2</strong></td>\n<td><strong>Khoảnh Khắc Tỏa Sáng Lv.2</strong></td>\n<td>Gây Tăng sát thương I lên bản thân duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td>Nhận <span style=\"color: #ff9900\">1 tầng</span> Tụ Tiêu; Tăng sát thương I duy trì <span style=\"color: #ff9900\">1 hiệp</span>. và nhận <span style=\"color: #00ccff\">1 lần</span> Thêm chỉ lệnh.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Lên Tông Hoàn Hảo Lv.2</strong></td>\n<td>Nếu hạ gục mục tiêu, nhận thêm <span style=\"color: #ff9900\">1 tầng</span> Tụ Tiêu.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong bán kính 8 ô, gây <span style=\"color: #ff9900\">150%</span> Tấn công sát thương Physical, và nhận Tụ Tiêu. Nếu mục tiêu có <span style=\"color: #00ccff\">Overflow Fire</span>, trước khi tấn công gây <span style=\"color: #ff9900\">2 tầng</span> Vật Dễ Cháy lên nó, loại sát thương đổi thành sát thương Burn. Nếu hạ gục mục tiêu, nhận thêm <span style=\"color: #ff9900\">1 tầng</span> Tụ Tiêu.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 4</strong></td>\n<td><strong>Dặm Lại Lớp Trang Điểm Lv.2</strong></td>\n<td>Mức tăng tỉ lệ chí mạng lên mục tiêu có <span style=\"color: #00ccff\">Overflow Fire</span> tăng thêm <span style=\"color: #ff9900\">10%</span>. Cứ mỗi buff đang có, sát thương chí mạng tăng <span style=\"color: #ff9900\">3%</span>, tối đa <span style=\"color: #ff9900\">15%</span>.</td>\n<td>Khi bắt đầu hành động, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index; Khi kẻ địch bị gây <span style=\"color: #00ccff\">Overflow Fire</span>, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Tỉ lệ chí mạng lên mục tiêu có <span style=\"color: #00ccff\">Overflow Fire</span> tăng <span style=\"color: #ff9900\">30%</span>. Cứ mỗi buff đang có, sát thương chí mạng tăng <span style=\"color: #ff9900\">3%</span>, tối đa <span style=\"color: #ff9900\">15%</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Khoảnh Khắc Tỏa Sáng Lv.3</strong></td>\n<td>Hiệu quả Tụ Tiêu được nâng cao, mức tăng sát thương gây ra tăng thêm <span style=\"color: #ff9900\">5%</span>.</td>\n<td>Nhận <span style=\"color: #ff9900\">1 tầng</span> Tụ Tiêu; Tăng sát thương I duy trì <span style=\"color: #ff9900\">1 hiệp</span>. và nhận <span style=\"color: #ff9900\">1 lần</span> <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Dặm Lại Lớp Trang Điểm Lv.3</strong></td>\n<td>Khi bắt đầu hành động, nhận <span style=\"color: #ff9900\">1 tầng</span> Tụ Tiêu.</td>\n<td>Khi bắt đầu hành động, nhận <span style=\"color: #ff9900\">1 tầng</span> Tụ Tiêu và <span style=\"color: #ff9900\">1 điểm</span> Infection Index; Khi kẻ địch bị gây <span style=\"color: #00ccff\">Overflow Fire</span>, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Tỉ lệ chí mạng lên mục tiêu có <span style=\"color: #00ccff\">Overflow Fire</span> tăng <span style=\"color: #ff9900\">30%</span>. Cứ mỗi buff đang có, sát thương chí mạng tăng <span style=\"color: #ff9900\">3%</span>, tối đa <span style=\"color: #ff9900\">15%</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560636372.png\"></td>\n<td>\n<h2>Contract Key·Giác Ngộ Của Idol</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764497375575.png\" width=\"20\"></sub>HP +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560653074.png\"></td>\n<td>\n<h2>Fixed Key·Lời Thì Thầm Tiểu Ác Ma</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560671857.png\"></td>\n<td>\n<h2>Fixed Key·Sóng Nhiệt Hồi Đáp</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kẻ địch trong tầm bắn bị gây <span style=\"color: #00ccff\">Overflow Fire</span>, thực hiện 1 lần chi viện tùy cơ lên nó, gây 80% Tấn công sát thương Physical và 2 điểm sát thương ổn định. Mỗi hiệp kích hoạt tối đa 3 lần.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560685705.png\"></td>\n<td>\n<h2>Fixed Key·Cám Dỗ Chí Mạng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu hành động, nếu trên sân có kẻ địch có <span style=\"color: #00ccff\">Overflow Fire</span>, bản thân nhận Thế Công Nóng Bỏng II duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560700154.png\"></td>\n<td>\n<h2>Fixed Key·Ngày Idol Tu Nghiệp</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Lên Tông Hoàn Hảo, nếu mục tiêu có <span style=\"color: #00ccff\">Overflow Fire</span>, trước khi tấn công nhận Công Thế Nóng Rực II, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560718952.png\"></td>\n<td>\n<h2>Fixed Key·Mục Tiêu Là Trái Tim Bạn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Âm Ba Nóng Bỏng, nếu hạ gục thì nhận 1 tầng Tập Trung.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560740831.png\"></td>\n<td>\n<h2>Fixed Key·Nụ Hôn Gió Trong Lòng Bàn Tay</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi tấn công mục tiêu có <span style=\"color: #00ccff\">Overflow Fire</span>, hồi 20% HP tối đa của bản thân.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560778627.png\"></td>\n<td>\n<h2>Common Key·Pháo Hoa Khởi Động</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764499887399.png\" width=\"20\"></sub>Chí mạng 3%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Nếu số buff của bản thân lớn hơn 1, sát thương gây ra tăng 7%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784560794249.png\"></td>\n<td>\n<h2>Expansion Key·Nhịp Điệu Nhiệt Huyết</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sát thương của chi viện tùy cơ chuyển thành sát thương Burn.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*2 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp; Sát thương của chi viện tấn công tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*3 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*5 Sentinel*7&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Burn gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*6 Sentinel*9&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*6 Sentinel*13&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*9 Sentinel*15&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra khi tấn công chỉ trúng 1 kẻ địch tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763994722980.png\"></td>\n<td>\n<h1><strong>Robinson XCR &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=11031\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng có độ tương thích cao với Sharkry, được cải tiến theo sở thích tác chiến của cô, độ cân bằng của súng được cải thiện, độ chính xác khi bắn cũng tăng lên.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Mua sắm thường</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\"><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=231&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1717560550110.png\"></a></td>\n<td style=\"text-align: center\"><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=81&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1716878583442.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll mang khí chất \"tiểu ác ma\", sau nụ cười ngọt ngào là những toan tính đáng yêu. Thứ cô muốn không chỉ là sân khấu, mà còn là tình yêu không bao giờ cạn của các vị khách nhé♥</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778313587092.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778313587210.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778313614577.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778313624814.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778313614627.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782787135323.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778313614625.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778313614576.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778313614639.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778313624815.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782787141400.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1777024670444.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1777024688698.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1777024710629.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1777024730563.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1777024741823.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1777024754577.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1777024765774.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1777024777369.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1777024787637.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779165697482.png\" style=\"max-width: 92px\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165697354.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784705677845.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784705668582.jpeg\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1537,
+      "title": "Thường ngày-01",
+      "text": "Chỉ huy, có muốn một ly latte Sân Khấu Tỏa Sáng giới hạn mùa hè của Sharkry không? Ở Zucchero Café là món hot lắm đó~ Tiện nói luôn, là Sharkry đích·thân pha nha♥",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883259989.wav"
+    },
+    {
+      "id": 1538,
+      "title": "Thường ngày-02",
+      "text": "Để thấy nụ cười của mọi người, Sharkry sẽ \"không từ thủ đoạn\" đó~ Hihi♥",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883283423.wav"
+    },
+    {
+      "id": 1539,
+      "title": "Thường ngày-03",
+      "text": "Hả? Lấy mỹ phẩm ra từ đâu á? Hihi, mỹ phẩm chính là vũ khí của idol, Sharkry lúc nào cũng sẵn sàng chiến đấu!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883304143.wav"
+    },
+    {
+      "id": 1540,
+      "title": "Thường ngày-04",
+      "text": "Ừm……làm sao kết hợp chiến đấu và biểu diễn nhỉ? Ơ, Vepley cũng đang nghĩ chuyện này sao? Vậy mình còn phải nghĩ cách thắng cô ấy nữa!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883326136.wav"
+    },
+    {
+      "id": 1541,
+      "title": "Thường ngày-05",
+      "text": "Tạo hình hôm nay của Sharkry đẹp không? Đây là set đồ được bình chọn được yêu thích nhất của 《Trend~! Xu hướng thời hậu kỳ》 đó~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883339366.wav"
+    },
+    {
+      "id": 1542,
+      "title": "Nâng cấp-01",
+      "text": "Sharkry có dễ thương hơn không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883360510.wav"
+    },
+    {
+      "id": 1543,
+      "title": "Nâng cấp-02",
+      "text": "Tình cảm của mọi người, Sharkry cảm nhận được rồi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883374132.wav"
+    },
+    {
+      "id": 1544,
+      "title": "Nâng cấp-03",
+      "text": "Cứ thế này, nhất định có thể……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883397065.wav"
+    },
+    {
+      "id": 1545,
+      "title": "Nâng cấp-04",
+      "text": "Lần sau thử điệu nhảy khó hơn nhé?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883409843.wav"
+    },
+    {
+      "id": 1546,
+      "title": "Nâng cấp-05",
+      "text": "Sharkry, mục tiêu NO.1!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883433935.wav"
+    },
+    {
+      "id": 1547,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium♥",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883444777.wav"
+    },
+    {
+      "id": 1548,
+      "title": "Đăng nhập",
+      "text": "Chỉ huy, ngài đến đúng lúc lắm, mau giúp Sharkry xem hôm nay nên mặc bộ trang phục biểu diễn nào?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883465415.wav"
+    },
+    {
+      "id": 1549,
+      "title": "Tâm sự-01",
+      "text": "Chỉ huy trông không vui lắm nhỉ, nếu cần, Sharkry có thể dâng tặng Chỉ huy màn biểu diễn hoàn hảo nhất bất cứ lúc nào!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883507155.wav"
+    },
+    {
+      "id": 1550,
+      "title": "Tâm sự-02",
+      "text": "Chỉ huy, vận động cơ thể giúp tiết dopamine khiến người ta vui vẻ đó! Ngay bây giờ, cùng Sharkry nhảy lên nào?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765947188197.wav"
+    },
+    {
+      "id": 1551,
+      "title": "Tâm sự-03",
+      "text": "Chỉ huy, không được nhíu mày nha, trông ngài mệt mỏi quá, để em hát ru ngài nhé?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883555297.wav"
+    },
+    {
+      "id": 1552,
+      "title": "Tâm sự-04",
+      "text": "Khụ khụ, Chỉ huy, hình ảnh rất quan trọng, có muốn em trang điểm giúp không? Hihi, sẽ không chơi khăm đâu, yên tâm nha♥",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883572942.wav"
+    },
+    {
+      "id": 1553,
+      "title": "Tâm sự-05",
+      "text": "Dạo này, em cứ quen tìm ánh mắt của Chỉ huy ở khán đài, ngài phải ngồi hàng đầu đó nha, như vậy em liếc mắt là thấy ngay ngài.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883598865.wav"
+    },
+    {
+      "id": 1554,
+      "title": "Tâm sự-06",
+      "text": "Chỉ huy, tối nay sau buổi diễn có thể cho em mượn chút thời gian của ngài không? Một tiếng……không, nửa tiếng thôi! Có nơi muốn dẫn ngài đi xem! Chỉ hai chúng ta, lén đi thôi♥ Hihi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883612218.wav"
+    },
+    {
+      "id": 1555,
+      "title": "Tâm sự-07",
+      "text": "Chỉ——huy, sao cứ nhìn em mãi vậy? Mặt em có gì không ổn à? Hihi, hết cách với ngài rồi~ Nhìn đi nhìn đi, em là idol không tì vết 360 độ đó~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883636204.wav"
+    },
+    {
+      "id": 1561,
+      "title": "Tâm sự-08",
+      "text": "Ừm……dạo này lúc giao lưu với khán giả, không khí không sôi nổi lắm, hôn gió, wink gì đó đều lỗi thời rồi, cần tương tác đặc biệt hơn…… Hihi♥ Chỉ huy, ngài có thể làm đối tượng luyện tập của em không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883145376.wav"
+    },
+    {
+      "id": 1562,
+      "title": "Vào đội",
+      "text": "Hihi, chuẩn bị xong rồi♥ Người may mắn bị Sharkry \"bắn trúng\" sẽ là ai nhỉ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765883729617.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 968,
+      "title": "Ngữ khí-01",
+      "text": "Hihi♥",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765894610964.wav"
+    },
+    {
+      "id": 969,
+      "title": "Ngữ khí-02",
+      "text": "Yeah~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765894643965.wav"
+    },
+    {
+      "id": 970,
+      "title": "Ngữ khí-03",
+      "text": "Cảm ơn♥",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765894692460.wav"
+    },
+    {
+      "id": 971,
+      "title": "Ngữ khí-04",
+      "text": "Không được sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765894714000.wav"
+    },
+    {
+      "id": 972,
+      "title": "Ngữ khí-05",
+      "text": "Ừm……ể?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765894807654.wav"
+    },
+    {
+      "id": 973,
+      "title": "Ngữ khí-06",
+      "text": "Nhờ ngài mà~!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765894852360.wav"
+    },
+    {
+      "id": 974,
+      "title": "Ngữ khí-07",
+      "text": "Mai gặp nhé~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765894879304.wav"
+    },
+    {
+      "id": 975,
+      "title": "Ngữ khí-08",
+      "text": "Dễ thương quá!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765894904428.wav"
+    },
+    {
+      "id": 976,
+      "title": "Ngữ khí-09",
+      "text": "Đến rồi đến rồi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765894924448.wav"
+    },
+    {
+      "id": 977,
+      "title": "Ngữ khí-10",
+      "text": "Được——",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765894945786.wav"
+    },
+    {
+      "id": 978,
+      "title": "Kỹ năng-01",
+      "text": "Tiếp theo là giờ của Sharkry♥",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765894987505.wav"
+    },
+    {
+      "id": 979,
+      "title": "Kỹ năng-02",
+      "text": "Mọi người, nhảy lên nào!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765895016736.wav"
+    },
+    {
+      "id": 980,
+      "title": "Kỹ năng-03",
+      "text": "Ây dà dà?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765895058098.wav"
+    },
+    {
+      "id": 984,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Làm nổ tung cả khán phòng nào♥",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765895167598.wav"
+    },
+    {
+      "id": 981,
+      "title": "Hạ gục",
+      "text": "Xin lỗi nha~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765895089126.wav"
+    },
+    {
+      "id": 982,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Cảm ơn mọi người, đây là một buổi diễn hoàn hảo♥ Hãy mong chờ màn thể hiện hoàn hảo lần tới của Sharkry nhé~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765895112466.wav"
+    },
+    {
+      "id": 983,
+      "title": "Kết thúc trận-Thua",
+      "text": "Hức……sao lại thế này, đây là lớp trang điểm Sharkry dày công chuẩn bị mà……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765895145908.wav"
+    }
+  ]
+}

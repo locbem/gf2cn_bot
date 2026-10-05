@@ -1,0 +1,380 @@
+{
+  "id": 1062,
+  "name": "Lewis",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044649346.png",
+  "icon": 2,
+  "sort": 0,
+  "attr_id": 2,
+  "role_id": 4,
+  "team_id": 5,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Burn",
+  "team": "Elmo - Combined Echelon",
+  "weapon": "Súng Lewis",
+  "model": "SSD-62D",
+  "ammo_model": "MG",
+  "desc": "T-Doll chiến thuật kiêm nhà thiết kế đồ chơi, thuần khiết vô tư, mãi giữ trái tim trẻ thơ. Sức mạnh phi thường, say mê những thứ đáng yêu. Là người có tiếng trong giới sưu tầm đồ chơi, Lewis không để tâm danh tiếng, cũng không cầu hồi đáp, cô chỉ quan tâm việc mang niềm vui đến cho người khác, và bảo vệ nụ cười của lũ trẻ khi có đồ chơi. Là nhà thiết kế đồ chơi, cô sẽ tiếp tục thiết kế đồ chơi cho tương lai để truyền đi điều tốt đẹp, còn là T-Doll chiến thuật, cô sẽ dùng vũ khí đảm bảo tương lai ấy đến.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/刘易斯pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/刘易斯移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013559057.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013585066.png"
+  },
+  "skins": [
+    {
+      "id": 7,
+      "name": "Đại Chiến Chống Nắng",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/刘易斯pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/刘易斯移动.png"
+    },
+    {
+      "id": 90,
+      "name": "Hắc Đào Alice",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1790046602425.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1790046608120.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215258828.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215269952.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215278531.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Vương Băng Điềm</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Hikasa Yōko</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=73\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>827</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>504</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>5</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1948</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Light Ammo <span style=\"color: #cc99ff\">Corrosion</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Thường·Giờ Vui Chơi",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://gf2.mcc.wiki/image/skill/Skill_Attack_MachineGun.png\"></p>\n</td>\n<td>\n<p>Giờ Vui Chơi Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764261107194.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Đại Quét Dọn Kẻ Xấu",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 68px\" src=\"https://gf2.mcc.wiki/image/skill/Skill_Lewis_Active_1.png\"></p>\n</td>\n<td>\n<p>Đại Tổng Vệ Sinh Kẻ Xấu Lv.1</p>\n<p>Chủ động/Diện rộng/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764261222770.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 hướng xung quanh, gây sát thương Burn diện rộng bằng 80% Tấn công lên mọi kẻ địch trong 3×5 ô phía trước, đồng thời gây <span style=\"color: #00ccff\">Overflow Fire</span>, duy trì 2 hiệp.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Quả Bóng Bất Ngờ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto\" src=\"https://gf2.mcc.wiki/image/skill/Skill_Lewis_Active_2.png\"></p>\n</td>\n<td>\n<p>Quả Cầu Bất Ngờ Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764261289517.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong bán kính 8 ô xung quanh, gây sát thương Burn bằng 140% Tấn công lên chúng, đồng thời gây sát thương cố định bằng 30% Tấn công lên chúng và mọi kẻ địch trong bán kính 3 ô quanh chúng. Bản thân nhận 2 tầng Hiệu Lệnh Lính Thiếc.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết Thắng·Lễ Hội Đồ Chơi",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto\" src=\"https://gf2.mcc.wiki/image/skill/Skill_Lewis_Active_3.png\"></p>\n</td>\n<td>\n<p>Lễ Hội Đồ Chơi Lv.1</p>\n<p>Quyết thắng/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764261371935.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">180%</span> Tấn công sát thương Burn lên chúng. Cứ mỗi 1 Đội Lính Thiếc trên sân, sát thương của đòn tấn công này tăng <span style=\"color: #ff9900\">15%</span> × cấp quân hàm của nó; Tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">5%</span> cấp quân hàm.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 6 Sát thương ổn định: 5</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Tập Hợp Lính Thiếc",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://gf2.mcc.wiki/image/skill/Skill_Lewis_Passive_4.png\"></p>\n</td>\n<td>\n<p>Lính Thiếc Tập Kết Lv.1</p>\n<p>Bị động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764261502875.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu chiến đấu nhận <span style=\"color: #00ccff\">Thermal Conduction</span>, đồng thời tiêu hao toàn bộ Infection Index, chọn <span style=\"color: #ff9900\">2</span> T-Doll đồng minh hệ Burn gần nhất (trừ bản thân) và gây <span style=\"color: #ff9900\">1</span> Đội Lính Thiếc quân hàm cấp 1.<br>Khi đơn vị có Đội Lính Thiếc dùng kỹ năng chủ động hoặc đánh thường gây sát thương Burn, Lewis chỉ huy Đội Lính Thiếc của nó tung loạt xạ lên mục tiêu bị thương, bản thân nhận <span style=\"color: #ff9900\">3 điểm</span> <span style=\"color: #00ccff\">Scorch</span> và <span style=\"color: #ff9900\">1 điểm</span> Infection Index, mỗi Đội Lính Thiếc kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi hiệp. Khi đơn vị đó gây sát thương Burn, nhận <span style=\"color: #ff9900\">1 tầng</span> Công Huân; Khi kết thúc hiệp lớn, tiêu hao <span style=\"color: #ff9900\">4 tầng</span> Công Huân để nâng cấp quân hàm của Đội Lính Thiếc của nó, mỗi hiệp lớn nâng tối đa <span style=\"color: #ff9900\">1 lần</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Lính Thiếc Tập Kết Lv.2</strong></td>\n<td>Hệ số sát thương cơ bản của loạt xạ tăng lên <span style=\"color: #ff9900\">120%</span> Tấn công. Khi tung loạt xạ, nếu mục tiêu kẻ địch có Overflow Fire, kích hoạt hiệu ứng Overflow Fire số lần tương ứng theo cấp quân hàm.</td>\n<td>Khi bắt đầu chiến đấu nhận <span style=\"color: #00ccff\">Thermal Conduction</span>, đồng thời nhận <span style=\"color: #ff9900\">1</span> Đội Lính Thiếc quân hàm cấp 1. Khi đơn vị có Đội Lính Thiếc dùng kỹ năng chủ động hoặc cải tạo gây sát thương Burn, Lewis chỉ huy Đội Lính Thiếc của nó tung loạt xạ lên mục tiêu bị thương, bản thân nhận <span style=\"color: #ff9900\">3 điểm</span> <span style=\"color: #00ccff\">Scorch</span> và <span style=\"color: #ff9900\">1 điểm</span> Infection Index, mỗi Đội Lính Thiếc kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi hiệp. Khi đơn vị đó gây sát thương Burn, nhận <span style=\"color: #ff9900\">1 tầng</span> Công Huân; Khi kết thúc hiệp lớn, tiêu hao <span style=\"color: #ff9900\">4 tầng</span> Công Huân để nâng cấp quân hàm của Đội Lính Thiếc của nó, mỗi hiệp lớn nâng tối đa <span style=\"color: #ff9900\">1 lần</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Lễ Hội Đồ Chơi Lv.2</strong></td>\n<td>Tiêu hao Infection giảm <span style=\"color: #ff9900\">2 điểm</span>. Nhận hiệu ứng bổ sung theo cấp quân hàm cao nhất hiện tại, hiệu ứng cấp cao bao gồm hiệu ứng cấp thấp: Cấp <span style=\"color: #ff9900\">1</span>: trước khi tấn công nhận Tăng sát thương II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cấp <span style=\"color: #ff9900\">2</span>: đòn tấn công này đổi thành gây sát thương Burn bỏ qua vật cản. Cấp <span style=\"color: #ff9900\">3</span>: hệ số sát thương tăng lên <span style=\"color: #ff9900\">200%</span> Tấn công.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong bán kính <span style=\"color: #ff9900\">8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">180%</span> Tấn công sát thương Burn lên chúng. Cứ mỗi <span style=\"color: #ff9900\">1</span> Đội Lính Thiếc trên sân, sát thương của đòn tấn công này tăng <span style=\"color: #ff9900\">15%</span> × cấp quân hàm của nó; Tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">5%</span> × cấp quân hàm. Nhận hiệu ứng bổ sung theo cấp quân hàm cao nhất hiện tại, hiệu ứng cấp cao bao gồm hiệu ứng cấp thấp: Cấp 1: trước khi tấn công nhận Tăng sát thương II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cấp <span style=\"color: #ff9900\">2</span>: đòn tấn công này đổi thành gây sát thương Burn bỏ qua vật cản. Cấp <span style=\"color: #ff9900\">3</span>: hệ số sát thương tăng lên <span style=\"color: #ff9900\">200%</span> Tấn công.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Quả Cầu Bất Ngờ Lv.2</strong></td>\n<td>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">160%</span>, hệ số sát thương cố định tăng lên <span style=\"color: #ff9900\">50%</span>. Hiệu Lệnh Lính Thiếc duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span>, hiệu ứng đổi thành sát thương do loạt xạ gây ra tăng <span style=\"color: #ff9900\">50%</span>.</td>\n<td>Chọn 1 kẻ địch trong bán kính <span style=\"color: #ff9900\">8 ô</span> xung quanh, gây sát thương Burn bằng <span style=\"color: #ff9900\">160%</span> Tấn công lên chúng, đồng thời gây sát thương cố định bằng <span style=\"color: #ff9900\">50%</span> Tấn công lên chúng và mọi kẻ địch trong bán kính <span style=\"color: #ff9900\">3 ô</span> quanh chúng. Bản thân nhận Hiệu Lệnh Lính Thiếc, duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Đại Tổng Vệ Sinh Kẻ Xấu Lv.2</strong></td>\n<td>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>. Cứ mỗi <span style=\"color: #ff9900\">1</span> debuff loại Burn trên mục tiêu, sát thương của đòn tấn công này tăng <span style=\"color: #ff9900\">10%</span>, tối đa tăng <span style=\"color: #ff9900\">30%</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây sát thương Burn diện rộng bằng <span style=\"color: #ff9900\">120%</span> Tấn công lên mọi kẻ địch trong <span style=\"color: #ff9900\">3</span>×5 ô phía trước, đồng thời gây <span style=\"color: #00ccff\">Overflow Fire</span>, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cứ mỗi <span style=\"color: #ff9900\">1</span> debuff loại Burn trên mục tiêu, sát thương của đòn tấn công này tăng <span style=\"color: #ff9900\">10%</span>, tối đa tăng <span style=\"color: #ff9900\">30%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Lễ Hội Đồ Chơi Lv.3</strong></td>\n<td>Cứ mỗi <span style=\"color: #ff9900\">1</span> Đội Lính Thiếc trên sân, hệ số sát thương của đòn tấn công này tăng <span style=\"color: #ff9900\">10%</span> × cấp quân hàm của nó; Sát thương chí mạng tăng <span style=\"color: #ff9900\">5%</span> × cấp quân hàm của nó.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong bán kính <span style=\"color: #ff9900\">8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">180%</span> Tấn công sát thương Burn lên chúng. Cứ mỗi <span style=\"color: #ff9900\">1</span> Đội Lính Thiếc trên sân, hệ số sát thương của đòn tấn công này tăng <span style=\"color: #ff9900\">10%</span> × cấp quân hàm của nó; Sát thương gây ra tăng <span style=\"color: #ff9900\">15%</span> × cấp quân hàm&gt; của nó. Tỉ lệ chí mạng và sát thương chí mạng tăng <span style=\"color: #ff9900\">5%</span> × cấp quân hàm của nó. Nhận hiệu ứng bổ sung theo cấp quân hàm cao nhất hiện tại, hiệu ứng cấp cao bao gồm hiệu ứng cấp thấp: Cấp 1: trước khi tấn công nhận Tăng sát thương II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cấp <span style=\"color: #ff9900\">2</span>: đòn tấn công này đổi thành gây sát thương Burn bỏ qua vật cản. Cấp <span style=\"color: #ff9900\">3</span>: hệ số sát thương tăng lên <span style=\"color: #ff9900\">200%</span> Tấn công.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Lính Thiếc Tập Kết Lv.3</strong></td>\n<td>Cấp quân hàm được gây tăng lên cấp 2. Tăng hiệu quả quân hàm: Cấp <span style=\"color: #ff9900\">2</span>: sát thương chí mạng tăng <span style=\"color: #ff9900\">15%</span>, Cấp 3: khi bản thân kết thúc hành động, tung 1 lần loạt xạ lên 1 kẻ địch gần nhất, không tiêu hao số lần và không hồi Infection Index.</td>\n<td>Khi bắt đầu chiến đấu nhận <span style=\"color: #00ccff\">Thermal Conduction</span>, đồng thời tiêu hao toàn bộ Infection Index, chọn <span style=\"color: #ff9900\">2</span> T-Doll đồng minh hệ Burn gần nhất (trừ bản thân) và gây <span style=\"color: #ff9900\">1</span> Đội Lính Thiếc quân hàm cấp 2. Khi đơn vị có Đội Lính Thiếc dùng kỹ năng chủ động hoặc cải tạo gây sát thương Burn, Lewis chỉ huy Đội Lính Thiếc của nó tung loạt xạ lên mục tiêu bị thương, bản thân nhận <span style=\"color: #ff9900\">3 điểm</span> <span style=\"color: #00ccff\">Scorch</span> và <span style=\"color: #ff9900\">1 điểm</span> Infection Index, mỗi Đội Lính Thiếc kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi hiệp. Khi đơn vị đó gây sát thương Burn, nhận <span style=\"color: #ff9900\">1 tầng</span> Công Huân; Khi kết thúc hiệp lớn, tiêu hao <span style=\"color: #ff9900\">4 tầng</span> Công Huân để nâng cấp quân hàm của Đội Lính Thiếc của nó, mỗi hiệp lớn nâng tối đa <span style=\"color: #ff9900\">1 lần</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_LewisSSR_love.png\"></td>\n<td>\n<h2>Contract Key·Giấc Mơ Thơ Ấu Mãi Còn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1765982056059.png\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1765982044588.png\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_Lewis01.png\"></td>\n<td>\n<h2>Fixed Key·Nhà Thiết Kế Ngây Thơ Lãng Mạn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Trước loạt xạ, gây <span style=\"color: #00ccff\">Overflow Fire</span> lên mục tiêu, duy trì 2 hiệp.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_Lewis02.png\"></td>\n<td>\n<h2>Fixed Key·Bí Quyết Lan Tỏa Nụ Cười</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Sửa hiệu quả kỹ năng bị động Lính Thiếc Tập Kết, có thể gây Đội Lính Thiếc lên T-Doll đồng minh không hệ Burn (trừ bản thân); Nếu kỹ năng chủ động hoặc đánh thường không gây sát thương Burn, cũng có thể kích hoạt loạt xạ.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_Lewis03.png\"></td>\n<td>\n<h2>Fixed Key·Niềm Tin Bảo Vệ Tâm Hồn Trẻ Thơ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Trước khi kỹ năng chủ động Quả Cầu Bất Ngờ và kỹ năng Quyết thắng Lễ Hội Đồ Chơi tấn công, xua tan 1 buff của mục tiêu.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_Lewis05.png\"></td>\n<td>\n<h2>Fixed Key·Đáng Yêu Là Chính Nghĩa</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi bắt đầu hiệp, nếu cấp quân hàm cao nhất trong các Đội Lính Thiếc trên sân ≥ cấp 2, trong trận này tầm bắn của kỹ năng chủ động Quả Cầu Bất Ngờ và kỹ năng Quyết thắng Lễ Hội Đồ Chơi tăng 2 ô.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_Lewis06.png\"></td>\n<td>\n<h2>Fixed Key·Dõi Theo Từ Tầng Mây</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi chủ sở hữu Đội Lính Thiếc kết thúc hành động, nhận 2 tầng Công Huân.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://gf2.mcc.wiki/image/key/Skill_Chrtalent_LewisSSR.png\"></td>\n<td>\n<h2>Common Key·Sức Mạnh Tạo Phép Màu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><img src=\"https://community-cdn.exiliumgf.com/prod/1764262399038.png\">Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Sát thương kỹ năng Quyết thắng tăng 10%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1780977251109.png\"></td>\n<td>\n<h2>Expansion Key·Tổng Động Viên Lính Thiếc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi gây Đội Lính Thiếc, nếu số T-Doll Burn đồng minh trên sân ≥ 4, nâng cấp quân hàm của Đội Lính Thiếc cấp 1.<br>Sau khi cấp quân hàm đạt cấp 3, khi bắt đầu mỗi hiệp lớn, bản thân tiêu hao toàn bộ Công Huân của chủ sở hữu Đội Lính Thiếc đó, cứ mỗi 1 tầng hiệu ứng này tiêu hao, sát thương Burn bản thân gây ra trong hiệp này tăng 6%, sát thương chí mạng tăng 6%, tối đa tăng 8%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*2 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có debuff loại Burn tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*3 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*5 Sentinel*7&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Burn gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*6 Sentinel*9&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*6 Sentinel*13&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*9 Sentinel*15&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra khi tấn công chỉ trúng 1 kẻ địch tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763893664901.png\"></td>\n<td>\n<h1><strong>Toysmith &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10623\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng máy/Heavy Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng máy hạng nhẹ hiệu năng cao được cấp cho Lewis, lấy Súng máy hạng nhẹ Lewis làm nguyên mẫu, kết hợp dữ liệu của Vulcan Heavy Industries để nâng cấp cải tạo toàn diện, thể hiện sức áp chế tuyệt đối trong chiến đấu tầm trung. Đáng yêu và uy lực song hành, muốn thử không nào!</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=96527&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1757749296894.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=96572&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1757749257511.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=96555&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1757749197668.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; Ban đầu do Dịch Vụ Vạn Sự Toàn Cầu chế tạo, là T-Doll đặc chế chuyên thiết kế và tái phát triển đồ chơi sưu tầm. Sau đó được cải tạo thành T-Doll chiến thuật và được Griffin thuê. Sau khi Griffin giải tán, qua lời giới thiệu của Pascal, cô gia nhập viện nghiên cứu AI và công nghệ lượng tử 42Lab.</p>\n<p><br>&nbsp; Là nhà thiết kế đồ chơi, cô vốn ghét chiến tranh, rời Griffin lẽ ra là cơ hội tốt nhất để cô tránh xa chiến trường. Nhưng để bảo vệ nụ cười ngây thơ của trẻ em, cũng để thực hiện lời hứa với đồng đội, cô vẫn chọn con đường T-Doll chiến thuật. Cô quyết tâm dùng đôi tay mình để khai mở và bảo vệ tương lai tươi đẹp của lũ trẻ.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778221789230.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221789225.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1790046733336.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778221814965.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221814974.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221814964.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221949624.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221949394.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221949622.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221949623.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1790046750679.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1790046750686.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1757301521309.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1757302305989.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1757302319433.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1757302330270.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1757302341237.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1757302354202.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1757302364052.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1757302374619.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1757302385767.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779165791164.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165791128.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165909257.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165909229.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165909260.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165909255.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165909281.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165945646.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 712,
+      "title": "Thường ngày-01",
+      "text": "Việc xử lý tài liệu cứ giao cho tôi đi…… Ế…… Tài liệu hôm qua sắp xếp biến mất rồi?!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Daily_001.wav"
+    },
+    {
+      "id": 713,
+      "title": "Thường ngày-02",
+      "text": "Nói về sức mạnh thì tôi không thua đâu nhé! Chỉ huy có muốn vật tay với tôi không~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Daily_002.wav"
+    },
+    {
+      "id": 714,
+      "title": "Thường ngày-03",
+      "text": "Lính Thiếc số 1 có đó không? \"Báo cáo! Đảm bảo hoàn thành nhiệm vụ!\"",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Daily_003.wav"
+    },
+    {
+      "id": 715,
+      "title": "Thường ngày-04",
+      "text": "Bộ đồ này là do tôi tự thiết kế lại dựa trên dữ liệu đám mây đấy! Chỉ huy, anh/chị thích không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Daily_004.wav"
+    },
+    {
+      "id": 716,
+      "title": "Thường ngày-05",
+      "text": "Chỉ huy, uống trà chiều không~ Có Darjeeling, Assam và Earl Grey…… À tôi còn chuẩn bị cà phê độ ngọt kiểu Pascal nữa, uống một ly nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Daily_005.wav"
+    },
+    {
+      "id": 717,
+      "title": "Nâng cấp-01",
+      "text": "Ehehe~ Tuyệt quá!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Up_001.wav"
+    },
+    {
+      "id": 718,
+      "title": "Nâng cấp-02",
+      "text": "Không hổ là tôi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Up_002.wav"
+    },
+    {
+      "id": 719,
+      "title": "Nâng cấp-03",
+      "text": "Lại có cảm hứng thiết kế đồ chơi mới rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Up_003.wav"
+    },
+    {
+      "id": 720,
+      "title": "Nâng cấp-04",
+      "text": "Sức mạnh…… hình như lại tăng lên rồi?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Up_004.wav"
+    },
+    {
+      "id": 721,
+      "title": "Nâng cấp-05",
+      "text": "Có đáng yêu hơn chút nào chưa nhỉ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Up_005.wav"
+    },
+    {
+      "id": 722,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Title_001.wav"
+    },
+    {
+      "id": 723,
+      "title": "Đăng nhập",
+      "text": "Hôm nay Chỉ huy chơi đồ chơi mới với tôi nhé~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Login_001.wav"
+    },
+    {
+      "id": 724,
+      "title": "Tâm sự-01",
+      "text": "Tôi làm búp bê riêng cho mọi người đấy, đáng yêu chứ? Búp bê của cô Robella còn có một con kiến lính nữa, nhưng hình như cô ấy không hài lòng lắm……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 725,
+      "title": "Tâm sự-02",
+      "text": "Đồ chơi là báu vật của trẻ em, cũng là quà của người lớn. Đây là đồ chơi tôi mới thiết kế đấy! Chỉ huy, tặng anh/chị~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 726,
+      "title": "Tâm sự-03",
+      "text": "Chỉ huy? Lại ngủ gục trên bàn làm việc rồi sao? Dù ở Griffin, ở Oasis hay trên Elmo…… ngài vẫn luôn thầm lặng cống hiến cho chúng tôi như vậy. Chúc ngài ngủ ngon~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 727,
+      "title": "Tâm sự-04",
+      "text": "Ehehehe, đồ chơi mới tôi thiết kế đáng yêu chứ? À, cơ hội hiếm có, Chỉ huy có muốn chơi trò nhập vai với tôi không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 728,
+      "title": "Tâm sự-05",
+      "text": "Giáo sư! Hehehe, không có gì, chỉ là muốn lâu lâu gọi ngài bằng xưng hô này thôi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 729,
+      "title": "Tâm sự-06",
+      "text": "Chỉ huy, anh/chị có muốn thử món ăn mới của tôi không? Tôi làm món ăn nổi tiếng truyền thống Ngắm Sao thành hình ngôi nhà bánh gừng…… Ế? Chỉ huy? Chỉ huy!!!!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 730,
+      "title": "Tâm sự-07",
+      "text": "Tôi đang làm búp bê Chỉ huy đấy, áo blouse trắng và quân phục cái nào đẹp hơn nhỉ…… Hay là làm bản có thể thay đổi cho rồi~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 731,
+      "title": "Tâm sự-08",
+      "text": "\"Lewis, quả nhiên cậu là tuyệt nhất, cậu là bảo bối của tôi…… Oaaaa! Ch, Chỉ huy sao ngài lại nghe lén nữa vậy!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 733,
+      "title": "Vào đội",
+      "text": "Bang pa ka bang~ T-Doll chiến thuật kiêm nhà thiết kế đồ chơi Lewis dẫn đại quân đồ chơi đến báo cáo! Lâu rồi không gặp~ Chỉ huy!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 434,
+      "title": "Ngữ khí-01",
+      "text": "Hehehe, thế nào, đáng yêu không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 435,
+      "title": "Ngữ khí-02",
+      "text": "Diệt sạch kẻ xấu!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 436,
+      "title": "Ngữ khí-03",
+      "text": "Phải trúng nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 437,
+      "title": "Ngữ khí-04",
+      "text": "Cứ giao cho tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 438,
+      "title": "Ngữ khí-05",
+      "text": "Nhiệm vụ bắt đầu!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 439,
+      "title": "Ngữ khí-06",
+      "text": "Tôi đây nè.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 440,
+      "title": "Ngữ khí-07",
+      "text": "Gọi tôi à?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 441,
+      "title": "Ngữ khí-08",
+      "text": "Đồ chơi…… lại hỏng rồi……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 442,
+      "title": "Ngữ khí-09",
+      "text": "Chẳng đáng yêu chút nào!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 443,
+      "title": "Ngữ khí-10",
+      "text": "Oaa!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Series_Tone_Negative_003.wav"
+    },
+    {
+      "id": 444,
+      "title": "Kỹ năng-01",
+      "text": "Để tôi tiếp đãi các người thật chu đáo!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Skill_001.wav"
+    },
+    {
+      "id": 445,
+      "title": "Kỹ năng-02",
+      "text": "Cùng chơi nào!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Skill_002.wav"
+    },
+    {
+      "id": 446,
+      "title": "Kỹ năng-03",
+      "text": "Tôi sẽ nghiêm túc đấy nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Hit_001.wav"
+    },
+    {
+      "id": 451,
+      "title": "Kỹ năng-04",
+      "text": "Lễ hội đồ chơi, bắt đầu!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 450,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Hãy để lịch sử ghi nhớ vinh quang chiến thắng của chúng ta!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 447,
+      "title": "Hạ gục",
+      "text": "Tuyệt!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Kill_001.wav"
+    },
+    {
+      "id": 448,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Đừng coi thường sức mạnh của nhà thiết kế đồ chơi nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Win_001.wav"
+    },
+    {
+      "id": 449,
+      "title": "Kết thúc trận-Thua",
+      "text": "Hu…… Mấy tên này xấu hơn vẻ ngoài nhiều…… Đại ác nhân!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LewisCV/VO_Lewis_Single_Lose_001.wav"
+    }
+  ]
+}

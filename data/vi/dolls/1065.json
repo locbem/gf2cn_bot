@@ -1,0 +1,384 @@
+{
+  "id": 1065,
+  "name": "Alva",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044687527.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 4,
+  "role_id": 3,
+  "team_id": 13,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Support",
+  "attr": "Freeze",
+  "team": "Task Force DEFY",
+  "weapon": "Nikonova 94",
+  "model": "CSD-09B4M",
+  "ammo_model": "AR",
+  "desc": "T-Doll chiến thuật bề ngoài lạnh nhạt, bên trong tinh tế. Những lời đáp ứng nghe như tùy tiện vô cảm, nhưng cô thật sự ghi nhớ nhu cầu và ý kiến của đối phương trong lòng, rồi tìm cơ hội để đáp ứng. Cô để ý đến những phản ứng và cảm xúc nhỏ dễ bị bỏ qua, khá nhạy cảm với môi trường xung quanh, nhưng cũng vì thế mà dễ bị bầu không khí tác động.\n“Tôi từng nghĩ thời gian sẽ thay đổi rất nhiều thứ... Nhưng giờ xem ra, ngài không đổi, chúng tôi cũng không đổi... chỉ có thế giới mỗi ngày đều đổi thay.”",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/埃芙pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/埃芙移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013681202.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013688846.png"
+  },
+  "skins": [
+    {
+      "id": 16,
+      "name": "Anthea",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/埃芙pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/埃芙移动.png"
+    },
+    {
+      "id": 74,
+      "name": "Thư Hoa Tử Đằng",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777345026323.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777345034838.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215360585.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215407868.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215398898.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Đoàn Nghệ Tuyền</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Numakura Manami</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=70\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>757</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>512</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1973</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo&nbsp;<span style=\"color: #cc99ff\">Corrosion</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Thường·Xé Toạc",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546279252.png\"></p>\n</td>\n<td>\n<p>Xé Rách Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764400425119.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Trái Tim Sói Tuyết",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546299796.png\"></p>\n</td>\n<td>\n<p>Tim Sói Tuyết Lv.1</p>\n<p>Chủ động/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764400507108.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Bản thân vào Chế độ yểm hộ, duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span>, chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">100%</span> sát thương Freeze theo ATK.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Vang Vọng Sương Giá",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546313151.png\"></p>\n</td>\n<td>\n<p>Vang Vọng Sương Giá Lv.1</p>\n<p>Chủ động/Diện rộng/Triệu hồi</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1764400590821.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô trống trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, tiêu hao toàn bộ Infection Index, mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, gây <span style=\"color: #ff9900\">15%</span> sát thương Freeze diện rộng theo ATK và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh ô đó, đồng thời triệu hồi Gai Độc Nitơ Lỏng, duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span>. Sau kỹ năng, nếu có <span style=\"color: #ff9900\">3 tầng</span> Chiến Bị, tiêu hao Chiến Bị để nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết Thắng·Khúc An Hồn Miền Tuyết",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546327076.png\"></p>\n</td>\n<td>\n<p>Khúc Trấn Hồn Tuyết Vực Lv.1</p>\n<p>Quyết thắng/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764400664745.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, tiêu hao toàn bộ Infection Index, mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, gây <span style=\"color: #ff9900\">30%</span> sát thương Freeze theo ATK và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Chạm Ngưng Lạnh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546343737.png\"></p>\n</td>\n<td>\n<p>Chạm Ngưng Đọng Lv.1</p>\n<p>Bị động/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764400749753.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Hiệu quả tạo khiên của mọi đồng minh tăng <span style=\"color: #ff9900\">30%</span>. Khi đồng minh nhận khiên, chuyển thành Khiên Rét Đông có lượng tương đương.<br>Khi kết thúc hành động, bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Chiến Bị và <span style=\"color: #ff9900\">3 điểm</span> Infection Index. Sau khi phục kích, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Vang Vọng Sương Giá Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng lên <span style=\"color: #ff9900\">20%</span>. Sau kỹ năng, nếu có <span style=\"color: #ff9900\">3 tầng</span> Chiến Bị, vào Chế độ yểm hộ, duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span> và nhận <span style=\"color: #ff9900\">6 điểm</span> Infection Index.</td>\n<td style=\"text-align: center\">Chọn 1 ô trống trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, tiêu hao toàn bộ Infection Index, mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, gây <span style=\"color: #ff9900\">20%</span> sát thương Freeze diện rộng theo ATK và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh ô đó, đồng thời triệu hồi Gai Độc Nitơ Lỏng, duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span>. Sau kỹ năng, nếu có <span style=\"color: #ff9900\">3 tầng</span> Chiến Bị, vào Chế độ yểm hộ, duy trì 3 hiệp lớn, nhận <span style=\"color: #ff9900\">6 điểm</span> Infection Index và tiêu hao <span style=\"color: #ff9900\">3 tầng</span> Chiến Bị để nhận Thêm chỉ lệnh.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Khúc Trấn Hồn Tuyết Vực Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng lên <span style=\"color: #ff9900\">40%</span>. Sau kỹ năng, tăng <span style=\"color: #ff9900\">1 điểm</span> Infection Index cho mọi đồng minh hệ Freeze (không gồm bản thân).</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, tiêu hao toàn bộ Infection Index, mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, gây <span style=\"color: #ff9900\">40%</span> sát thương Freeze theo ATK và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định. Sau kỹ năng, tăng <span style=\"color: #ff9900\">1 điểm</span> Infection Index cho mọi đồng minh hệ Freeze (không gồm bản thân).</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Chạm Ngưng Đọng Lv.2</strong></td>\n<td style=\"text-align: center\">Hiệu quả tạo khiên của mọi đồng minh tăng thêm lên <span style=\"color: #ff9900\">50%</span>. Khiên Rét Đông có thêm hiệu ứng: khi người sở hữu gây sát thương Freeze, mỗi <span style=\"color: #ff9900\">1000</span> điểm khiên sẽ tăng <span style=\"color: #ff9900\">1%</span> sát thương chí mạng.</td>\n<td style=\"text-align: center\">Hiệu quả tạo khiên của mọi đồng minh tăng <span style=\"color: #ff9900\">50%</span>. Khi đồng minh nhận khiên, chuyển thành Khiên Rét Đông có lượng tương đương. Khi kết thúc hành động, bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Chiến Bị và <span style=\"color: #ff9900\">3 điểm</span> Infection Index. Sau khi phục kích, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Tim Sói Tuyết Lv.2</strong></td>\n<td style=\"text-align: center\">Trong Chế độ yểm hộ, tỷ lệ sát thương phục kích chuyển thành Khiên Rét Đông tăng lên <span style=\"color: #ff9900\">30%</span>, và <span style=\"color: #ff9900\">20%</span> sát thương của kỹ năng Quyết thắng Khúc Trấn Hồn Tuyết Vực cũng được chuyển thành Khiên Rét Đông ban cho toàn thể đồng minh.</td>\n<td style=\"text-align: center\">Bản thân vào Chế độ yểm hộ, duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span>, chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">100%</span> sát thương Freeze theo ATK.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Vang Vọng Sương Giá Lv.3</strong></td>\n<td style=\"text-align: center\">Hiệu ứng Gai Độc Nitơ Lỏng được cường hóa, hệ số sát thương đòn đánh của Alva tăng lên <span style=\"color: #ff9900\">60%</span> lượng khiên hấp thụ tích lũy, sát thương Freeze nhận thêm khi Hạ Thân Nhiệt tăng thêm lên <span style=\"color: #ff9900\">40%</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> ô trống trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, tiêu hao toàn bộ Infection Index, mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, gây <span style=\"color: #ff9900\">20%</span> sát thương Freeze diện rộng theo ATK và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh ô đó, đồng thời triệu hồi Gai Độc Nitơ Lỏng, duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span>. Sau kỹ năng, nếu có <span style=\"color: #ff9900\">3 tầng</span> Chiến Bị, vào Chế độ yểm hộ, duy trì <span style=\"color: #ff9900\">3 hiệp lớn</span>, nhận <span style=\"color: #ff9900\">6 điểm</span> Infection Index và tiêu hao <span style=\"color: #ff9900\">3 tầng</span> Chiến Bị để nhận Thêm chỉ lệnh.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Chạm Ngưng Đọng Lv.3</strong></td>\n<td style=\"text-align: center\">Giới hạn hấp thụ của Khiên Rét Đông tăng lên <span style=\"color: #ff9900\">300%</span> ATK ban đầu của Alva, khi người sở hữu gây sát thương Freeze, mỗi <span style=\"color: #ff9900\">1000</span> điểm khiên sẽ nhân đôi hệ số tăng sát thương và tăng sát thương chí mạng.</td>\n<td style=\"text-align: center\">Hiệu quả tạo khiên của mọi đồng minh tăng <span style=\"color: #ff9900\">50%</span>. Khi đồng minh nhận khiên, chuyển thành Khiên Rét Đông có lượng tương đương. Khi kết thúc hành động, bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Chiến Bị và <span style=\"color: #ff9900\">3 điểm</span> Infection Index. Sau khi phục kích, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546360640.png\"></td>\n<td>\n<h2>Contract Key·Người Được Ban Phước</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764400884915.png\" width=\"20\"></sub>HP +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546374067.png\"></td>\n<td>\n<h2>Fixed Key·Kẻ Dạo Bước Trên Tuyết</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kẻ địch trong bán kính 4 ô quanh Gai Độc Nitơ Lỏng bị gây Hàn Ý, tạo ô Sương Giá trong phạm vi, duy trì 3 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546399851.png\"></td>\n<td>\n<h2>Fixed Key·Chuyên Gia Hậu Cần</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index và 3 tầng Chiến Bị.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546411978.png\"></td>\n<td>\n<h2>Fixed Key·Chỉ Huy Yểm Hộ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Đồng minh có Khiên Rét Đông chịu sát thương ổn định giảm 1 điểm.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546425612.png\"></td>\n<td>\n<h2>Fixed Key·Đại Khí Vãn Thành</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Mỗi 1 tầng Chiến Bị tiêu hao, ATK bản thân tăng 3%, tối đa tăng 18%.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546438915.png\"></td>\n<td>\n<h2>Fixed Key·Chấn Chỉnh Cờ Trống</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi dùng kỹ năng Quyết thắng Khúc Trấn Hồn Tuyết Vực, xua tan 2 buff của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546451228.png\"></td>\n<td>\n<h2>Fixed Key·Thấu Xương</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Kẻ địch trong bán kính 4 ô quanh Gai Độc Nitơ Lỏng chịu thêm 2 điểm sát thương ổn định.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546465368.png\"></td>\n<td>\n<h2>Common Key·Tâm Nhãn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764401212800.png\" width=\"20\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Sát thương dị vị gây lên kẻ địch có khiên tăng 10%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784597979110.png\"></td>\n<td>\n<h2>Expansion Key·Kế Thừa Danh Sói Đầu Đàn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Hiệu quả tạo khiên của bản thân tăng 80%.<br>Tăng hiệu quả Khiên Rét Đông: khi gây sát thương Freeze, lượng khiên cần để tăng sát thương và sát thương chí mạng giảm xuống 500.<br>Khi đồng minh có Khiên Rét Đông gây sát thương Freeze, bỏ qua 15% phòng thủ của mục tiêu.<br>Tăng hiệu quả Gai Độc Nitơ Lỏng: khi Alva tấn công, hệ số sát thương dựa trên lượng khiên hấp thụ tích lũy được nhân đôi.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Support*5 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi có hiệu ứng loại khiên, sát thương gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Support*7 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*8 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Freeze gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Support*11 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra của toàn bộ đồng minh tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Support*15 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Support*18 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi bắt đầu chiến đấu, 2 đồng minh có Tấn công ban đầu cao nhất nhận Tấn công tăng 3%, không cộng dồn.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763894656481.png\"></td>\n<td>\n<h1>6P33 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; <strong><a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10653\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng trường tấn công hiệu năng cao được cấp cho Alva, lấy súng trường tấn công Nikonov 94 làm nguyên mẫu, qua cải tạo có chủ đích, tầm bắn và sát thương hiệu quả được nâng lên đáng sợ. Giờ phút này gỡ bỏ giới hạn, xuất toàn lực hỏa lực!</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=81729&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1752057129673.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=79481&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1752044478136.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=94884&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1768386294296.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; Nguyên mẫu của dự án nghiên cứu T-Doll \"Kế hoạch Bầy Sói\" do Cục An ninh Tân Liên Xô chủ trì mười năm trước, hiện là đội trưởng Task Force DEFY. Mười năm trước, sau khi hỗ trợ Chỉ Huy hoàn thành chiến dịch trảm thủ ở Frankfurt, cô ký thỏa thuận với Cục An ninh và nhận được tự do có hạn chế, sau đó với tư cách đội tự do, bắt đầu cuộc đấu tranh kéo dài mười năm với Paradeus ở Vùng Vàng.</p>\n<p><br>&nbsp; Là thủ lĩnh của Task Force DEFY, con rối ngày xưa đã lột xác thành chúa sói mới của bầy, được đồng đội tin tưởng sâu sắc, xoay xở giữa nhiều thế lực, vừa đảm bảo sự sinh tồn của Task Force DEFY, vừa không ngừng đánh vào âm mưu của Paradeus.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778145200586.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145200585.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145200457.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778145284802.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145284928.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145284927.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145284970.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145325430.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145284929.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145284971.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145284966.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145427297.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1751861181330.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1751861217141.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1751861304211.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1751861382250.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1751861408435.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1751861452081.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1751861508992.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1751861570765.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1751861624950.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779167486538.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779167486525.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1,
+      "title": "Thường ngày-01",
+      "text": "Cứ ra lệnh đi, Chỉ huy, \"Defy\" sẽ không làm anh/chị thất vọng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Daily_001.wav"
+    },
+    {
+      "id": 2,
+      "title": "Thường ngày-02",
+      "text": "Vì sao gọi là Alva? Là Alpha wolf…… nghĩa là sói đầu đàn, là cái tên \"cô ấy\" đặt cho tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Daily_002.wav"
+    },
+    {
+      "id": 3,
+      "title": "Thường ngày-03",
+      "text": "Elmo ấm áp hơn tôi tưởng…… Mỗi người ở đây đều có vị trí của mình, kể cả tôi. Cảm giác này thật kỳ diệu…… Nếu mười năm trước, chúng tôi phục vụ Griffin chứ không phải Cục An ninh Quốc gia, có lẽ đã được trải nghiệm sớm hơn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Daily_003.wav"
+    },
+    {
+      "id": 4,
+      "title": "Thường ngày-04",
+      "text": "Tôi rất thích những cái tên Anjie đặt cho chúng tôi…… Chúng tôi đều rất thích, nhưng với tư cách tên giả và mật danh, chúng đã không thể dùng nữa.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Daily_004.wav"
+    },
+    {
+      "id": 5,
+      "title": "Thường ngày-05",
+      "text": "Giá trị của tôi không đến từ việc so sánh với người khác, mà là sự tồn tại và đóng góp của chính tôi. Đây là kinh nghiệm quý giá nhất tôi học được từ quá khứ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Daily_005.wav"
+    },
+    {
+      "id": 6,
+      "title": "Nâng cấp-01",
+      "text": "Cảm ơn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Up_001.wav"
+    },
+    {
+      "id": 7,
+      "title": "Nâng cấp-02",
+      "text": "Tôi sẽ tận dụng tốt sức mạnh này.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Up_002.wav"
+    },
+    {
+      "id": 8,
+      "title": "Nâng cấp-03",
+      "text": "Hiệu năng đã được nâng cao.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Up_003.wav"
+    },
+    {
+      "id": 9,
+      "title": "Nâng cấp-04",
+      "text": "Là đội trưởng, điều này là cần thiết.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Up_004.wav"
+    },
+    {
+      "id": 10,
+      "title": "Nâng cấp-05",
+      "text": "Thiết kế của Tiến sĩ Tiêu sẽ không lỗi thời.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Up_005.wav"
+    },
+    {
+      "id": 11,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Title_001.wav"
+    },
+    {
+      "id": 12,
+      "title": "Đăng nhập",
+      "text": "Alva báo danh, Chỉ huy. Nhiệm vụ hôm nay tôi đã sắp xếp xong.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Login_001.wav"
+    },
+    {
+      "id": 13,
+      "title": "Tâm sự-01",
+      "text": "Chỉ huy…… xin chào. Xin lỗi…… tôi hơi căng thẳng, xa cách ngài mười năm, lúc gặp lại dường như có quá nhiều điều muốn nói.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 14,
+      "title": "Tâm sự-02",
+      "text": "Tôi tưởng thời gian sẽ thay đổi rất nhiều thứ…… Nhưng giờ xem ra, ngài không đổi, chúng tôi cũng không đổi…… chỉ có thế giới ngày ngày thay đổi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 15,
+      "title": "Tâm sự-03",
+      "text": "Trước kia, vì thân phận khá đặc biệt, Task Force DEFY gần như không có nhiều tiếp xúc với T-Doll của Griffin, đến giờ thực sự quen biết các T-Doll trên Elmo mới thấy tiếc…… Ngài rất giỏi quy tụ những người giống nhau.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 16,
+      "title": "Tâm sự-04",
+      "text": "Gần đây, tôi không khỏi nhớ lại mười năm trước, chúng tôi cùng nhau trên chiếc xe này, quyết tâm chiến đấu đến phút cuối cùng…… Những con người như ngài, bao năm nay tôi cũng chỉ gặp hai người mà thôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 17,
+      "title": "Tâm sự-05",
+      "text": "Chúng tôi tuy đã rời Cục An ninh Quốc gia, nhưng vẫn giữ quan hệ hợp tác, đôi khi cũng vì thù lao mà thực hiện nhiệm vụ Cục giao…… Sau khi độc lập, mới dần hiểu vì sao trước kia cô Leva luôn trông như người mê tiền.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 18,
+      "title": "Tâm sự-06",
+      "text": "Vì sao bây giờ nhắc đến \"cô ấy\" chúng tôi đều dùng \"cô ấy\" để chỉ? Ừm…… Như ngài biết, \"cô ấy\" đã chính thức giao mật danh Sói Tuyết và chức đội trưởng cho tôi, nhưng tạm thời chưa sắp xếp mật danh mới cho mình, nên cứ gọi như vậy mãi……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 19,
+      "title": "Tâm sự-07",
+      "text": "Đôi khi tôi quả thật sẽ nghĩ, nếu mọi trận chiến đều kết thúc, tôi sẽ làm gì. Có lẽ là mở một hiệu sách, nuôi vài chú mèo…… Tất nhiên, nếu ngài bằng lòng thỉnh thoảng đến ngồi chơi, tôi sẽ rất vui.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 20,
+      "title": "Tâm sự-08",
+      "text": "Voymastina từng nói, Defy không cần thành viên mới, cũng không cần chỉ huy mới…… Tuy không nói ra, nhưng suy nghĩ của tôi và \"cô ấy\" có lẽ cũng như vậy, nhưng nếu tồn tại một ngoại lệ duy nhất, thì chỉ có ngài thôi, Chỉ huy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 22,
+      "title": "Vào đội",
+      "text": "Alva báo danh, Chỉ huy…… AN94 của quá khứ đã không còn, nhưng tôi sẽ dùng tên mới, thân phận mới, tiếp tục chiến đấu vì ngài và chính nghĩa.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1,
+      "title": "Ngữ khí-01",
+      "text": "Chuẩn bị hoàn tất.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 2,
+      "title": "Ngữ khí-02",
+      "text": "Xác nhận mục tiêu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 3,
+      "title": "Ngữ khí-03",
+      "text": "Đả kích mục tiêu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 4,
+      "title": "Ngữ khí-04",
+      "text": "Đang thi hành.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 5,
+      "title": "Ngữ khí-05",
+      "text": "Thi hành hoàn hảo.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 6,
+      "title": "Ngữ khí-06",
+      "text": "Cứ giao cho tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 7,
+      "title": "Ngữ khí-07",
+      "text": "Nhận nhiệm vụ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 8,
+      "title": "Ngữ khí-08",
+      "text": "Ư……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 9,
+      "title": "Ngữ khí-09",
+      "text": "Tôi chịu được!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 10,
+      "title": "Ngữ khí-10",
+      "text": "Chưa kết thúc!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Series_Tone_Negative_003.wav"
+    },
+    {
+      "id": 11,
+      "title": "Kỹ năng-01",
+      "text": "Khởi động chế độ chiến thuật, thanh trừ mục tiêu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Skill_001.wav"
+    },
+    {
+      "id": 12,
+      "title": "Kỹ năng-02",
+      "text": "Khóa mục tiêu, đang loại bỏ mối đe dọa.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Skill_002.wav"
+    },
+    {
+      "id": 13,
+      "title": "Kỹ năng-03",
+      "text": "Đang thi hành.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Hit_001.wav"
+    },
+    {
+      "id": 18,
+      "title": "Kỹ năng-04",
+      "text": "Phân tích chiến thuật toàn diện, đã khóa giải pháp tối ưu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 17,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Gỡ bỏ hạn chế, tiến hành xuất hỏa lực tối đa!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 14,
+      "title": "Hạ gục",
+      "text": "Mục tiêu đã im lặng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Kill_001.wav"
+    },
+    {
+      "id": 15,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Tác chiến hoàn tất, khu vực đã được dọn sạch. Không bỏ sót chi tiết nào, Chỉ huy, chúng ta có thể tiếp tục tiến lên.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Win_001.wav"
+    },
+    {
+      "id": 16,
+      "title": "Kết thúc trận-Thua",
+      "text": "Rút lui chiến thuật…… Tôi chịu toàn bộ trách nhiệm, lần sau…… sẽ không phạm lại sai lầm tương tự.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/AlvaCV/VO_Alva_Single_Lose_001.wav"
+    }
+  ]
+}

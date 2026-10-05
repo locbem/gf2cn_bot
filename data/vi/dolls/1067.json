@@ -1,0 +1,380 @@
+{
+  "id": 1067,
+  "name": "Helen",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044593404.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 4,
+  "role_id": 1,
+  "team_id": 5,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Bulwark",
+  "attr": "Freeze",
+  "team": "Elmo - Combined Echelon",
+  "weapon": "SG-12",
+  "model": "SSD-62D",
+  "ammo_model": "SG",
+  "desc": "Vẻ ngoài dịu dàng, rất giỏi lợi dụng quy tắc và tìm kẽ hở để đạt mục đích của mình. Có khả năng thấu hiểu vượt trội, luôn nhìn xuyên hành vi bề ngoài của con người để thấy bản chất bên trong. Khi ở cạnh người xung quanh, thỉnh thoảng cô dùng trò đùa tinh nghịch để kéo gần khoảng cách, giúp người không nhận ra lòng mình bừng tỉnh và vượt qua điểm yếu của bản thân. Và vào lúc cần thiết, cô cũng cam lòng hy sinh bản thân để bảo vệ người quan trọng.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/海伦pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/海伦移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013529109.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013537908.png"
+  },
+  "skins": [
+    {
+      "id": 11,
+      "name": "Điệu Valse Đêm Sao",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/海伦pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/海伦移动.png"
+    },
+    {
+      "id": 79,
+      "name": "Dạ Mị Mê Tâm",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1782786712532.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1782786727791.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215164466.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215176130.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215185779.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Không Linh Vy Vy</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Kaida Yūko</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=74\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>645</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>12</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>642</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>2233</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo Electric</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Người Bảo Hộ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784545526470.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Người Bảo Hộ Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764258044920.png\" style=\"max-width: 147px\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Freeze.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Hiệu Lệnh Che Chở",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784545546981.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Hiệu Lệnh Che Chở Lv.1</p>\n<p>Chủ động/Buff/Chia sẻ</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764258341585.png\" style=\"max-width: 147px\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây Che Chở chia sẻ sát thương lên họ và gỡ hiệu ứng khiêu khích, né tránh; Che Chở tồn tại tối đa 1. Sau kỹ năng bản thân nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Xung Phong Yểm Hộ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784545559728.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Xung Phong Yểm Hộ Lv.1</p>\n<p>Chủ động/Buff/Ô địa hình/Phòng hộ</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764258721904.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong phạm vi chữ thập <span style=\"color: #ff9900\">4</span> đến 8 ô xung quanh, hạ xuống ô đó, xua tan <span style=\"color: #ff9900\">1</span> debuff và gây Khiên Băng duy trì <span style=\"color: #ff9900\">2 hiệp</span> lên mọi đồng minh trong bề rộng <span style=\"color: #ff9900\">5 ô</span> trên đường đi; Khiên Băng hấp thụ bằng <span style=\"color: #ff9900\">100%</span> Tấn công ban đầu của Helen, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu; tạo ô địa hình Sương Giá trong phạm vi đường đi, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cứ mỗi đồng minh (trừ bản thân) trên đường đi, hiệu suất tạo khiên của kỹ năng này tăng <span style=\"color: #ff9900\">30%</span> và hồi <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định cho bản thân. Sau kỹ năng nhận <span style=\"color: #ff9900\">6 ô</span> di chuyển thêm và có thể dùng đánh thường.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 4&nbsp; &nbsp;</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Canh Giữ Cờ Hiệu",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784545578575.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Canh Giữ Cờ Hiệu Lv.1</p>\n<p>Quyết thắng/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764258945278.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây Tăng tấn công III và Tăng phòng thủ III duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Đồng thời giảm <span style=\"color: #ff9900\">1 hiệp</span> hồi chiêu kỹ năng Quyết thắng của mọi nhân vật hệ Freeze trên sân (trừ bản thân). Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Chiến Cơ Vô Úy",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784545594735.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Chiến Cơ Vô Úy Lv.1</p>\n<p>Bị động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764259128273.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Bản thân miễn nhiễm giảm hiệu quả hồi máu, không thể được hồi máu và hiệu ứng chuyển hồi máu thành sát thương. Khi bắt đầu chiến đấu, Phòng thủ và HP tối đa tăng <span style=\"color: #ff9900\">30%</span>. Khi bắt đầu hiệp, bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index, hồi <span style=\"color: #ff9900\">25%</span> HP tối đa và xua tan mọi debuff. Mỗi lần bản thân nhận sát thương, nhận <span style=\"color: #ff9900\">1</span> tầng Tích Phong; khi có Tích Phong, hệ số sát thương của đánh thường tăng lên <span style=\"color: #ff9900\">180%</span>. Trước khi đánh thường, tăng Tấn công của bản thân bằng <span style=\"color: #ff9900\">15%</span> Phòng thủ của bản thân.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Xung Phong Yểm Hộ Lv.2</strong></td>\n<td>Bề rộng tăng <span style=\"color: #ff9900\">2 ô</span>, xua tan thêm <span style=\"color: #ff9900\">2</span> debuff và gây Tăng sát thương chí mạng II duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong phạm vi chữ thập <span style=\"color: #ff9900\">4</span> đến 8 ô xung quanh, hạ xuống ô đó, xua tan <span style=\"color: #ff9900\">3</span> debuff và gây Tăng sát thương chí mạng II cùng Khiên Băng duy trì <span style=\"color: #ff9900\">2 hiệp</span> lên mọi kẻ địch trong bề rộng <span style=\"color: #ff9900\">7 ô</span> trên đường đi; Khiên Băng hấp thụ bằng <span style=\"color: #ff9900\">100%</span> Tấn công ban đầu của Helen, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu; tạo ô địa hình Sương Giá trong phạm vi đường đi, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cứ mỗi đồng minh (trừ bản thân) trên đường đi, hiệu suất tạo khiên của kỹ năng này tăng <span style=\"color: #ff9900\">30%</span> và hồi <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định cho bản thân. Sau kỹ năng nhận thêm ô di chuyển và có thể dùng đánh thường.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Chiến Cơ Vô Úy Lv.2</strong></td>\n<td>Giới hạn Chỉ số ổn định tăng lên <span style=\"color: #ff9900\">16 điểm</span>, sát thương phải nhận giảm <span style=\"color: #ff9900\">50%</span>. Mỗi lần bản thân nhận sát thương, nhận thêm <span style=\"color: #ff9900\">1</span> tầng Tích Phong. Trước khi đánh thường, tăng Tấn công của bản thân bằng <span style=\"color: #ff9900\">30%</span> Phòng thủ của bản thân.</td>\n<td>Bản thân miễn nhiễm giảm hiệu quả hồi máu, không thể được hồi máu và hiệu ứng chuyển hồi máu thành sát thương. Khi bắt đầu chiến đấu, Phòng thủ và HP tối đa tăng <span style=\"color: #ff9900\">30%</span>, giới hạn Chỉ số ổn định tăng lên <span style=\"color: #ff9900\">16 điểm</span>, sát thương phải nhận giảm <span style=\"color: #ff9900\">50%</span>. Khi bắt đầu hiệp, bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index, hồi <span style=\"color: #ff9900\">25%</span> HP tối đa và xua tan mọi debuff. Mỗi lần bản thân nhận sát thương, nhận <span style=\"color: #ff9900\">2 tầng</span> Tích Phong; khi có Tích Phong, hệ số sát thương của đánh thường tăng lên <span style=\"color: #ff9900\">180%</span>. Trước khi đánh thường, tăng Tấn công của bản thân bằng <span style=\"color: #ff9900\">30%</span> Phòng thủ của bản thân.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Canh Giữ Cờ Hiệu Lv.2</strong></td>\n<td>Giảm <span style=\"color: #ff9900\">2 hiệp</span> hồi chiêu. Bản thân nhận Tăng tấn công III và Tăng phòng thủ III duy trì <span style=\"color: #ff9900\">2 hiệp</span>; nhận <span style=\"color: #ff9900\">10 tầng</span> Tích Phong. Giảm <span style=\"color: #ff9900\">1 hiệp</span> hồi chiêu kỹ năng Quyết thắng của nhân vật hệ Freeze.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> đồng minh trong bán kính <span style=\"color: #ff9900\">6 ô</span> xung quanh, gây lên họ và bản thân Tăng tấn công III và Tăng phòng thủ III duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Bản thân nhận <span style=\"color: #ff9900\">10 tầng</span> Tích Phong. Đồng thời giảm <span style=\"color: #ff9900\">2 hiệp</span> hồi chiêu kỹ năng Quyết thắng của mọi nhân vật hệ Freeze trên sân (trừ bản thân). Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Hiệu Lệnh Che Chở Lv.2</strong></td>\n<td>Gỡ thêm hiệu ứng dụ dẫn, choáng. Khi chia sẻ sát thương, nếu nhận sát thương chí mạng sẽ không chết và hồi lượng HP bằng <span style=\"color: #ff9900\">150%</span> Phòng thủ, kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi hiệp lớn. Sát thương Freeze của đồng minh có Che Chở tăng <span style=\"color: #ff9900\">30%</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây Che Chở chia sẻ sát thương lên họ và gỡ hiệu ứng khiêu khích, né tránh, dụ dẫn, choáng; Che Chở tồn tại tối đa 1. Khi chia sẻ sát thương, nếu nhận sát thương chí mạng sẽ không chết và hồi lượng HP bằng <span style=\"color: #ff9900\">150%</span> Phòng thủ, kích hoạt tối đa <span style=\"color: #ff9900\">1</span> lần mỗi hiệp lớn. Sau kỹ năng bản thân nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Xung Phong Yểm Hộ Lv.3</strong></td>\n<td>Cứ mỗi đồng minh (trừ bản thân) trên đường đi, hồi thêm <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định và nhận số tầng Sương Hàn Dẫn Động tương ứng.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong phạm vi chữ thập <span style=\"color: #ff9900\">4</span> đến 8 ô xung quanh, hạ xuống ô đó, xua tan <span style=\"color: #ff9900\">3</span> debuff và gây Tăng sát thương chí mạng II cùng Khiên Băng duy trì <span style=\"color: #ff9900\">2 hiệp</span> lên mọi kẻ địch trong bề rộng <span style=\"color: #ff9900\">7 ô</span> trên đường đi; Khiên Băng hấp thụ bằng <span style=\"color: #ff9900\">100%</span> Tấn công ban đầu của Helen, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu; tạo ô địa hình Sương Giá trong phạm vi đường đi, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cứ mỗi đồng minh (trừ bản thân) trên đường đi, hiệu suất tạo khiên của kỹ năng này tăng <span style=\"color: #ff9900\">30%</span>, hồi <span style=\"color: #ff9900\">4 điểm</span> Chỉ số ổn định cho bản thân và nhận số tầng Sương Hàn Dẫn Động tương ứng, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng nhận <span style=\"color: #ff9900\">6 ô</span> di chuyển thêm và có thể dùng đánh thường.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Chiến Cơ Vô Úy Lv.3</strong></td>\n<td>Khi đồng minh nhận sát thương, bản thân nhận <span style=\"color: #ff9900\">2 tầng</span> Tích Phong. Khi có Tích Phong, hệ số sát thương của đánh thường tăng lên <span style=\"color: #ff9900\">300%</span>. Trước khi đánh thường, mức tăng Tấn công nâng lên <span style=\"color: #ff9900\">70%</span> Phòng thủ của bản thân.</td>\n<td>Bản thân miễn nhiễm giảm hiệu quả hồi máu, không thể được hồi máu và hiệu ứng chuyển hồi máu thành sát thương. Khi bắt đầu chiến đấu, Phòng thủ và HP tối đa tăng <span style=\"color: #ff9900\">30%</span>, giới hạn Chỉ số ổn định tăng lên <span style=\"color: #ff9900\">16 điểm</span>, sát thương phải nhận giảm <span style=\"color: #ff9900\">50%</span>. Khi bắt đầu hiệp, bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index, hồi <span style=\"color: #ff9900\">25%</span> HP tối đa và xua tan mọi debuff. Mỗi lần bản thân và đồng minh nhận sát thương, nhận <span style=\"color: #ff9900\">2 tầng</span> Tích Phong; khi có Tích Phong, hệ số sát thương của đánh thường tăng lên <span style=\"color: #ff9900\">300%</span>. Trước khi đánh thường, tăng Tấn công của bản thân bằng <span style=\"color: #ff9900\">70%</span> Phòng thủ của bản thân.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784545607652.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Khóa Khế Hợp·Tình Báo Bí Mật</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860777125.png\" width=\"20\" height=\"20\"></sub>HP +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1770081220110.png\" width=\"20\" height=\"20\"></sub>Phòng thủ +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545620416.png\"></td>\n<td>\n<h2>Khóa cố định·Bóng Gián Điệp Hai Mặt</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi bắt đầu hiệp, bản thân nhận 3 tầng Tích Phong.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545634339.png\"></td>\n<td>\n<h2>Khóa cố định·Nở Rộ Lạnh Lùng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi dùng đánh thường tấn công đơn vị thủ lĩnh, sát thương Freeze gây ra tăng 20%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545662591.png\"></td>\n<td>\n<h2>Khóa cố định·Quá Khứ Bị Chôn Vùi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Trước khi đánh thường, xua tan 2 buff của kẻ địch mục tiêu.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545675410.png\"></td>\n<td>\n<h2>Khóa cố định·Quyết Tâm Của Người Bảo Hộ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi kết thúc hành động, gây 2 tầng Yểm Hộ lên bản thân và mục tiêu có Che Chở.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545691233.png\"></td>\n<td>\n<h2>Khóa cố định·Ánh Sáng Tình Mẫu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi bắt đầu hiệp, nếu HP bản thân ≥ 30%, nhận Ánh Sáng Tình Mẫu.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545704668.png\"></td>\n<td>\n<h2>Khóa cố định·Người Vận Dụng Quy Tắc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Sát thương ổn định phải nhận giảm 2 điểm, và miễn nhiễm hiệu ứng choáng, né tránh.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545717772.png\"></td>\n<td>\n<h2>Khóa chung·Phòng Tuyến Bất Động</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><img src=\"https://community-cdn.exiliumgf.com/prod/1764260232450.png\">Phòng thủ +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Nếu Phòng thủ của bản thân ≥ Phòng thủ của mục tiêu, sát thương gây ra tăng 10%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Phòng thủ của mọi đồng minh có Khiên Băng tăng 5%, không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*1 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*7 Support*2 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Freeze gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*9 Support*3 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi không được vật cản che chắn, sát thương phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*13 Support*4 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Phòng thủ tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*15 Support*5 Sentinel*9&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi Chỉ số ổn định lớn hơn 0 điểm, sát thương gây ra tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763893236703.png\"></td>\n<td>\n<h1><strong>Lời Thì Thầm Vĩnh Hộ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10673\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng shotgun/Shotgun Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng shotgun hiệu năng cao được cấp cho Helen, lấy SG-12 làm nguyên mẫu, nâng hiệu suất tác chiến một cách hiệu quả. Dung lượng đạn kinh người, hỏa lực dồi dào, công thủ toàn diện, không gì cản nổi.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=99044&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1759232954431.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=99293&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1761212903675.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=98996&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1759232919700.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll có năng lực sắp xếp tình báo mạnh mẽ; trong thời kỳ biến động sau khi Griffin giải thể, cô chọn chấp nhận sự sắp xếp của phía chính thức và luôn tìm kiếm tung tích của Chỉ huy. Nhờ năng lực sắp xếp tình báo xuất sắc thể hiện trong cuộc kiểm tra khắt khe của phía chính thức, cô được chọn làm một mắt xích trong “Kế hoạch Miện Động”.</p>\n<p><br>&nbsp; Helen ẩn mình trong bóng tối, khéo léo tận dụng mọi nguồn lực và quyền hạn xung quanh, tiếp cận trung tâm hệ thống tình báo, cố gắng suy đoán kế hoạch khổng lồ mà tài phiệt đã bố trí bên trong Liên Hiệp La.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Helen",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778221689444.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221689323.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778221711260.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221711261.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221711284.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221737408.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221737379.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221737383.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221737418.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1782786842200.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1759054409132.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1759054419450.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1759054431653.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1759054441663.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1759054451386.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1759054462509.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1759054472560.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1759054488646.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1759054497800.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784705705651.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784705712171.jpeg\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 369,
+      "title": "Thường ngày-01",
+      "text": "Elmo như một đại gia đình, và Chỉ huy chính là người đứng đầu nơi này. Dạo này ngài áp lực lắm sao? Hay là dựa vào tôi nhiều hơn nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Daily_001.wav"
+    },
+    {
+      "id": 370,
+      "title": "Thường ngày-02",
+      "text": "Tôi đọc được vài câu chuyện thú vị, có thể kể ngài nghe trước khi ngủ. Yên tâm, đó là chuyện dân gian của nhiều vùng, không phải chuyện ma đâu~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Daily_002.wav"
+    },
+    {
+      "id": 371,
+      "title": "Thường ngày-03",
+      "text": "Có tôi bên cạnh, ngài cứ yên tâm giao hết mọi việc cho tôi. Còn về thù lao… tôi muốn tham lam một chút, mong Chỉ huy ở bên tôi nhiều hơn, được không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Daily_003.wav"
+    },
+    {
+      "id": 372,
+      "title": "Thường ngày-04",
+      "text": "Những ngày được ở bên ngài lúc này khiến tôi thấy hạnh phúc. Dù ngài định đi đâu, nơi có ngài chính là \"chốn về\" của tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Daily_004.wav"
+    },
+    {
+      "id": 373,
+      "title": "Thường ngày-05",
+      "text": "Ôi, Chỉ huy, tóc ngài hình như hơi rối rồi. Để tôi chải lại cho ngài nhé, tôi sẽ làm thật tốt～",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Daily_005.wav"
+    },
+    {
+      "id": 374,
+      "title": "Nâng cấp-01",
+      "text": "Ừm, cứ làm vậy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Up_001.wav"
+    },
+    {
+      "id": 375,
+      "title": "Nâng cấp-02",
+      "text": "Tăng cường phòng thủ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Up_002.wav"
+    },
+    {
+      "id": 376,
+      "title": "Nâng cấp-03",
+      "text": "Năng lực tính toán tăng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Up_003.wav"
+    },
+    {
+      "id": 377,
+      "title": "Nâng cấp-04",
+      "text": "Hì hì, thuận lợi quá nhỉ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Up_004.wav"
+    },
+    {
+      "id": 378,
+      "title": "Nâng cấp-05",
+      "text": "Chỉ cần anh muốn, tôi đều làm được.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Up_005.wav"
+    },
+    {
+      "id": 379,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Title_001.wav"
+    },
+    {
+      "id": 380,
+      "title": "Đăng nhập",
+      "text": "Anh đến rồi, cần tôi làm gì không? Đừng khách sáo nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Login_001.wav"
+    },
+    {
+      "id": 381,
+      "title": "Tâm sự-01",
+      "text": "Thời tiết đẹp thế này, đừng ở mãi trong phòng chỉ huy nữa, để tôi cùng anh đi dạo một lát nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 382,
+      "title": "Tâm sự-02",
+      "text": "Tình báo ngài muốn, tôi đương nhiên sẽ dốc toàn lực thu thập theo cách làm của ngài… Hửm? Mọi điều về ngài, tôi đều ghi nhớ trọn vẹn đấy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 383,
+      "title": "Tâm sự-03",
+      "text": "Mọi người đều dựa vào anh, vậy anh sẽ dựa vào ai đây… Tôi hơi cảm khái chút thôi, nhưng Chỉ huy, nếu anh mệt, tôi luôn là chỗ dựa của anh.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 384,
+      "title": "Tâm sự-04",
+      "text": "Trong lòng tôi, ngài khác với những con người khác. Tôi nguyện bảo vệ lý tưởng của ngài. Bất cứ thứ gì cản trở mục tiêu của ngài, tôi sẽ… giúp ngài xử lý chúng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 385,
+      "title": "Tâm sự-05",
+      "text": "Tôi như vừa trải qua một giấc mơ rất dài… Được sống cùng ngài là tương lai tôi mong muốn, và cũng là mục tiêu tôi sẽ tự tay thực hiện.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 386,
+      "title": "Tâm sự-06",
+      "text": "Nghe nói khi buồn, con người khao khát được ôm. Chỉ huy hiếm khi biểu lộ nỗi buồn, nhưng nếu ngài cần… hì hì, hãy đến vòng tay tôi nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 387,
+      "title": "Tâm sự-07",
+      "text": "Dù chuyện gì tôi cũng sẽ bao dung, đáp ứng ngài… Thỉnh thoảng, tôi cũng muốn xin ngài vài yêu cầu nho nhỏ không quá đáng～ Hì hì, đừng sợ, Chỉ huy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 388,
+      "title": "Tâm sự-08",
+      "text": "Từ khi gặp ngài, tôi càng ngày càng muốn có một mái nhà thuộc về chúng ta… Tôi sẽ dốc hết sức tạo ra nó, đây là lời thề giữa tôi và ngài.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 390,
+      "title": "Vào đội",
+      "text": "Cuối cùng cũng được gặp lại ngài, xin cho tôi mãi đi theo bên ngài. Lần này, tôi nhất định sẽ bảo vệ ngài thật tốt.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 232,
+      "title": "Ngữ khí-01",
+      "text": "Để tôi đảm bảo an toàn cho anh.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 233,
+      "title": "Ngữ khí-02",
+      "text": "Xuất phát thôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 234,
+      "title": "Ngữ khí-03",
+      "text": "Áp chế hỏa lực!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 235,
+      "title": "Ngữ khí-04",
+      "text": "Đã nắm được tình báo.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 236,
+      "title": "Ngữ khí-05",
+      "text": "Đã đến điểm hành động.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 237,
+      "title": "Ngữ khí-06",
+      "text": "Giao cho tôi～",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 238,
+      "title": "Ngữ khí-07",
+      "text": "Đã nhận～",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 239,
+      "title": "Ngữ khí-08",
+      "text": "Lại… phải ngủ say sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 240,
+      "title": "Ngữ khí-09",
+      "text": "Tôi sẽ không lùi bước!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 241,
+      "title": "Ngữ khí-10",
+      "text": "Ư, phòng thủ bị…",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Series_Tone_Negative_003.wav"
+    },
+    {
+      "id": 242,
+      "title": "Kỹ năng-01",
+      "text": "Chỗ này không qua được đâu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Skill_001.wav"
+    },
+    {
+      "id": 243,
+      "title": "Kỹ năng-02",
+      "text": "Tất cả im miệng cho tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Skill_002.wav"
+    },
+    {
+      "id": 244,
+      "title": "Kỹ năng-03",
+      "text": "Gửi tặng \"bất ngờ\"～",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Hit_001.wav"
+    },
+    {
+      "id": 249,
+      "title": "Kỹ năng-04",
+      "text": "Hì hì, ngây thơ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 248,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Đừng sợ, tôi luôn… ở bên cạnh anh!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 245,
+      "title": "Hạ gục",
+      "text": "Thật đáng thương～",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Kill_001.wav"
+    },
+    {
+      "id": 246,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Chỉ huy cứ yên tâm, nguy cơ đã được giải trừ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1764318517901.wav"
+    },
+    {
+      "id": 247,
+      "title": "Kết thúc trận-Thua",
+      "text": "Phải… sắp xếp lại tình báo. Đừng từ bỏ hy vọng…",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/HelenCV/VO_Helen_Single_Lose_001.wav"
+    }
+  ]
+}

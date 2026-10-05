@@ -1,0 +1,370 @@
+{
+  "id": 1015,
+  "name": "Vepley",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045395225.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 1,
+  "role_id": 2,
+  "team_id": 7,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Vanguard",
+  "attr": "Physical",
+  "team": "Groza Squad",
+  "weapon": "Vepr-12",
+  "model": "SSD-62D",
+  "ammo_model": "SG",
+  "desc": "Idol hoạt động trên sân khấu đặc biệt mang tên \"chiến trường\"! Mỗi ngày đều chuẩn bị chu đáo cho buổi diễn kế tiếp, nhờ vậy sẽ không dễ ngã hay va vào người khác nữa nhỉ.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/维普蕾pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/维普蕾移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014891855.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014899905.png"
+  },
+  "skins": [
+    {
+      "id": 34,
+      "name": "Âm Vang Mùa Hè",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763950371134.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763950384630.png"
+    },
+    {
+      "id": 35,
+      "name": "Điều Ước Sao Lấp Lánh",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763950397407.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763950409007.png"
+    }
+  ],
+  "gifs": [],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">CV tiếng Trung</td>\n<td style=\"text-align: center\">Nhàn Đạp Ngô Đồng</td>\n</tr>\n<tr style=\"text-align: center\">\n<td>CV tiếng Nhật</td>\n<td>Harada Hitomi</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>696</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>8</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>528</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>8</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1851</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo <span style=\"color: #00ccff\">Hydro</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Tương Tác Trực Tiếp",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544397571.png\"></p>\n</td>\n<td>\n<p>Tương Tác Tại Chỗ Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764500684098.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Trình Diễn Hết Mình",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544411186.png\"></p>\n</td>\n<td>\n<p>Toàn Lực Biểu Diễn Lv.1</p>\n<p>Chủ động/Diện rộng/Phá vật cản/Di chuyển</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764500735076.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây <span style=\"color: #ff9900\">75%</span> Tấn công sát thương Physical diện rộng lên kẻ địch đầu tiên trên mỗi đường thẳng trong phạm vi <span style=\"color: #ff9900\">3</span>×5 ô phía trước, và đẩy lùi mục tiêu <span style=\"color: #ff9900\">4 ô</span>. Đồng thời phá hủy vật cản có thể phá hủy trong phạm vi nhưng ngoài 3×<span style=\"color: #ff9900\">3 ô</span> quanh bản thân.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Sân Khấu Riêng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544425814.png\"></p>\n</td>\n<td>\n<p>Sân Khấu Riêng Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Xua tan</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764500798359.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span>, gây <span style=\"color: #ff9900\">150%</span> Tấn công sát thương Physical. Nếu mục tiêu không được vật cản che chắn, trước khi tấn công xua tan <span style=\"color: #ff9900\">2</span> buff của nó.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Tiêu hao Infection: 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Truyền Nhiệt Huyết",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544440999.png\"></p>\n</td>\n<td>\n<p>Truyền Nhiệt Huyết Lv.1</p>\n<p>Quyết thắng/Diện rộng/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764500856540.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong <span style=\"color: #ff9900\">bán kính 5 ô</span> để phóng tới, gây <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Physical diện rộng lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 2 ô</span>, gây Quá Khích và Dễ tổn thương II lên mục tiêu duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Tiêu hao Infection: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Thiên Phú Idol",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544455248.png\"></p>\n</td>\n<td>\n<p>Thiên Phú Idol Lv.1</p>\n<p>Bị động/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764500909627.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu hành động, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Mỗi khi gây <span style=\"color: #ff9900\">1 lần</span> sát thương, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Sát thương lên kẻ địch có debuff loại di chuyển tăng <span style=\"color: #ff9900\">20%</span>. Nếu khoảng cách di chuyển từ <span style=\"color: #ff9900\">5 ô</span> trở lên, trước khi tấn công gây Giảm di chuyển II lên mục tiêu duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Toàn Lực Biểu Diễn Lv.2</strong></td>\n<td style=\"text-align: center\">Khi trúng từ <span style=\"color: #ff9900\">2</span> mục tiêu trở lên, nhận <span style=\"color: #ff9900\">3 ô</span> Thêm di chuyển.</td>\n<td style=\"text-align: center\">Chọn 1 hướng xung quanh, gây <span style=\"color: #ff9900\">75%</span> Tấn công sát thương Physical diện rộng lên kẻ địch đầu tiên trên mỗi đường thẳng trong phạm vi <span style=\"color: #ff9900\">3</span>×5 ô phía trước, và đẩy lùi mục tiêu <span style=\"color: #ff9900\">4 ô</span>. Đồng thời phá hủy vật cản có thể phá hủy trong phạm vi nhưng ngoài 3×<span style=\"color: #ff9900\">3 ô</span> quanh bản thân. Khi trúng từ <span style=\"color: #ff9900\">2</span> mục tiêu trở lên, nhận <span style=\"color: #ff9900\">3 ô</span> Thêm di chuyển.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Sân Khấu Riêng Lv.2</strong></td>\n<td style=\"text-align: center\">Tỉ lệ chí mạng lên kẻ địch có debuff loại di chuyển tăng <span style=\"color: #ff9900\">100%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span>, gây <span style=\"color: #ff9900\">150%</span> Tấn công sát thương Physical. Tỉ lệ chí mạng lên kẻ địch có debuff loại di chuyển tăng <span style=\"color: #ff9900\">100%</span>. Nếu mục tiêu không được vật cản che chắn, trước khi tấn công xua tan <span style=\"color: #ff9900\">2</span> buff của nó.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Truyền Nhiệt Huyết Lv.2</strong></td>\n<td style=\"text-align: center\">Thời điểm gây hiệu ứng Quá Khích được đẩy lên trước khi tấn công.</td>\n<td style=\"text-align: center\">Chọn 1 ô địa hình trong <span style=\"color: #ff9900\">bán kính 5 ô</span> để phóng tới, gây Quá Khích lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 2 ô</span> duy trì <span style=\"color: #ff9900\">2 hiệp</span>, gây <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Physical diện rộng và gây Dễ tổn thương II duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Thiên Phú Idol Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu khoảng cách di chuyển từ <span style=\"color: #ff9900\">3 ô</span> trở lên, có thể gây Giảm di chuyển II lên mục tiêu trước khi tấn công.</td>\n<td style=\"text-align: center\">Khi bắt đầu hành động, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Mỗi khi gây <span style=\"color: #ff9900\">1 lần</span> sát thương, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Sát thương lên kẻ địch có debuff loại di chuyển tăng <span style=\"color: #ff9900\">20%</span>. Nếu khoảng cách di chuyển từ <span style=\"color: #ff9900\">3 ô</span> trở lên, trước khi tấn công gây Giảm di chuyển II lên mục tiêu duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Thiên Phú Idol Lv.3</strong></td>\n<td style=\"text-align: center\">Nếu mục tiêu có debuff loại di chuyển, gây Vô Hiệu Di Chuyển duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu hành động, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Mỗi khi gây <span style=\"color: #ff9900\">1 lần</span> sát thương, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Sát thương lên kẻ địch có debuff loại di chuyển tăng <span style=\"color: #ff9900\">20%</span>. Nếu khoảng cách di chuyển từ <span style=\"color: #ff9900\">3 ô</span> trở lên, trước khi tấn công gây Giảm di chuyển II lên mục tiêu duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Nếu mục tiêu có debuff loại di chuyển, gây Vô Hiệu Di Chuyển duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Truyền Nhiệt Huyết Lv.3</strong></td>\n<td style=\"text-align: center\">Khi chỉ trúng 1 mục tiêu, gây Choáng lên nó duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Chọn 1 ô địa hình trong <span style=\"color: #ff9900\">bán kính 5 ô</span> để phóng tới, gây Quá Khích lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 2 ô</span> duy trì <span style=\"color: #ff9900\">2 hiệp</span>, gây <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Physical diện rộng và gây Dễ tổn thương II duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Khi chỉ trúng 1 mục tiêu, gây Choáng lên nó duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544469314.png\"></td>\n<td>\n<h2>Contract Key·Xuất Hiện Rực Rỡ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764396747429.png\" width=\"20\" height=\"20\"></sub>Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544486001.png\"></td>\n<td>\n<h2>Fixed Key·Khoảng Cách Xem Diễn An Toàn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sát thương ổn định lên kẻ địch có debuff loại di chuyển tăng 2 điểm.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544501008.png\"></td>\n<td>\n<h2>Fixed Key·Lưu Diễn Vùng Ô Nhiễm</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Phạm vi kỹ năng chủ động Toàn Lực Biểu Diễn đổi thành 5×3 ô, số ô đẩy lùi đổi thành 1 ô.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544514779.png\"></td>\n<td>\n<h2>Fixed Key·May Mắn Của Idol</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu không có đồng minh trong bán kính 6 ô quanh bản thân, khi kết thúc hành động nhận 1 tầng Khiên tác dụng nhanh.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544530605.png\"></td>\n<td>\n<h2>Fixed Key·Khủng Long Con Đột Kích</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Sân Khấu Riêng, với mục tiêu có debuff loại di chuyển, bỏ qua 10% giảm sát thương từ vật cản.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544544000.png\"></td>\n<td>\n<h2>Fixed Key·Huấn Luyện Chịu Áp Lực</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu gần bản thân có vật cản, sát thương diện rộng phải nhận giảm 20%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544557350.png\"></td>\n<td>\n<h2>Fixed Key·Kiên Thủ Sân Khấu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi gây debuff loại di chuyển lên mục tiêu cỡ lớn, gây thêm 1 lần sát thương cố định bằng 15% Tấn công.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544570170.png\"></td>\n<td>\n<h2>Common Key·Đánh Thẳng Tâm Hồn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764405202464.png\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Nếu Điểm hành động lớn hơn hoặc bằng mục tiêu, sát thương gây ra tăng 7%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784544584808.png\"></td>\n<td>\n<h2>Expansion Key·Vũ Bộ Idol</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Tấn công bỏ qua 15% Phòng thủ của mục tiêu, nếu mục tiêu có debuff loại di chuyển, bỏ qua thêm 15% Phòng thủ. Khi dùng kỹ năng chủ động Toàn Lực Biểu Diễn, gây Choáng và Dễ tổn thương II lên mục tiêu duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*4 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có debuff loại di chuyển tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*6 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*7 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*9 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có HP từ 50% trở xuống tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*13 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*15 Sentinel*9&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sau khi chí mạng, gây 6 điểm sát thương ổn định cố định lên mục tiêu, mỗi hiệp kích hoạt tối đa 1 lần.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763995035335.png\"></td>\n<td>\n<h1><strong>Truy Tâm &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=11016\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng shotgun/Shotgun Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng shotgun hiệu năng cao được cấp cho Vepley, cải tạo từ nguyên mẫu Molot12, dùng để bảo vệ an toàn cho khán giả khi buổi diễn xảy ra sự cố. Có điều, là một idol chuyên nghiệp, biết đâu Vepley sẽ dùng khẩu súng này để lén \"săn\" trái tim khán giả.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Mua sắm thường</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=178&amp;hash_flag=2\"><img style=\"display: block; margin: 0 auto\" src=\"https://community.cdn.sunborngame.com/prod/image/1717560498714.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=76&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1716879146384.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; Idol hoạt động trên sân khấu đặc biệt mang tên \"chiến trường\"! Mỗi ngày đều chuẩn bị chu đáo cho buổi diễn kế tiếp, nhờ vậy sẽ không dễ ngã hay va vào người khác nữa nhỉ.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778314341387.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314341361.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314341393.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778314383297.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314383115.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314383281.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314383243.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314383242.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314383241.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314383298.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314383301.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778314383279.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/帕瓦.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/呜呜呜.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727093060447.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727093071125.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727093089160.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727093099968.png\" style=\"max-width: 150px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1564,
+      "title": "Thường ngày-01",
+      "text": "Hừm——hừm hừm~ hừm hừm…… Hửm? Là bài hát hay hát ngày xưa đó, Chỉ huy thích không? Không thích?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765946844438.wav"
+    },
+    {
+      "id": 1381,
+      "title": "Thường ngày-02",
+      "text": "Ừm……buổi diễn lần tới, phong cách dễ thương……hay thử thách phong cách、quyến rũ nhỉ? Chỉ huy、nghĩ sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Daily_002.wav"
+    },
+    {
+      "id": 1382,
+      "title": "Thường ngày-03",
+      "text": "Oa ha (giả vờ ngáp)……hôm nay cũng tập thâu đêm rồi…… Không được, phải lấy lại tinh thần, Vepley!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Daily_003.wav"
+    },
+    {
+      "id": 1387,
+      "title": "Thường ngày-04",
+      "text": "Mang niềm vui đến cho mọi người chính là công việc của Vepley ☆",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Daily_008.wav"
+    },
+    {
+      "id": 1388,
+      "title": "Thường ngày-05",
+      "text": "Uây~ Hôm nay thời tiết siêu đẹp! Lâu rồi mới biểu diễn ngẫu hứng ngoài trời nào.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Daily_009.wav"
+    },
+    {
+      "id": 1390,
+      "title": "Nâng cấp-01",
+      "text": "Ưm?! Sức mạnh tăng lên thì tốt thôi nhưng……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Up_001.wav"
+    },
+    {
+      "id": 1391,
+      "title": "Nâng cấp-02",
+      "text": "Phải bảo vệ mọi người thật tốt!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Up_002.wav"
+    },
+    {
+      "id": 1392,
+      "title": "Nâng cấp-03",
+      "text": "Tèn tén ☆ Độ dễ thương tăng lên!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Up_003.wav"
+    },
+    {
+      "id": 1395,
+      "title": "Nâng cấp-04",
+      "text": "Vepley có thể、mạnh đến đáng sợ đó nha?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Up_006.wav"
+    },
+    {
+      "id": 1397,
+      "title": "Nâng cấp-05",
+      "text": "Hãy dựa vào tớ nhiều hơn nữa!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Up_008.wav"
+    },
+    {
+      "id": 1398,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Title_001.wav"
+    },
+    {
+      "id": 1399,
+      "title": "Đăng nhập",
+      "text": "Ừm~! Sân khấu của Vepley hôm nay cũng khai diễn tuyệt vời nha!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Login_001.wav"
+    },
+    {
+      "id": 1400,
+      "title": "Tâm sự-01",
+      "text": "A, là Chỉ huy! Colphne sẽ luyện nhảy cùng Vepley, Chỉ huy có đến không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 1401,
+      "title": "Tâm sự-02",
+      "text": "Hả、hả?! Khuân、khuân đồ thì Vepley bây giờ đúng lúc không rảnh nha! Là thật、thật sự không rảnh! Ừm, lịch trình của Vepley kín lắm đó!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 1402,
+      "title": "Tâm sự-03",
+      "text": "Ừm……không vui, là cảm giác như thế nào vậy?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 1403,
+      "title": "Tâm sự-04",
+      "text": "(Ngân nga) Hửm? Thích không? Tốt quá ☆ Vừa nãy、Chỉ huy trông không có tinh thần nhỉ. Ừm ừm, hay là, cùng làm gì đó vui vẻ nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 1406,
+      "title": "Tâm sự-05",
+      "text": "Ưm……đi làm nhiệm vụ thì Vepley lại không gặp được Chỉ huy rồi…… Ừm! Vậy thì hoàn thành thật nhanh rồi về ngay thôi ☆",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 1409,
+      "title": "Tâm sự-06",
+      "text": "Hửm? Chỉ huy không vui? Ừm……nếu giúp Chỉ huy lấy lại tinh thần thì Vepley làm gì cũng được ☆ Vì Vepley thích Chỉ huy nhất mà!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Friendliness_010.wav"
+    },
+    {
+      "id": 1410,
+      "title": "Tâm sự-07",
+      "text": "Tim đập nhanh gì đó, không biết Chỉ huy có phải cũng…… Có nên đi hỏi không…… A、Chỉ huy?! Cái đó……Chỉ huy đói、đói không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Friendliness_011.wav"
+    },
+    {
+      "id": 1412,
+      "title": "Tâm sự-08",
+      "text": "A……nếu Chỉ huy nhìn Vepley bằng ánh mắt như、như vậy, tim sẽ、sẽ đập hơi nhanh…… Không、không cần kiểm tra đâu!……Chỉ huy, có thể ở bên Vepley một lát không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 1414,
+      "title": "Vào đội",
+      "text": "Sắp có buổi diễn mới sao? Vepley, siêu·cấp·mong đợi ☆!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 840,
+      "title": "Ngữ khí-01",
+      "text": "Hê~☆",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 841,
+      "title": "Ngữ khí-02",
+      "text": "Hây da!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 842,
+      "title": "Ngữ khí-03",
+      "text": "Ừm……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 844,
+      "title": "Ngữ khí-04",
+      "text": "Có sơ hở!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 845,
+      "title": "Ngữ khí-05",
+      "text": "Hãy nhìn tớ đi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765946891652.wav"
+    },
+    {
+      "id": 846,
+      "title": "Ngữ khí-06",
+      "text": "Tiếp đất êm ái ☆",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 847,
+      "title": "Ngữ khí-07",
+      "text": "Động tác hoàn hảo!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 849,
+      "title": "Ngữ khí-08",
+      "text": "Hả? Hảaa?!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 850,
+      "title": "Ngữ khí-09",
+      "text": "Ư、!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 851,
+      "title": "Ngữ khí-10",
+      "text": "A、đau!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 852,
+      "title": "Kỹ năng-01",
+      "text": "Mọi người! Cố lên nào!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Skill_001.wav"
+    },
+    {
+      "id": 853,
+      "title": "Kỹ năng-02",
+      "text": "Khóa mục tiêu ☆ bang!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Skill_002.wav"
+    },
+    {
+      "id": 854,
+      "title": "Kỹ năng-03",
+      "text": "Hảaa——?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Hit_001.wav"
+    },
+    {
+      "id": 859,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Khoảnh khắc tỏa sáng của Vepley ☆!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 855,
+      "title": "Hạ gục",
+      "text": "Làm được rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Kill_001.wav"
+    },
+    {
+      "id": 856,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Kiểm tra hình ảnh……ừm, không vấn đề! Chỉ huy, buổi diễn tới là khi nào? Vepley、lúc nào cũng stand by nha!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Win_001.wav"
+    },
+    {
+      "id": 857,
+      "title": "Kết thúc trận-Thua",
+      "text": "Ưm ưm ưm đợi chút?! Vepley、không theo kịp nhịp rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/VepleyCV/VO_Vepley_Single_Lose_001.wav"
+    }
+  ]
+}

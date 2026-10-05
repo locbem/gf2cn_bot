@@ -1,0 +1,390 @@
+{
+  "id": 1056,
+  "name": "Leva",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044791367.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 3,
+  "role_id": 4,
+  "team_id": 15,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Electric",
+  "team": "H.I.D.E.404",
+  "weapon": "UMP45",
+  "model": "DUAL DSI-8",
+  "ammo_model": "SMG",
+  "desc": "Nếu thấy T-Doll trước mặt thân thiện dễ gần, thì có lẽ đã sa vào bẫy của cô rồi. Nếu không kịp nhận ra, mọi tổn thất sau đó Leva đều không chịu trách nhiệm, trừ khi... người đó là bạn. \"Chỉ Huy, không phải cố tình chịu thiệt đấy chứ? Hừ hừ♪ Cũng không sao, bạn muốn tôi chịu trách nhiệm với bạn thế nào đây? ”",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/莱娅pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/莱娅移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014029360.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014036999.png"
+  },
+  "skins": [
+    {
+      "id": 9,
+      "name": "Đóa Hoa Kim Cương",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/莱娅礼服pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/莱娅礼服移动.png"
+    },
+    {
+      "id": 70,
+      "name": "Vận Động Nhiệt Huyết",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1773704034326.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1773704051956.png"
+    },
+    {
+      "id": 86,
+      "name": "Ảo Ảnh Thỏ Ngọc",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1788225857007.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1788225862850.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215602972.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215615689.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215629748.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Vương Nhã Hân</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Shinohara Yū</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=65\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>836</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>504</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>7</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1893</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Medium Ammo Freeze</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Nụ Cười Nguy Hiểm",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556585987.png\"></p>\n</td>\n<td>\n<p>Nụ Cười Nguy Hiểm Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764404507330.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 7 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Lý Trí Áp Chế",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556619907.png\"></p>\n</td>\n<td>\n<p>Áp Chế Lý Tính Lv.1</p>\n<p>Chủ động / Diện rộng / Ô địa hình</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764404568383.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 hướng xung quanh, gây 7% Tấn công sát thương Electric diện rộng lên mọi mục tiêu kẻ địch trong 3×120 ô phía trước, gây Điện tích âm, duy trì 2 hiệp, và tạo ô địa hình Điện áp, duy trì 3 hiệp.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Quấy Nhiễu Có Trật Tự",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556665052.png\"></p>\n</td>\n<td>\n<p>Nhiễu Loạn Có Trật Tự Lv.1</p>\n<p>Chủ động/Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764404626323.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 ô địa hình trong bán kính 7 ô xung quanh, gây 100% Tấn công sát thương Electric diện rộng lên mọi mục tiêu kẻ địch trong bán kính 3 ô xung quanh. Sát thương lên mục tiêu có Điện tích âm tăng 30%, sát thương ổn định gây ra tăng 1 điểm.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Diễn Toán Siêu Cự",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556682644.png\"></p>\n</td>\n<td>\n<p>Tính Toán Siêu Cự Lv.1</p>\n<p>Quyết thắng/Diện rộng/Ô địa hình/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764404696764.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Gây 7% Tấn công sát thương Electric diện rộng lên mọi mục tiêu kẻ địch trong bán kính 60 ô xung quanh, và tạo ô địa hình Điện áp, duy trì 3 hiệp. Bản thân nhận Đòn Siêu Tần, duy trì 3 hiệp. Sau khi tấn công có thể dùng 1 lần kỹ năng chủ động Chớp Siêu Dẫn.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 1 Tiêu hao Infection: 6</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Mưu Kế Của Cáo",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556698890.png\"></p>\n</td>\n<td>\n<p>Mưu Kế Của Cáo Lv.1</p>\n<p>Bị động/Chi viện</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764404769657.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu hiệp, khi bản thân kích hoạt phản ứng ô địa hình Điện áp, nhận <span style=\"color: #ff9900\">1 tầng</span> Mã Siêu Dẫn. Khi bản thân có Điện tích dương, sát thương Electric gây ra tăng <span style=\"color: #ff9900\">10%</span>.</p>\n<p>Khi bắt đầu hiệp, khi bản thân kích hoạt phản ứng ô địa hình Điện áp, nhận 1 tầng Mã Siêu Dẫn. Khi bản thân có Điện tích dương, sát thương Electric gây ra tăng 10%. Khi có kẻ địch trong tầm bắn bị gây Điện tích âm, thực hiện 1 lần chi viện tùy cơ lên nó, gây 60% Tấn công sát thương Electric cận chiến và 1 điểm sát thương ổn định, bản thân nhận 1 điểm Infection Index, nếu hạ gục, gây Điện tích âm lên kẻ địch gần bản thân nhất trong tầm bắn, duy trì 1 hiệp; Mỗi hiệp kích hoạt tối đa 2 lần.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Mưu Kế Của Cáo Lv.2</strong></td>\n<td style=\"text-align: center\">Số lần chi viện tùy cơ tăng 1. Khi kẻ địch có Điện tích âm trong tầm bắn chết, bản thân nhận <span style=\"color: #ff9900\">1</span> tầng Mã Siêu Dẫn. Sát thương Electric gây ra khi bản thân có Điện tích dương tăng lên <span style=\"color: #ff9900\">25%</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu hiệp, khi bản thân kích hoạt phản ứng ô địa hình Điện áp, khi kẻ địch có Điện tích âm trong tầm bắn chết, nhận 1 tầng Mã Siêu Dẫn. Khi bản thân có Điện tích dương, sát thương Electric gây ra tăng <span style=\"color: #ff9900\">25%</span>. Khi có kẻ địch trong tầm bắn bị gây Điện tích âm, thực hiện 1 lần chi viện tùy cơ lên nó, gây <span style=\"color: #ff9900\">60%</span> Tấn công sát thương Electric cận chiến và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, nếu hạ gục, gây Điện tích âm lên kẻ địch gần bản thân nhất trong tầm bắn, duy trì <span style=\"color: #ff9900\">1 hiệp</span>; Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Nhiễu Loạn Có Trật Tự Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng lên <span style=\"color: #ff9900\">130%</span>. Khi kết thúc hành động, nhận 1 tầng Mã Siêu Dẫn.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong <span style=\"color: #ff9900\">bán kính 7 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Electric diện rộng lên mọi mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> xung quanh. Sát thương lên mục tiêu có Điện tích âm tăng <span style=\"color: #ff9900\">30%</span>, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">1 điểm</span>. Khi kết thúc hành động, nhận 1 tầng Mã Siêu Dẫn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Tính Toán Siêu Cự Lv.2</strong></td>\n<td style=\"text-align: center\">Theo lượng Mã Siêu Dẫn tiêu hao, hệ số của Chớp Siêu Dẫn tăng lên <span style=\"color: #ff9900\">75%</span>/90%/120%/180%, sát thương ổn định tăng lên <span style=\"color: #ff9900\">1 điểm</span>/2 điểm/4 điểm/8 điểm; và khi dùng Chớp Siêu Dẫn bỏ qua <span style=\"color: #ff9900\">15%</span> Phòng thủ của mục tiêu, sau kỹ năng nhận 1 tầng Mã Siêu Dẫn.</td>\n<td style=\"text-align: center\">Gây <span style=\"color: #ff9900\">7%</span> Tấn công sát thương Electric diện rộng lên mọi mục tiêu kẻ địch trong bán kính <span style=\"color: #ff9900\">60</span> ô xung quanh, và tạo ô địa hình Điện áp, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Bản thân nhận Đòn Siêu Tần, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Sau khi tấn công có thể dùng 1 lần kỹ năng chủ động Chớp Siêu Dẫn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Áp Chế Lý Tính Lv.2</strong></td>\n<td style=\"text-align: center\">Gây Tê liệt lên mục tiêu kẻ địch trong phạm vi hiệu lực, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sát thương chí mạng của kỹ năng này tăng <span style=\"color: #ff9900\">25%</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây <span style=\"color: #ff9900\">7%</span> Tấn công sát thương Electric diện rộng lên mọi mục tiêu kẻ địch trong 3×<span style=\"color: #ff9900\">120</span> ô phía trước, gây Điện tích âm và Tê liệt, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, và tạo ô địa hình Điện áp, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Sát thương chí mạng của kỹ năng này tăng <span style=\"color: #ff9900\">25%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Tính Toán Siêu Cự Lv.3</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng lên <span style=\"color: #ff9900\">90%</span>, và trước khi gây sát thương xua tan toàn bộ debuff của bản thân. Hệ số sát thương trong Đòn Siêu Tần tăng lên <span style=\"color: #ff9900\">8%</span>.</td>\n<td style=\"text-align: center\">Xua tan toàn bộ debuff của bản thân, gây <span style=\"color: #ff9900\">7%</span> Tấn công sát thương Electric diện rộng lên mọi mục tiêu kẻ địch trong bán kính <span style=\"color: #ff9900\">90</span> ô xung quanh, và tạo ô địa hình Điện áp, duy trì <span style=\"color: #ff9900\">3 hiệp</span>, bản thân nhận Đòn Siêu Tần, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Sau khi tấn công có thể dùng <span style=\"color: #ff9900\">1 lần</span> kỹ năng chủ động Chớp Siêu Dẫn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Mưu Kế Của Cáo Lv.3</strong></td>\n<td style=\"text-align: center\">Sau khi tấn công bằng kỹ năng chủ động Áp Chế Lý Tính hoặc Nhiễu Loạn Có Trật Tự cũng có thể dùng 1 lần kỹ năng chủ động Chớp Siêu Dẫn. Khi bắt đầu hiệp bản thân nhận thêm 1 tầng Mã Siêu Dẫn. Trong một trận chiến, khi lần đầu nhận 4 tầng Mã Siêu Dẫn, Tấn công của bản thân tăng <span style=\"color: #ff9900\">15%</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu hiệp, bản thân nhận 2 tầng Mã Siêu Dẫn; Khi bản thân kích hoạt phản ứng ô địa hình Điện áp, khi kẻ địch có Điện tích âm trong tầm bắn chết, nhận 1 tầng Mã Siêu Dẫn. Khi bản thân có Điện tích dương, sát thương Electric gây ra tăng <span style=\"color: #ff9900\">25%</span>. Trong một trận chiến, khi lần đầu nhận 4 tầng Mã Siêu Dẫn, Tấn công của bản thân tăng <span style=\"color: #ff9900\">15%</span>. Khi có kẻ địch trong tầm bắn bị gây Điện tích âm, thực hiện 1 lần chi viện tùy cơ lên nó, gây <span style=\"color: #ff9900\">60%</span> Tấn công sát thương Electric cận chiến và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, nếu hạ gục, gây Điện tích âm lên kẻ địch gần bản thân nhất trong tầm bắn, duy trì <span style=\"color: #ff9900\">1 hiệp</span>; Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>. Sau khi tấn công bằng kỹ năng chủ động Áp Chế Lý Tính hoặc Nhiễu Loạn Có Trật Tự cũng có thể dùng kỹ năng chủ động Chớp Siêu Dẫn.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556714890.png\"></td>\n<td>\n<h2>Contract Key · Ván Cờ Dang Dở</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764396747429.png\" width=\"20\" height=\"20\"></sub>Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556733399.png\"></td>\n<td>\n<h2>Fixed Key · Sự Thong Dong Của Người Lớn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 2 tầng Mã Siêu Dẫn và 1 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556750818.png\"></td>\n<td>\n<h2>Fixed Key · Nụ Cười Của Cáo</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 7%.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556766907.png\"></td>\n<td>\n<h2>Fixed Key · Tùy Cơ Ứng Biến</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi chi viện tùy cơ, xua tan 1 buff trên mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556792551.png\"></td>\n<td>\n<h2>Fixed Key · Mưu Kế Ẩn Mình</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng kỹ năng chủ động Chớp Siêu Dẫn, nhận Ẩn Mình, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556807995.png\"></td>\n<td>\n<h2>Fixed Key · Phản Ứng Lý Trí</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi đồng minh chủ động tấn công, gây Điện tích âm lên kẻ địch trong tầm bắn, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556822111.png\"></td>\n<td>\n<h2>Fixed Key · Hành Động Có Chuẩn Bị</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận Đòn Siêu Tần, duy trì 3 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556835594.png\"></td>\n<td>\n<h2>Common Key · Đặc Vụ Át Chủ Bài</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764405202464.png\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Sát thương lên mục tiêu kẻ địch có debuff loại Electric tăng 7%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556852548.png\"></td>\n<td>\n<h2>Expansion Key · Bóng Gián Điệp Ảo Điện</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Tầm bắn của chi viện tùy cơ do bị động Mưu Kế Của Cáo kích hoạt và kỹ năng chủ động Chớp Siêu Dẫn mở rộng tới 9 ô, số lần chi viện tùy cơ tăng 1 lần. Khi bắt đầu chiến đấu, cứ mỗi 1 T-Doll đồng minh thuộc tính Electric trên sân, sát thương Electric bản thân gây ra tăng 2%, sát thương ổn định tăng 1 điểm. Khi tấn công kẻ địch có Điện tích âm, sát thương chí mạng tăng 7%, nếu mục tiêu đang Sụp Đổ Ổn Định, tăng thêm 7%.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*2 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có debuff loại Electric tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*3 Sentinel*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*4 Sentinel*9&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Electric gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*6 Sentinel*11&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*7 Sentinel*15&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*8 Sentinel*18&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra khi tấn công chỉ trúng 1 kẻ địch tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763895324321.png\"></td>\n<td>\n<h1><strong>Schlitzohr &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10563\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Tiểu liên/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng tiểu liên hiệu năng cao được phối cấp cho Leva, cải tạo từ nguyên mẫu tiểu liên thông dụng 45, nâng cấp hiệu năng tổng thể nhờ tăng cường tốc độ bắn và độ chính xác. Đừng ai mong đe dọa người nhà quan trọng nhất của Leva ngay dưới mắt cô.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=66289&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1745230751425.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=60712&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1747038714976.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=60510&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1747038547874.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=60867&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1743045102213.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; Nếu thấy T-Doll trước mặt thân thiện dễ gần, thì có lẽ đã sa vào bẫy của cô rồi. Nếu không kịp nhận ra, mọi tổn thất sau đó Leva đều không chịu trách nhiệm, trừ khi... người đó là bạn.</p>\n<p><br>&nbsp; \"Chỉ Huy, không phải cố tình chịu thiệt đấy chứ? Hừ hừ♪ Cũng không sao, bạn muốn tôi chịu trách nhiệm với bạn thế nào đây? ”</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778252215984.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252215865.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252215866.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778252254807.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252254762.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252254765.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252254799.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1788226070102.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252287105.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252287106.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252286853.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252322571.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778252322565.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1788226055186.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1742351085910.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1742351105384.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1742351123297.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1742351138056.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1742351151436.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1742351180772.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1742351194005.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1742351207857.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1742351219523.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779165397352.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165411525.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165422988.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166124112.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166135012.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 634,
+      "title": "Thường ngày-01",
+      "text": "Oa~ giật cả mình, hoàn toàn không để ý Chỉ huy——hửm? Giả trân quá? Haha, xin lỗi xin lỗi, lần sau tôi sẽ giả giống hơn chút.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Daily_001.wav"
+    },
+    {
+      "id": 635,
+      "title": "Thường ngày-02",
+      "text": "Chỉ huy, có thể lại gần thêm chút nữa đấy, sao, chẳng lẽ đang lo cho cái mũi của mình~?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Daily_002.wav"
+    },
+    {
+      "id": 636,
+      "title": "Thường ngày-03",
+      "text": "Mỗi lần thấy Klukai cố gắng như vậy, tôi lại không nhịn được muốn trêu cô ấy một chút……À, không cần giữ bí mật cho tôi cũng được đâu, Chỉ huy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Daily_003.wav"
+    },
+    {
+      "id": 637,
+      "title": "Thường ngày-04",
+      "text": "Với Chỉ huy, tôi biết gì nói nấy, nhưng không gồm những chuyện bạn chưa hỏi đâu. Vậy nên——xin cứ thoải mái suy nghĩ xem tôi còn có thể biết những gì nhé~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Daily_004.wav"
+    },
+    {
+      "id": 638,
+      "title": "Thường ngày-05",
+      "text": "Cái gọi là \"gia đình\" là cùng chia sẻ bí mật, nâng đỡ lẫn nhau, che chở——ừm……vẫn nên để lại cho nhau chút không gian thì hơn nhỉ? Nhưng nếu Chỉ huy muốn tôi biết tất cả về bạn, tôi cũng không phiền đâu~?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Daily_005.wav"
+    },
+    {
+      "id": 639,
+      "title": "Nâng cấp-01",
+      "text": "Hửm? Nghiêm túc sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Up_001.wav"
+    },
+    {
+      "id": 640,
+      "title": "Nâng cấp-02",
+      "text": "Khá khá ♪",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Up_002.wav"
+    },
+    {
+      "id": 641,
+      "title": "Nâng cấp-03",
+      "text": "Còn muốn tiếp~?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Up_003.wav"
+    },
+    {
+      "id": 642,
+      "title": "Nâng cấp-04",
+      "text": "Cảm giác khác rồi nhỉ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Up_004.wav"
+    },
+    {
+      "id": 643,
+      "title": "Nâng cấp-05",
+      "text": "Muốn dựa vào tôi cũng được đấy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Up_005.wav"
+    },
+    {
+      "id": 644,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Title_001.wav"
+    },
+    {
+      "id": 645,
+      "title": "Đăng nhập",
+      "text": "Ôi, là Chỉ huy~ thế nào, có nhớ tôi không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Login_001.wav"
+    },
+    {
+      "id": 646,
+      "title": "Tâm sự-01",
+      "text": "Quả nhiên, dù vẻ ngoài, thân phận, lập trường có thay đổi thế nào, Chỉ huy vẫn là Chỉ huy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 647,
+      "title": "Tâm sự-02",
+      "text": "Chuyện nhỏ này cứ giao cho tôi, tiện tay là giải quyết xong……phiền? Không đâu, dù sao đây cũng là lời nhờ vả từ người nhà mà~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 648,
+      "title": "Tâm sự-03",
+      "text": "Thứ thích và thứ không thích? Ế——để lộ sở thích của mình là chuyện rất nguy hiểm đấy, nhưng nếu là Chỉ huy muốn biết, tôi có thể cân nhắc nói cho bạn~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 649,
+      "title": "Tâm sự-04",
+      "text": "Khó nắm bắt? Đang nói tôi sao? Hừ hừ, chẳng phải điều đó cho thấy……Chỉ huy thường xuyên nghĩ về tôi sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 650,
+      "title": "Tâm sự-05",
+      "text": "Sao vậy Chỉ huy, quầng thâm mắt hơi đậm nhỉ. Tối không ngủ được thì để tôi trò chuyện với bạn nhé? Biết đâu nói chuyện một hồi lại buồn ngủ đấy~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 651,
+      "title": "Tâm sự-06",
+      "text": "Da của T-Doll mềm lắm nhỉ? Ưm……nhưng so với con người có lẽ vẫn kém chút, Chỉ huy cũng lại gần chút, để tôi chọc thử nhé? Chỉ là so sánh thôi mà~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 652,
+      "title": "Tâm sự-07",
+      "text": "Thật ra \"gia đình\" chỉ là một cách gọi chung chung, quan hệ giữa người nhà cũng có đủ loại phân chia. Vậy với Chỉ huy, rốt cuộc tôi là gì? Hãy suy nghĩ thật kỹ, thật từ từ nhé~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 653,
+      "title": "Tâm sự-08",
+      "text": "Chỉ huy, sau khi mọi sự rối ren lắng xuống, hãy cùng chia sẻ toàn bộ thời gian về sau của nhau nhé? Đây là lời hứa, đã đồng ý thì không được nuốt lời đâu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 655,
+      "title": "Vào đội",
+      "text": "Tiếp theo, sự hợp tác của chúng ta sẽ càng khăng khít hơn đấy, có mong chờ không, Chỉ huy?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 379,
+      "title": "Ngữ khí-01",
+      "text": "Tôi ở ngay đây.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 380,
+      "title": "Ngữ khí-02",
+      "text": "Sẵn sàng~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 381,
+      "title": "Ngữ khí-03",
+      "text": "Chịu đựng chút nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 382,
+      "title": "Ngữ khí-04",
+      "text": "Cần tôi không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 383,
+      "title": "Ngữ khí-05",
+      "text": "Rõ——",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 384,
+      "title": "Ngữ khí-06",
+      "text": "Tôi đang nghe đây.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 385,
+      "title": "Ngữ khí-07",
+      "text": "Mệnh lệnh là?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 386,
+      "title": "Ngữ khí-08",
+      "text": "Không thể gục ở đây……được……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 387,
+      "title": "Ngữ khí-09",
+      "text": "Tệ rồi……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 388,
+      "title": "Ngữ khí-10",
+      "text": "Có chút không ổn……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Series_Tone_Negative_003.wav"
+    },
+    {
+      "id": 389,
+      "title": "Kỹ năng-01",
+      "text": "Hãy trân trọng lúc còn sống đi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Skill_001.wav"
+    },
+    {
+      "id": 390,
+      "title": "Kỹ năng-02",
+      "text": "Xin giữ yên lặng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Skill_002.wav"
+    },
+    {
+      "id": 391,
+      "title": "Kỹ năng-03",
+      "text": "Muốn biết vận may của mình thế nào không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Hit_001.wav"
+    },
+    {
+      "id": 396,
+      "title": "Kỹ năng-04",
+      "text": "Còn có vài bất ngờ nhỏ ♪",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 395,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Đau thì cứ kêu lên đi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 392,
+      "title": "Hạ gục",
+      "text": "Không gặp lại nhé.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Kill_001.wav"
+    },
+    {
+      "id": 393,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Tôi thể hiện không tệ? Đó là vì Chỉ huy điều phối khéo thôi~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Win_001.wav"
+    },
+    {
+      "id": 394,
+      "title": "Kết thúc trận-Thua",
+      "text": "Ít nhất chúng ta biết lần sau làm thế nào để không thảm hại thế này, đúng không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LevvaCV/VO_Levva_Single_Lose_001.wav"
+    }
+  ]
+}

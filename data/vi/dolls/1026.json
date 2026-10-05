@@ -1,0 +1,320 @@
+{
+  "id": 1026,
+  "name": "Nagant",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045303854.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 5,
+  "role_id": 3,
+  "team_id": 6,
+  "rarity_level": 4,
+  "rarity": "T-Doll Elite",
+  "role": "Support",
+  "attr": "Corrosion",
+  "team": "POL-03 Cục quản lý trị an",
+  "weapon": "Nagant M1895",
+  "model": "SSD-62D",
+  "ammo_model": "HG",
+  "desc": "T-Doll thích làm ra vẻ trưởng thành. Ngưỡng mộ anh hùng, muốn trở thành anh hùng. Dù rời khỏi chiến trường, cô vẫn sẽ tiếp tục tỏa sáng với tư cách T-Doll trị an. Những cư dân được cô bảo vệ tận hưởng từng đêm yên bình.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/纳甘pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/纳甘移动端.png"
+  },
+  "modeling": {
+    "pc": "",
+    "mobile": ""
+  },
+  "skins": [
+    {
+      "id": 21,
+      "name": "Cầu Thủ Ném Bóng Mùa Hè",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/纳甘pc.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763950119365.png"
+    }
+  ],
+  "gifs": [],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Hư Nguyên</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Shinohara Narumi</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>609</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>512</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1656</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo&nbsp;<span style=\"color: #ff6600\">Burn</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Bắn Điểm Tốc Độ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599119719.png\"></p>\n</td>\n<td>\n<p>Xạ Kích Nhanh Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764493894163.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Lời Khuyên Của Tiền Bối",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599138326.png\"></p>\n</td>\n<td>\n<p>Lời Khuyên Của Tiền Bối Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764493948427.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Physical lên chúng; Sau khi tấn công, nếu kẻ địch Sụp Đổ Ổn Định, gây Ăn Mòn Axit Đặc II lên nó, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Bạn Đồng Hành Chính Nghĩa",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599153195.png\"></p>\n</td>\n<td>\n<p>Bạn Đồng Hành Của Chính Nghĩa Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764493997311.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">70%</span> Tấn công sát thương Physical. Nếu trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân không có kẻ địch, tấn công thêm một lần vào mục tiêu ban đầu, đồng thời gây Ăn Mòn Axit Đặc II, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Tuyên Cáo Chế Tài",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599169621.png\"></p>\n</td>\n<td>\n<p>Tuyên Cáo Chế Tài Lv.1</p>\n<p>Quyết thắng/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764494061289.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">150%</span> Tấn công sát thương Corrosion. Nếu mục tiêu có debuff phòng thủ, trước khi tấn công gây Dễ Tổn Thương I lên nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, sát thương ổn định của đòn này tăng <span style=\"color: #ff9900\">2 điểm</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 4 Tiêu hao Infection: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Kỹ Thuật Lão Binh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599184342.png\"></p>\n</td>\n<td>\n<p>Kỹ Xảo Lão Binh Lv.1</p>\n<p>Bị động/Debuff/Khống chế</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764494114878.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Mỗi <span style=\"color: #ff9900\">1 lần</span> gây sát thương, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index; Nếu có kẻ địch sau khi di chuyển nằm trong tầm bắn của Nagant, gây lên nó <span style=\"color: #ff9900\">50%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">2 điểm</span> sát thương ổn định. Nếu mục tiêu có debuff phòng thủ, gây Choáng lên nó, duy trì <span style=\"color: #ff9900\">1 hiệp</span>, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Bạn Đồng Hành Của Chính Nghĩa Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu mục tiêu có debuff phòng thủ, thời gian hồi chiêu của kỹ năng này giảm <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">70%</span> Tấn công sát thương Physical. Nếu trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân không có kẻ địch, tấn công thêm một lần vào mục tiêu ban đầu, đồng thời gây Ăn Mòn Axit Đặc II, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Nếu mục tiêu có debuff phòng thủ, thời gian hồi chiêu của kỹ năng này giảm <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Tuyên Cáo Chế Tài Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu mục tiêu có debuff phòng thủ, tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">20%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">150%</span> Tấn công sát thương Corrosion. Nếu mục tiêu có debuff phòng thủ, trước khi tấn công gây Dễ Tổn Thương I lên nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, sát thương ổn định của đòn này tăng <span style=\"color: #ff9900\">2 điểm</span>, tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">20%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Bạn Đồng Hành Của Chính Nghĩa Lv.3</strong></td>\n<td style=\"text-align: center\">Nếu trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh bản thân không có kẻ địch, tấn công thêm một lần vào mục tiêu ban đầu.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">70%</span> Tấn công sát thương Physical. Nếu trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh bản thân không có kẻ địch, tấn công thêm một lần vào mục tiêu ban đầu, đồng thời gây Ăn Mòn Axit Đặc II, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Nếu mục tiêu có debuff phòng thủ, thời gian hồi chiêu của kỹ năng này giảm <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Tuyên Cáo Chế Tài Lv.3</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Corrosion. Nếu mục tiêu có debuff phòng thủ, trước khi tấn công gây Dễ Tổn Thương I lên nó, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, sát thương ổn định của đòn này tăng <span style=\"color: #ff9900\">2 điểm</span>, tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">20%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Kỹ Xảo Lão Binh Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng <span style=\"color: #ff9900\">30%</span>, đồng thời gây <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định.</td>\n<td style=\"text-align: center\">Mỗi <span style=\"color: #ff9900\">1 lần</span> gây sát thương, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index; Nếu có kẻ địch sau khi di chuyển nằm trong tầm bắn của Nagant, gây lên nó <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định. Nếu mục tiêu có debuff phòng thủ, gây Choáng lên nó, duy trì <span style=\"color: #ff9900\">1 hiệp</span>, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Kỹ Xảo Lão Binh Lv.3</strong></td>\n<td style=\"text-align: center\">Số lần kích hoạt mỗi hiệp tăng <span style=\"color: #ff9900\">1 lần</span>.</td>\n<td style=\"text-align: center\">Mỗi <span style=\"color: #ff9900\">1 lần</span> gây sát thương, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index; Nếu có kẻ địch sau khi di chuyển nằm trong tầm bắn của Nagant, gây lên nó <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định. Nếu mục tiêu có debuff phòng thủ, gây Choáng lên nó, duy trì <span style=\"color: #ff9900\">1 hiệp</span>, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599198239.png\"></td>\n<td>\n<h2>Contract Key·Hat Trick</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764494223392.png\" width=\"20\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764494232246.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599213366.png\"></td>\n<td>\n<h2>Fixed Key·Xuất Kích Anh Dũng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599248998.png\"></td>\n<td>\n<h2>Fixed Key·Kinh Nghiệm Của Tiền Bối</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu tấn công kẻ địch có debuff phòng thủ, thời gian hồi chiêu của tất cả kỹ năng chủ động của bản thân giảm 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599301229.png\"></td>\n<td>\n<h2>Fixed Key·Áo Chống Đạn Tàng Hình</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu bị kẻ địch có debuff tấn công, sát thương nhận vào giảm 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599317722.png\"></td>\n<td>\n<h2>Fixed Key·Truyền Thuyết Người Bảo Hộ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Bạn Đồng Hành Của Chính Nghĩa, nếu tấn công 2 lần, lần đầu gây 10%, lần hai gây 130% Tấn công sát thương Physical.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599331135.png\"></td>\n<td>\n<h2>Fixed Key·Một Phát Định Thắng Thua</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Với kẻ địch có debuff phòng thủ, tỉ lệ chí mạng và sát thương chí mạng tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599365322.png\"></td>\n<td>\n<h2>Fixed Key·Viên Đạn Chính Nghĩa</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Lời Khuyên Của Tiền Bối, nếu khiến kẻ địch Sụp Đổ Ổn Định, gây thêm một lần sát thương cố định bằng 50% Tấn công lên nó.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599386164.png\"></td>\n<td>\n<h2>Common Key·Lời Tiền Bối Thường Nói</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764405202464.png\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Nếu Chỉ số ổn định của mục tiêu thấp hơn bản thân, sát thương gây lên nó tăng 7%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599400900.png\"></td>\n<td>\n<h2>Expansion Key·Lời Dặn Của Tiền Bối</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi tấn công chủ động, gây Choáng lên mục tiêu, duy trì 2 hiệp; Trong trận này, nếu kích hoạt hiệu quả này nhiều lần lên cùng một mục tiêu, Choáng đổi thành duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Mỗi khi bản thân gây 1 lần sát thương Corrosion, sát thương Corrosion của tất cả đồng minh tăng 1%, tăng tối đa 3%. Không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Support*6 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Support*7 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Corrosion gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*9 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra của toàn bộ đồng minh tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*13 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*9 Support*15 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi bắt đầu chiến đấu, 2 đồng minh có Tấn công ban đầu cao nhất nhận Tấn công tăng 3%, không cộng dồn.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763994071512.png\"></td>\n<td>\n<h1><strong>Nagant M1895 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=11049\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng ngắn/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng có độ tương thích cao với Nagant, được cải tiến theo sở thích tác chiến của cô, sơ tốc đạn cao hơn, cũng bền hơn.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Mua sắm thường</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=249&amp;hash_flag=2\"><img style=\"display: block; margin: 0 auto\" src=\"https://community.cdn.sunborngame.com/prod/image/1717560824762.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll thích làm ra vẻ trưởng thành. Ngưỡng mộ anh hùng, muốn trở thành anh hùng. Dù rời khỏi chiến trường, cô vẫn sẽ tiếp tục tỏa sáng với tư cách T-Doll trị an. Những cư dân được cô bảo vệ tận hưởng từng đêm yên bình.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778312626784.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312627021.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778312553433.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312533916.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312553471.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312534038.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312553439.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312553464.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312553499.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/多喝热水.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/上网等你.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/心平气和.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091049075.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091061632.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091071450.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091089476.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091113431.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091124845.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779166610458.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 896,
+      "title": "Thường ngày-01",
+      "text": "Làm việc gì cũng phải đường đường chính chính, đây là đạo xử thế mà tiền bối như tôi đúc kết đấy nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Daily_001.wav"
+    },
+    {
+      "id": 900,
+      "title": "Thường ngày-02",
+      "text": "Dạo này có chút không hiểu bọn trẻ nói chuyện gì nữa…… Có lẽ nên xem thêm tin tức xu hướng nhỉ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Daily_005.wav"
+    },
+    {
+      "id": 899,
+      "title": "Thường ngày-03",
+      "text": "Mấy đứa nhóc cứ bảo chiến thuật của bà già này đã lỗi thời, nhưng tôi sẽ cho chúng biết, không nghe lời người già, thiệt thòi ngay trước mắt!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Daily_004.wav"
+    },
+    {
+      "id": 901,
+      "title": "Thường ngày-04",
+      "text": "Stechkin…… à không, bây giờ phải gọi là Ksenia, tại cô ta mà ví tiền của tôi chưa bao giờ đầy lên được!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Daily_006.wav"
+    },
+    {
+      "id": 904,
+      "title": "Thường ngày-05",
+      "text": "Này này này, mấy đứa hậu bối các cô coi thường kinh nghiệm xã hội của tôi quá rồi đấy! Sao tôi có thể bị lừa được chứ! Hả? Kh-không phải chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Daily_009.wav"
+    },
+    {
+      "id": 906,
+      "title": "Nâng cấp-01",
+      "text": "Cũng khá đấy chứ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Up_001.wav"
+    },
+    {
+      "id": 908,
+      "title": "Nâng cấp-02",
+      "text": "Ồ~ Cảm giác tới rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Up_003.wav"
+    },
+    {
+      "id": 909,
+      "title": "Nâng cấp-03",
+      "text": "Cảm ơn nhé, hậu bối!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Up_004.wav"
+    },
+    {
+      "id": 912,
+      "title": "Nâng cấp-04",
+      "text": "Cứ giao cho tôi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Up_007.wav"
+    },
+    {
+      "id": 913,
+      "title": "Nâng cấp-05",
+      "text": "Chiều cao…… vẫn không thay đổi nhỉ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Up_008.wav"
+    },
+    {
+      "id": 914,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Single_Title_001.wav"
+    },
+    {
+      "id": 915,
+      "title": "Đăng nhập",
+      "text": "Chỉ huy, hôm nay đến sớm nhỉ, tốt lắm, tốt lắm.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Single_Login_001.wav"
+    },
+    {
+      "id": 930,
+      "title": "Vào đội",
+      "text": "Lão binh Nagant, đến báo danh! Không tệ không tệ, Chỉ huy trông cũng trưởng thành hơn nhiều rồi nhỉ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Single_Obtain_SR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 548,
+      "title": "Ngữ khí-01",
+      "text": "Khụ……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 549,
+      "title": "Ngữ khí-02",
+      "text": "Ừm!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 550,
+      "title": "Ngữ khí-03",
+      "text": "Ha ha.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 551,
+      "title": "Ngữ khí-04",
+      "text": "Ôi chà.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 552,
+      "title": "Ngữ khí-05",
+      "text": "Hù……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 553,
+      "title": "Ngữ khí-06",
+      "text": "Hừm hừm~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 554,
+      "title": "Ngữ khí-07",
+      "text": "Sữa sao……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 555,
+      "title": "Ngữ khí-08",
+      "text": "Dừng tay!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 556,
+      "title": "Ngữ khí-09",
+      "text": "Chào~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 557,
+      "title": "Ngữ khí-10",
+      "text": "Coi chừng!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 560,
+      "title": "Kỹ năng-01",
+      "text": "Đừng coi thường tiền bối!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Single_Skill_001.wav"
+    },
+    {
+      "id": 561,
+      "title": "Kỹ năng-02",
+      "text": "Còn kém xa lắm, nhóc con.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Single_Skill_002.wav"
+    },
+    {
+      "id": 562,
+      "title": "Kỹ năng-03",
+      "text": "Xem——chiêu!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Single_Hit_001.wav"
+    },
+    {
+      "id": 566,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Để bà già này dạy cho ngươi một bài học!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Single_Ultimate_SR_001.wav"
+    },
+    {
+      "id": 563,
+      "title": "Hạ gục",
+      "text": "Xong rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Single_Kill_001.wav"
+    },
+    {
+      "id": 564,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Hừm hừm, thấy chưa? Đây chính là khoảng cách giữa tiền bối và những người mới như các cô.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Single_Win_001.wav"
+    },
+    {
+      "id": 565,
+      "title": "Kết thúc trận-Thua",
+      "text": "Mấy tên này, có biết thế nào là kính già yêu trẻ không hả! U, mũ của tôi……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/NagantCV/VO_Nagant_Single_Lose_001.wav"
+    }
+  ]
+}

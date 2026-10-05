@@ -1,0 +1,374 @@
+{
+  "id": 1029,
+  "name": "Sabrina",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045325602.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 6,
+  "role_id": 1,
+  "team_id": 5,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Bulwark",
+  "attr": "Hydro",
+  "team": "Elmo - Combined Echelon",
+  "weapon": "Sportivo Calibro 12",
+  "model": "SSD-62D",
+  "ammo_model": "SG",
+  "desc": "T-Doll đam mê nghiên cứu và thưởng thức ẩm thực, căn bếp là chiến trường mới của cô. Thích chia sẻ quá trình nấu ăn của mình; hương thơm có lẽ có giới hạn, nhưng nụ cười của cô có thể theo mạng lan tới từng khán giả.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/塞布丽娜pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/塞布丽娜移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014760100.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014776129.png"
+  },
+  "skins": [
+    {
+      "id": 23,
+      "name": "Sabayon Dâu Tây",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763950136544.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/塞布丽娜移动.png"
+    }
+  ],
+  "gifs": [],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Nguyễn Tòng Thanh</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Kobori Sachi</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>609</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>12</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>642</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>2249</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo Electric</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Chiêu Đãi",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599457129.png\"></p>\n</td>\n<td>\n<p>Chiêu Đãi Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764494548253.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Bữa Tiệc Ngon Lành",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599473318.png\"></p>\n</td>\n<td>\n<p>Bữa Tiệc Ngon Lv.1</p>\n<p>Chủ động/Diện rộng/Debuff/Hồi ổn định</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764494604517.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh để phóng tới, gây <span style=\"color: #ff9900\">2%</span> Tấn công sát thương Hydro diện rộng lên tất cả kẻ địch trong bán kính <span style=\"color: #ff9900\">80</span> ô xung quanh, đồng thời gây Giảm Di Chuyển II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Mỗi trúng <span style=\"color: #ff9900\">1</span> mục tiêu, hồi <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3 Tiêu hao Infection: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Chuẩn Bị Trước Bữa Ăn",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599486467.png\"></p>\n</td>\n<td>\n<p>Chuẩn Bị Trước Bữa Ăn Lv.1</p>\n<p>Chủ động/Diện rộng/Debuff/Phá vật cản</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764494664687.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây <span style=\"color: #ff9900\">70%</span> Tấn công sát thương Hydro diện rộng lên tất cả kẻ địch trong <span style=\"color: #ff9900\">3</span>×6 ô phía trước, đồng thời gây Giảm Di Chuyển II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Đồng thời phá hủy vật cản có thể phá hủy trong phạm vi nhưng ngoài 3×<span style=\"color: #ff9900\">3 ô</span> quanh bản thân.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Tinh Thần Sành Ăn",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599499799.png\"></p>\n</td>\n<td>\n<p>Tinh Thần Sành Ăn Lv.1</p>\n<p>Quyết thắng/Buff/Phòng hộ/Phản công</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764494727508.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Gây <span style=\"color: #ff9900\">2 tầng</span> Yểm Hộ lên toàn thể đồng minh, đồng thời nhận No Bụng, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Khi có No Bụng, nếu kẻ địch trong tầm bắn gây sát thương đơn mục tiêu lên đồng minh, phản công nó, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">4 điểm</span> sát thương ổn định, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 5</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Cải Tạo Linh Hoạt",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599513816.png\"></p>\n</td>\n<td>\n<p>Cải Tạo Linh Hoạt Lv.1</p>\n<p>Bị động/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764494772278.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Trước khi đồng minh bị tấn công, nếu họ ở trong <span style=\"color: #ff9900\">bán kính 7 ô</span> quanh bản thân, gây <span style=\"color: #ff9900\">1 tầng</span> Yểm Hộ lên họ, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">4 lần</span>. Sabrina mỗi khi gây <span style=\"color: #ff9900\">1 lần</span> sát thương, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Sau khi dùng kỹ năng tấn công, tạo Dòng Ngầm trong phạm vi hiệu lực; Nếu trong phạm vi đã có ô địa hình hệ Hydro, kích hoạt phản ứng ô địa hình, xóa ô và gây <span style=\"color: #ff9900\">20%</span> Tấn công sát thương cố định lên kẻ địch trên ô đó.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Cải Tạo Linh Hoạt Lv.2</strong></td>\n<td style=\"text-align: center\">Số lần kích hoạt gây Yểm Hộ tăng <span style=\"color: #ff9900\">2 lần</span>.</td>\n<td style=\"text-align: center\">Trước khi đồng minh bị tấn công, nếu họ ở trong <span style=\"color: #ff9900\">bán kính 7 ô</span> quanh bản thân, gây <span style=\"color: #ff9900\">1 tầng</span> Yểm Hộ lên họ, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">6 lần</span>. Sabrina mỗi khi gây <span style=\"color: #ff9900\">1 lần</span> sát thương, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Sau khi dùng kỹ năng tấn công, tạo Dòng Ngầm trong phạm vi hiệu lực; Nếu trong phạm vi đã có ô địa hình hệ <span style=\"color: #00ccff\">Hydro</span>, kích hoạt phản ứng ô địa hình, xóa ô và gây <span style=\"color: #ff9900\">20%</span> Tấn công sát thương cố định lên kẻ địch trên ô đó.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Chuẩn Bị Trước Bữa Ăn Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 hướng xung quanh, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Hydro diện rộng lên tất cả kẻ địch trong <span style=\"color: #ff9900\">3</span>×6 ô phía trước, đồng thời gây Giảm Di Chuyển II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Đồng thời phá hủy vật cản có thể phá hủy trong phạm vi nhưng ngoài 3×<span style=\"color: #ff9900\">3 ô</span> quanh bản thân.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Bữa Tiệc Ngon Lv.2</strong></td>\n<td style=\"text-align: center\">Khi chỉ trúng 1 mục tiêu, hồi <span style=\"color: #ff9900\">6 điểm</span> Chỉ số ổn định.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh để phóng tới, gây <span style=\"color: #ff9900\">2%</span> Tấn công sát thương Hydro diện rộng lên tất cả kẻ địch trong bán kính <span style=\"color: #ff9900\">80</span> ô xung quanh, đồng thời gây Giảm Di Chuyển II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Mỗi trúng 1 mục tiêu, hồi <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định. Khi chỉ trúng 1 mục tiêu, hồi <span style=\"color: #ff9900\">6 điểm</span> Chỉ số ổn định.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Tinh Thần Sành Ăn Lv.2</strong></td>\n<td style=\"text-align: center\">Lượng Tấn công tăng của No Bụng tăng thêm <span style=\"color: #ff9900\">10%</span>. Sát thương ổn định của phản công tăng <span style=\"color: #ff9900\">2 điểm</span>.</td>\n<td style=\"text-align: center\">Gây <span style=\"color: #ff9900\">2 tầng</span> Yểm Hộ lên toàn thể đồng minh, đồng thời nhận No Bụng, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Khi có No Bụng, nếu kẻ địch trong tầm bắn gây sát thương đơn mục tiêu lên đồng minh, phản công nó, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">6 điểm</span> sát thương ổn định, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Tinh Thần Sành Ăn Lv.3</strong></td>\n<td style=\"text-align: center\">Không còn tiêu hao Infection Index, nhận <span style=\"color: #ff9900\">1 lần</span> Thêm Chỉ Lệnh.</td>\n<td style=\"text-align: center\">Gây <span style=\"color: #ff9900\">2 tầng</span> Yểm Hộ lên toàn thể đồng minh, đồng thời nhận No Bụng, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Nhận 1 lần Thêm Chỉ Lệnh. Khi có No Bụng, nếu kẻ địch trong tầm bắn gây sát thương đơn mục tiêu lên đồng minh, phản công nó, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">6 điểm</span> sát thương ổn định, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Cải Tạo Linh Hoạt Lv.3</strong></td>\n<td style=\"text-align: center\">Khi Infection đầy, tiêu hao thêm <span style=\"color: #ff9900\">4 điểm</span> Infection Index, khiến sát thương của kỹ năng tăng <span style=\"color: #ff9900\">30%</span>.</td>\n<td style=\"text-align: center\">Trước khi đồng minh bị tấn công, nếu họ ở trong <span style=\"color: #ff9900\">bán kính 7 ô</span> quanh bản thân, gây <span style=\"color: #ff9900\">1 tầng</span> Yểm Hộ lên họ, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">6 lần</span>. Sabrina mỗi khi gây <span style=\"color: #ff9900\">1 lần</span> sát thương, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Khi Infection đầy, tiêu hao thêm <span style=\"color: #ff9900\">4 điểm</span> Infection Index, khiến sát thương của kỹ năng tăng <span style=\"color: #ff9900\">30%</span>. Sau khi dùng kỹ năng tấn công, tạo Dòng Ngầm trong phạm vi hiệu lực; Nếu trong phạm vi đã có ô địa hình hệ <span style=\"color: #00ccff\">Hydro</span>, kích hoạt phản ứng ô địa hình, xóa ô và gây <span style=\"color: #ff9900\">20%</span> Tấn công sát thương cố định lên kẻ địch trên ô đó.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599529635.png\"></td>\n<td>\n<h2>Contract Key·Giờ Ăn Tráng Miệng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764494886395.png\" width=\"20\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764494897218.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599546663.png\"></td>\n<td>\n<h2>Fixed Key·Ăn Được Là Phúc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bị tấn công, phòng thủ tăng 20%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599562787.png\"></td>\n<td>\n<h2>Fixed Key·Chia Sẻ Món Ngon</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599576225.png\"></td>\n<td>\n<h2>Fixed Key·Hầm Nhỏ Lửa Nấu Tất Cả</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi ở trên ô địa hình hệ Hydro, phòng thủ tăng 30%, đồng thời miễn nhiễm hiệu ứng dịch chuyển do kẻ địch gây ra và mọi hiệu ứng mặt đất dị thường hệ Hydro.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599593720.png\"></td>\n<td>\n<h2>Fixed Key·Ăn No Ngủ Kỹ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Infection Index chưa đầy, mỗi khi nhận 1 điểm Infection Index, hồi 2 điểm Chỉ số ổn định.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599612230.png\"></td>\n<td>\n<h2>Fixed Key·Calo Vượt Mức</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Phạm vi hiệu lực của kỹ năng chủ động Bữa Tiệc Ngon sửa thành bán kính 1 ô xung quanh, mục tiêu chọn sửa thành ô địa hình, kéo tất cả mục tiêu về phía trung tâm 1 ô, sát thương gây ra tăng lên 100% Tấn công.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599627015.png\"></td>\n<td>\n<h2>Fixed Key·Bữa Ăn Lành Mạnh Vị Lạ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Phạm vi tác dụng của kỹ năng chủ động Chuẩn Bị Trước Bữa Ăn sửa thành bán kính 5 ô quanh bản thân, không còn gây Giảm Di Chuyển II, gây hiệu ứng Khiêu Khích lên tối đa 2 mục tiêu, duy trì 1 hiệp. Thời gian hồi chiêu sửa thành 3 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599652147.png\"></td>\n<td>\n<h2>Common Key·Phòng Hộ Dầu Nóng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p>Khi gây sát thương đơn mục tiêu, gây Giảm Di Chuyển II lên mục tiêu, duy trì 1 hiệp.</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599665660.png\"></td>\n<td>\n<h2>Expansion Key·Công Thức Trong Truyền Thuyết</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sát thương của phản công chuyển thành sát thương Hydro; Nếu kích hoạt phản ứng ô địa hình hệ Hydro, không còn xóa ô địa hình đó. Mỗi lần phản công, sát thương nhận vào của bản thân giảm 5%, chồng tối đa 30%, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Support*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi bị kẻ địch có debuff Hydro tấn công, sát thương nhận vào giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*3 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*7 Support*5 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Hydro gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*9 Support*6 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi không được vật cản che chắn, sát thương phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*13 Support*6 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Phòng thủ tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*15 Support*9 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi Chỉ số ổn định lớn hơn 0 điểm, đồng minh (không gồm bản thân) chịu sát thương giảm 2%, cộng dồn tối đa 3 tầng.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763994183360.png\"></td>\n<td>\n<h1>Mezzaluna &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<strong><a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=11047\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng shotgun/Shotgun Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu shotgun hiệu năng cao được cấp cho Sabrina, lấy shotgun tự động đặc chủng làm nguyên mẫu, dùng thiết kế đặc biệt, tăng độ ổn định đồng thời tiện cất giữ và mang theo hơn, nhưng vẻ ngoài vẫn đầy uy hiếp. Không muốn làm người khác giật mình, Sabrina đặt tên cho nó theo các dụng cụ nhà bếp thường thấy trong ẩm thực Ý.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Mua sắm thường</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\"><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=160&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1717038761156.png\"></a></td>\n<td style=\"text-align: center\"><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=73&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1716879426467.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll đam mê nghiên cứu và thưởng thức ẩm thực, căn bếp là chiến trường mới của cô. Thích chia sẻ quá trình nấu ăn của mình; hương thơm có lẽ có giới hạn, nhưng nụ cười của cô có thể theo mạng lan tới từng khán giả.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778312669339.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312669320.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778312726296.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312726338.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312716657.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312700405.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312700406.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312700446.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312716656.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312700404.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/哇.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/先吃饭吧.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/做饿梦.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092797089.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092807374.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092818347.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092831293.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092856714.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092869812.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779165353932.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165364656.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1148,
+      "title": "Thường ngày-01",
+      "text": "Ơ…… nhiệm vụ sắp không kịp rồi? Ôi, không sao đâu mà, ăn miếng sô-cô-la trước đã.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Daily_001.wav"
+    },
+    {
+      "id": 1150,
+      "title": "Thường ngày-02",
+      "text": "Chỉ huy, ở đây vừa đăng video ẩm thực mới, làm bánh táo mù tạt, nhớ giúp tớ thả tim nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Daily_003.wav"
+    },
+    {
+      "id": 1151,
+      "title": "Thường ngày-03",
+      "text": "Ch-Chỉ huy? Đ-đây đâu phải nguyên liệu để lén ăn bữa tối! Chỉ là phân tích tính chất nguyên liệu, tìm cách nấu phù hợp thôi…… hề…… hề hề.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Daily_004.wav"
+    },
+    {
+      "id": 1152,
+      "title": "Thường ngày-04",
+      "text": "Đầu bếp…… tớ còn chưa phải đâu, bây giờ chỉ phụ bếp thôi…… nhưng cứ kiên trì luyện tập, một ngày nào đó tớ sẽ thành bếp trưởng!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Daily_005.wav"
+    },
+    {
+      "id": 1157,
+      "title": "Thường ngày-05",
+      "text": "Bữa tối hôm nay? Là món mới tớ cùng Groza phát triển đó, được đấy chứ! Chỉ huy…… anh ổn chứ? Anh ổn chứ Chỉ huy?!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Daily_010.wav"
+    },
+    {
+      "id": 1158,
+      "title": "Nâng cấp-01",
+      "text": "Cái này…… ngon.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Up_001.wav"
+    },
+    {
+      "id": 1159,
+      "title": "Nâng cấp-02",
+      "text": "Lượt thích tăng rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Up_002.wav"
+    },
+    {
+      "id": 1160,
+      "title": "Nâng cấp-03",
+      "text": "Mau chia sẻ thôi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Up_003.wav"
+    },
+    {
+      "id": 1161,
+      "title": "Nâng cấp-04",
+      "text": "Cải tạo nâng cấp.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Up_004.wav"
+    },
+    {
+      "id": 1162,
+      "title": "Nâng cấp-05",
+      "text": "Công thức mới?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Up_005.wav"
+    },
+    {
+      "id": 1166,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Title_001.wav"
+    },
+    {
+      "id": 1167,
+      "title": "Đăng nhập",
+      "text": "Đây là Sabrina 12 nha, chúng ta lại gặp nhau rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Login_001.wav"
+    },
+    {
+      "id": 1169,
+      "title": "Tâm sự-01",
+      "text": "Chỉ huy, anh đã vào diễn đàn chưa? Có muốn theo dõi nhau không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 1172,
+      "title": "Tâm sự-02",
+      "text": "Hù…… lại thua rồi. Không được, Chỉ huy không được đi! Chúng ta chơi ván nữa!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 1174,
+      "title": "Tâm sự-03",
+      "text": "Th-thơm quá…… Chỉ huy lại giấu đồ ngon đi rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 1176,
+      "title": "Tâm sự-04",
+      "text": "Chỉ huy, có muốn làm một chương trình liên kết với chỗ này không? Ý là chúng ta cùng xuất hiện trên livestream đó.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Friendliness_009.wav"
+    },
+    {
+      "id": 1177,
+      "title": "Tâm sự-05",
+      "text": "T-Doll ăn bao nhiêu cũng không béo đâu! Chỉ huy bắt nạt người ta! Ưm…… tớ…… trông béo thật sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Friendliness_010.wav"
+    },
+    {
+      "id": 1178,
+      "title": "Tâm sự-06",
+      "text": "Cảm ơn sự quan tâm của Chỉ huy, tớ chưa định đổi thân thể đâu. Tuy thân thể này hơi cũ rồi, nhưng đã dùng lâu như vậy, nói lời tạm biệt…… cảm giác sẽ rất buồn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Friendliness_011.wav"
+    },
+    {
+      "id": 1179,
+      "title": "Tâm sự-07",
+      "text": "Chỉ huy có thể chỉ tớ bí quyết nấu ăn không? T-Doll…… khác con người, chỉ có thể nấu theo chương trình, còn con người có trí tưởng tượng bay bổng, làm ra những ý tưởng mới mẻ chưa từng có.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Friendliness_012.wav"
+    },
+    {
+      "id": 1180,
+      "title": "Tâm sự-08",
+      "text": "Cứ cảm thấy…… nấu ăn cho Chỉ huy, và nấu cho thực khách ở nhà hàng…… rất khác nhau.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 1182,
+      "title": "Vào đội",
+      "text": "Chan chan! Đây là Sabrina, tớ đến \"khảo sát ẩm thực\" đây, giúp Chỉ huy quảng bá thì…… có thể…… à, miễn phí được không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 702,
+      "title": "Ngữ khí-01",
+      "text": "Hành động!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 703,
+      "title": "Ngữ khí-02",
+      "text": "Dò địch.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 704,
+      "title": "Ngữ khí-03",
+      "text": "Hố.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 705,
+      "title": "Ngữ khí-04",
+      "text": "Ya.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 706,
+      "title": "Ngữ khí-05",
+      "text": "Lên sóng!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 707,
+      "title": "Ngữ khí-06",
+      "text": "Lách tách——",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 708,
+      "title": "Ngữ khí-07",
+      "text": "Dùng cái nào đây?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 709,
+      "title": "Ngữ khí-08",
+      "text": "Cho vào chảo nào.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 710,
+      "title": "Ngữ khí-09",
+      "text": "Ăn được không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 711,
+      "title": "Ngữ khí-10",
+      "text": "Hoàn thành nhanh chóng!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 714,
+      "title": "Kỹ năng-01",
+      "text": "Phô diễn thành quả cải tạo!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Skill_001.wav"
+    },
+    {
+      "id": 715,
+      "title": "Kỹ năng-02",
+      "text": "Nếm thử phát minh mới của tớ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Skill_002.wav"
+    },
+    {
+      "id": 716,
+      "title": "Kỹ năng-03",
+      "text": "Thêm chút gia vị.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Hit_001.wav"
+    },
+    {
+      "id": 721,
+      "title": "Kỹ năng-04",
+      "text": "Chỉnh trang tạm thời!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 720,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Nguy hiểm, cẩn thận nha!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 717,
+      "title": "Hạ gục",
+      "text": "Dễ như bỡn!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Kill_001.wav"
+    },
+    {
+      "id": 718,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Tác chiến xong rồi, a…… không về là đồ ăn nguội hết mất!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Win_001.wav"
+    },
+    {
+      "id": 719,
+      "title": "Kết thúc trận-Thua",
+      "text": "Phải rút lui sao? Xin lỗi…… lần sau tớ nhất định cố gắng gấp đôi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SabrinaCV/VO_Sabrina_Single_Lose_001.wav"
+    }
+  ]
+}

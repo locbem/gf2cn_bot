@@ -1,0 +1,386 @@
+{
+  "id": 1078,
+  "name": "Faelynn",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1780627297202.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 5,
+  "role_id": 4,
+  "team_id": 5,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Corrosion",
+  "team": "Elmo - Combined Echelon",
+  "weapon": "Sturmgewehr 41",
+  "model": "SST-05",
+  "ammo_model": "AR",
+  "desc": "Trong ký ức của Faelynn chất chứa những bí mật đau đớn và nặng nề, nhưng tâm trí cô vẫn ánh lên một tia sáng, bởi mỗi đám mây đen đều được ánh nắng ấm áp trong sáng chiếu rọi.\n“Chủ nhân, dù ngài đi bao lâu, em... em cũng sẽ ngoan ngoãn đợi ngài về nhà!”",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1780901126709.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1780627313028.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1780901136481.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1780901142323.png"
+  },
+  "skins": [
+    {
+      "id": 76,
+      "name": "Hân Hoan Dưới Nắng",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1780971393900.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1780971399726.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1780901359464.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1780901369939.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1780901377615.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>An Tuyết Ly</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Kugimiya Rie</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=140\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>820</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>553</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>1948<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo Electric</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Liên Hoàn Nanh Chó",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1773628647201.png\"><br></p>\n</td>\n<td>\n<p>Liên Kích Nanh Chó Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778836955881.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Cắn Xé Ba Lần",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1780904304180.png\"><br></p>\n</td>\n<td>\n<p>Tam Trùng Xé Cắn Lv.1</p>\n<p>Chủ động / Diện rộng / Ô địa hình / Debuff / Khống chế</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1780904563919.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">60%</span> Tấn công sát thương Corrosion diện rộng lên chúng và toàn bộ kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh chúng, xua tan <span style=\"color: #ff9900\">1</span> buff, gây Dấu Mùi Hương và Dẫn Dụ, đồng thời tạo ô địa hình Độc Chướng, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; mỗi có <span style=\"color: #ff9900\">1 tầng</span> Truy Tìm Săn Mồi, hệ số sát thương tăng <span style=\"color: #ff9900\">5%</span>. Sau kỹ năng nhận <span style=\"color: #ff9900\">3 điểm</span> Infection Index và <span style=\"color: #ff9900\">1</span> buff ngẫu nhiên, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3 Hồi chiêu (hiệp): 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Truy Săn Lưỡi Tai",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1780904789982.png\"><br></p>\n</td>\n<td>\n<p>Săn Đuổi Tai Đao Lv.1</p>\n<p>Chủ động / Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1780904599516.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Bản thân nhận Chiến Ý Tuần Hồi <span style=\"color: #ff9900\">3 hiệp</span> và Radar Tai Chó <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Hồi chiêu (hiệp): 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Săn Vây Trung Thành",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1780904584552.png\"><br></p>\n</td>\n<td>\n<p>Vây Săn Trung Thành Lv.1</p>\n<p>Quyết thắng / Diện rộng / Ô địa hình</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1780905069022.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây <span style=\"color: #ff9900\">3%</span> Tấn công sát thương Corrosion diện rộng lên toàn bộ kẻ địch trong vùng 9×<span style=\"color: #ff9900\">120</span> ô phía trước, tạo ô địa hình Độc Chướng, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; mỗi có <span style=\"color: #ff9900\">1 tầng</span> Truy Tìm Săn Mồi, hệ số sát thương tăng <span style=\"color: #ff9900\">5%</span>. Sau kỹ năng, nếu có Vồ Liên Kích, tiêu hao <span style=\"color: #ff9900\">1 tầng</span> hiệu ứng này để kích hoạt kỹ năng chủ động thêm <span style=\"color: #00ccff\">Bản Năng Săn Mồi</span> và Di chuyển thêm.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Phản Công Sắc Bén",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1780905092324.png\"><br></p>\n</td>\n<td>\n<p>Phản Công Quyết Liệt Lv.1</p>\n<p>Bị động / Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1780905105971.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu chiến đấu nhận <span style=\"color: #ff9900\">1 tầng</span> Vồ Liên Kích, tối đa cộng dồn <span style=\"color: #ff9900\">3 tầng</span>. Mỗi khi dùng <span style=\"color: #ff9900\">1 lần</span> kỹ năng chủ động (không tính Bản Năng Tuần Thú), nhận <span style=\"color: #ff9900\">1 tầng</span> Vồ Liên Kích.<br>Khi bắt đầu hiệp, nếu bản thân đứng trên ô địa hình dị vị, mỗi <span style=\"color: #ff9900\">1</span> cấp ô địa hình nhận 1 Điểm hành động và <span style=\"color: #ff9900\">1 tầng</span> Truy Tìm Săn Mồi, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.<br>Khi nhận sát thương, nếu bản thân đứng trên ô địa hình loại Corrosion, chuyển <span style=\"color: #ff9900\">50%</span> sát thương gốc cho đơn vị đồng minh có HP cao nhất (không gồm bản thân).<br>Miễn nhiễm Di chuyển, debuff loại di chuyển và hiệu ứng Cấm lệnh.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Bản Năng Săn Mồi I",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1780905273628.png\"><br></p>\n</td>\n<td>\n<p>Bản Năng Săn Mồi I Lv.1</p>\n<p>Chủ động / Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">60%</span> Tấn công sát thương Corrosion diện rộng bỏ qua vật cản và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định lên chúng và toàn bộ kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh chúng, đồng thời gây Dấu Vòng Cổ. Mỗi có <span style=\"color: #ff9900\">1 tầng</span> Truy Tìm Săn Mồi, hệ số sát thương tăng <span style=\"color: #ff9900\">5%</span>; nếu chỉ trúng <span style=\"color: #ff9900\">1</span> mục tiêu, hệ số sát thương tăng thêm <span style=\"color: #ff9900\">30%</span>. Sau kỹ năng, nếu có Vồ Liên Kích, tiêu hao <span style=\"color: #ff9900\">1 tầng</span> hiệu ứng này để kích hoạt kỹ năng chủ động thêm Bản Năng Săn Mồi II và Di chuyển thêm.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Bản Năng Săn Mồi II",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1780905273628.png\"><br></p>\n</td>\n<td>\n<p>Bản Năng Săn Mồi II Lv.1</p>\n<p>Chủ động / Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Corrosion diện rộng bỏ qua vật cản và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định lên chúng và toàn bộ kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh chúng; sát thương lên mục tiêu có Dấu Vòng Cổ tăng <span style=\"color: #ff9900\">50%</span>. Mỗi có <span style=\"color: #ff9900\">1 tầng</span> Truy Tìm Săn Mồi, hệ số sát thương tăng <span style=\"color: #ff9900\">5%</span>; nếu chỉ trúng <span style=\"color: #ff9900\">1</span> mục tiêu, hệ số sát thương tăng thêm <span style=\"color: #ff9900\">30%</span>. Sau kỹ năng, nếu có Vồ Liên Kích, tiêu hao <span style=\"color: #ff9900\">1 tầng</span> hiệu ứng này để kích hoạt kỹ năng chủ động thêm Bản Năng Săn Mồi III và Di chuyển thêm.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Bản Năng Săn Mồi III",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p> <img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1780905273628.png\"><br></p>\n</td>\n<td>\n<p>Bản Năng Săn Mồi III ILv.1</p>\n<p>Chủ động / Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">240%</span> Tấn công sát thương Corrosion diện rộng bỏ qua vật cản và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định lên chúng và toàn bộ kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh chúng; sát thương lên mục tiêu có Dấu Vòng Cổ tăng <span style=\"color: #ff9900\">100%</span>. Trước khi tấn công, nếu mục tiêu đứng trên ô địa hình dị vị, mỗi <span style=\"color: #ff9900\">1</span> cấp ô địa hình, Phòng thủ của nó giảm <span style=\"color: #ff9900\">14%</span>, sát thương chí mạng của Faelynn tăng <span style=\"color: #ff9900\">5%</span>. Mỗi có <span style=\"color: #ff9900\">1 tầng</span> Truy Tìm Săn Mồi, hệ số sát thương tăng <span style=\"color: #ff9900\">5%</span>; nếu chỉ trúng 1 mục tiêu, hệ số sát thương tăng thêm <span style=\"color: #ff9900\">30%</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp kỹ năng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng kỹ năng thêm</strong></span></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Săn Đuổi Tai Đao Lv.2</strong></td>\n<td style=\"text-align: center\">Gây thêm Radar Tai Chó 1 hiệp.<br>Hiệu quả Chiến Ý Tuần Hồi tăng, Tấn công tăng lên thành <span style=\"color: #ff9900\">30%</span>.</td>\n<td style=\"text-align: center\">Bản thân nhận Chiến Ý Tuần Hồi và Radar Tai Chó, duy trì <span style=\"color: #ff9900\">3 hiệp</span>. Sau kỹ năng nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td><strong>Tam Trùng Xé Cắn Lv.2</strong></td>\n<td>Phạm vi mở rộng thành <span style=\"color: #ff9900\">5 ô</span>, mỗi có 1 tầng Truy Tìm Săn Mồi, hệ số sát thương tăng lên thành <span style=\"color: #ff9900\">10%</span>.<br>Hiệu quả Dấu Mùi Hương tăng, hệ số sát thương tăng lên <span style=\"color: #ff9900\">100%</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Corrosion diện rộng lên chúng và toàn bộ kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh chúng, xua tan <span style=\"color: #ff9900\">1</span> buff, gây Dấu Mùi Hương và Dẫn Dụ, đồng thời tạo ô địa hình Độc Chướng, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; mỗi có <span style=\"color: #ff9900\">1 tầng</span> Truy Tìm Săn Mồi, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>. Nếu số mục tiêu trúng nhiều hơn <span style=\"color: #ff9900\">3</span> hoặc trúng đơn vị thủ lĩnh, gây thêm <span style=\"color: #ff9900\">1 lần</span> <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Corrosion diện rộng và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định. Sau kỹ năng nhận <span style=\"color: #ff9900\">3 điểm</span> Infection Index và <span style=\"color: #ff9900\">1</span> buff ngẫu nhiên, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Vây Săn Trung Thành Lv.2</strong></td>\n<td>Mỗi có <span style=\"color: #ff9900\">1 tầng</span> Truy Tìm Săn Mồi, hệ số sát thương của kỹ năng Quyết thắng và kỹ năng chủ động thêm Bản Năng Săn Mồi tăng lên thành <span style=\"color: #ff9900\">10%</span>. Nếu Bản Năng Săn Mồi lần hai hạ gục mục tiêu có Dấu Vòng Cổ, lần dùng Bản Năng Săn Mồi kế tiếp trong hiệp này sẽ gây Dấu Vòng Cổ. Hiệu quả Dấu Vòng Cổ tăng, sát thương Corrosion phải nhận tăng <span style=\"color: #ff9900\">30%</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây <span style=\"color: #ff9900\">3%</span> Tấn công sát thương Corrosion diện rộng lên toàn bộ kẻ địch trong vùng 9×<span style=\"color: #ff9900\">120</span> ô phía trước, tạo ô địa hình Độc Chướng, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; mỗi có <span style=\"color: #ff9900\">1 tầng</span> Truy Tìm Săn Mồi, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>. Sau kỹ năng, nếu có Vồ Liên Kích, tiêu hao <span style=\"color: #ff9900\">1 tầng</span> hiệu ứng này để kích hoạt kỹ năng chủ động thêm Bản Năng Săn Mồi và Di chuyển thêm.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Phản Công Quyết Liệt Lv.2</strong></td>\n<td style=\"text-align: center\">Khi bắt đầu hiệp, nhận <span style=\"color: #ff9900\">4 tầng</span> Truy Tìm Săn Mồi, giới hạn Truy Tìm Săn Mồi tăng lên <span style=\"color: #ff9900\">6 tầng</span>.<br>Hiệu quả Truy Tìm Săn Mồi tăng, sát thương Corrosion gây ra tăng lên thành <span style=\"color: #ff9900\">5%</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu nhận <span style=\"color: #ff9900\">1 tầng</span> Vồ Liên Kích, tối đa cộng dồn <span style=\"color: #ff9900\">3 tầng</span>. Mỗi khi dùng <span style=\"color: #ff9900\">1 lần</span> kỹ năng chủ động (không tính Bản Năng Săn Mồi), nhận <span style=\"color: #ff9900\">1 tầng</span> Vồ Liên Kích.<br>Khi bắt đầu hiệp, nhận <span style=\"color: #ff9900\">4 tầng</span> Truy Tìm Săn Mồi, và nếu bản thân đứng trên ô địa hình dị vị, mỗi <span style=\"color: #ff9900\">1</span> cấp ô địa hình nhận 1 Điểm hành động và <span style=\"color: #ff9900\">1 tầng</span> Truy Tìm Săn Mồi, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.<br>Khi nhận sát thương, nếu bản thân đứng trên ô địa hình loại Corrosion, chuyển <span style=\"color: #ff9900\">50%</span> sát thương gốc cho đơn vị đồng minh có HP cao nhất (không gồm bản thân).<br>Miễn nhiễm Di chuyển, debuff loại di chuyển và hiệu ứng Cấm lệnh.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Tam Trùng Xé Cắn Lv.3</strong></td>\n<td>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>.<br>Nếu số mục tiêu trúng nhiều hơn <span style=\"color: #ff9900\">3</span> hoặc trúng đơn vị thủ lĩnh, gây thêm <span style=\"color: #ff9900\">1 lần</span> <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Corrosion diện rộng và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định.<br>Hiệu quả Dấu Mùi Hương tăng, sát thương phải nhận từ Faelynn tăng lên thành <span style=\"color: #ff9900\">30%</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Corrosion diện rộng lên chúng và toàn bộ kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh chúng, xua tan <span style=\"color: #ff9900\">1</span> buff, gây Dấu Mùi Hương và Dẫn Dụ, đồng thời tạo ô địa hình Độc Chướng, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; mỗi có <span style=\"color: #ff9900\">1 tầng</span> Truy Tìm Săn Mồi, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>. Nếu số mục tiêu trúng nhiều hơn <span style=\"color: #ff9900\">3</span> hoặc trúng đơn vị thủ lĩnh, gây thêm <span style=\"color: #ff9900\">1 lần</span> <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Corrosion diện rộng và <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định. Sau kỹ năng nhận <span style=\"color: #ff9900\">3 điểm</span> Infection Index và <span style=\"color: #ff9900\">1</span> buff ngẫu nhiên, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Vây Săn Trung Thành Lv.3</strong></td>\n<td>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">150%</span>, hệ số sát thương của ba lần kỹ năng chủ động thêm Bản Năng Săn Mồi lần lượt tăng lên <span style=\"color: #ff9900\">90%</span>, <span style=\"color: #ff9900\">170%</span> và <span style=\"color: #ff9900\">480%</span>.<br>Mỗi lần dùng Bản Năng Săn Mồi gây <span style=\"color: #ff9900\">2 lần</span> sát thương.<br>Nếu Bản Năng Săn Mồi lần ba hạ gục, nhận thêm <span style=\"color: #ff9900\">1 tầng</span> Vồ Liên Kích, tối đa nhận <span style=\"color: #ff9900\">2 tầng</span>.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây <span style=\"color: #ff9900\">3%</span> Tấn công sát thương Corrosion diện rộng lên toàn bộ kẻ địch trong vùng 9×<span style=\"color: #ff9900\">150</span> ô phía trước, tạo ô địa hình Độc Chướng, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; mỗi có <span style=\"color: #ff9900\">1 tầng</span> Truy Tìm Săn Mồi, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>. Sau kỹ năng, nếu có Vồ Liên Kích, tiêu hao <span style=\"color: #ff9900\">1 tầng</span> hiệu ứng này để kích hoạt kỹ năng chủ động thêm Bản Năng Săn Mồi và Di chuyển thêm.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780911706147.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Contract Key · Hành Trình Lãng Mạn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"> <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1777346818675.png\" width=\"20\" height=\"20\"></sub> Tấn công +3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1778837210534.png\" width=\"20\" height=\"20\"></sub> HP +3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1780906262025.png\" width=\"20\" height=\"20\"></sub> Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780906080016.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key · Nhát Cuối Của Bé Dango</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sát thương lên kẻ địch chưa đầy HP tăng <span style=\"color: #ff9900\">7%</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780906301893.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Fixed Key · Dựng Lông Cảnh Giác</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi dùng kỹ năng chủ động thêm Bản Năng Săn Mồi, xua tan 1 buff của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780906351781.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Fixed Key · Tiếng Gâu Cuối Cùng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi chết, gây <span style=\"color: #ff9900\">6%</span> Tấn công sát thương cố định và <span style=\"color: #ff9900\">500</span> điểm sát thương ổn định lên toàn bộ kẻ địch trong bán kính <span style=\"color: #ff9900\">3</span> ô quanh bản thân, tạo ô địa hình Độc Chướng, và gây Tiếng Gâu Cuối Cùng, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; Với đơn vị không phải thủ lĩnh, gây thêm sát thương cố định bằng <span style=\"color: #ff9900\">300%</span> HP tối đa của chúng.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780906450252.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Fixed Key · Bộ Pháp Tập Kích Săn Mồi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu hiệp, tạo ô địa hình Độc Chướng trong <span style=\"color: #ff9900\">bán kính 1 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780906498736.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Fixed Key · Bộ Pháp Tập Kích Săn Mồi</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi đứng trên ô địa hình loại Corrosion, sát thương phải nhận giảm <span style=\"color: #ff9900\">15%</span>, sát thương ổn định phải nhận giảm <span style=\"color: #ff9900\">1 điểm</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780906534365.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Fixed Key · Đánh Dấu Mùi Hương</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, gây Dấu Mùi Hương lên kẻ địch có HP cao nhất, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780906634072.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Common Key · Uy Chó Run Rẩy</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1780972525252.png\" width=\"20\" height=\"20\"></sub>Chí mạng 5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Khi bắt đầu hiệp, nếu bản thân đứng trên ô địa hình dị vị cấp 3, sát thương diện rộng gây ra tăng <span style=\"color: #ff9900\">10%</span>, duy trì 1 hiệp lớn.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hình thái hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp mở khóa</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Nhân tố hiển tượng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu quả</strong></span></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">Vanguard*2 Sentinel*5</td>\n<td style=\"text-align: center\">Mỗi 1 lần bản thân gây sát thương Corrosion, sát thương Corrosion của mọi đồng minh tăng 1%, tối đa tăng 3%. Không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">Vanguard*3 Sentinel*8</td>\n<td style=\"text-align: center\">Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">Bulwark*1 Vanguard*4 Sentinel*9</td>\n<td style=\"text-align: center\">Sát thương Corrosion gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">Bulwark*2 Vanguard*6 Sentinel*11</td>\n<td style=\"text-align: center\">Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">Bulwark*2 Vanguard*7 Sentinel*15</td>\n<td style=\"text-align: center\">Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">Bulwark*3 Vanguard*8 Sentinel*18</td>\n<td style=\"text-align: center\">Khi đòn tấn công trúng từ 2 kẻ địch trở lên, sát thương gây ra tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780908161639.png\"></td>\n<td>\n<h1><strong>Răng Nanh Dã Thú &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10783\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng trường tự động hiệu năng cao được cải tạo riêng cho Faelynn, đẩy độ phức tạp của chế tác lên cực hạn; độ ổn định vượt trội giúp nó trút lượng lớn đạn trong thời gian ngắn, như dã thú gầm thét trên chiến trường.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; </span><span style=\"color: #ff6600\">Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=129817&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1781059530577.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=129763&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1781059575372.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=129648&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1781059621610.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=129626&amp;hash_flag=1\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1781076423827.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<div>\n<p>&nbsp; &nbsp;Tactical doll ngây thơ thẳng thắn, dù trải qua nhiều năm lưu lạc và biến cố vẫn giữ trái tim như trẻ thơ. Vì thế thế giới trong mắt cô mãi trong trẻo; với cô, thời gian chẳng qua là một cuộc chờ đợi, cô có thể vượt qua mọi xiềng xích của thế giới thực, chỉ để đợi tiếng còi gọi của chủ nhân.</p>\n<p>&nbsp;「Chủ nhân! Cuối cùng em cũng trở về bên người rồi~ Để giúp được người, em sẽ tiếp tục cố gắng mạnh lên! \"</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\" style=\"max-width: 100px\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\" style=\"max-width: 100px\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\" style=\"max-width: 100px\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1780643436072.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780643490595.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1780643565648.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780643522282.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780643565780.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780643522155.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780643522284.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780643522285.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1780643522318.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": ""
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784704553861.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704566461.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704574187.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704580189.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704599481.jpeg\"><img src=\"https://community-cdn.exiliumgf.com/prod/1784704609756.jpeg\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1750,
+      "title": "Thường ngày-01",
+      "text": "Chủ nhân, có muốn học lái xe tải không? Em có mấy trăm giờ lái……Hả? Ngài muốn đích thân dạy em lái Elmo sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908182336.wav"
+    },
+    {
+      "id": 1751,
+      "title": "Thường ngày-02",
+      "text": "Không biết làm gì sao? Vậy thì bắt đầu bằng việc khen em đi~ Hì hì!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908197316.wav"
+    },
+    {
+      "id": 1752,
+      "title": "Thường ngày-03",
+      "text": "Chủ nhân, ngài mệt rồi sao! Em học pha cà phê cho ngài đó! Nhưng uống thấy đắng đắng, nên em đổ hết số đường em tìm được vào luôn rồi! Mời ngài uống!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908211435.wav"
+    },
+    {
+      "id": 1753,
+      "title": "Thường ngày-04",
+      "text": "Chủ nhân! Xoa đầu em đi mà~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908224326.wav"
+    },
+    {
+      "id": 1754,
+      "title": "Thường ngày-05",
+      "text": "Nơi muốn đến sao? Em muốn cùng Chủ nhân đến biển thêm lần nữa! Hì hì, đó là kỷ niệm hiếm hoi được cùng Chủ nhân ra ngoài chơi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908237010.wav"
+    },
+    {
+      "id": 1755,
+      "title": "Nâng cấp-01",
+      "text": "Trạng thái tốt lắm!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908251203.wav"
+    },
+    {
+      "id": 1756,
+      "title": "Nâng cấp-02",
+      "text": "Còn mạnh hơn nữa đó nha?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908266236.wav"
+    },
+    {
+      "id": 1757,
+      "title": "Nâng cấp-03",
+      "text": "Faelynn——lên cấp rồi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908282176.wav"
+    },
+    {
+      "id": 1758,
+      "title": "Nâng cấp-04",
+      "text": "Em đã rất cố gắng đó~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908297128.wav"
+    },
+    {
+      "id": 1759,
+      "title": "Nâng cấp-05",
+      "text": "Có thể giúp Chủ nhân nhiều hơn rồi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908319315.wav"
+    },
+    {
+      "id": 1760,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2~ Exilium~!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908339162.wav"
+    },
+    {
+      "id": 1761,
+      "title": "Đăng nhập",
+      "text": "Chủ nhân! Chủ nhân! Em vẫn luôn đợi ngài đó!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908367404.wav"
+    },
+    {
+      "id": 1762,
+      "title": "Tâm sự-01",
+      "text": "Chủ nhân, Faelynn có giúp được ngài không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908387449.wav"
+    },
+    {
+      "id": 1763,
+      "title": "Tâm sự-02",
+      "text": "Thích lông xù sao? Hì hì, ngài cứ xoa đầu em nhiều vào nha?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908403175.wav"
+    },
+    {
+      "id": 1764,
+      "title": "Tâm sự-03",
+      "text": "Sau khi Chủ nhân đi……em cảm thấy cả thế giới đều xám xịt……Nhưng may quá, ngài đã trở về. Được ở bên ngài như bây giờ, thật tốt quá!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908417400.wav"
+    },
+    {
+      "id": 1765,
+      "title": "Tâm sự-04",
+      "text": "Faelynn cũng là T-Doll trưởng thành rồi! Chủ nhân có game nào không đánh nổi cứ tìm em nhé! ……Kinh、kinh dị……vậy、vậy Chủ nhân có thể chơi cùng em không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908436359.wav"
+    },
+    {
+      "id": 1766,
+      "title": "Tâm sự-05",
+      "text": "Chủ nhân! Chủ nhân! Ngài về rồi……Hả? Sao lại đi tìm T-Doll khác làm nhiệm vụ? Hức——Chủ nhân là đồ ngốc!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908450899.wav"
+    },
+    {
+      "id": 1767,
+      "title": "Tâm sự-06",
+      "text": "Chủ nhân, cái đó……có thể chụp ảnh chung với em không? Em muốn mang ảnh theo khi đi làm nhiệm vụ, như vậy cứ như ngài luôn ở bên em vậy!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908469210.wav"
+    },
+    {
+      "id": 1768,
+      "title": "Tâm sự-07",
+      "text": "Chủ nhân Chủ nhân……tèn ten! Đây là chiếc mũ năm xưa ngài để lại cho em, em đã gìn giữ cẩn thận, luôn mang theo bên mình đó? Ngài có muốn đội thử lần nữa không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908483412.wav"
+    },
+    {
+      "id": 1769,
+      "title": "Tâm sự-08",
+      "text": "Được ở bên Chủ nhân, cảm nhận cái xoa đầu của ngài là điều ước lớn nhất của Faelynn……nên xin ngài đừng bao giờ rời xa em nữa.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908502703.wav"
+    },
+    {
+      "id": 1770,
+      "title": "Vào đội",
+      "text": "Chủ nhân! Cuối cùng em đã trở về bên ngài rồi~ Để giúp được ngài, em sẽ tiếp tục cố gắng mạnh lên!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780908519413.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1162,
+      "title": "Ngữ khí-01",
+      "text": "Tôi đây!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910432891.wav"
+    },
+    {
+      "id": 1163,
+      "title": "Ngữ khí-02",
+      "text": "Phát hiện kẻ địch, tiêu diệt!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910501677.wav"
+    },
+    {
+      "id": 1164,
+      "title": "Ngữ khí-03",
+      "text": "Không thoát được đâu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910521590.wav"
+    },
+    {
+      "id": 1165,
+      "title": "Ngữ khí-04",
+      "text": "Tôi sẽ cố gắng!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910538346.wav"
+    },
+    {
+      "id": 1166,
+      "title": "Ngữ khí-05",
+      "text": "Faelynn, xuất phát!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910550574.wav"
+    },
+    {
+      "id": 1167,
+      "title": "Ngữ khí-06",
+      "text": "Cứ giao cho tôi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910568987.wav"
+    },
+    {
+      "id": 1168,
+      "title": "Ngữ khí-07",
+      "text": "Ưm~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910582395.wav"
+    },
+    {
+      "id": 1169,
+      "title": "Ngữ khí-08",
+      "text": "Chủ nhân……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910596906.wav"
+    },
+    {
+      "id": 1170,
+      "title": "Ngữ khí-09",
+      "text": "Chưa thể gục ngã!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910610117.wav"
+    },
+    {
+      "id": 1171,
+      "title": "Ngữ khí-10",
+      "text": "Ưm……!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910623944.wav"
+    },
+    {
+      "id": 1172,
+      "title": "Kỹ năng-01",
+      "text": "Tuyệt đối không hụt!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910644404.wav"
+    },
+    {
+      "id": 1173,
+      "title": "Kỹ năng-02",
+      "text": "Chủ nhân, xin hãy nhìn em!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910657749.wav"
+    },
+    {
+      "id": 1174,
+      "title": "Kỹ năng-03",
+      "text": "Không được cử động bậy……!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910671141.wav"
+    },
+    {
+      "id": 1175,
+      "title": "Kỹ năng-04",
+      "text": "Lên đây!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910686760.wav"
+    },
+    {
+      "id": 1176,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Hãy nhìn em bằng con mắt khác đi! Chủ nhân!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910703336.wav"
+    },
+    {
+      "id": 1177,
+      "title": "Hạ gục",
+      "text": "Xong rồi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910721035.wav"
+    },
+    {
+      "id": 1178,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Vẫn chưa đủ! Vẫn chưa đủ! Chủ nhân khen em thêm nữa đi mà!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910739656.wav"
+    },
+    {
+      "id": 1179,
+      "title": "Kết thúc trận-Thua",
+      "text": "Xin lỗi Chủ nhân, em làm ngài thất vọng rồi……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1780910752912.wav"
+    }
+  ]
+}

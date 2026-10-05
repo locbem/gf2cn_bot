@@ -1,0 +1,384 @@
+{
+  "id": 1039,
+  "name": "Suomi",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045102284.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 4,
+  "role_id": 3,
+  "team_id": 12,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Support",
+  "attr": "Freeze",
+  "team": "Doll Community",
+  "weapon": "Suomi",
+  "model": "SSD-62D",
+  "ammo_model": "SMG",
+  "desc": "T-Doll đáng yêu, lương thiện, chăm chỉ và giàu tinh thần sứ mệnh. Cô sẽ dũng cảm lên đường vì đồng đội trong cộng đồng, cũng sẽ phiêu bạt để tìm người mình trân quý. Cứ yên tâm giao việc cho cô, cô sẽ không bao giờ phụ lòng tin và sứ mệnh.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/索米pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/索米移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014403690.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014410927.png"
+  },
+  "skins": [
+    {
+      "id": 20,
+      "name": "Linh Hải Du Quang",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/索米pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/索米移动.png"
+    },
+    {
+      "id": 61,
+      "name": "Quà Tặng Thỏ Tuyết",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1766450079944.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1766450086575.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261981417.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261994478.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768262007000.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><strong>CV tiếng Trung</strong></sub></td>\n<td style=\"text-align: center\">Đào Điển</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><strong>CV tiếng Nhật</strong></sub></td>\n<td style=\"text-align: center\">Toyosaki Aki</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=50\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>672</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>617</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1955</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo&nbsp;<span style=\"color: #cc99ff\">Corrosion</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Đạn Bay Hoa Băng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590190406.png\"></p>\n</td>\n<td>\n<p>Phi Đạn Hoa Băng Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764427693888.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Chế Tài Mùa Đông Khắc Nghiệt",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590213707.png\"></p>\n</td>\n<td>\n<p>Chế Tài Đông Giá Lv.1</p>\n<p>Chủ động/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764427758235.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Freeze. Tỉ lệ chí mạng của kỹ năng này giảm <span style=\"color: #ff9900\">100%</span>, gây thêm sát thương cố định bằng <span style=\"color: #ff9900\">50%</span> Phòng thủ. Mỗi đồng minh khác trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">1 điểm</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Tuyết Lành Báo Ân",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590229528.png\"></p>\n</td>\n<td>\n<p>Tuyết Lành Báo Ân Lv.1</p>\n<p>Chủ động/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764427842891.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu đồng minh (không gồm bản thân) trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây Khiên Băng duy trì <span style=\"color: #ff9900\">2 hiệp</span>, lượng hấp thụ của Khiên Băng bằng <span style=\"color: #ff9900\">130%</span> Tấn công ban đầu của Suomi, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu. Và hồi <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định. Mỗi kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh mục tiêu đồng minh, gây <span style=\"color: #ff9900\">1 tầng</span> Chi Viện Phòng Vệ cho mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Minh Quang Vùng Tuyết",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590247057.png\"></p>\n</td>\n<td>\n<p>Minh Quang Tuyết Vực Lv.1</p>\n<p>Quyết thắng/Ô địa hình</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764427979535.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô trống trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây sát thương cố định bằng <span style=\"color: #ff9900\">50%</span> Phòng thủ lên mọi mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> xung quanh, và gây <span style=\"color: #ff9900\">2 tầng</span> Tuyết Lở.<br>Hồi <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định cho toàn thể đồng minh, xua tan <span style=\"color: #ff9900\">1</span> debuff, gỡ hiệu ứng khiêu khích. Và gây Khiên Băng duy trì <span style=\"color: #ff9900\">3 hiệp</span> cùng <span style=\"color: #ff9900\">1 tầng</span> Pháo Đài Băng Tuyết, lượng hấp thụ của Khiên Băng bằng <span style=\"color: #ff9900\">100%</span> Tấn công ban đầu của Suomi, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu.<br>Sau kỹ năng, tạo ô Sương Giá trong phạm vi hình bông tuyết bán kính <span style=\"color: #ff9900\">3 ô</span> quanh ô đã chọn, duy trì <span style=\"color: #ff9900\">3 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 5</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Nguồn Nhiệt Ấm Áp",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590266209.png\"></p>\n</td>\n<td>\n<p>Nguồn Nhiệt Ấm Áp Lv.1</p>\n<p>Bị động/Hồi máu/Chi viện</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764428050474.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi kết thúc hành động, nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index, hồi lượng HP bằng <span style=\"color: #ff9900\">5%</span> HP tối đa của Suomi cho các đồng minh khác trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân; nếu HP mục tiêu thấp hơn <span style=\"color: #ff9900\">50%</span> thì nâng lên <span style=\"color: #ff9900\">10%</span>.<br>Khi đồng minh (không gồm bản thân) tung đánh thường hoặc kỹ năng, Suomi gây <span style=\"color: #ff9900\">1 tầng</span> Tuyết Lở lên một kẻ địch ngẫu nhiên trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân.<br>Khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, ưu tiên chi viện hành động <span style=\"color: #ff9900\">1 lần</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định, đồng thời gây Tăng Sát Thương Chí Mạng I cho đồng minh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span>. Khi HP bản thân lớn hơn <span style=\"color: #ff9900\">80%</span>, nhận Bước Tuyết Nhanh.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Minh Quang Tuyết Vực Lv.2</strong></td>\n<td style=\"text-align: center\">Số tầng Tuyết Lở gây ra tăng <span style=\"color: #ff9900\">1 tầng</span>. Hồi lượng HP bằng <span style=\"color: #ff9900\">30%</span> HP tối đa của Suomi cho toàn thể đồng minh, Chỉ số ổn định hồi phục tăng <span style=\"color: #ff9900\">4 điểm</span>. Mọi đồng minh (không gồm bản thân) nhận thêm <span style=\"color: #ff9900\">1 tầng</span> Pháo Đài Băng Tuyết. Nếu đồng minh đầy HP trước khi được hồi máu, gây thêm 1 tầng Yểm Hộ và Hồi Phục Liên Tục I duy trì <span style=\"color: #ff9900\">3 hiệp</span> cho mục tiêu.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> ô trống trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây sát thương cố định bằng <span style=\"color: #ff9900\">50%</span> Phòng thủ lên mọi mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> xung quanh, và gây <span style=\"color: #ff9900\">3 tầng</span> Tuyết Lở. Hồi lượng HP bằng <span style=\"color: #ff9900\">30%</span> HP tối đa của Suomi và <span style=\"color: #ff9900\">6 điểm</span> Chỉ số ổn định cho toàn thể đồng minh, xua tan 1 debuff, gỡ hiệu ứng khiêu khích. Và gây Khiên Băng duy trì <span style=\"color: #ff9900\">3 hiệp</span> cùng <span style=\"color: #ff9900\">1 tầng</span> Pháo Đài Băng Tuyết, số tầng Pháo Đài Băng Tuyết gây cho đồng minh ngoài bản thân tăng <span style=\"color: #ff9900\">1 tầng</span>, lượng hấp thụ của Khiên Băng bằng <span style=\"color: #ff9900\">100%</span> Tấn công ban đầu của Suomi, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu. Nếu đồng minh đầy HP trước khi được hồi máu, gây thêm <span style=\"color: #ff9900\">1 tầng</span> Yểm Hộ và Hồi Phục Liên Tục I duy trì <span style=\"color: #ff9900\">3 hiệp</span> cho mục tiêu. Sau kỹ năng, tạo ô Sương Giá trong phạm vi hình bông tuyết <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh ô đã chọn, duy trì <span style=\"color: #ff9900\">3 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Nguồn Nhiệt Ấm Áp Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu đồng minh có Khiên Băng, gây Minh Quang Hộ Vệ cho họ. Hiệu quả Bước Tuyết Nhanh được nâng cao, khoảng cách chi viện tăng <span style=\"color: #ff9900\">2 ô</span>.</td>\n<td style=\"text-align: center\">Khi kết thúc hành động, nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index, hồi lượng HP bằng <span style=\"color: #ff9900\">5%</span> HP tối đa của Suomi cho các đồng minh khác trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân; nếu HP mục tiêu thấp hơn <span style=\"color: #ff9900\">50%</span> thì nâng lên <span style=\"color: #ff9900\">10%</span>. Nếu đồng minh có Khiên Băng, gây Minh Quang Hộ Vệ cho họ. Khi đồng minh (không gồm bản thân) tung đánh thường hoặc kỹ năng, Suomi gây <span style=\"color: #ff9900\">1 tầng</span> Tuyết Lở lên một kẻ địch ngẫu nhiên trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân. Khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, ưu tiên chi viện hành động <span style=\"color: #ff9900\">1 lần</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định, đồng thời gây Tăng Sát Thương Chí Mạng I cho đồng minh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span>. Khi HP bản thân lớn hơn <span style=\"color: #ff9900\">80%</span>, nhận Bước Tuyết Nhanh.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Tuyết Lành Báo Ân Lv.2</strong></td>\n<td style=\"text-align: center\">Gây Hồi Phục Khi Bị Đánh I cho mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Nếu kẻ địch xung quanh là đơn vị cỡ lớn, gây thêm <span style=\"color: #ff9900\">1 tầng</span> Chi Viện Phòng Vệ.</td>\n<td style=\"text-align: center\">Chọn 1 mục tiêu đồng minh (không gồm bản thân) trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây Khiên Băng và Hồi Phục Khi Bị Đánh I duy trì <span style=\"color: #ff9900\">2 hiệp</span>, lượng hấp thụ của Khiên Băng bằng <span style=\"color: #ff9900\">130%</span> Tấn công ban đầu của Suomi, tối đa không quá <span style=\"color: #ff9900\">100%</span> HP tối đa của mục tiêu. Và hồi <span style=\"color: #ff9900\">2 điểm</span> Chỉ số ổn định. Mỗi kẻ địch trong <span style=\"color: #ff9900\">bán kính 5 ô</span> quanh mục tiêu đồng minh, gây <span style=\"color: #ff9900\">1 tầng</span> Chi Viện Phòng Vệ cho mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>; nếu là đơn vị cỡ lớn thì gây thêm <span style=\"color: #ff9900\">1 tầng</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Chế Tài Đông Giá Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu gây Sụp Đổ Ổn Định, sát thương cố định tăng lên <span style=\"color: #ff9900\">125%</span> Phòng thủ.</td>\n<td style=\"text-align: center\">Chọn 1 mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Freeze. Tỉ lệ chí mạng của kỹ năng này giảm <span style=\"color: #ff9900\">100%</span>, gây thêm sát thương cố định bằng <span style=\"color: #ff9900\">50%</span> Phòng thủ; nếu gây Sụp Đổ Ổn Định, sát thương cố định tăng lên <span style=\"color: #ff9900\">125%</span> Phòng thủ. Mỗi đồng minh khác trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">1 điểm</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Nguồn Nhiệt Ấm Áp Lv.3</strong></td>\n<td style=\"text-align: center\">Hiệu ứng Minh Quang Hộ Vệ bổ sung: khi bị tấn công, nếu Khiên Băng chưa bị phá, gây <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định cố định lên kẻ tấn công. Số lần kích hoạt chi viện hành động mỗi hiệp tăng <span style=\"color: #ff9900\">1 lần</span>, và hồi <span style=\"color: #ff9900\">1 điểm</span> Chỉ số ổn định cho các đồng minh khác trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân.</td>\n<td style=\"text-align: center\">Khi kết thúc hành động, nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index, hồi lượng HP bằng <span style=\"color: #ff9900\">5%</span> HP tối đa của Suomi cho các đồng minh khác trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân; nếu HP mục tiêu thấp hơn <span style=\"color: #ff9900\">50%</span> thì nâng lên <span style=\"color: #ff9900\">10%</span>. Nếu đồng minh có Khiên Băng, gây Minh Quang Hộ Vệ cho họ. Khi đồng minh (không gồm bản thân) tung đánh thường hoặc kỹ năng, Suomi gây <span style=\"color: #ff9900\">1 tầng</span> Tuyết Lở lên một kẻ địch ngẫu nhiên trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân. Khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, ưu tiên chi viện hành động <span style=\"color: #ff9900\">1 lần</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">3 điểm</span> sát thương ổn định, gây Tăng Sát Thương Chí Mạng I cho đồng minh duy trì <span style=\"color: #ff9900\">2 hiệp</span>, và hồi <span style=\"color: #ff9900\">1 điểm</span> Chỉ số ổn định cho các đồng minh khác trong <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh bản thân. Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>. Khi HP bản thân lớn hơn <span style=\"color: #ff9900\">80%</span>, nhận Bước Tuyết Nhanh.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Minh Quang Tuyết Vực Lv.3</strong></td>\n<td style=\"text-align: center\">Gây Tăng Phòng Thủ II duy trì <span style=\"color: #ff9900\">3 hiệp</span> cho toàn thể đồng minh, số debuff xua tan tăng <span style=\"color: #ff9900\">2</span>, đồng thời gỡ Né Tránh, Dẫn Dụ, Choáng. Lượng HP hồi phục tăng lên <span style=\"color: #ff9900\">50%</span> HP tối đa của Suomi, phạm vi Sương Giá quanh ô đã chọn mở rộng <span style=\"color: #ff9900\">1 ô</span>. Hiệu quả tạo khiên tăng <span style=\"color: #ff9900\">30%</span>, tối đa không quá <span style=\"color: #ff9900\">150%</span> HP tối đa của mục tiêu.</td>\n<td style=\"text-align: center\">Chọn 1 ô trống trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây sát thương cố định bằng <span style=\"color: #ff9900\">50%</span> Phòng thủ lên mọi mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> xung quanh, và gây <span style=\"color: #ff9900\">3 tầng</span> Tuyết Lở. Hồi lượng HP bằng <span style=\"color: #ff9900\">50%</span> HP tối đa của Suomi và <span style=\"color: #ff9900\">6 điểm</span> Chỉ số ổn định cho toàn thể đồng minh, xua tan <span style=\"color: #ff9900\">3</span> debuff, gỡ hiệu ứng khiêu khích, Né Tránh, Dẫn Dụ, Choáng. Và gây Khiên Băng, Tăng Phòng Thủ II duy trì <span style=\"color: #ff9900\">3 hiệp</span> cùng <span style=\"color: #ff9900\">1 tầng</span> Pháo Đài Băng Tuyết, số tầng Pháo Đài Băng Tuyết gây cho đồng minh ngoài bản thân tăng <span style=\"color: #ff9900\">1 tầng</span>, lượng hấp thụ của Khiên Băng bằng <span style=\"color: #ff9900\">100%</span> Tấn công ban đầu của Suomi, hiệu quả tạo khiên tăng <span style=\"color: #ff9900\">30%</span>, tối đa không quá <span style=\"color: #ff9900\">150%</span> HP tối đa của mục tiêu. Nếu đồng minh đầy HP trước khi được hồi máu, gây thêm <span style=\"color: #ff9900\">1 tầng</span> Yểm Hộ và Hồi Phục Liên Tục I duy trì <span style=\"color: #ff9900\">3 hiệp</span> cho mục tiêu. Sau kỹ năng, tạo ô Sương Giá trong phạm vi hình bông tuyết <span style=\"color: #ff9900\">bán kính 4 ô</span> quanh ô đã chọn, duy trì <span style=\"color: #ff9900\">3 hiệp</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590290172.png\"></td>\n<td>\n<h2>Contract Key · Phong Cách Rock</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764428386318.png\" width=\"20\"></sub>Phòng thủ +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764428399928.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590309010.png\"></td>\n<td>\n<h2>Fixed Key · Khí Thế Không Thể Thua</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng kỹ năng chủ động Chế Tài Đông Giá, nếu mục tiêu đang Sụp Đổ Ổn Định thì hồi 2 điểm Chỉ số ổn định cho bản thân.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590323653.png\"></td>\n<td>\n<h2>Fixed Key · Người Bảo Vệ Nhỏ Bé</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590338041.png\"></td>\n<td>\n<h2>Fixed Key · Đáp Lại Thiện Ý</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Tuyết Lành Báo Ân, nếu HP mục tiêu thấp hơn 80% thì nhận 1 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590352593.png\"></td>\n<td>\n<h2>Fixed Key · Hành Động Phải Nhanh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu hiệp, mỗi đồng minh (không gồm bản thân) có HP thấp hơn 80%, Điểm hành động của bản thân tăng 1 ô.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590368489.png\"></td>\n<td>\n<h2>Fixed Key · Không Thể Gục Ngã</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bị gây Choáng, Khiêu khích, Tê liệt, lập tức xua tan hiệu ứng đó và miễn nhiễm Choáng, Khiêu khích, Tê liệt trong một hiệp, đồng thời bản thân nhận Khiên Băng duy trì 3 hiệp, lượng hấp thụ của Khiên Băng bằng 60% Tấn công ban đầu, tối đa không quá 100% HP tối đa. Mỗi trận chiến kích hoạt tối đa 1 lần.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590385950.png\"></td>\n<td>\n<h2>Fixed Key · Đang Hậu Cần</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kết thúc hành động, nếu Chỉ số ổn định của bản thân lớn hơn 0, hồi lượng HP bằng 10% HP tối đa và 1 điểm Chỉ số ổn định.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590406260.png\"></td>\n<td>\n<h2>Common Key · Phù Hộ Của Sứ Mệnh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p>Khi HP thấp hơn 80%, hồi lượng HP bằng 15% HP tối đa cho bản thân, và nhận Tăng Phòng Thủ III duy trì 2 hiệp. Mỗi trận chiến kích hoạt tối đa 1 lần.</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784590429803.png\"></td>\n<td>\n<h2>Expansion Key · Edelweiss Rock</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sát thương do chi viện hành động gây ra đổi thành sát thương Freeze. Khi đồng minh có Khiên Băng, sát thương Freeze gây ra tăng 15%, khi bắt đầu hiệp hồi 4 điểm Chỉ số ổn định. Trước khi đồng minh tấn công, nếu chưa có Khiên Băng, Suomi lập tức gây Khiên Băng duy trì 2 hiệp, lượng hấp thụ bằng 60% Tấn công ban đầu của Suomi, tối đa không quá 100% HP tối đa của mục tiêu. Khi dùng kỹ năng Quyết thắng Minh Quang Tuyết Vực, gây Đóng Băng lên mục tiêu kẻ địch duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Phòng thủ của mọi đồng minh có Khiên Băng tăng 5%, không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Support*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Support*9 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Freeze gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*6 Support*11 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra của toàn bộ đồng minh tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*7 Support*15 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*8 Support*18 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Hiệu quả tạo khiên của bản thân tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763990681685.png\"></td>\n<td>\n<h1><strong>Sứ Mệnh Vô Ngôn &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10393\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Tiểu liên/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng tiểu liên hiệu năng cao được cấp cho Suomi, lấy Suomi làm nguyên mẫu, thân súng nhẹ hơn, uy lực cũng được nâng thêm để thích ứng mọi tình huống chiến đấu phức tạp. Nắm chặt khẩu súng này, Suomi sẽ hoàn thành mọi sứ mệnh.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=9628&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1720061275542.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=9354&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1719824601038.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=9363&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1719824625922.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=8632&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1719473613090.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p> &nbsp; T-Doll đáng yêu, lương thiện, chăm chỉ và giàu tinh thần sứ mệnh. Cô sẽ dũng cảm lên đường vì đồng đội trong cộng đồng, cũng sẽ phiêu bạt để tìm người mình trân quý. Cứ yên tâm giao việc cho cô, cô sẽ không bao giờ phụ lòng tin và sứ mệnh.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778294442987.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294442868.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294442988.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778294484872.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294484896.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294484838.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294484857.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294484854.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294484834.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294484856.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294484906.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778294484870.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/让我看看.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/举手.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/真正的音乐.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/气鼓鼓.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091784049.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091815386.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091858095.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091873793.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091909563.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779163734574.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779164984446.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1253,
+      "title": "Thường ngày-01",
+      "text": "Chỉ huy, về vấn đề nâng cao hiệu suất sử dụng kho hàng lần trước……tôi đã lập quy hoạch khu vực chi tiết, mời anh xem qua.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Daily_001.wav"
+    },
+    {
+      "id": 1257,
+      "title": "Thường ngày-02",
+      "text": "Khi phân công nhiệm vụ không cần quá lo cho tôi, Chỉ huy. Tuy tôi vẫn chưa quen nơi đông người……nhưng chỉ cần để hoàn thành nhiệm vụ, tôi có thể vượt qua!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Daily_005.wav"
+    },
+    {
+      "id": 1258,
+      "title": "Thường ngày-03",
+      "text": "Thứ tôi thích sao? Ừm……dạo này tôi đang xem lại các tác phẩm kinh điển của Con Của Thần Chết, Chỉ huy biết họ không? Ừm……sao vẻ mặt anh hơi lạ vậy?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Daily_006.wav"
+    },
+    {
+      "id": 1260,
+      "title": "Thường ngày-04",
+      "text": "Đội trưởng Groza nói sẽ đặt may riêng cho mọi người trang phục mặc khi hoạt động trong xe căn cứ, nếu được, tôi hy vọng chất liệu mềm một chút.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Daily_008.wav"
+    },
+    {
+      "id": 1262,
+      "title": "Thường ngày-05",
+      "text": "Cô Mayling dạo này có vẻ vất vả, ừm……trước đây tôi từng làm đủ việc vặt ở vùng ô nhiễm, nếu là công việc sửa chữa đơn giản, tôi cũng có thể san sẻ giúp cô ấy nhỉ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Daily_010.wav"
+    },
+    {
+      "id": 1263,
+      "title": "Nâng cấp-01",
+      "text": "Ừm, thành quả huấn luyện rõ rệt.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Up_001.wav"
+    },
+    {
+      "id": 1266,
+      "title": "Nâng cấp-02",
+      "text": "Tôi đã khác trước rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Up_004.wav"
+    },
+    {
+      "id": 1267,
+      "title": "Nâng cấp-03",
+      "text": "Ừm, còn phải cố gắng hơn nữa.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Up_005.wav"
+    },
+    {
+      "id": 1269,
+      "title": "Nâng cấp-04",
+      "text": "Tôi muốn bảo vệ mọi người.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Up_007.wav"
+    },
+    {
+      "id": 1270,
+      "title": "Nâng cấp-05",
+      "text": "Kế hoạch huấn luyện cũng phải cải tiến.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Up_008.wav"
+    },
+    {
+      "id": 1271,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Title_001.wav"
+    },
+    {
+      "id": 1272,
+      "title": "Đăng nhập",
+      "text": "Hôm nay cũng làm phiền anh rồi, Chỉ huy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Login_001.wav"
+    },
+    {
+      "id": 1273,
+      "title": "Tâm sự-01",
+      "text": "Buổi huấn luyện hôm nay vẫn chưa xong, Chỉ huy, xin anh chờ một lát được không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 1274,
+      "title": "Tâm sự-02",
+      "text": "Hà……hết giờ huấn luyện, để anh đợi lâu rồi Chỉ huy. Ừm……anh giúp tôi xem kế hoạch huấn luyện này còn chỗ nào cần cải tiến không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 1276,
+      "title": "Tâm sự-03",
+      "text": "C-Chỉ huy, vừa rồi tôi lỡ gửi nhật ký tâm trí cùng báo cáo nhiệm vụ cho anh, xin anh nhất định……không, bắt buộc phải xóa đi! ——Hả? Tôi……tôi không viết gì, không, không có gì đáng xem đâu!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 1278,
+      "title": "Tâm sự-04",
+      "text": "Ừm……cảm giác có nhiều người đang nhìn tôi, C-Chỉ huy, mình đến chỗ ít người hơn một chút được không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 1281,
+      "title": "Tâm sự-05",
+      "text": "Chỉ huy hình như không giống trước đây, hả? Cụ thể là chỗ nào? Ừm……tôi, tôi cũng không nói rõ được……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Friendliness_009.wav"
+    },
+    {
+      "id": 1280,
+      "title": "Tâm sự-06",
+      "text": "Chỉ huy, có phải tôi cần nâng cấp hệ thống không? Dạo này hình như thường ở trạng thái nhiệt độ cao, chính là, khi đối diện với Chỉ huy……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 1282,
+      "title": "Tâm sự-07",
+      "text": "Khi được người khác khen dễ thương, nên phản ứng thế nào nhỉ? ——Hả? Mỉm cười và cảm ơn……vậy là được sao? Là……là vậy à, vậy, cảm ơn anh, Chỉ huy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Friendliness_010.wav"
+    },
+    {
+      "id": 1285,
+      "title": "Tâm sự-08",
+      "text": "Chỉ huy, lúc không có nhiệm vụ, tôi có thể đến tìm anh không? Không phải chuyện quan trọng gì, chỉ là muốn trò chuyện với anh nhiều hơn……ở bên cạnh Chỉ huy, cảm giác rất yên tâm. A-anh cũng có cảm giác này không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 1287,
+      "title": "Vào đội",
+      "text": "Hóa ra điểm cuối của bão tuyết……là bóng dáng của anh. Chỉ huy, rất vui được gặp lại anh. Suomi xin báo danh.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 762,
+      "title": "Ngữ khí-01",
+      "text": "Vâng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 763,
+      "title": "Ngữ khí-02",
+      "text": "……Hả?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 764,
+      "title": "Ngữ khí-03",
+      "text": "Đã rõ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 765,
+      "title": "Ngữ khí-04",
+      "text": "Ừm……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 766,
+      "title": "Ngữ khí-05",
+      "text": "Ừm……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 767,
+      "title": "Ngữ khí-06",
+      "text": "Không sao đâu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 768,
+      "title": "Ngữ khí-07",
+      "text": "Cảm ơn rất nhiều!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 769,
+      "title": "Ngữ khí-08",
+      "text": "Xin hãy ra lệnh.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 770,
+      "title": "Ngữ khí-09",
+      "text": "Không sao chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 771,
+      "title": "Ngữ khí-10",
+      "text": "A ư……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 774,
+      "title": "Kỹ năng-01",
+      "text": "Đã vào vị trí, sẵn sàng bắn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Skill_001.wav"
+    },
+    {
+      "id": 775,
+      "title": "Kỹ năng-02",
+      "text": "Chiến đấu là……sứ mệnh của tôi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Skill_002.wav"
+    },
+    {
+      "id": 776,
+      "title": "Kỹ năng-03",
+      "text": "Anh đang nhìn đâu vậy?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Hit_001.wav"
+    },
+    {
+      "id": 781,
+      "title": "Kỹ năng-04",
+      "text": "Đừng coi thường tôi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 780,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Tôi muốn……giúp mọi người!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 777,
+      "title": "Hạ gục",
+      "text": "Xử lý xong.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Kill_001.wav"
+    },
+    {
+      "id": 778,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Thắng lợi như dự liệu. Ừm, có điều tôi cho rằng còn có thể hoàn hảo hơn……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Win_001.wav"
+    },
+    {
+      "id": 779,
+      "title": "Kết thúc trận-Thua",
+      "text": "Là sai sót của tôi……Chỉ huy, tôi sẽ viết bản kiểm điểm cẩn thận. Huấn luyện cũng phải gấp đôi……không, gấp ba!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SuomiCV/VO_Suomi_Single_Lose_001.wav"
+    }
+  ]
+}

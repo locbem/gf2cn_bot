@@ -1,0 +1,374 @@
+{
+  "id": 1068,
+  "name": "Sakura",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044621069.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 2,
+  "role_id": 2,
+  "team_id": 5,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Vanguard",
+  "attr": "Burn",
+  "team": "Elmo - Combined Echelon",
+  "weapon": "Model 100",
+  "model": "SSD-62D",
+  "ammo_model": "SMG",
+  "desc": "Người sáng lập kiêm nhân viên giao hàng của “Sakura Cát Vận”, hoạt động ở thành vệ tinh và các vùng ô nhiễm lân cận, cùng “người bạn đồng hành” là hệ thống dẫn đường của chiếc xe tải, tận tâm dùng logistics để mang đến trải nghiệm sống tốt đẹp hơn cho cư dân. Dù hướng nội lại hay xui xẻo, thái độ làm việc chăm chỉ nghiêm túc của cô từng giúp cô đạt danh hiệu nhân viên giao hàng xuất sắc nhất đấy. Giờ đây cô đã trưởng thành thành một chuyên gia tự đảm đương được mọi việc, nhưng điều cô thấy may mắn hơn cả là con đường phía trước có thể cùng bạn chứng kiến.\n“Nếu những nỗ lực này đổi lại được lời khen của Chỉ huy... thì cố gắng thêm chút nữa cũng được nhỉ?”",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/樱花pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/樱花移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013500339.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013509393.png"
+  },
+  "skins": [
+    {
+      "id": 2,
+      "name": "Kỳ Đàm Bóng Bướm",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/樱花礼服pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/樱花礼服移动.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215211023.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215225834.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215237868.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><strong>CV tiếng Trung</strong></sub></td>\n<td style=\"text-align: center\">Sóc Tiểu Thố</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><strong>CV tiếng Nhật</strong></sub></td>\n<td style=\"text-align: center\">Kakuma Ai</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=77\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>774</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>8</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>528</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>1754<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859804528.png\" width=\"20\" height=\"20\"></sub>Medium Ammo&nbsp;<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859782426.png\" width=\"20\" height=\"20\"></sub>Freeze<strong><br></strong></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Sakura Bell",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784545296517.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Sakura Bell Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764173431614.png\" style=\"max-width: 147px\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 7 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Chuyển Thân Tứ Phương",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784545324087.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Instant Shift Lv.1</p>\n<p>Chủ động/Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764173488285.png\" style=\"max-width: 147px\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn ô trống trong bán kính 2 ô quanh đồng minh T-Doll hoặc kẻ địch có Sakura Mark, hạ xuống ô đó, gây 2% sát thương Burn diện rộng theo ATK lên mọi kẻ địch trong bán kính 60 ô xung quanh, và nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Châm Ngôn Cánh Anh Đào",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545340016.png\"></p>\n</td>\n<td>\n<p>Petal Maxim Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764173648502.png\" style=\"max-width: 147px\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 7 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> sát thương Burn theo ATK và gây <span style=\"color: #ff9900\">2 tầng</span> Sakura Mark. Trước khi tấn công, gây thêm <span style=\"color: #00ccff\">Bad Luck</span> lên mục tiêu, duy trì <span style=\"color: #ff9900\">3 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 2 Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Lãnh Địa Vận Xui",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784545353646.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Domain of Bad Luck Lv.1</p>\n<p>Quyết thắng/Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764174799632.png\" style=\"max-width: 147px\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 hướng xung quanh, gây 3 tầng Sakura Mark lên mọi kẻ địch trong vùng 3x10 ô phía trước, và gây 90% sát thương Burn diện rộng theo ATK. Sau kỹ năng kích hoạt hiệu ứng Sakura Mark, nhận <span style=\"color: #00ccff\">Lucky Fortune</span> duy trì 2 hiệp và 2 điểm Infection Index.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Hồi chiêu (hiệp): 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Cầu Chúc Cát Vận",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784545368722.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Lucky Fortune Prayer Lv.1</p>\n<p>Bị động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764174819622.png\" style=\"max-width: 147px\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu chiến đấu nhận <span style=\"color: #00ccff\">Thermal Conduction</span>. Khi kích hoạt hiệu ứng Sakura Mark mà chưa dùng kỹ năng Quyết thắng Domain of Bad Luck, nhận 2 điểm <span style=\"color: #00ccff\">Scorch</span>. Khi bắt đầu hiệp, bản thân nhận 2 điểm Infection Index, và gây 2 tầng Sakura Mark lên 3 kẻ địch ngẫu nhiên trên toàn chiến trường. Nếu bản thân có Sakura Mark, sát thương gây ra tăng 20%.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Lucky Fortune Prayer Lv.2</strong></td>\n<td style=\"text-align: center\">Số kẻ địch bị gây <span style=\"color: #00ccff\">Sakura Mark</span> ngẫu nhiên tăng lên <span style=\"color: #ff9900\">5</span>; Hệ số sát thương của <span style=\"color: #00ccff\">Sakura Mark</span> tăng lên <span style=\"color: #ff9900\">90%</span>, phạm vi hiệu lực tăng <span style=\"color: #ff9900\">1 ô</span>. Nếu kẻ địch đứng trên Burn Tile, sát thương do <span style=\"color: #00ccff\">Sakura Mark</span> gây ra tăng <span style=\"color: #ff9900\">30%</span>.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu nhận <span style=\"color: #00ccff\">Thermal Conduction</span>. Khi kích hoạt hiệu ứng <span style=\"color: #00ccff\">Sakura Mark</span> mà chưa dùng kỹ năng Quyết thắng <span style=\"color: #00ccff\">Domain of Bad Luck</span>, nhận <span style=\"color: #ff9900\">2 điểm</span> <span style=\"color: #00ccff\">Scorch</span>. Khi bắt đầu hiệp, bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index, và gây <span style=\"color: #ff9900\">2 tầng</span> <span style=\"color: #00ccff\">Sakura Mark</span> lên <span style=\"color: #ff9900\">5</span> kẻ địch ngẫu nhiên trên toàn chiến trường. Nếu bản thân có <span style=\"color: #00ccff\">Lucky Fortune</span>, sát thương gây ra tăng <span style=\"color: #ff9900\">20%</span>. Nếu kẻ địch đứng trên Burn Tile, sát thương do Sakura Mark gây ra tăng <span style=\"color: #ff9900\">30%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Instant Shift Lv.2</strong></td>\n<td style=\"text-align: center\">Tầm bắn tăng <span style=\"color: #ff9900\">1 ô</span>; Phạm vi hiệu lực tăng <span style=\"color: #ff9900\">1 ô</span>; Hệ số sát thương tăng <span style=\"color: #ff9900\">15%</span>; Tiêu hao Infection Index giảm <span style=\"color: #ff9900\">1 điểm</span>.</td>\n<td style=\"text-align: center\">Chọn ô trống trong bán kính <span style=\"color: #ff9900\">3 ô</span> quanh đồng minh T-Doll hoặc kẻ địch có <span style=\"color: #00ccff\">Sakura Mark</span>, hạ xuống ô đó, gây <span style=\"color: #ff9900\">3%</span> sát thương Burn diện rộng theo ATK lên mọi kẻ địch trong bán kính <span style=\"color: #ff9900\">75</span> ô xung quanh, và nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Lucky Fortune Prayer Lv.3</strong></td>\n<td style=\"text-align: center\">Nếu bản thân có <span style=\"color: #00ccff\">Lucky Fortune</span>, sát thương gây ra tăng <span style=\"color: #ff9900\">50%</span>, sát thương chí mạng tăng <span style=\"color: #ff9900\">25%</span>. Khi kẻ địch nhận <span style=\"color: #00ccff\">Sakura Mark</span>, tạo Incineration Tile trong <span style=\"color: #ff9900\">bán kính 1 ô</span> quanh nó, duy trì <span style=\"color: #ff9900\">3 hiệp</span>; Khi <span style=\"color: #00ccff\">Sakura Mark</span> gây sát thương, bỏ qua <span style=\"color: #ff9900\">15%</span> phòng thủ của mục tiêu.</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu nhận <span style=\"color: #00ccff\">Thermal Conduction</span>. Khi kích hoạt hiệu ứng <span style=\"color: #00ccff\">Sakura Mark</span> mà chưa dùng kỹ năng Quyết thắng <span style=\"color: #00ccff\">Domain of Bad Luck</span>, nhận <span style=\"color: #ff9900\">2 điểm</span> <span style=\"color: #00ccff\">Scorch</span>. Khi bắt đầu hiệp, bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index, và gây <span style=\"color: #ff9900\">2 tầng</span> Sakura Mark lên <span style=\"color: #ff9900\">5</span> kẻ địch ngẫu nhiên trên toàn chiến trường. Nếu bản thân có <span style=\"color: #00ccff\">Lucky Fortune</span>, sát thương gây ra tăng <span style=\"color: #ff9900\">50%</span>, sát thương chí mạng tăng <span style=\"color: #ff9900\">25%</span>.<br>Khi kẻ địch nhận <span style=\"color: #00ccff\">Sakura Mark</span>, tạo Incineration Tile trong bán kính <span style=\"color: #ff9900\">1 ô</span> quanh nó, duy trì <span style=\"color: #ff9900\">3 hiệp</span>; Nếu kẻ địch đứng trên Burn Tile, sát thương do <span style=\"color: #00ccff\">Sakura Mark</span> gây ra tăng <span style=\"color: #ff9900\">30%</span>; khi <span style=\"color: #00ccff\">Sakura Mark</span> gây sát thương, bỏ qua <span style=\"color: #ff9900\">15%</span> phòng thủ của mục tiêu.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Petal Maxim Lv.2</strong></td>\n<td style=\"text-align: center\">Số tầng <span style=\"color: #00ccff\">Sakura Mark</span> gây ra tăng lên <span style=\"color: #ff9900\">3 tầng</span>; mức tăng sát thương của Bad Luck tăng thêm lên <span style=\"color: #ff9900\">30%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong bán kính <span style=\"color: #ff9900\">7 ô</span> xung quanh, gây <span style=\"color: #ff9900\">130%</span> sát thương Burn theo ATK và gây <span style=\"color: #ff9900\">3 tầng</span> Sakura Mark. Trước khi tấn công, gây thêm <span style=\"color: #00ccff\">Bad Luck</span> lên mục tiêu, duy trì <span style=\"color: #ff9900\">3 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Domain of Bad Luck Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng <span style=\"color: #ff9900\">30%</span>; Phạm vi hiệu lực mở rộng lên vùng <span style=\"color: #ff9900\">5x10 ô</span> phía trước; Cộng dồn hiệu ứng này tới giới hạn lên mọi kẻ địch có <span style=\"color: #00ccff\">Sakura Mark</span> trên toàn chiến trường.</td>\n<td style=\"text-align: center\">Chọn 1 hướng xung quanh, gây <span style=\"color: #ff9900\">3 tầng</span> <span style=\"color: #00ccff\">Sakura Mark</span> lên mọi kẻ địch trong vùng <span style=\"color: #ff9900\">5x10 ô</span> phía trước, và gây <span style=\"color: #ff9900\">120%</span> sát thương Burn diện rộng theo ATK, cộng dồn hiệu ứng này tới giới hạn lên mọi kẻ địch có <span style=\"color: #00ccff\">Sakura Mark</span> trên toàn chiến trường. Sau kỹ năng kích hoạt hiệu ứng của mọi Sakura Mark, nhận <span style=\"color: #00ccff\">Lucky Fortune</span> duy trì <span style=\"color: #ff9900\">2 hiệp</span> và <span style=\"color: #ff9900\">2 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Domain of Bad Luck Lv.3</strong></td>\n<td style=\"text-align: center\"><span style=\"color: #00ccff\">Lucky Fortune</span> có thêm hiệu ứng: trước khi đồng minh (không gồm bản thân) tấn công chủ động hoặc tấn công ngoài hiệp, Sakura gây <span style=\"color: #ff9900\">1 tầng</span> Sakura Mark lên mục tiêu đó, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>.</td>\n<td style=\"text-align: center\">Chọn 1 hướng xung quanh, gây <span style=\"color: #ff9900\">3 tầng</span> <span style=\"color: #00ccff\">Sakura Mark</span> lên mọi kẻ địch trong vùng <span style=\"color: #ff9900\">5x10 ô</span> phía trước, và gây <span style=\"color: #ff9900\">120%</span> sát thương Burn diện rộng theo ATK, cộng dồn hiệu ứng này tới giới hạn lên mọi kẻ địch có <span style=\"color: #00ccff\">Sakura Mark</span> trên toàn chiến trường. Sau kỹ năng kích hoạt hiệu ứng của mọi Sakura Mark, nhận <span style=\"color: #00ccff\">Lucky Fortune</span> duy trì <span style=\"color: #ff9900\">2 hiệp</span> và <span style=\"color: #ff9900\">2 điểm</span> Infection Index.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545383958.png\"></td>\n<td>\n<h2>Contract Key·Sứ Mệnh Tất Đạt</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860777125.png\" width=\"20\" height=\"20\"></sub>HP +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545399924.png\"></td>\n<td>\n<h2>Fixed Key·Một Lòng Một Dạ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi bắt đầu chiến đấu, gây 1 tầng Sakura Mark lên 3 kẻ địch bất kỳ trên toàn chiến trường.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545416318.png\"></td>\n<td>\n<h2>Fixed Key·Vận Đơn Phải Đúng Giờ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi kỹ năng không phải Quyết thắng gây 10680000, gây <span style=\"color: #00ccff\">Overflow Fire</span>, duy trì 1 hiệp.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545431364.png\"></td>\n<td>\n<h2>Fixed Key·Xin Lỗi Phải Chân Thành</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi gây Bad Luck, xua tan 1 buff của mục tiêu.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545445094.png\"></td>\n<td>\n<h2>Fixed Key·Thể Chất Xui Xẻo</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi bắt đầu chiến đấu, gây Bad Luck lên kẻ địch có HP cao nhất toàn chiến trường, duy trì 3 hiệp.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545457044.png\"></td>\n<td>\n<h2>Fixed Key·Dũng Khí Đảm Đương Một Mặt</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi kết thúc hành động, nếu có kẻ địch trong bán kính 3 ô quanh bản thân, nhận 1 tầng Khiên tác dụng nhanh.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545470851.png\"></td>\n<td>\n<h2>Fixed Key·Mỗi Ngày Tiến Bộ Một Chút</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi kẻ địch có Sakura Mark chết, ATK bản thân tăng 4%, tối đa tăng 20%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784545487027.png\"></td>\n<td>\n<h2>Common Key·Nhân Viên Giao Hàng Chủ Bài</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong>Chí mạng 5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p> Sát thương diện rộng gây lên kẻ địch có debuff tăng 10%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1786419005102.png\"></td>\n<td>\n<h2>Expansion Key·Vũ Điệu Anh Đào Lửa</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Instant Shift nhận Thêm chỉ lệnh, có thể di chuyển <span style=\"color: #ff9900\">6 ô</span>.<br>Hệ số sát thương của Sakura Mark tăng 15%, mỗi 3 lần kích hoạt hiệu ứng Sakura Mark (không tính lần kích hoạt từ kỹ năng Quyết thắng Domain of Bad Luck), bản thân nhận 1 điểm Infection Index, mỗi hiệp nhận tối đa 4 điểm.<br>Mỗi 1 lần kích hoạt hiệu ứng Thermal Conduction, sát thương bản thân gây ra tăng vĩnh viễn <span style=\"color: #ff9900\">15%</span>, sát thương chí mạng tăng vĩnh viễn <span style=\"color: #ff9900\">15%</span>, tối đa tăng <span style=\"color: #ff9900\">75%</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*4 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có debuff loại Burn tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*6 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*7 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Burn gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*9 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có HP từ 50% trở xuống tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*13 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*15 Sentinel*9&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi tấn công trúng từ 2 đơn vị kẻ địch trở lên, sát thương gây ra tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763826569924.png\"></td>\n<td>\n<h1><strong>Giao Ước Crimson &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10683\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Tiểu liên/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng tiểu liên hiệu năng cao được cấp cho Sakura, lấy súng tiểu liên Sakura làm nguyên mẫu, tăng mạnh hỏa lực. Nơi ánh lửa chợt lóe, mưa đạn đến đúng hẹn.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=103557&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1762916474601.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=103523&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1762867166697.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=103509&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1762852496263.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll nội liễm mà kiên cường, sau khi rời Griffin vào làm thủ kho cho một công ty hậu cần lớn, nhưng bị bổ nhiệm làm nhân viên giao hàng một cách ngẫu nhiên, rồi từng bước trưởng thành thành chủ bài của công ty. Hiện đã lập đội hậu cần độc lập \"Sakura Lucky Fortune\", cùng đồng đội dốc sức xây dựng ngành hậu cần ở vùng ô nhiễm.</p>\n<p><br>&nbsp; Thể chất xui xẻo và tính cách kém giao tiếp mang đến cho công việc của Sakura những khó khăn bất ngờ; nhưng thái độ lễ phép nghiêm túc và biểu hiện nỗ lực có trách nhiệm lại luôn tạo cho cô cơ hội mới. Dù đối mặt đỉnh cao hay vực sâu, cô chưa từng ngừng tìm mỏ neo trong lòng - bóng dáng của bạn mới là ý nghĩa cho sự kiên trì nỗ lực của cô.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778221568208.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221580125.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778221612014.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221611889.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221639016.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221612015.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221612016.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221650355.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778221658684.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1762758375487.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1762758386811.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1762758396312.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1762758405448.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1762758414372.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1762758422300.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1762758433124.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1762758442909.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1762758455244.png\" style=\"max-width: 150px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1449,
+      "title": "Thường ngày-01",
+      "text": "Đơn giao hàng hôm nay đều xong rồi, cuối cùng cũng rảnh……Chỉ huy, muốn cùng ra ngoài dạo một vòng không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Daily_001.wav"
+    },
+    {
+      "id": 1450,
+      "title": "Thường ngày-02",
+      "text": "Ơ, món đồ kỳ lạ nhất từng giao á? Ừm…… chắc là một nắm không khí từ quê nhà.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Daily_002.wav"
+    },
+    {
+      "id": 1451,
+      "title": "Thường ngày-03",
+      "text": "Mục tiêu gần đây…… chắc là cùng tiền bối Xe Tải mở thêm nhiều tuyến đường, như vậy có thể giúp mọi người tốt hơn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Daily_003.wav"
+    },
+    {
+      "id": 1452,
+      "title": "Thường ngày-04",
+      "text": "Đừng thấy tiền bối Xe Tải nói chuyện như vậy, thật ra…… anh ấy cũng như em, đều rất quan tâm Chỉ huy đó.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Daily_004.wav"
+    },
+    {
+      "id": 1453,
+      "title": "Thường ngày-05",
+      "text": "Vùng ô nhiễm thật ra có rất nhiều người và nơi thú vị mà……Giá mà cuộc sống của mọi người nhẹ nhàng hơn một chút thì tốt.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Daily_005.wav"
+    },
+    {
+      "id": 1454,
+      "title": "Nâng cấp-01",
+      "text": "Ừm…… cảm giác còn có thể cố thêm chút nữa.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Up_001.wav"
+    },
+    {
+      "id": 1455,
+      "title": "Nâng cấp-02",
+      "text": "Tuyệt quá, lại tiến bộ thêm một chút rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Up_002.wav"
+    },
+    {
+      "id": 1456,
+      "title": "Nâng cấp-03",
+      "text": "Chỉ huy…… sẽ nghĩ sao nhỉ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Up_003.wav"
+    },
+    {
+      "id": 1457,
+      "title": "Nâng cấp-04",
+      "text": "Đến tiền bối Xe Tải chắc cũng sẽ không cà khịa em nữa đâu nhỉ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Up_004.wav"
+    },
+    {
+      "id": 1458,
+      "title": "Nâng cấp-05",
+      "text": "Chỉ huy! Ngài…… thấy rồi chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Up_005.wav"
+    },
+    {
+      "id": 1459,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Title_001.wav"
+    },
+    {
+      "id": 1565,
+      "title": "Đăng nhập",
+      "text": "Chỉ huy, có món gì cần giao không ạ? Em luôn sẵn sàng đó.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765964540727.wav"
+    },
+    {
+      "id": 1461,
+      "title": "Tâm sự-01",
+      "text": "Hiếm khi hôm nay không phải giao hàng…… vậy cùng nghỉ ngơi một chút nhé, Chỉ huy thấy sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 1462,
+      "title": "Tâm sự-02",
+      "text": "Chỉ huy xem này, đây là bé nhỏ ở khu dân cư tặng em lúc giao đơn hôm nay…… vừa đẹp, vừa kiên cường, đúng không ạ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 1463,
+      "title": "Tâm sự-03",
+      "text": "Ơ, Chỉ, Chỉ huy đang lo cho em sao? Không sao đâu ạ! Dù chỉ có em và tiền bối, nhất định cũng sẽ kinh doanh tốt Sakura Cát Vận!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 1464,
+      "title": "Tâm sự-04",
+      "text": "Không biết dạo này biểu hiện của em Chỉ huy có hài lòng không…… Phải cố lên nhé, Sakura…… ơ Chỉ, Chỉ chỉ huy?! Em—không, không nói gì hết!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 1465,
+      "title": "Tâm sự-05",
+      "text": "Em chủ động hơn trước nhiều lắm sao? Có lẽ do công việc rèn giũa, nhưng quan trọng hơn là vì…… ở trước mặt Chỉ huy……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 1466,
+      "title": "Tâm sự-06",
+      "text": "Tiền bối Xe Tải đương nhiên là đồng đội quan trọng, nhưng mà…… người quan trọng nhất…… ở ngay đây……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 1467,
+      "title": "Tâm sự-07",
+      "text": "Được gặp lại Chỉ huy, chắc em đã dùng hết may mắn cả đời rồi…… A! Em, em không có ý trách móc! Ý em là—nếu may mắn như vậy có thể kéo dài mãi, để em được ở bên ngài mãi…… thì càng tốt……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 1468,
+      "title": "Tâm sự-08",
+      "text": "Vậy, em đã đạt được kỳ vọng của ngài chưa ạ? Em…… bất kể là gì, chỉ cần là kỳ vọng của ngài, em đều sẽ cố gắng làm được. Cho nên…… thỉnh thoảng Chỉ huy cũng cho em nghe tâm ý của ngài, được không ạ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 1470,
+      "title": "Vào đội",
+      "text": "Bưu kiện của ngài đã giao đúng hạn! Nhân viên giao hàng của \"Sakura Cát Vận\" — Sakura, xin báo danh!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 895,
+      "title": "Ngữ khí-01",
+      "text": "A, Chỉ huy, hôm nay ngài có dặn dò gì ạ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 896,
+      "title": "Ngữ khí-02",
+      "text": "Không được làm hại mọi người!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 897,
+      "title": "Ngữ khí-03",
+      "text": "Ừm!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 898,
+      "title": "Ngữ khí-04",
+      "text": "Sakura, chuẩn bị xong!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 899,
+      "title": "Ngữ khí-05",
+      "text": "Sakura, tham gia tác chiến!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 900,
+      "title": "Ngữ khí-06",
+      "text": "Xin nghe dặn dò!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 901,
+      "title": "Ngữ khí-07",
+      "text": "Xin cứ yên tâm!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 902,
+      "title": "Ngữ khí-08",
+      "text": "Đừng mà…… em còn……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 903,
+      "title": "Ngữ khí-09",
+      "text": "Phải, phải trụ vững!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 904,
+      "title": "Ngữ khí-10",
+      "text": "Hu……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Series_Tone_Negative_003.wav"
+    },
+    {
+      "id": 905,
+      "title": "Kỹ năng-01",
+      "text": "Đạn của ngài đã được giao đến!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Skill_001.wav"
+    },
+    {
+      "id": 906,
+      "title": "Kỹ năng-02",
+      "text": "Xin ngài dừng tay!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Skill_002.wav"
+    },
+    {
+      "id": 907,
+      "title": "Kỹ năng-03",
+      "text": "Lần này sẽ không làm hỏng đâu!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Hit_001.wav"
+    },
+    {
+      "id": 912,
+      "title": "Kỹ năng-04",
+      "text": "Như vậy là được rồi chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 911,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Sẽ không để Chỉ huy thất vọng đâu!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 908,
+      "title": "Hạ gục",
+      "text": "Làm được rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Kill_001.wav"
+    },
+    {
+      "id": 909,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Thắng rồi! Quả nhiên chiến thắng đứng về phía Chỉ huy!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Win_001.wav"
+    },
+    {
+      "id": 910,
+      "title": "Kết thúc trận-Thua",
+      "text": "Hu…… lần sau phải cố gắng hơn mới được……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/SakuraCV/VO_Sakura_Single_Lose_001.wav"
+    }
+  ]
+}

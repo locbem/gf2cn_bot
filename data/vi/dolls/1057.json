@@ -1,0 +1,384 @@
+{
+  "id": 1057,
+  "name": "Robella",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044776624.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 4,
+  "role_id": 4,
+  "team_id": 2,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Freeze",
+  "team": "AR Team",
+  "weapon": "RO635",
+  "model": "PPD-02",
+  "ammo_model": "SMG",
+  "desc": "Bề ngoài quyết đoán, làm việc nhanh gọn dứt khoát, nhưng thực ra ở nơi không ai thấy, Robella đã một mình day dứt rất lâu. Sự nhạy cảm, dịu dàng và mong manh của cô là thứ chỉ mình bạn nhìn thấy. \"Nếu quá mệt, công việc tiếp theo cứ giao cho tôi đi... Tôi không muốn Chỉ Huy vắng mặt trong buổi họp tác chiến đâu. “",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777015605505.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/洛贝拉移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013250191.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013255993.png"
+  },
+  "skins": [
+    {
+      "id": 5,
+      "name": "Hoa Tiêu Tương Lai",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/洛贝拉pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/洛贝拉移动.png"
+    },
+    {
+      "id": 63,
+      "name": "Người Thực Thi Quy Tắc",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1768264666466.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1768264673564.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215523879.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215540168.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215550276.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Khương Anh Tuấn</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Fukuhara Ayaka</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=66\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>844</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>504</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>5</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1819</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Medium Ammo&nbsp;<span style=\"color: #00ccff\">Hydro</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Siêu Xạ Kích",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556321942.png\"></p>\n</td>\n<td>\n<p>Bắn Siêu Cấp Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764403792167.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Ánh Sáng Gắn Kết",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556348505.png\"></p>\n</td>\n<td>\n<p>Ánh Sáng Gắn Kết Lv.1</p>\n<p>Chủ động</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764403857190.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 mục tiêu đồng minh (không gồm bản thân) trong bán kính 8 ô xung quanh, gây Liên Kết Đồng Tâm lên nó, Liên Kết Đồng Tâm tồn tại tối đa 1 cái. Sau kỹ năng bản thân nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>. Mỗi hiệp dùng tối đa 1 lần.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Ký Ức Chói Sáng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556379174.png\"></p>\n</td>\n<td>\n<p>Ký Ức Rực Sáng Lv.1</p>\n<p>Chủ động/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764403924615.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Bản thân nhận Thăng Hoa Rực Sáng, duy trì 2 hiệp lớn. Sau kỹ năng bản thân nhận Khiên Băng Giá, duy trì 2 hiệp, lượng hấp thụ của Khiên Băng Giá bằng 65% Tấn công ban đầu, tối đa không quá 60% HP tối đa.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Gió Dữ Gào Thét",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556399099.png\"></p>\n</td>\n<td>\n<p>Gió Giật Gầm Rít Lv.1</p>\n<p>Quyết thắng/Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764403995268.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây <span style=\"color: #ff9900\">4%</span> Tấn công sát thương Freeze diện rộng lên mọi mục tiêu kẻ địch trong hình quạt <span style=\"color: #ff9900\">120</span> ô phía trước.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3 Tiêu hao Infection: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Quan Sát Chí Mạng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556418169.png\"></p>\n</td>\n<td>\n<p>Quan Sát Chí Mạng Lv.1</p>\n<p>Bị động/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764404059763.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sau khi kết thúc hành động, bản thân nhận 1 điểm Infection Index. Sau khi tiến hành Xâm Thực Lạnh Buốt, tiêu hao toàn bộ Thấu Hiểu Sâu trên mục tiêu, bản thân nhận số tầng Dò Điểm Yếu tương đương. Khi Dò Điểm Yếu lớn hơn 2 tầng, sát thương của đánh thường đổi thành sát thương Freeze, tỉ lệ chí mạng bản thân tăng 20%.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Ánh Sáng Gắn Kết Lv.2</strong></td>\n<td style=\"text-align: center\">Tấn công của bản thân tăng, lượng tăng bằng <span style=\"color: #ff9900\">20%</span> Tấn công ban đầu của mục tiêu đồng minh đó.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> mục tiêu đồng minh (không gồm bản thân) trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây Liên Kết Đồng Tâm lên nó, Liên Kết Đồng Tâm tồn tại tối đa <span style=\"color: #ff9900\">1</span> cái. Tấn công của bản thân tăng, lượng tăng bằng <span style=\"color: #ff9900\">20%</span> Tấn công ban đầu của mục tiêu đồng minh đó. Sau kỹ năng bản thân nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>. Mỗi hiệp dùng tối đa <span style=\"color: #ff9900\">1 lần</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Ký Ức Rực Sáng Lv.2</strong></td>\n<td style=\"text-align: center\">Sát thương trong Thăng Hoa Rực Sáng tăng lên <span style=\"color: #ff9900\">50%</span>. Hiệu ứng Thăng Hoa Rực Sáng tăng thêm: khi tiến hành Xâm Thực Lạnh Buốt, gây <span style=\"color: #ff9900\">1 tầng</span> Chấn Nhiếp Ký Ức lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n<td style=\"text-align: center\">Bản thân nhận Thăng Hoa Rực Sáng, duy trì <span style=\"color: #ff9900\">2 hiệp lớn</span>. Sau kỹ năng bản thân nhận Khiên Băng Giá, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, lượng hấp thụ của Khiên Băng Giá bằng <span style=\"color: #ff9900\">65%</span> Tấn công ban đầu, tối đa không quá <span style=\"color: #ff9900\">60%</span> HP tối đa.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Quan Sát Chí Mạng Lv.2</strong></td>\n<td style=\"text-align: center\">Khi Dò Điểm Yếu lớn hơn <span style=\"color: #ff9900\">5 tầng</span>, sát thương chí mạng của bản thân tăng <span style=\"color: #ff9900\">30%</span>, sát thương do Xâm Thực Lạnh Buốt gây ra tăng <span style=\"color: #ff9900\">30%</span>.</td>\n<td style=\"text-align: center\">Sau khi kết thúc hành động, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Sau khi tiến hành Xâm Thực Lạnh Buốt, tiêu hao toàn bộ Thấu Hiểu Sâu trên mục tiêu, bản thân nhận số tầng Dò Điểm Yếu tương đương. Khi Dò Điểm Yếu lớn hơn <span style=\"color: #ff9900\">2 tầng</span>, sát thương của đánh thường đổi thành sát thương Freeze, tỉ lệ chí mạng bản thân tăng <span style=\"color: #ff9900\">20%</span>. Khi Dò Điểm Yếu lớn hơn <span style=\"color: #ff9900\">5 tầng</span>, sát thương chí mạng của bản thân tăng <span style=\"color: #ff9900\">30%</span>, sát thương do Xâm Thực Lạnh Buốt gây ra tăng <span style=\"color: #ff9900\">30%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Gió Giật Gầm Rít Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng lên <span style=\"color: #ff9900\">150%</span>. Mỗi <span style=\"color: #ff9900\">1 tầng</span> Dò Điểm Yếu bản thân có, hệ số sát thương tăng <span style=\"color: #ff9900\">9%</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây <span style=\"color: #ff9900\">4%</span> Tấn công sát thương Freeze diện rộng lên mọi mục tiêu kẻ địch trong hình quạt <span style=\"color: #ff9900\">150</span> ô phía trước. Mỗi <span style=\"color: #ff9900\">1 tầng</span> Dò Điểm Yếu bản thân có, hệ số sát thương tăng <span style=\"color: #ff9900\">9%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Ký Ức Rực Sáng Lv.3</strong></td>\n<td style=\"text-align: center\">Thời gian duy trì của Thăng Hoa Rực Sáng tăng <span style=\"color: #ff9900\">2 hiệp lớn</span>.</td>\n<td style=\"text-align: center\">Bản thân nhận Thăng Hoa Rực Sáng, duy trì <span style=\"color: #ff9900\">4 hiệp lớn</span>. Sau kỹ năng bản thân nhận Khiên Băng Giá, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, lượng hấp thụ của Khiên Băng Giá bằng <span style=\"color: #ff9900\">65%</span> Tấn công ban đầu, tối đa không quá <span style=\"color: #ff9900\">60%</span> HP tối đa.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Quan Sát Chí Mạng Lv.3</strong></td>\n<td style=\"text-align: center\">Dò Điểm Yếu có thể cộng dồn vô hạn.</td>\n<td style=\"text-align: center\">Sau khi kết thúc hành động, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Sau khi tiến hành Xâm Thực Lạnh Buốt, tiêu hao toàn bộ Thấu Hiểu Sâu trên mục tiêu, bản thân nhận số tầng Dò Điểm Yếu tương đương. Khi Dò Điểm Yếu lớn hơn <span style=\"color: #ff9900\">2 tầng</span>, sát thương của đánh thường đổi thành sát thương Freeze, tỉ lệ chí mạng bản thân tăng <span style=\"color: #ff9900\">20%</span>. Khi Dò Điểm Yếu lớn hơn <span style=\"color: #ff9900\">5 tầng</span>, sát thương chí mạng của bản thân tăng <span style=\"color: #ff9900\">30%</span>, sát thương do Xâm Thực Lạnh Buốt gây ra tăng <span style=\"color: #ff9900\">30%</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556440279.png\"></td>\n<td>\n<h2>Contract Key · Chiếc Thuyền Tâm Hồn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764404165147.png\" width=\"20\"></sub>HP +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556454902.png\"></td>\n<td>\n<h2>Fixed Key · Phòng Thủ Giáng Lâm</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi đồng minh có Liên Kết Đồng Tâm chủ động tấn công hoặc phục kích, gây Giảm phòng thủ II lên kẻ địch bị tấn công, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556469691.png\"></td>\n<td>\n<h2>Fixed Key · Tâm Trí Thế Hệ Ba</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kết thúc hành động, nếu bản thân có Thăng Hoa Rực Sáng, nhận Tăng tấn công II, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556484372.png\"></td>\n<td>\n<h2>Fixed Key · Chú Ý Thêm</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng đánh thường Bắn Siêu Cấp, bản thân nhận 2 tầng Dò Điểm Yếu.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556497941.png\"></td>\n<td>\n<h2>Fixed Key · Chẳng Bằng Kiến Lính</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bản thân hoặc đồng minh có Liên Kết Đồng Tâm gây sát thương Freeze lên kẻ địch có hiệu ứng loại khiên, tỉ lệ xuyên khiên tăng 30%, sát thương gây ra tăng 20%.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556512158.png\"></td>\n<td>\n<h2>Fixed Key · Màu Ngụy Trang Lạnh Nhạt</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu đứng trên ô địa hình Freeze của phe ta, sau khi dùng đánh thường Bắn Siêu Cấp hoặc kỹ năng Quyết thắng Gió Giật Gầm Rít, nhận 5 ô thêm di chuyển.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556526606.png\"></td>\n<td>\n<h2>Fixed Key · Lõi Ổn Định</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi tiến hành Xâm Thực Lạnh Buốt, xua tan 2 buff trên mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556543062.png\"></td>\n<td>\n<h2>Common Key · Chính Nghĩa Hộ Thể</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p>Khi bản thân có hiệu ứng loại khiên, sát thương dị vị gây ra tăng 10%.</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1775527648077.png\"></td>\n<td>\n<h2>Expansion Key · Diễn Toán Thi Hành Chính Nghĩa</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu bản thân có Thăng Hoa Rực Sáng, sau khi dùng đánh thường Bắn Siêu Cấp, nhận <span style=\"color: #00ccff\">Thêm chỉ lệnh</span>, mỗi hiệp kích hoạt tối đa 1 lần. Sau khi dùng kỹ năng chủ động Ký Ức Rực Sáng hoặc kẻ địch có Thấu Hiểu Sâu bị đồng minh hạ gục, nhận 3 tầng Dò Điểm Yếu. Trước khi chủ động tấn công, tạo ô địa hình Freeze trong bán kính 2 ô quanh bản thân, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*1 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi có hiệu ứng loại khiên, sát thương gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*2 Sentinel*7&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*3 Sentinel*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Freeze gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*4 Sentinel*11&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*4 Sentinel*15&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*6 Sentinel*18&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra khi tấn công chỉ trúng 1 kẻ địch tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763895094519.png\"></td>\n<td>\n<h1><strong>Khúc Ca Lãng Tử &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10573\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Tiểu liên/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng tiểu liên hiệu năng cao được phối cấp cho Robella, cải tạo từ nguyên mẫu tiểu liên Colt 635, nâng cấp toàn diện hiệu năng, có hỏa lực và tốc độ bắn mạnh hơn. Con đường tìm kiếm bản thân tuy gập ghềnh, nhưng có nó, cô có thêm tự tin càng đánh càng hăng.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=66273&amp;hash_flag=2\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/image/1745230808160.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=65267&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1744795932553.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; Bề ngoài quyết đoán, làm việc nhanh gọn dứt khoát, nhưng thực ra ở nơi không ai thấy, Robella đã một mình day dứt rất lâu. Sự nhạy cảm, dịu dàng và mong manh của cô là thứ chỉ mình bạn nhìn thấy.</p>\n<p><br>&nbsp; \"Nếu quá mệt, công việc tiếp theo cứ giao cho tôi đi... Tôi không muốn Chỉ Huy vắng mặt trong buổi họp tác chiến đâu. ”</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778238941995.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778238941996.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778238942118.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778238989563.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778238989573.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778238989564.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778239013973.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778239025746.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778239025725.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778239025713.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778239025715.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778239025744.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1744539939602.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1744539955786.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1744539973286.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1745309983963.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1744540036941.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1744540055871.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1744540070531.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1744540084076.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1744540094368.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779166269193.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166269317.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166304805.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166269318.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779166269355.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 734,
+      "title": "Thường ngày-01",
+      "text": "Hửm? Trên bàn điều khiển……có hai cốc cà phê đã dùng……có khách đến sao, Chỉ huy?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Daily_001.wav"
+    },
+    {
+      "id": 735,
+      "title": "Thường ngày-02",
+      "text": "Chỉ huy, hôm nay là một ngày yên bình, băng Varyag và Sinh Hài đều không xuất hiện, Soppo……cũng rất ngoan.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Daily_002.wav"
+    },
+    {
+      "id": 736,
+      "title": "Thường ngày-03",
+      "text": "Con người phức tạp hơn T-Doll. T-Doll chỉ cần qua phép tính logic là có đáp án chắc chắn, còn quyết định của con người bị nhiều yếu tố chi phối. Chính vì vậy, con người cảm nhận nhiều bối rối và giằng xé hơn, tất nhiên cũng có niềm vui. Tôi mong có thể cảm nhận tất cả những điều này chân thực hơn……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Daily_003.wav"
+    },
+    {
+      "id": 737,
+      "title": "Thường ngày-04",
+      "text": "Tổn thương trong lần tác chiến trước? Không cần lo cho tôi, so với chuyện này, xin bạn chú ý đến hao tổn ngân sách nhiệm vụ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Daily_004.wav"
+    },
+    {
+      "id": 738,
+      "title": "Thường ngày-05",
+      "text": "Chỉ huy, thứ bạn cần……chuyện gì vậy? Tiếng động này……lại là Soppo sao? Vừa rời mắt là cô ấy——dừng lại ngay, Soppo! Soppo!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Daily_005.wav"
+    },
+    {
+      "id": 739,
+      "title": "Nâng cấp-01",
+      "text": "Mạnh lên một chút rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Up_001.wav"
+    },
+    {
+      "id": 740,
+      "title": "Nâng cấp-02",
+      "text": "Không thể dừng tại chỗ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Up_002.wav"
+    },
+    {
+      "id": 741,
+      "title": "Nâng cấp-03",
+      "text": "Vẫn còn dư địa.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Up_003.wav"
+    },
+    {
+      "id": 742,
+      "title": "Nâng cấp-04",
+      "text": "Trở thành hậu thuẫn của mọi người.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Up_004.wav"
+    },
+    {
+      "id": 743,
+      "title": "Nâng cấp-05",
+      "text": "Trong tay tôi, đã nắm được tương lai.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Up_005.wav"
+    },
+    {
+      "id": 744,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Title_001.wav"
+    },
+    {
+      "id": 745,
+      "title": "Đăng nhập",
+      "text": "Chỉ huy, hôm nay thời tiết không tốt, nhiệm vụ ra ngoài xin giao cho tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Login_001.wav"
+    },
+    {
+      "id": 746,
+      "title": "Tâm sự-01",
+      "text": "Tôi nghe nói gần địa điểm nhiệm vụ có một khu chợ nhỏ, tuy không nổi tiếng nhưng có thể tìm được vài món hiếm, bạn có hứng thú cùng đi xem không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 747,
+      "title": "Tâm sự-02",
+      "text": "Chỉ huy, hôm nay bạn có sắp xếp gì không? Tôi……tìm được một bộ phim hay trên diễn đàn, không biết bạn có thời gian……cùng xem không……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 748,
+      "title": "Tâm sự-03",
+      "text": "……Hả! Đây, đây không phải bình luận ẩn danh của tôi trên diễn đàn sao? Sao bạn biết được! Xin……hãy quên đi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 749,
+      "title": "Tâm sự-04",
+      "text": "Trong tâm trí có một khoảng trống, với T-Doll hẳn là bất thường và phi logic, nhưng chính khoảng trống này đã tạo nên con người tôi bây giờ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 750,
+      "title": "Tâm sự-05",
+      "text": "……Sự mất bình tĩnh trong trận chiến mấy hôm trước, nếu được, phiền bạn quên đi……nhiều Dinergate cùng ùa lên như vậy, tôi nhất thời chưa chuẩn bị phương án……nên mới……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 751,
+      "title": "Tâm sự-06",
+      "text": "Cho đến nay, tôi luôn quan sát, suy ngẫm về con người. Về con người vẫn còn nhiều điều tôi chưa hiểu, nhưng có một điều tôi chắc chắn, bạn là một người khác biệt, đặc biệt.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 752,
+      "title": "Tâm sự-07",
+      "text": "……Bạn hỏi tôi có thời gian không? Tất nhiên……nếu là lời mời của bạn, tôi sẽ sắp xếp xong việc khác, dành thời gian ra……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 753,
+      "title": "Tâm sự-08",
+      "text": "Sau khi gặp lại, đi theo bên bạn, tôi đã thấy điều bạn kiên trì……tôi nghĩ, tôi và bạn giống nhau, xin hãy để tôi tiếp tục luôn đồng hành cùng bạn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 755,
+      "title": "Vào đội",
+      "text": "Cuối cùng cũng gặp lại bạn. Xin hãy ra lệnh, Chỉ huy, Robella sẵn sàng nghe sai bảo, như trước đây.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 452,
+      "title": "Ngữ khí-01",
+      "text": "Chuẩn bị xuất chiến.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 453,
+      "title": "Ngữ khí-02",
+      "text": "Trận này, nhất định phải thắng!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 454,
+      "title": "Ngữ khí-03",
+      "text": "Bắn!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 455,
+      "title": "Ngữ khí-04",
+      "text": "Luôn sẵn sàng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 456,
+      "title": "Ngữ khí-05",
+      "text": "Sẽ không làm bạn thất vọng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 457,
+      "title": "Ngữ khí-06",
+      "text": "Xin ra lệnh.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 458,
+      "title": "Ngữ khí-07",
+      "text": "Toàn thể chú ý.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 459,
+      "title": "Ngữ khí-08",
+      "text": "Xin lỗi……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 460,
+      "title": "Ngữ khí-09",
+      "text": "Có thể trụ được……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 461,
+      "title": "Ngữ khí-10",
+      "text": "Sơ suất rồi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Series_Tone_Negative_003.wav"
+    },
+    {
+      "id": 462,
+      "title": "Kỹ năng-01",
+      "text": "Hãy đếm tội ác của ngươi đi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Skill_001.wav"
+    },
+    {
+      "id": 463,
+      "title": "Kỹ năng-02",
+      "text": "Hành động, chú ý thời gian.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Skill_002.wav"
+    },
+    {
+      "id": 464,
+      "title": "Kỹ năng-03",
+      "text": "Lộ sơ hở rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Hit_001.wav"
+    },
+    {
+      "id": 469,
+      "title": "Kỹ năng-04",
+      "text": "Vì những người được bảo vệ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 468,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Nhắm điểm yếu, đột kích.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 465,
+      "title": "Hạ gục",
+      "text": "Tiếp theo.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Kill_001.wav"
+    },
+    {
+      "id": 466,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Tôi chỉ là T-Doll đi ngang qua, nhớ cho kỹ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Win_001.wav"
+    },
+    {
+      "id": 467,
+      "title": "Kết thúc trận-Thua",
+      "text": "Kế hoạch vẫn còn thiếu sót……các vị, xin lỗi……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/RobellaCV/VO_Robella_Single_Lose_001.wav"
+    }
+  ]
+}

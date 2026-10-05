@@ -1,0 +1,374 @@
+{
+  "id": 1027,
+  "name": "Qiongjiu",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045287335.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 2,
+  "role_id": 4,
+  "team_id": 11,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Burn",
+  "team": "Frostfall Squad",
+  "weapon": "QBZ-191",
+  "model": "SSD-62G",
+  "ammo_model": "AR",
+  "desc": "T-Doll dừng bước, gánh vác trọng trách. Cống hiến thời gian và tâm sức cho Griffin mà vẫn giữ nguyên bản ngã, tất cả nhờ kế hoạch công việc chính xác và hiệu quả của cô. Không bao giờ trái lời, không bao giờ phá vỡ, so với việc sửa kế hoạch, cô thà thay đổi hiện thực.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/琼玖pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/琼玖移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014735976.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014744599.png"
+  },
+  "skins": [
+    {
+      "id": 14,
+      "name": "Nghĩa Khí Ngút Trời",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/琼玖pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/琼玖移动.png"
+    }
+  ],
+  "gifs": [],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Từ Tuệ</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Iguchi Yuka</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>802</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>528</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>5</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1893</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo Freeze</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Ngòi Nổ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784598686487.png\"></p>\n</td>\n<td>\n<p>Ngòi Nổ Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764492611815.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Cộng Quỹ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784598794362.png\"></p>\n</td>\n<td>\n<p>Đồng Quỹ Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764492682620.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">150%</span> Tấn công sát thương Burn lên chúng, đồng thời nhận Khuếch Đại Chi Viện I.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Dẫn Đường Chiến Thắng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784598825523.png\"></p>\n</td>\n<td>\n<p>Dẫn Đường Chiến Thắng Lv.1</p>\n<p>Chủ động/Diện rộng/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764493298674.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây <span style=\"color: #ff9900\">8%</span> Tấn công sát thương Burn diện rộng lên kẻ địch đầu tiên trong <span style=\"color: #ff9900\">110</span> ô theo hướng đã chọn, đồng thời gây <span style=\"color: #00ccff\">Overflow Fire</span>, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Truy Kích Đoạt Thế",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784598876490.png\"></p>\n</td>\n<td>\n<p>Truy Kích Đoạt Thế Lv.1</p>\n<p>Quyết thắng/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764493360055.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Nhận <span style=\"color: #ff9900\">3 tầng</span> Khuếch Đại Chi Viện II; Khi Infection đầy, nhận thêm <span style=\"color: #ff9900\">1 tầng</span>, đồng thời tăng <span style=\"color: #ff9900\">1 lần</span> số lần chi viện hành động trong hiệp này.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Mưu Vững",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784598893756.png\"></p>\n</td>\n<td>\n<p>Mưu Tính Vững Chắc Lv.1</p>\n<p>Bị động/Support/Buff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764493411545.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Mỗi <span style=\"color: #ff9900\">1 lần</span> gây sát thương, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, sát thương gây lên mục tiêu không được vật cản che chắn tăng <span style=\"color: #ff9900\">10%</span>. Khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, gây <span style=\"color: #ff9900\">90%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">2 điểm</span> sát thương ổn định, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Đồng Quỹ Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu hạ gục, hiệu quả tăng sát thương của Khuếch Đại Chi Viện I tăng lên <span style=\"color: #ff9900\">30%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">150%</span> Tấn công sát thương Burn lên chúng, đồng thời nhận Khuếch Đại Chi Viện I.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Dẫn Đường Chiến Thắng Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu mục tiêu có <span style=\"color: #00ccff\">Overflow Fire</span>, tỉ lệ chí mạng của đòn này tăng <span style=\"color: #ff9900\">100%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 hướng xung quanh, gây <span style=\"color: #ff9900\">8%</span> Tấn công sát thương Burn diện rộng lên kẻ địch đầu tiên trong <span style=\"color: #ff9900\">110</span> ô theo hướng đã chọn, đồng thời gây <span style=\"color: #00ccff\">Overflow Fire</span>, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Nếu mục tiêu có <span style=\"color: #00ccff\">Overflow Fire</span>, tỉ lệ chí mạng của đòn này tăng <span style=\"color: #ff9900\">100%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Mưu Tính Vững Chắc Lv.2</strong></td>\n<td style=\"text-align: center\">Sau khi kích hoạt chi viện hành động, gây <span style=\"color: #00ccff\">Overflow Fire</span> lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sát thương chi viện hành động tăng <span style=\"color: #ff9900\">10%</span>.</td>\n<td style=\"text-align: center\">Mỗi <span style=\"color: #ff9900\">1 lần</span> gây sát thương, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, sát thương gây lên mục tiêu không được vật cản che chắn tăng <span style=\"color: #ff9900\">10%</span>. Khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, gây <span style=\"color: #ff9900\">90%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">2 điểm</span> sát thương ổn định, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>. Sau khi kích hoạt chi viện hành động, gây <span style=\"color: #00ccff\">Overflow Fire</span> lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sát thương chi viện hành động tăng <span style=\"color: #ff9900\">10%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Truy Kích Đoạt Thế Lv.2</strong></td>\n<td style=\"text-align: center\">Gây Dễ Tổn Thương I lên mục tiêu không được vật cản che chắn, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Nhận <span style=\"color: #ff9900\">3 tầng</span> Khuếch Đại Chi Viện II; Khi Infection đầy, nhận thêm <span style=\"color: #ff9900\">1 tầng</span>, đồng thời tăng <span style=\"color: #ff9900\">1 lần</span> số lần chi viện hành động trong hiệp này. Gây Dễ Tổn Thương I lên mục tiêu không được vật cản che chắn, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Truy Kích Đoạt Thế Lv.3</strong></td>\n<td style=\"text-align: center\">Khi thực hiện chi viện hành động, trước khi đồng minh tấn công, gây Tăng Sát Thương II lên bản thân và đồng minh, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Nhận <span style=\"color: #ff9900\">3 tầng</span> Khuếch Đại Chi Viện II; Khi Infection đầy, nhận thêm <span style=\"color: #ff9900\">1 tầng</span>, đồng thời tăng <span style=\"color: #ff9900\">1 lần</span> số lần chi viện hành động trong hiệp này. Gây Dễ Tổn Thương I lên mục tiêu không được vật cản che chắn. Khi thực hiện chi viện hành động, trước khi đồng minh tấn công, gây Tăng Sát Thương II lên bản thân và đồng minh, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Mưu Tính Vững Chắc Lv.3</strong></td>\n<td style=\"text-align: center\">Sát thương gây lên mục tiêu không được vật cản che chắn tăng thêm <span style=\"color: #ff9900\">10%</span>.</td>\n<td style=\"text-align: center\">Mỗi <span style=\"color: #ff9900\">1 lần</span> gây sát thương, nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, sát thương gây lên mục tiêu không được vật cản che chắn tăng <span style=\"color: #ff9900\">20%</span>. Khi kẻ địch trong tầm bắn chịu sát thương đơn mục tiêu từ đồng minh, thực hiện <span style=\"color: #ff9900\">1 lần</span> chi viện hành động, gây <span style=\"color: #ff9900\">90%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">2 điểm</span> sát thương ổn định, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">3 lần</span>. Sau khi kích hoạt chi viện hành động, gây <span style=\"color: #00ccff\">Overflow Fire</span> lên mục tiêu, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sát thương chi viện hành động tăng <span style=\"color: #ff9900\">10%</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784598964000.png\"></td>\n<td>\n<h2>Contract Key·Noãn Ngọc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764493515214.png\" width=\"20\"></sub>HP +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784598979089.png\"></td>\n<td>\n<h2>Fixed Key·Tính Chuyên Chú</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784598993246.png\"></td>\n<td>\n<h2>Fixed Key·Kế Hoạch Hiệu Quả</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước chi viện hành động, xua tan 1 buff trên mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599006826.png\"></td>\n<td>\n<h2>Fixed Key·Huấn Luyện Có Mục Tiêu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi ở trạng thái chi viện, trước khi đồng minh tấn công, gây Giảm Phòng Thủ II lên mục tiêu, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599019558.png\"></td>\n<td>\n<h2>Fixed Key·Đánh Dấu Điểm Yếu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Hiệu quả kỹ năng chủ động Dẫn Đường Chiến Thắng sửa thành gây sát thương lên tất cả kẻ địch trong 8 ô theo hướng đã chọn, kẻ địch ngoài mục tiêu đầu tiên chịu sát thương giảm 30%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599033344.png\"></td>\n<td>\n<h2>Fixed Key·Điều Chỉnh Cần Thiết</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi dùng kỹ năng chủ động Đồng Quỹ, nếu tạo được khắc chế, nhận Công Thế Nóng Rực II, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599048181.png\"></td>\n<td>\n<h2>Fixed Key·Tính Ổn Định</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi có Khuếch Đại Chi Viện, miễn nhiễm hiệu ứng dịch chuyển do kẻ địch gây ra.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599069896.png\"></td>\n<td>\n<h2>Common Key·Đàm Phán Công Kiên</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764493745275.png\" width=\"20\"></sub>Chí mạng 5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Sát thương gây ra ngoài hiệp hành động của bản thân tăng 7%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784599085153.png\"></td>\n<td>\n<h2>Expansion Key·Ngọc Đá Cùng Cháy</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sát thương chi viện hành động chuyển thành sát thương Burn, đồng thời sát thương gây lên mục tiêu có debuff Burn tăng 15%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*2 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp; Sát thương của chi viện tấn công tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*3 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*5 Sentinel*7&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Burn gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*6 Sentinel*9&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*6 Sentinel*13&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*9 Sentinel*15&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra khi tấn công chỉ trúng 1 kẻ địch tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763993949366.png\"></td>\n<td>\n<h1><strong>Khúc Hoàng Kim &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=11044\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng trường tấn công hiệu năng cao được cấp cho Qiongjiu, lấy Type 191 làm nguyên mẫu, trên cơ sở đảm bảo đa dụng trong nhiều môi trường, nâng cao sức mạnh và độ ổn định. Dưới nhịp điệu điềm đạm là sơ tâm chưa từng thay đổi.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Mua sắm thường</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=159&amp;hash_flag=2\"><img style=\"display: block; margin: 0 auto\" src=\"https://community.cdn.sunborngame.com/prod/image/1717038701781.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=79&amp;hash_flag=2\"><img src=\"https://community.cdn.sunborngame.com/prod/image/1716878935512.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll dừng bước, gánh vác trọng trách. Cống hiến thời gian và tâm sức cho Griffin mà vẫn giữ nguyên bản ngã, tất cả nhờ kế hoạch công việc chính xác và hiệu quả của cô. Không bao giờ trái lời, không bao giờ phá vỡ, so với việc sửa kế hoạch, cô thà thay đổi hiện thực.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778311968735.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778311968854.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778311998284.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778311998230.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778312007742.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778311998256.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778311998267.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778311998287.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778311998279.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/冷静.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/让我想想.jpg\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092891525.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092920624.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092976203.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092988045.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727093000658.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727093016821.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727427426151.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779165476076.png\" style=\"max-width: 92px\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1091,
+      "title": "Thường ngày-01",
+      "text": "Báo cáo nhiệm vụ phải lưu trữ theo số thứ tự, quần áo phải phân loại cất giữ theo màu sắc và kiểu dáng, chẳng lẽ mọi người không làm như vậy sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Daily_001.wav"
+    },
+    {
+      "id": 1092,
+      "title": "Thường ngày-02",
+      "text": "Lúc rảnh tôi hay khắc một số món đồ nhỏ bằng ngọc thạch, việc này giúp tôi giảm căng thẳng hiệu quả.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Daily_002.wav"
+    },
+    {
+      "id": 1095,
+      "title": "Thường ngày-03",
+      "text": "Tên tôi bắt nguồn từ một câu thơ, đọc là \"Qiongjiu\", mang ý nghĩa hiền tài mỹ ngọc, tôi hy vọng mình xứng với cái tên này.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Daily_005.wav"
+    },
+    {
+      "id": 1097,
+      "title": "Thường ngày-04",
+      "text": "Các thành viên của \"Elmo\" tính cách mỗi người một khác, tôi lại có cảm giác đồng điệu với đội trưởng Groza.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Daily_007.wav"
+    },
+    {
+      "id": 1098,
+      "title": "Thường ngày-05",
+      "text": "Chi tiêu quý này của Tiểu đội Frostfall vượt mức 35%, tuy đã chuẩn bị tâm lý từ trước…… haizz…… phần vượt mức đó, là do Cheeta, hay Lind?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Daily_008.wav"
+    },
+    {
+      "id": 1102,
+      "title": "Nâng cấp-01",
+      "text": "Mọi việc thuận lợi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Up_002.wav"
+    },
+    {
+      "id": 1103,
+      "title": "Nâng cấp-02",
+      "text": "Tôi vẫn có thể tiếp tục.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Up_003.wav"
+    },
+    {
+      "id": 1106,
+      "title": "Nâng cấp-03",
+      "text": "Cứ giao cho tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Up_006.wav"
+    },
+    {
+      "id": 1107,
+      "title": "Nâng cấp-04",
+      "text": "Thật đáng ngạc nhiên.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Up_007.wav"
+    },
+    {
+      "id": 1108,
+      "title": "Nâng cấp-05",
+      "text": "Tôi rất mong chờ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Up_008.wav"
+    },
+    {
+      "id": 1109,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Title_001.wav"
+    },
+    {
+      "id": 1110,
+      "title": "Đăng nhập",
+      "text": "Chỉ huy, trông anh có vẻ tâm trạng tốt, vậy chúng ta xuất phát thôi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Login_001.wav"
+    },
+    {
+      "id": 1112,
+      "title": "Tâm sự-01",
+      "text": "Tôi có vài ý tưởng về hướng phát triển tiếp theo của \"Elmo\", bản kế hoạch chi tiết sẽ được gửi đến hộp thư của anh, xin hãy chú ý kiểm tra.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 1113,
+      "title": "Tâm sự-02",
+      "text": "Các việc cần làm còn lại có…… được rồi, còn 7 việc, tôi sẽ sắp xếp từng cái một, anh không cần lo.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 1115,
+      "title": "Tâm sự-03",
+      "text": "Cheeta lại bày trò với anh sao? Thành thật xin lỗi, tôi sẽ khiển trách cô ấy. Có điều kiểu tóc đặc biệt này, lại hợp với anh đến bất ngờ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 1116,
+      "title": "Tâm sự-04",
+      "text": "Chỉ huy, anh có hiểu hí khúc không? Thỉnh thoảng tôi ngân nga vài câu, nhưng mãi vẫn không nắm được yếu lĩnh. T-Doll ở phương diện này vẫn còn thiếu sót.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 1118,
+      "title": "Tâm sự-05",
+      "text": "Sừng? Ờ…… anh nghe từ đâu vậy? Chuyện này coi như là lịch sử đen của tôi. Nói ra thì dài, lần sau…… từ từ kể nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 1119,
+      "title": "Tâm sự-06",
+      "text": "Tôi đang suy nghĩ một vấn đề, nhiều lúc, có phải tôi đã yêu cầu anh quá khắt khe không? Có lẽ vì tôi đã định nghĩa quan hệ giữa tôi và anh là loại thân thiết hơn cả bạn bè……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Friendliness_009.wav"
+    },
+    {
+      "id": 1121,
+      "title": "Tâm sự-07",
+      "text": "Trước đây tôi cho rằng, con người cần tìm một người khác bầu bạn là việc kém hiệu quả, nhưng sau khi gặp lại Chỉ huy, suy nghĩ này có phần lung lay. Ồ! Đây chính là \"ngộ\" thường được nhắc đến trong một số tiểu thuyết trước Đại chiến lần ba sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Friendliness_011.wav"
+    },
+    {
+      "id": 1123,
+      "title": "Tâm sự-08",
+      "text": "Chỉ huy, tâm ý của anh…… tôi đã hiểu. Tuy không thể cùng anh phiêu bạt giang hồ, nhưng bất kể lúc nào, tôi cũng sẽ bảo vệ anh! Nếu có ai muốn làm hại anh, cũng phải hỏi khẩu súng trong tay tôi trước đã.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 1125,
+      "title": "Vào đội",
+      "text": "Rất vui được hợp tác lại với anh, Chỉ huy, mong tôi có thể trở thành viên ngọc quý nuôi người trong tay anh, chứ không phải khối đá thô vô quang kia.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 664,
+      "title": "Ngữ khí-01",
+      "text": "Đã hiểu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 665,
+      "title": "Ngữ khí-02",
+      "text": "Rất tốt.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 666,
+      "title": "Ngữ khí-03",
+      "text": "Chuẩn bị.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 668,
+      "title": "Ngữ khí-04",
+      "text": "Chính là bây giờ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 669,
+      "title": "Ngữ khí-05",
+      "text": "Nghe lệnh tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 670,
+      "title": "Ngữ khí-06",
+      "text": "Giữ cảnh giác.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 671,
+      "title": "Ngữ khí-07",
+      "text": "Đừng xao nhãng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 672,
+      "title": "Ngữ khí-08",
+      "text": "Chờ thêm chút.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 673,
+      "title": "Ngữ khí-09",
+      "text": "Ừm……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 674,
+      "title": "Ngữ khí-10",
+      "text": "Lại nào!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 675,
+      "title": "Kỹ năng-01",
+      "text": "Tôi yểm trợ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Skill_001.wav"
+    },
+    {
+      "id": 676,
+      "title": "Kỹ năng-02",
+      "text": "Chính là bây giờ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Skill_002.wav"
+    },
+    {
+      "id": 677,
+      "title": "Kỹ năng-03",
+      "text": "Ngươi nhìn đi đâu?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Hit_001.wav"
+    },
+    {
+      "id": 683,
+      "title": "Kỹ năng-04",
+      "text": "Đao quang lướt bóng!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 682,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Ngọc không mài giũa, không thành khí.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 678,
+      "title": "Hạ gục",
+      "text": "Kết thúc rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Kill_001.wav"
+    },
+    {
+      "id": 679,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Dọn dẹp chiến trường xong, mọi người đều làm tốt.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Win_001.wav"
+    },
+    {
+      "id": 680,
+      "title": "Kết thúc trận-Thua",
+      "text": "Xin lỗi, là tôi suy xét chưa chu toàn. Tạm thời rút lui! Lần sau tôi sẽ chú ý……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/QiongjiuCV/VO_Qiongjiu_Single_Lose_001.wav"
+    }
+  ]
+}

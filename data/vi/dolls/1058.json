@@ -1,0 +1,372 @@
+{
+  "id": 1058,
+  "name": "Lainie",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044752725.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 1,
+  "role_id": 4,
+  "team_id": 1,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Physical",
+  "team": "16LAB",
+  "weapon": "UMP40",
+  "model": "PPD-02",
+  "ammo_model": "SMG",
+  "desc": "T-Doll được “tái sinh” từ bản ghi tâm trí, là một mặt trời nhỏ hoạt bát vui vẻ, đồng thời cũng là chiến binh kiên cường quyết đoán. Dù ngoại hình và tính cách trông chẳng khác gì trước kia, Lainie hiểu rõ quá khứ được mô phỏng không phải là tất cả của cô, tương lai trước mắt còn vô vàn khả năng. Phần lớn khoảng trống trong tâm trí đang chờ cô lấp đầy bằng những trải nghiệm mới; còn phần dữ liệu đã được ghi vào, cô cẩn thận lưu giữ những sợi dây gắn kết giữa cô với Leva, với bạn và với mọi người.\n“Chỉ huy, hôm nay cũng cùng phơi nắng nhé~”",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/莱妮pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/莱妮移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014011506.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013996177.png"
+  },
+  "skins": [
+    {
+      "id": 10,
+      "name": "Chiến Dịch Bươm Bướm",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/莱妮pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/莱妮移动.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215109473.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215122184.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215133548.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Tĩnh Thần</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Uema Emi</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=67\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công: 844</strong></td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định: 9</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ: 494</strong></td>\n<td style=\"text-align: center\"><strong>Điểm hành động: 5</strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP: 1859</strong></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Medium Ammo <span style=\"color: #00ccff\">Hydro</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Thường·Giao Thức Quyết Thắng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784555885703.png\"></p>\n</td>\n<td>\n<p>Hiệp Ước Quyết Thắng Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764403018602.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong bán kính 7 ô, gây 80% Tấn công sát thương Physical. Nếu Tâm Tượng tồn tại, sau kỹ năng Tâm Tượng dùng đánh thường Ảnh Xạ Mê Mang lên mục tiêu đó.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Diễn Toán Công Phòng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784555914871.png\"></p>\n</td>\n<td>\n<p>Diễn Toán Công Thủ Lv.1</p>\n<p>Chủ động/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764403086515.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong bán kính 7 ô, gây 140% Tấn công sát thương Physical. Sau kỹ năng không thể dùng kỹ năng này, kéo dài đến hết hiệp phe ta kế tiếp. Nếu Tâm Tượng tồn tại, sau kỹ năng Tâm Tượng lấy bản thân làm trung tâm tung kỹ năng chủ động Suy Diễn Tiến Công, nếu không trúng mục tiêu của Diễn Toán Công Thủ, bỏ qua 30% Phòng thủ của mục tiêu.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 5</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Áp Đảo Sức Tính",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784555940402.png\"></p>\n</td>\n<td>\n<p>Áp Chế Sức Tính Lv.1</p>\n<p>Chủ động/Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764403155445.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 ô địa hình trong bán kính 7 ô xung quanh, gây 120% Tấn công sát thương Physical diện rộng lên mọi mục tiêu kẻ địch trong bán kính 3 ô xung quanh. Sau kỹ năng không thể dùng kỹ năng này, kéo dài đến hết hiệp phe ta kế tiếp. Nếu Tâm Tượng tồn tại, sau kỹ năng Tâm Tượng lấy bản thân làm trung tâm tung kỹ năng chủ động Siêu Xung Sức Tính, và gây Giảm di chuyển I lên mục tiêu, duy trì 2 hiệp.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết Thắng·Bạn Đồng Hành Giả Lập",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784555958375.png\"></p>\n</td>\n<td>\n<p>Tạo Bạn Đồng Hành Lv.1</p>\n<p>Quyết thắng/Triệu hồi</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764403242951.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 ô trống trong bán kính 7 ô xung quanh, triệu hồi 1 Tâm Tượng. Gây Khả Năng Gắn Kết lên bản thân và Tâm Tượng, duy trì 1 hiệp lớn. Khi kết thúc hiệp lớn, bản thân tiêu hao 3 điểm Infection Index, khi Infection Index không đủ Tâm Tượng biến mất. Khi Tâm Tượng tồn tại không thể dùng kỹ năng này.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Dò Biết Tiên Cơ",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784555983363.png\"></p>\n</td>\n<td>\n<p>Dò Biết Tiên Cơ Lv.1</p>\n<p>Bị động/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764403312155.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Mỗi 12 điểm HP tối đa ban đầu đang có, tỉ lệ chí mạng tăng 0.1%, tối đa tăng 30%. Gây Dò Biết Tiên Cơ lên mọi kẻ địch trong bán kính 7 ô xung quanh bản thân. Trước khi chủ động tấn công, gây 1 tầng Chiếu Cố Dưới Ô lên mục tiêu, và sau khi tấn công nhận 2 điểm Infection Index. Nếu Phòng thủ của mục tiêu nhỏ hơn hoặc bằng 0, hệ số sát thương tăng, lượng tăng bằng 10% HP tối đa ban đầu của bản thân, và nhận thêm 1 điểm Infection Index. Sau khi chủ động tấn công, trong hiệp phe ta không thể dùng thêm bất kỳ đòn chủ động tấn công nào.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Tạo Bạn Đồng Hành Lv.2</strong></td>\n<td style=\"text-align: center\">Thời gian hồi giảm <span style=\"color: #ff9900\">1 hiệp</span>, Infection Index Tâm Tượng tiêu hao giảm <span style=\"color: #ff9900\">1 điểm</span>. Giới hạn cộng dồn của Chiếu Cố Dưới Ô tăng lên <span style=\"color: #ff9900\">6 tầng</span>. Gây <span style=\"color: #ff9900\">3</span> tầng Chiếu Cố Dưới Ô lên mọi mục tiêu kẻ địch trong bán kính <span style=\"color: #ff9900\">2</span> ô quanh mục tiêu, và hồi <span style=\"color: #ff9900\">3 điểm</span> Infection Index.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> ô trống trong <span style=\"color: #ff9900\">bán kính 7 ô</span> xung quanh, triệu hồi <span style=\"color: #ff9900\">1</span> Tâm Tượng, gây <span style=\"color: #ff9900\">2 tầng</span> Chiếu Cố Dưới Ô lên mọi mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh nó, và hồi <span style=\"color: #ff9900\">3 điểm</span> Infection Index cho bản thân. Gây Khả Năng Gắn Kết lên bản thân và Tâm Tượng, duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>. Khi kết thúc hiệp lớn, bản thân tiêu hao <span style=\"color: #ff9900\">2 điểm</span> Infection Index, khi Infection Index không đủ Tâm Tượng biến mất. Khi Tâm Tượng tồn tại không thể dùng kỹ năng này.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Diễn Toán Công Thủ Lv.2</strong></td>\n<td style=\"text-align: center\">Hiệu ứng kỹ năng tương ứng của Lainie và Tâm Tượng được sửa đồng bộ, Phòng thủ bỏ qua tăng lên <span style=\"color: #ff9900\">50%</span>, và sát thương chí mạng lên mục tiêu có Phòng thủ nhỏ hơn hoặc bằng <span style=\"color: #ff9900\">0</span> tăng <span style=\"color: #ff9900\">10%</span>. Trước khi tấn công, gây thêm <span style=\"color: #ff9900\">1 tầng</span> Chiếu Cố Dưới Ô lên mục tiêu.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 7 ô</span>, gây <span style=\"color: #ff9900\">140%</span> Tấn công sát thương Physical. Sát thương chí mạng lên mục tiêu có Phòng thủ nhỏ hơn hoặc bằng <span style=\"color: #ff9900\">0</span> tăng <span style=\"color: #ff9900\">10%</span>. Trước khi tấn công gây thêm <span style=\"color: #ff9900\">1 tầng</span> Chiếu Cố Dưới Ô lên mục tiêu. Sau kỹ năng không thể dùng kỹ năng này, kéo dài đến hết hiệp phe ta kế tiếp. Nếu Tâm Tượng tồn tại, sau kỹ năng Tâm Tượng lấy bản thân làm trung tâm tung kỹ năng chủ động Suy Diễn Tiến Công, nếu không trúng mục tiêu của Diễn Toán Công Thủ, bỏ qua <span style=\"color: #ff9900\">50%</span> Phòng thủ của mục tiêu.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Dò Biết Tiên Cơ Lv.2</strong></td>\n<td style=\"text-align: center\">Hiệu ứng kỹ năng của Lainie và Tâm Tượng được sửa đồng bộ, mỗi <span style=\"color: #ff9900\">6 điểm</span> HP tối đa ban đầu đang có, tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">0.1%</span>, tối đa tăng <span style=\"color: #ff9900\">60%</span>. Với mục tiêu có Phòng thủ nhỏ hơn hoặc bằng <span style=\"color: #ff9900\">0</span>, hệ số sát thương tăng thêm lên <span style=\"color: #ff9900\">20%</span> HP tối đa ban đầu. Phòng thủ giảm trong Dò Biết Tiên Cơ và Nhận Biết Tiên Cơ tăng lên <span style=\"color: #ff9900\">20%</span>.</td>\n<td style=\"text-align: center\">Mỗi <span style=\"color: #ff9900\">6 điểm</span> HP tối đa ban đầu đang có, tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">0.1%</span>, tối đa tăng <span style=\"color: #ff9900\">60%</span>. Gây Dò Biết Tiên Cơ lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 7 ô</span> xung quanh bản thân. Trước khi chủ động tấn công, gây <span style=\"color: #ff9900\">1 tầng</span> Chiếu Cố Dưới Ô lên mục tiêu, và sau khi tấn công nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index. Nếu Phòng thủ của mục tiêu nhỏ hơn hoặc bằng <span style=\"color: #ff9900\">0</span>, hệ số sát thương tăng, lượng tăng bằng <span style=\"color: #ff9900\">20%</span> HP tối đa ban đầu của bản thân, và nhận thêm <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Sau khi chủ động tấn công, trong hiệp phe ta không thể dùng thêm bất kỳ đòn chủ động tấn công nào.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Tạo Bạn Đồng Hành Lv.3</strong></td>\n<td style=\"text-align: center\">Khi Lainie hoặc Tâm Tượng gây sát thương lên mục tiêu có Phòng thủ nhỏ hơn hoặc bằng <span style=\"color: #ff9900\">0</span>, bên còn lại nhận Sức Mạnh Gắn Kết. Sửa hiệu ứng Khả Năng Gắn Kết: sát thương ổn định gây ra tăng thêm lên <span style=\"color: #ff9900\">6 điểm</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> ô trống trong <span style=\"color: #ff9900\">bán kính 7 ô</span> xung quanh, triệu hồi <span style=\"color: #ff9900\">1</span> Tâm Tượng, gây <span style=\"color: #ff9900\">2 tầng</span> Chiếu Cố Dưới Ô lên mọi mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh nó, và hồi <span style=\"color: #ff9900\">3 điểm</span> Infection Index cho bản thân. Gây Khả Năng Gắn Kết lên bản thân và Tâm Tượng, duy trì <span style=\"color: #ff9900\">1 hiệp lớn</span>. Khi Lainie hoặc Tâm Tượng gây sát thương lên mục tiêu có Phòng thủ nhỏ hơn hoặc bằng <span style=\"color: #ff9900\">0</span>, bên còn lại nhận Sức Mạnh Gắn Kết. Khi kết thúc hiệp lớn, bản thân tiêu hao <span style=\"color: #ff9900\">2 điểm</span> Infection Index, khi Infection Index không đủ Tâm Tượng biến mất. Khi Tâm Tượng tồn tại không thể dùng kỹ năng này.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Dò Biết Tiên Cơ Lv.3</strong></td>\n<td style=\"text-align: center\">Hiệu quả kỹ năng của Lainie và Tâm Tượng được sửa đổi đồng bộ: với mục tiêu có Phòng thủ ≤ <span style=\"color: #ff9900\">0</span>, hệ số sát thương tăng thêm lên <span style=\"color: #ff9900\">30%</span> HP tối đa ban đầu. Khi có Tâm Tượng trên sân, Lainie nhận sát thương chí tử sẽ không chết và hồi HP bằng <span style=\"color: #ff9900\">100%</span> HP tối đa, kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi trận; sau khi kích hoạt, Tâm Tượng biến mất.</td>\n<td style=\"text-align: center\">Mỗi <span style=\"color: #ff9900\">6 điểm</span> HP tối đa ban đầu đang có, tỉ lệ chí mạng tăng <span style=\"color: #ff9900\">0.1%</span>, tối đa tăng <span style=\"color: #ff9900\">60%</span>. Gây Dò Biết Tiên Cơ lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 7 ô</span> xung quanh bản thân. Trước khi chủ động tấn công, gây <span style=\"color: #ff9900\">1 tầng</span> Chiếu Cố Dưới Ô lên mục tiêu, và sau khi tấn công nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index. Nếu Phòng thủ của mục tiêu nhỏ hơn hoặc bằng <span style=\"color: #ff9900\">0</span>, hệ số sát thương tăng, lượng tăng bằng <span style=\"color: #ff9900\">30%</span> HP tối đa ban đầu của bản thân, và nhận thêm <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Sau khi chủ động tấn công, trong hiệp phe ta không thể dùng thêm bất kỳ đòn chủ động tấn công nào. Khi có Tâm Tượng trên sân, Lainie nhận sát thương chí tử sẽ không chết và hồi HP bằng <span style=\"color: #ff9900\">100%</span> HP tối đa, kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span> mỗi trận; sau khi kích hoạt, Tâm Tượng biến mất.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Diễn Toán Công Thủ Lv.3</strong></td>\n<td style=\"text-align: center\">Hiệu quả kỹ năng tương ứng của Lainie và Tâm Tượng được sửa đổi đồng bộ: hệ số sát thương tăng lên <span style=\"color: #ff9900\">160%</span> Tấn công, hệ số sát thương tối thiểu của kỹ năng chủ động Suy Diễn Tiến Công tăng lên <span style=\"color: #ff9900\">100%</span>. Gỡ bỏ hiệu ứng cấm sử dụng kéo dài đến hết hiệp phe ta kế tiếp.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 7 ô</span>, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Physical. Sát thương chí mạng lên mục tiêu có Phòng thủ nhỏ hơn hoặc bằng <span style=\"color: #ff9900\">0</span> tăng <span style=\"color: #ff9900\">10%</span>. Trước khi tấn công gây thêm <span style=\"color: #ff9900\">1 tầng</span> Chiếu Cố Dưới Ô lên mục tiêu. Nếu Tâm Tượng tồn tại, sau kỹ năng Tâm Tượng lấy bản thân làm trung tâm tung kỹ năng chủ động Suy Diễn Tiến Công, nếu không trúng mục tiêu của Diễn Toán Công Thủ, bỏ qua <span style=\"color: #ff9900\">50%</span> Phòng thủ của mục tiêu.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556008107.png\"></td>\n<td>\n<h2>Contract Key·Không Gian Của Bản Thân</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764403407027.png\" width=\"20\"></sub>HP +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556025777.png\"></td>\n<td>\n<h2>Fixed Key·Liên Kết Tâm Trí</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Lainie hoặc Tâm Tượng được hồi máu, hồi 20% HP tối đa cho bên còn lại. Hiệu ứng này không kích hoạt lặp vòng.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556049859.png\"></td>\n<td>\n<h2>Fixed Key·Điều Xấu Bay Hết</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi Lainie dùng kỹ năng chủ động Áp Đảo Sức Tính hoặc Tâm Tượng dùng kỹ năng chủ động Siêu Tần Sức Tính, khi bên còn lại thi hành chỉ lệnh, đẩy lùi mục tiêu 2 ô.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556071173.png\"></td>\n<td>\n<h2>Fixed Key·Che Ô Bảo Vệ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kết thúc hiệp phe ta, nếu khoảng cách giữa Lainie và Tâm Tượng ≥ 3 ô, cả hai nhận Phòng thủ diện rộng II, duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556090354.png\"></td>\n<td>\n<h2>Fixed Key·Bạn Đồng Hành Trở Về</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Tâm Tượng biến mất, xóa thời gian hồi chiêu của kỹ năng Quyết thắng Nhào Nặn Bạn Đồng Hành, kích hoạt tối đa 1 lần mỗi trận.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556105588.png\"></td>\n<td>\n<h2>Fixed Key·Hơi Ấm Của Ánh Nắng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi Lainie và Tâm Tượng dùng Diễn Toán Công Phòng và Suy Diễn Tiến Công, nếu Phòng thủ của mục tiêu ≤ 0, ngẫu nhiên xua tan 1 buff của nó.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556144699.png\"></td>\n<td>\n<h2>Fixed Key·Thực Lực Của OGAS</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sát thương chí mạng lên kẻ địch có Phòng thủ ≤ 0 tăng 5%.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784556160564.png\"></td>\n<td>\n<h2>Common Key·Giải Phóng Hoàn Toàn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764403692377.png\" width=\"20\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Sát thương lên kẻ địch có Phòng thủ ≤ 0 tăng 10%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1766457588129.png\"></td>\n<td>\n<h2>Expansion Key·Diễn Dịch Thuật Toán Chồng Chất</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>[Bậc <span style=\"color: #00ccff\">1</span>] Tăng hiệu quả Chiếu Cố Dưới Ô: Giảm Phòng thủ tăng thêm 6%. Khi Lainie dùng Giao Thức Quyết Thắng, Diễn Toán Công Phòng hoặc Áp Đảo Sức Tính, hoặc Tâm Tượng dùng Ảnh Chiếu Mê Lạc, Suy Diễn Tiến Công hoặc Siêu Tần Sức Tính, cứ mỗi 1 điểm Infection Index Lainie có, sát thương chí mạng của Lainie và Tâm Tượng tăng 15%. Khi Tâm Tượng còn sống, Điểm hành động của Lainie và Tâm Tượng tăng 2 ô.</p>\n<p>[Bậc <span style=\"color: #00ccff\">2</span>] Khi Tâm Tượng kết thúc hành động, kéo kẻ địch trong toàn sân về phía bản thân 1 ô và gây 2 điểm sát thương ổn định.<br>Sau khi Lainie hoặc Tâm Tượng tấn công chủ động, nếu mục tiêu kẻ địch có 3 tầng Chiếu Cố Dưới Ô, gây lên nó Bộ Nhớ Đệm Gương; Nếu mục tiêu kẻ địch có 6 tầng Chiếu Cố Dưới Ô, sát thương cuối cùng tích lũy của Bộ Nhớ Đệm Gương tăng lên 25%, đồng thời sát thương của đòn tấn công chủ động kế tiếp mà Lainie hoặc Tâm Tượng dùng trong hiệp này tăng 30%, sát thương chí mạng tăng 30%.<br>Trước khi Lainie hoặc Tâm Tượng tấn công chủ động, nếu mục tiêu kẻ địch có Bộ Nhớ Đệm Gương thì kích hoạt hiệu ứng này, đồng thời hệ số sát thương tấn công chủ động của bản thân tăng vĩnh viễn 15%, tối đa tăng 90%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*2 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương do vật triệu hồi thực thể của bản thân gây ra tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*3 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*5 Sentinel*7&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*6 Sentinel*9&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*6 Sentinel*13&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*9 Sentinel*15&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây ra khi tấn công chỉ trúng 1 kẻ địch tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763989851316.png\"></td>\n<td>\n<h1><strong>Perihelion &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10583\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Tiểu liên/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng tiểu liên hiệu năng cao được cấp cho Lainie, lấy Súng tiểu liên thông dụng 40 làm nguyên mẫu, cải tạo mạnh cấu trúc bên trong, ban cho sức sát thương đáng sợ. Đối mặt với ánh nắng thì phải chuẩn bị tinh thần bị bỏng.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=70467&amp;hash_flag=2\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/image/1747646042172.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=68618&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1746691958640.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; Nhân cách mô phỏng từng chỉ tồn tại trong tâm trí Leva, nay đã có thân thể và tái sinh trong dáng vẻ mà mọi người quen thuộc.</p>\n<p>&nbsp; Vui vẻ, lạc quan, thích tắm nắng... những nét này dường như chẳng khác trước, nhưng Lainie và những người quanh cô đều hiểu rằng, cô sinh ra từ tâm trí Leva không đơn thuần là bản sao của người trước đây. Quá khứ không trọn vẹn có lẽ là một nuối tiếc, nhưng cũng trở thành động lực để cô tích cực khám phá tương lai. Hiện giờ cô ở bên Pascal, hỗ trợ đủ loại thí nghiệm, mọi thứ đều đầy khả năng vô hạn, và cô tận hưởng điều đó.&nbsp; </p>\n<p>Quãng thời gian dài trong không gian tâm trí khiến Lainie nhìn thế giới bằng một góc nhìn khác biệt. Nhưng chính sự đặc biệt này cho Lainie nhận thức rõ hơn về \"bản ngã\", cũng khiến cô trân trọng hơn mối gắn kết với những người bên cạnh. Dù không thể ở bên nhau lâu dài, cô vẫn luôn lặng lẽ bảo vệ những người bạn phương xa theo cách của riêng mình. Dù xa đến đâu, ánh nắng vẫn chiếu rọi mọi ngóc ngách, cô tin chắc như vậy.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778237954777.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778237954657.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778237973015.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778237973034.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778237972981.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778238005253.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778238030632.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778238005124.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778238005292.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1746501486771.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1746501985249.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1746502038688.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1746502165181.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1746502198569.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1746502226256.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1746502241397.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1746502267524.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1746502296071.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779165197290.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165211919.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779167244823.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779167244857.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779167244873.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779167244848.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 601,
+      "title": "Thường ngày-01",
+      "text": "Oa——ghế của Chỉ huy ngồi mềm mềm, thoải mái quá~ Ây da, rốt cuộc là chất liệu gì vậy, để tôi sờ thêm chút~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Series_Daily_001.wav"
+    },
+    {
+      "id": 602,
+      "title": "Thường ngày-02",
+      "text": "Ưm……mấy năm nay Elmo đã đi nhiều nơi nhỉ! Ghen tị ghê, bạn chắc đã thấy nhiều cảnh sắc khác nhau……trong đó có biển không nhỉ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Series_Daily_002.wav"
+    },
+    {
+      "id": 603,
+      "title": "Thường ngày-03",
+      "text": "Trước đây tôi thường trò chuyện với Leva trong không gian tâm trí, xung quanh tối đen một màu, cảm giác như bịt mắt nói chuyện vậy đó! Chỉ huy, bạn muốn thử không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Series_Daily_003.wav"
+    },
+    {
+      "id": 604,
+      "title": "Thường ngày-04",
+      "text": "Hình nền——chuyển! Ôi chao, lại quên đây không phải không gian tâm trí rồi~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Series_Daily_004.wav"
+    },
+    {
+      "id": 605,
+      "title": "Thường ngày-05",
+      "text": "Có thân thể rồi, làm gì cũng phải tự tay làm, cũng khá phiền nhỉ. Giá như như trong không gian tâm trí, thứ muốn tự bay đến thì tốt……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Series_Daily_005.wav"
+    },
+    {
+      "id": 606,
+      "title": "Nâng cấp-01",
+      "text": "Ồ~ khá nhỉ!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Series_Up_001.wav"
+    },
+    {
+      "id": 607,
+      "title": "Nâng cấp-02",
+      "text": "Ừm, tiếp tục cố lên!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Series_Up_002.wav"
+    },
+    {
+      "id": 608,
+      "title": "Nâng cấp-03",
+      "text": "Cải tạo thành công đấy!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Series_Up_003.wav"
+    },
+    {
+      "id": 609,
+      "title": "Nâng cấp-04",
+      "text": "Cảm giác được phơi nắng——",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Series_Up_004.wav"
+    },
+    {
+      "id": 610,
+      "title": "Nâng cấp-05",
+      "text": "Hừ hừ, hoàn·toàn·giải·phóng~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Series_Up_005.wav"
+    },
+    {
+      "id": 611,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Title_001.wav"
+    },
+    {
+      "id": 612,
+      "title": "Đăng nhập",
+      "text": "Hừ hừ, hôm nay nắng đẹp nhỉ~ Chỉ huy, bạn cũng thấy vậy chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Login_001.wav"
+    },
+    {
+      "id": 613,
+      "title": "Tâm sự-01",
+      "text": "Chỉ huy! Tôi định lên sân thượng trên nóc xe phơi nắng, bạn giúp tôi chọn mấy cặp kính râm này nhé? Tất nhiên, bạn cùng đến thì càng tốt!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 614,
+      "title": "Tâm sự-02",
+      "text": "Hả? Bạn thấy tôi hơi thân quen quá? Đương nhiên rồi, mấy năm nay tôi đã nghe nhiều về sự tích của bạn mà♪",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 615,
+      "title": "Tâm sự-03",
+      "text": "Dù là Leva hay Pascal, đều đánh giá Chỉ huy rất cao……đến khi thật sự ở bên mới biết——Chỉ huy quả nhiên rất đáng tin!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 616,
+      "title": "Tâm sự-04",
+      "text": "Chỉ huy, bạn từng gặp tình huống đó chưa——đưa tay không thấy năm ngón, không tìm thấy quá khứ, cũng không biết tương lai? Những lúc đó, phải vượt qua thế nào?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 617,
+      "title": "Tâm sự-05",
+      "text": "Chỉ cần một ngọn lửa nhỏ, là có thể chiếu sáng thế giới tối đen đấy. Chỉ huy, bạn biết không? Có lúc bạn giống như ngọn lửa, vèo một cái là soi sáng xung quanh!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 618,
+      "title": "Tâm sự-06",
+      "text": "Chỉ huy, chúng ta chơi trò nhắm mắt nhé? Nhắm mắt lại, xúc giác sẽ nhạy bén lạ thường……trước đây trong không gian tâm trí tôi hay chơi vậy đó! Dù khi đó xúc giác đều là mô phỏng thôi……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 619,
+      "title": "Tâm sự-07",
+      "text": "Hửm? Sao lại mặc thế này? Ôi chao, đương nhiên vì đổi đồ bơi mới có cảm giác nghi thức tắm nắng chứ! Ở đây còn có dầu chống nắng nữa, Chỉ huy, nhờ bạn thoa giúp tôi nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 620,
+      "title": "Tâm sự-08",
+      "text": "Chỉ huy, tôi rất nghiêm túc, rất nghiêm túc hẹn ước với bạn đấy! Khi mọi chuyện bạn muốn giải quyết xong xuôi, chúng ta cùng đi du lịch, cùng ngắm hết những cảnh muốn ngắm nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 622,
+      "title": "Vào đội",
+      "text": "Chỉ huy, đây là lần đầu tôi gia nhập đội của con người, những ngày tới, xin bạn chiếu cố nhiều nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 987,
+      "title": "Ngữ khí-01",
+      "text": "Mọi thứ sẵn sàng~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765948649877.wav"
+    },
+    {
+      "id": 988,
+      "title": "Ngữ khí-02",
+      "text": "Xuất phát nào!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765948669695.wav"
+    },
+    {
+      "id": 989,
+      "title": "Ngữ khí-03",
+      "text": "Trúng rồi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765948685825.wav"
+    },
+    {
+      "id": 990,
+      "title": "Ngữ khí-04",
+      "text": "Hửm?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765948706203.wav"
+    },
+    {
+      "id": 991,
+      "title": "Ngữ khí-05",
+      "text": "Là ở đây à?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765948722313.wav"
+    },
+    {
+      "id": 992,
+      "title": "Ngữ khí-06",
+      "text": "Hành động thôi~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765948739333.wav"
+    },
+    {
+      "id": 993,
+      "title": "Ngữ khí-07",
+      "text": "Giao cho tôi là được!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765948757971.wav"
+    },
+    {
+      "id": 994,
+      "title": "Ngữ khí-08",
+      "text": "Trước mắt……tối quá……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765948767963.wav"
+    },
+    {
+      "id": 995,
+      "title": "Ngữ khí-09",
+      "text": "Phải trụ vững……!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765948789339.wav"
+    },
+    {
+      "id": 996,
+      "title": "Ngữ khí-10",
+      "text": "Oa, không ổn!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765948804486.wav"
+    },
+    {
+      "id": 372,
+      "title": "Kỹ năng-01",
+      "text": "Đừng hòng chạy trốn!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Skill_002.wav"
+    },
+    {
+      "id": 373,
+      "title": "Kỹ năng-02",
+      "text": "Thử trang bị mới nào!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Hit_001.wav"
+    },
+    {
+      "id": 378,
+      "title": "Kỹ năng-03",
+      "text": "Tuyệt chiêu của tôi vẫn còn giấu phía sau đấy~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 377,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "OGAS đâu có bị đào thải đâu nhé!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 374,
+      "title": "Hạ gục",
+      "text": "Hừ hừ, xong việc~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Kill_001.wav"
+    },
+    {
+      "id": 375,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Đây chính là cảm giác chiến đấu à, hoàn toàn là chuyện nhỏ mà~",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Win_001.wav"
+    },
+    {
+      "id": 376,
+      "title": "Kết thúc trận-Thua",
+      "text": "Ưm……lần này, gặp đối thủ mạnh rồi……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LeneCV/VO_Lene_Single_Lose_001.wav"
+    }
+  ]
+}

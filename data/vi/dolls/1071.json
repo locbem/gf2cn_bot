@@ -1,0 +1,378 @@
+{
+  "id": 1071,
+  "name": "Basti",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1767782158135.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 5,
+  "role_id": 3,
+  "team_id": 5,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Support",
+  "attr": "Corrosion",
+  "team": "Elmo - Combined Echelon",
+  "weapon": "OHWS XXIII",
+  "model": "SSD-62D",
+  "ammo_model": "HG",
+  "desc": "Thật khó để đánh giá lý lịch của Basti. Trong mắt kẻ nắm quyền, đó là một bản hồ sơ tội phạm; trong mắt các thế lực địa phương, đó là một lá thư đe dọa; còn trong mắt Chỉ huy, đó là một bức thư tình đầy cảm động.\n“Darling, muốn biết bí mật của tôi không? Chỉ thế này thì chưa đủ đâu nhé, bạn phải táo bạo, táo bạo hơn nữa——”",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1767782168761.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1768284591375.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013342285.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013347548.png"
+  },
+  "skins": [
+    {
+      "id": 66,
+      "name": "Ramune Mùa Hè",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1770363244683.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1770363254812.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768193420132.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768193432745.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768193443373.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Loan Tường Cẩn</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Akao Hikaru</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=97\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>731</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>10</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>552</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>1997<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo Electric</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Khiêu Khích Làm Càn",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784544723204.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Hành Động Khiêu Khích Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764333543402.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Xúi Giục Hư Hỏng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1768189419838.png\"></p>\n</td>\n<td>\n<p>Xúi Giục Hư Hỏng Lv.1</p>\n<p>Chủ động/Dịch chuyển tức thời</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764503955025.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, rồi chọn 1 ô trống Corrosion của đồng minh, dịch chuyển đồng minh được chọn tới ô đó, hồi <span style=\"color: #ff9900\">100%</span> ATK thành HP và <span style=\"color: #ff9900\">5 điểm</span> Chỉ số ổn định cho họ, xua tan <span style=\"color: #ff9900\">2</span> debuff, gây Hồi phục liên tục II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Đồng thời dịch chuyển bản thân tới ô trống trong phạm vi rộng 1 ô ngoài ô của đồng minh đó. Sau kỹ năng nhận Thêm di chuyển.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>Tiêu hao Infection: 3</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Cô Gái Phong Cách Landmine",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1768189525399.png\"></p>\n</td>\n<td>\n<p>Cô Gái Phong Cách Landmine Lv.1</p>\n<p>Chủ động / Triệu hồi</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764504026077.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 ô trống trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, triệu hồi \"Nhỏ dễ thương\". Sau kỹ năng có thể dùng kỹ năng chủ động Cô Gái Phong Cách Landmine, kỹ năng chủ động Xúi Giục Hư Hỏng hoặc kỹ năng Quyết thắng Liệm Phủ Đường. Kỹ năng này dùng tối đa <span style=\"color: #ff9900\">2 lần</span> mỗi hiệp.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Liệm Bằng Lớp Đường",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1768189728533.png\"></p>\n</td>\n<td>\n<p>Liệm Phủ Đường Lv.1</p>\n<p>Quyết thắng/Diện rộng/Ô địa hình/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1768189700594.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">150%</span> sát thương Corrosion diện rộng theo ATK lên chúng và mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> quanh chúng, tạo ô Chướng Độc, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, và gây 1 tầng Hận Thù.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Hồi chiêu (hiệp): 1&nbsp;&nbsp;</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Graffiti Vẽ Thế Giới",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1768189812386.png\"></p>\n</td>\n<td>\n<p>Vẽ Bậy Khắp Thế Giới Lv.1</p>\n<p>Bị động/Ô địa hình/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1768189829356.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi bắt đầu hiệp nhận 1 điểm Infection Index.<br>Khi bắt đầu chiến đấu, tạo ô Chướng Độc ở ô của toàn thể đồng minh T-Doll, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau khi di chuyển, để lại ô Chướng Độc trong <span style=\"color: #ff9900\">bán kính 1 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Nếu kẻ địch đứng trên ô Chướng Độc của đồng minh, nhận Mặt Quỷ Nguệch Ngoạc; Khi \"Nhỏ dễ thương\" xuất hiện và khi bắt đầu hiệp, nếu đồng minh đứng trên ô Chướng Độc của đồng minh, nhận Huy Hiệu Đồng Bọn và Tăng tấn công II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Cô Gái Phong Cách Landmine Lv.2</strong></td>\n<td>Tầm bắn mở rộng <span style=\"color: #ff9900\">2 ô</span>. Số lần dùng kỹ năng này mỗi hiệp tăng lên 3.<br>Tăng hiệu quả \"Nhỏ dễ thương\": phạm vi hiệu lực tăng lên <span style=\"color: #ff9900\">5 ô</span>. Giới hạn số vật triệu hồi trên chiến trường tăng lên <span style=\"color: #ff9900\">3</span></td>\n<td>Chọn 1 ô trống trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, triệu hồi \"Nhỏ dễ thương\". Sau kỹ năng có thể dùng kỹ năng chủ động Cô Gái Phong Cách Landmine, kỹ năng chủ động Xúi Giục Hư Hỏng hoặc kỹ năng Quyết thắng Liệm Phủ Đường. Kỹ năng này dùng tối đa <span style=\"color: #ff9900\">3 lần</span> mỗi hiệp.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 2</strong></td>\n<td><strong>Vẽ Bậy Khắp Thế Giới Lv.2</strong></td>\n<td>\n<p>Sát thương ổn định bản thân chịu giảm <span style=\"color: #ff9900\">1 điểm</span>.<br>Khi bắt đầu chiến đấu, tạo ô Chướng Độc ở ô của toàn thể đồng minh T-Doll và trong vùng 3×<span style=\"color: #ff9900\">3 ô</span> xung quanh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau khi di chuyển, để lại ô Chướng Độc trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Trước khi bản thân và \"Nhỏ dễ thương\" gây sát thương, nhận <span style=\"color: #ff9900\">1 tầng</span> Nước Tăng Lực.</p>\n</td>\n<td>Sát thương ổn định bản thân chịu giảm <span style=\"color: #ff9900\">1 điểm</span>. Khi bắt đầu hiệp nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.<br>Khi bắt đầu chiến đấu, tạo ô Chướng Độc ở ô của toàn thể đồng minh T-Doll và trong vùng 3×<span style=\"color: #ff9900\">3 ô</span> xung quanh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau khi di chuyển, để lại ô Chướng Độc trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Nếu kẻ địch đứng trên ô Chướng Độc của đồng minh, nhận Mặt Quỷ Nguệch Ngoạc; Khi \"Nhỏ dễ thương\" xuất hiện và khi bắt đầu hiệp, nếu đồng minh đứng trên ô Chướng Độc của đồng minh, nhận Huy Hiệu Đồng Bọn và Tăng tấn công II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Trước khi bản thân và \"Nhỏ dễ thương\" gây sát thương, nhận <span style=\"color: #ff9900\">1 tầng</span> Nước Tăng Lực.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Vẽ Bậy Khắp Thế Giới Lv.3</strong></td>\n<td>Tăng hiệu quả Nước Tăng Lực: mỗi tầng tăng sát thương gây ra tăng thêm lên <span style=\"color: #ff9900\">24%</span>, hồi máu bản thân gây ra tăng thêm lên <span style=\"color: #ff9900\">6%</span>.<br>Tăng hiệu quả Huy Hiệu Đồng Bọn: sát thương gây ra tăng thêm lên <span style=\"color: #ff9900\">30%</span>.<br>Tăng hiệu quả Mặt Quỷ Nguệch Ngoạc: sát thương Corrosion nhận vào tăng thêm lên <span style=\"color: #ff9900\">30%</span>, lượng HP hồi cho bên tấn công khi chịu sát thương Corrosion tăng lên <span style=\"color: #ff9900\">30%</span> sát thương lần đó.</td>\n<td>Sát thương ổn định bản thân chịu giảm <span style=\"color: #ff9900\">1 điểm</span>. Khi bắt đầu hiệp nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index.<br>Khi bắt đầu chiến đấu, tạo ô Chướng Độc ở ô của toàn thể đồng minh T-Doll và trong vùng 3×<span style=\"color: #ff9900\">3 ô</span> xung quanh, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau khi di chuyển, để lại ô Chướng Độc trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Nếu kẻ địch đứng trên ô Chướng Độc của đồng minh, nhận Mặt Quỷ Nguệch Ngoạc; Khi \"Nhỏ dễ thương\" xuất hiện và khi bắt đầu hiệp, nếu đồng minh đứng trên ô Chướng Độc của đồng minh, nhận Huy Hiệu Đồng Bọn và Tăng tấn công II, duy trì <span style=\"color: #ff9900\">2 hiệp</span>.<br>Trước khi bản thân và \"Nhỏ dễ thương\" gây sát thương, nhận <span style=\"color: #ff9900\">1 tầng</span> Nước Tăng Lực.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 4</strong></td>\n<td><strong>Liệm Phủ Đường Lv.2</strong></td>\n<td>Hệ số sát thương tăng lên <span style=\"color: #ff9900\">200%</span>.<br>Gây thêm <span style=\"color: #ff9900\">2 tầng</span> Phụ Thuộc Phóng Thích Chậm.<br>Sau kỹ năng hồi 50% ATK thành HP cho toàn thể đồng minh, xua tan 2 debuff.</span></td>\n<td>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">200%</span> sát thương Corrosion diện rộng theo ATK lên chúng và mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> quanh chúng, tạo ô Chướng Độc, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, và gây <span style=\"color: #ff9900\">1 tầng</span> Hận Thù cùng <span style=\"color: #ff9900\">2 tầng</span> Phụ Thuộc Phóng Thích Chậm. Sau kỹ năng hồi <span style=\"color: #ff9900\">50%</span> ATK thành HP cho toàn thể đồng minh, xua tan <span style=\"color: #ff9900\">2</span> debuff.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Liệm Phủ Đường Lv.3</strong></td>\n<td>Số tầng Hận Thù gây ra tăng lên <span style=\"color: #ff9900\">3 tầng</span>, hệ số sát thương của Hận Thù tăng lên <span style=\"color: #ff9900\">200%</span>.<br>Cứ mỗi 1 mục tiêu trúng, sát thương lần này tăng <span style=\"color: #ff9900\">20%</span>, tối đa tăng <span style=\"color: #ff9900\">100%</span>.<br>Sau kỹ năng gỡ thêm hiệu ứng dụ dẫn và Choáng cho toàn thể đồng minh.</td>\n<td>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong bán kính <span style=\"color: #ff9900\">8 ô</span> xung quanh, gây <span style=\"color: #ff9900\">200%</span> sát thương Corrosion diện rộng theo ATK lên chúng và mọi kẻ địch trong phạm vi 8 ô quanh chúng, tạo ô Chướng Độc, duy trì <span style=\"color: #ff9900\">2 hiệp</span>, và gây <span style=\"color: #ff9900\">3 tầng</span> Hận Thù cùng <span style=\"color: #ff9900\">2 tầng</span> Phụ Thuộc Phóng Thích Chậm. Mỗi 1 mục tiêu trúng đòn, sát thương lần này tăng <span style=\"color: #ff9900\">20%</span>, cộng dồn tối đa <span style=\"color: #ff9900\">100%</span>. Sau kỹ năng hồi <span style=\"color: #ff9900\">50%</span> ATK thành HP cho toàn thể đồng minh, xua tan <span style=\"color: #ff9900\">2</span> debuff, gỡ hiệu ứng dụ dẫn và Choáng.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Cô Gái Phong Cách Landmine Lv.3</strong></td>\n<td>Mỗi <span style=\"color: #ff9900\">1</span> \"Nhỏ dễ thương\" tự bạo, ATK của bản thân và \"Nhỏ dễ thương\" tăng <span style=\"color: #ff9900\">3%</span>.<br>Tăng hiệu quả \"Nhỏ dễ thương\": hệ số sát thương tăng lên <span style=\"color: #ff9900\">130%</span>, khi gây sát thương gây <span style=\"color: #ff9900\">1</span> debuff mạnh ngẫu nhiên.</td>\n<td>Chọn 1 ô trống trong <span style=\"color: #ff9900\">bán kính 8 ô</span> xung quanh, triệu hồi \"Nhỏ dễ thương\". Mỗi 1 \"Nhỏ dễ thương\" tự bạo, ATK của bản thân và \"Nhỏ dễ thương\" tăng <span style=\"color: #ff9900\">3%</span>. Sau kỹ năng có thể dùng kỹ năng chủ động Cô Gái Phong Cách Landmine, kỹ năng chủ động Xúi Giục Hư Hỏng hoặc kỹ năng Quyết thắng Liệm Phủ Đường. Kỹ năng này dùng tối đa <span style=\"color: #ff9900\">3 lần</span> mỗi hiệp.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1768213756229.png\"></td>\n<td>\n<h2>Contract Key·Sát Na Và Vĩnh Hằng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764396747429.png\" width=\"20\" height=\"20\"></sub>Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764478713660.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1768213836915.png\"></td>\n<td>\n<h2>Fixed Key·Hứng Lên Là Làm</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1766302501209.png\"></td>\n<td>\n<h2>Fixed Key·Nghệ Thuật Đường Phố</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi trên chiến trường có ô Chướng Độc của đồng minh, sát thương Corrosion của toàn thể đồng minh tăng 7%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1768213933669.png\"></td>\n<td>\n<h2>Fixed Key·Nương Tựa Đau Đớn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi bị gây né tránh, khiêu khích, dụ dẫn, Choáng hoặc Cấm lệnh, lập tức gỡ hiệu ứng đó, mỗi trận kích hoạt tối đa 1 lần; Khi bắt đầu chiến đấu, nhận Tăng phòng thủ III, duy trì 3 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1768213987195.png\"></td>\n<td>\n<h2>Fixed Key·Thiên Tài Gây Họa</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi \"Nhỏ dễ thương\" xuất hiện, hồi 100% ATK thành HP và 2 điểm Chỉ số ổn định cho đồng minh có HP thấp nhất trên chiến trường, mỗi hiệp kích hoạt tối đa 1 lần.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1766302501209.png\"></td>\n<td>\n<h2>Fixed Key·Quà Tặng Gây Sốc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi \"Nhỏ dễ thương\" tấn công, xua tan 1 buff của mục tiêu.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1768214051645.png\"></td>\n<td>\n<h2>Fixed Key·Tùy Ý Bôi Vẽ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi \"Nhỏ dễ thương\" xuất hiện, tạo ô Chướng Độc ở ô nó đứng.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1768214226899.png\"></td>\n<td>\n<h2>Common Key·Dục Chiếm Hữu Chí Mạng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><img src=\"https://community-cdn.exiliumgf.com/prod/1768266280954.png\" width=\"21\" height=\"21\">Chí mạng 5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Nếu kẻ địch đứng trên ô Corrosion, sát thương dị vị gây lên nó tăng 10%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 71px\" src=\"https://community-cdn.exiliumgf.com/prod/1788226278931.png\"><br></td>\n<td>\n<h2>Expansion Key·Chú Mèo Được Cưng Chiều</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Sau kỹ năng chủ động Cô Gái Phong Cách Landmine, gây Tình Cảm Méo Mó lên mục tiêu, duy trì 2 hiệp. Khi Basti đứng trên ô Corrosion của đồng minh và gây sát thương Corrosion, mỗi 1 cấp ô, ATK tăng 10%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Support*5 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">Mỗi 1 lần bản thân gây sát thương Corrosion, sát thương Corrosion của mọi đồng minh tăng 1%, tối đa tăng 3%. Không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Support*8 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Support*9 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">Sát thương Corrosion gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*11 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">Sát thương mọi đồng minh gây ra tăng 4%, cộng dồn tối đa 3 tầng, khi cộng dồn, hiệu quả lần lượt giảm 1%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Support*15 Sentinel*7&nbsp;</td>\n<td style=\"text-align: center\">Tấn công và HP tối đa tăng 4%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Support*18 Sentinel*8&nbsp;</td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, tăng 3% ATK cho 2 đồng minh có ATK ban đầu cao nhất, không thể cộng dồn.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1767972486398.png\"></td>\n<td>\n<h1><strong>Requiem of Death &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10713\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng ngắn/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng lục chiến đấu tinh nhuệ do Basti tự cải trang, cũng đầy sức phá hoại và trí tưởng tượng như chính cô, ngay cả tiếng kim hỏa cũng độc nhất vô nhị, là khúc an hồn cô dày công dệt cho kẻ địch.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; </span><span style=\"color: #ff6600\">Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=112374&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1768545276157.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=112283&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1768384702310.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=112185&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1768384723701.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=112103&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1768384914458.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll chiến thuật vừa nguy hiểm vừa đáng yêu, giỏi phá vỡ lề thói, chiến đấu theo cách linh hoạt đa dạng. Mười năm sau khi rời Griffin, cô không muốn nghe lệnh bất kỳ ai ngoài Chỉ Huy, luôn hoạt động ở Vùng Vàng với thân phận vô chủ. Hỗn loạn, vô trật tự thấm từ cuộc sống vào tận lòng Basti, cô như một quả bom thất thường, vừa nghĩ đến việc nổ tung cả thế giới, vừa mong hóa thành pháo hoa rực rỡ trong mắt Chỉ Huy.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778145959597.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145966930.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778145983221.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145983224.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778145983186.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778146006682.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778146006683.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778146006554.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778146026642.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1767952161306.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1767952197282.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1767952207311.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1767952220070.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1767952249294.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1767952261715.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1767952272048.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1767952280313.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1767952287928.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779167526296.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779167526312.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779167526316.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779167540800.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779176055986.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779176055831.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1591,
+      "title": "Thường ngày-01",
+      "text": "Darling~Darling! Từ này có nghĩa là, anh có thể sở hữu toàn bộ em đó~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263535523.wav"
+    },
+    {
+      "id": 1592,
+      "title": "Thường ngày-02",
+      "text": "Haaa —— chán quá, trên xe còn chẳng có ai đánh nhau. Darling, đi tìm trò vui với em đi mà!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263551734.wav"
+    },
+    {
+      "id": 1593,
+      "title": "Thường ngày-03",
+      "text": "Darling, em có phải là T-Doll quan trọng nhất của anh không? Mỉm cười là Yes, im lặng là mặc định, lắc đầu thì…… em sẽ, em sẽ…… hỏi lại anh một lần nữa!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263567188.wav"
+    },
+    {
+      "id": 1594,
+      "title": "Thường ngày-04",
+      "text": "Hửm? Em lại gây họa nữa à? Basti không hiểu mấy chuyện này đâu nha, Chỉ huy nỡ phạt em sao~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263586897.wav"
+    },
+    {
+      "id": 1595,
+      "title": "Thường ngày-05",
+      "text": "Không sao đâu Chỉ huy, không qua với em cũng được, một mình em sống rất tốt, chỉ là sẽ buồn, sẽ đau lòng, sẽ rơi nước mắt, sẽ hỏng mất thôi…… Ừm, không có gì to tát đâu……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263605809.wav"
+    },
+    {
+      "id": 1596,
+      "title": "Nâng cấp-01",
+      "text": "Ừm, nhìn em thêm một cái nữa!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263630688.wav"
+    },
+    {
+      "id": 1597,
+      "title": "Nâng cấp-02",
+      "text": "Thú vị, càng lúc càng thú vị!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263647751.wav"
+    },
+    {
+      "id": 1598,
+      "title": "Nâng cấp-03",
+      "text": "Thất bại rồi! Hì hì, lừa anh thôi~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768269440048.wav"
+    },
+    {
+      "id": 1599,
+      "title": "Nâng cấp-04",
+      "text": "Đây chính là thực lực của tinh anh!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263692937.wav"
+    },
+    {
+      "id": 1600,
+      "title": "Nâng cấp-05",
+      "text": "Bây giờ em là duy nhất của anh rồi chứ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263710484.wav"
+    },
+    {
+      "id": 1601,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263728682.wav"
+    },
+    {
+      "id": 1602,
+      "title": "Đăng nhập",
+      "text": "Darling, hôm nay chúng ta chơi gì đây?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263750206.wav"
+    },
+    {
+      "id": 1603,
+      "title": "Tâm sự-01",
+      "text": "Chỉ huy, những đồng đội khác trên Elmo…… với anh chỉ là quan hệ công việc thôi đúng không!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263769939.wav"
+    },
+    {
+      "id": 1604,
+      "title": "Tâm sự-02",
+      "text": "Chỉ cần là Darling tặng, thứ gì em cũng thích!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263799538.wav"
+    },
+    {
+      "id": 1605,
+      "title": "Tâm sự-03",
+      "text": "Đừng tốt với em quá nhé…… vì em là kẻ tham lam không đáy~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263818222.wav"
+    },
+    {
+      "id": 1606,
+      "title": "Tâm sự-04",
+      "text": "Để em làm nhiều hơn đi, việc gì cũng được. Em muốn…… trở thành T-Doll hữu ích hơn với Darling!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263836753.wav"
+    },
+    {
+      "id": 1607,
+      "title": "Tâm sự-05",
+      "text": "Suỵt —— đừng để người khác nghe thấy. Có những chuyện làm lén lút mới thú vị~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263853529.wav"
+    },
+    {
+      "id": 1608,
+      "title": "Tâm sự-06",
+      "text": "Đừng động đậy, sắp vẽ xong rồi. Anh biết mà, dấu graffiti nghĩa là, nơi này là địa bàn của em~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263875427.wav"
+    },
+    {
+      "id": 1609,
+      "title": "Tâm sự-07",
+      "text": "Thưởng cho em một điều ước? Hì hì, đừng hối hận nhé, gan em lớn lắm đó!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263897931.wav"
+    },
+    {
+      "id": 1610,
+      "title": "Tâm sự-08",
+      "text": "Trong mười năm không gặp Darling, là vô số ảo tưởng hạnh phúc đã chống đỡ em. Tò mò không? Chỉ cần anh kiên nhẫn, chúng ta có thể biến từng ảo tưởng thành hiện thực……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263916446.wav"
+    },
+    {
+      "id": 1611,
+      "title": "Vào đội",
+      "text": "Darling! Trốn tìm kết thúc rồi nhé, cuối cùng em cũng tìm thấy anh!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263942262.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1017,
+      "title": "Ngữ khí-01",
+      "text": "Gọi em à?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263960158.wav"
+    },
+    {
+      "id": 1018,
+      "title": "Ngữ khí-02",
+      "text": "Nói trước nhé, cầu xin không có tác dụng đâu.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263974800.wav"
+    },
+    {
+      "id": 1019,
+      "title": "Ngữ khí-03",
+      "text": "Đừng giận nhé~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768263987811.wav"
+    },
+    {
+      "id": 1020,
+      "title": "Ngữ khí-04",
+      "text": "Bảo em làm gì cũng được!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264001862.wav"
+    },
+    {
+      "id": 1021,
+      "title": "Ngữ khí-05",
+      "text": "Bắt đầu thôi nào!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264015533.wav"
+    },
+    {
+      "id": 1022,
+      "title": "Ngữ khí-06",
+      "text": "Tất nhiên là em rồi~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264030249.wav"
+    },
+    {
+      "id": 1023,
+      "title": "Ngữ khí-07",
+      "text": "Đến đây đến đây!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264044119.wav"
+    },
+    {
+      "id": 1024,
+      "title": "Ngữ khí-08",
+      "text": "Em chẳng làm được gì cả……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264058467.wav"
+    },
+    {
+      "id": 1025,
+      "title": "Ngữ khí-09",
+      "text": "Haha~ cơ thể đang run kìa!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264073657.wav"
+    },
+    {
+      "id": 1026,
+      "title": "Ngữ khí-10",
+      "text": "Vẫn chưa đủ đau……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264089332.wav"
+    },
+    {
+      "id": 1027,
+      "title": "Kỹ năng-01",
+      "text": "Đừng nghiêm túc, chỉ là trò đùa thôi~",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264112024.wav"
+    },
+    {
+      "id": 1028,
+      "title": "Kỹ năng-02",
+      "text": "Nhìn em đi, nhìn em đi!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264136098.wav"
+    },
+    {
+      "id": 1029,
+      "title": "Kỹ năng-03",
+      "text": "Em còn chưa chơi đủ đâu!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264151782.wav"
+    },
+    {
+      "id": 1030,
+      "title": "Kỹ năng-04",
+      "text": "Đoán xem kết cục của các ngươi đi ——",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264174748.wav"
+    },
+    {
+      "id": 1031,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Không phải lễ hội điên cuồng sao? Sao các ngươi không vui?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264191316.wav"
+    },
+    {
+      "id": 1032,
+      "title": "Hạ gục",
+      "text": "Chỉ thế thôi? Chán.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264206391.wav"
+    },
+    {
+      "id": 1033,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Vất vả quá đi! Darling sẽ cho em phần thưởng thật tuyệt đúng không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264221580.wav"
+    },
+    {
+      "id": 1034,
+      "title": "Kết thúc trận-Thua",
+      "text": "Hu…… Basti vô dụng quá……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1768264237660.wav"
+    }
+  ]
+}

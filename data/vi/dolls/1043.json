@@ -1,0 +1,370 @@
+{
+  "id": 1043,
+  "name": "Faye",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044851986.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 1,
+  "role_id": 2,
+  "team_id": 9,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Vanguard",
+  "attr": "Physical",
+  "team": "Monsoon Band",
+  "weapon": "CZ75",
+  "model": "SSD-62D",
+  "ammo_model": "HG",
+  "desc": "T-Doll có vẻ ngoài và tính cách tương phản lớn. Thân hình nhỏ nhưng khí thế đầy đủ, dáng một tay giơ súng một tay vác rìu khiến người ta phải tránh xa. Nhưng nếu bạn chịu tìm hiểu sâu về cô, sẽ thấy phía sau vẻ mặt sốt ruột và lời lẽ cáu kỉnh của Faye là một trái tim mảnh mai nhạy cảm. Cô cũng đang mong chờ được đáp lại sự dịu dàng của bạn.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/绯pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/绯移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014154787.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777014162782.png"
+  },
+  "skins": [
+    {
+      "id": 13,
+      "name": "Cuồng Phong Liệt Diễm",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/绯pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/绯移动.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261430021.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261442945.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768261452551.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Trần Đình Đình</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Kojōmon Shiho</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>731</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>8</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>528</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1609</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Shotgun Ammo&nbsp;<span style=\"color: #00ccff\">Hydro</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Diễn Tập Bắn Thử",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558716243.png\"></p>\n</td>\n<td>\n<p>Diễn Tập Bắn Thử Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764415192841.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Xoay Rìu Phá Chướng",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558735677.png\"></p>\n</td>\n<td>\n<p>Xoáy Phá Chướng Lv.1</p>\n<p>Chủ động/Diện rộng/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764415256322.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao toàn bộ Infection Index, cứ mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, gây <span style=\"color: #ff9900\">3</span> tầng Vết Rách lên mọi kẻ địch trong bán kính <span style=\"color: #ff9900\">1</span> ô quanh bản thân, kéo <span style=\"color: #ff9900\">2 ô</span> về phía bản thân, và gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical diện rộng, đồng thời gây Mất Di Chuyển duy trì <span style=\"color: #ff9900\">1 hiệp</span>.<br>Bản thân nhận thêm <span style=\"color: #ff9900\">8 ô</span> di chuyển và Dịch Hình, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Tiêu hao Infection: 1</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Diễm Quang Phân Hạch",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558751016.png\"></p>\n</td>\n<td>\n<p>Diễm Quang Phân Liệt Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764415321594.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index. Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">2 tầng</span> Vết Rách lên nó, và gây <span style=\"color: #ff9900\">120%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Không Ai Sống Sót",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558764927.png\"></p>\n</td>\n<td>\n<p>Không Ai Sống Sót Lv.1</p>\n<p>Quyết thắng/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764415386378.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> mục tiêu kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> xung quanh, gây Vết Thương với số tầng bằng số tầng Vết Rách lên mọi kẻ địch có Vết Rách trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân, và gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Physical lên mục tiêu.<br>Nếu mục tiêu có từ <span style=\"color: #ff9900\">6 tầng</span> Vết Rách trở lên, tiêu hao <span style=\"color: #ff9900\">6 tầng</span> Vết Rách, giúp sát thương mục tiêu phải nhận từ đòn tấn công lần này tăng <span style=\"color: #ff9900\">120%</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Rìu Bay Truy Kích",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558780279.png\"></p>\n</td>\n<td>\n<p>Truy Kích Rìu Bay Lv.1</p>\n<p>Bị động/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764415448268.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi tấn công, bỏ qua Phòng thủ của mục tiêu theo <span style=\"color: #ff9900\">2%</span> số tầng Vết Rách, và hồi lượng HP bằng <span style=\"color: #ff9900\">10%</span>+<span style=\"color: #ff9900\">2%</span> số tầng Vết Rách của HP tối đa cho bản thân.<br>Khi kết thúc hành động của kẻ địch, nếu nó ở trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân, dùng rìu ném lên nó, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, gây <span style=\"color: #ff9900\">1 tầng</span> Vết Rách lên nó, và gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical cùng <span style=\"color: #ff9900\">2 điểm</span> sát thương ổn định. Nếu ở trong <span style=\"color: #ff9900\">bán kính 3 ô</span> quanh bản thân, đổi thành dùng rìu xoáy, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, gây <span style=\"color: #ff9900\">3</span> tầng Vết Rách lên mọi kẻ địch trong bán kính <span style=\"color: #ff9900\">2</span> ô quanh bản thân, và gây <span style=\"color: #ff9900\">60%</span> Tấn công sát thương Physical diện rộng cùng <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định. Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Truy Kích Rìu Bay Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số bỏ qua phòng thủ của mỗi tầng Vết Rách tăng <span style=\"color: #ff9900\">2%</span>. Khi kết thúc hành động của kẻ địch, nếu nó có từ <span style=\"color: #ff9900\">2 tầng</span> Vết Rách trở lên, Faye gây <span style=\"color: #ff9900\">2 tầng</span> Vết Rách lên kẻ địch gần nó nhất.</td>\n<td style=\"text-align: center\">Khi tấn công, bỏ qua Phòng thủ của mục tiêu theo <span style=\"color: #ff9900\">4%</span>×số tầng Vết Rách, và hồi lượng HP bằng <span style=\"color: #ff9900\">10%</span>+<span style=\"color: #ff9900\">2%</span>×số tầng Vết Rách của HP tối đa cho bản thân. Khi kết thúc hành động của kẻ địch, nếu nó ở trong bán kính <span style=\"color: #ff9900\">6 ô</span> quanh bản thân, dùng rìu ném lên nó, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, gây <span style=\"color: #ff9900\">1 tầng</span> Vết Rách lên nó, và gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical cùng <span style=\"color: #ff9900\">2 điểm</span> sát thương ổn định. Nếu ở trong bán kính <span style=\"color: #ff9900\">3 ô</span> quanh bản thân, đổi thành dùng rìu xoáy, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, gây <span style=\"color: #ff9900\">3</span> tầng Vết Rách lên mọi kẻ địch trong bán kính 2 ô quanh bản thân, và gây <span style=\"color: #ff9900\">60%</span> Tấn công sát thương Physical diện rộng cùng <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định. Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span>. Khi kết thúc hành động của kẻ địch, nếu nó có từ <span style=\"color: #ff9900\">2 tầng</span> Vết Rách trở lên, Faye gây <span style=\"color: #ff9900\">2 tầng</span> Vết Rách lên kẻ địch gần nó nhất.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Diễm Quang Phân Liệt Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng <span style=\"color: #ff9900\">20%</span>; Sau kỹ năng, nếu mục tiêu có từ <span style=\"color: #ff9900\">4 tầng</span> Vết Rách trở lên, gây thêm Vết Thương với số tầng bằng số tầng Vết Rách lên nó.</td>\n<td style=\"text-align: center\">Bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index. Chọn 1 mục tiêu kẻ địch trong bán kính <span style=\"color: #ff9900\">6 ô</span> xung quanh, gây <span style=\"color: #ff9900\">2 tầng</span> Vết Rách lên nó, và gây <span style=\"color: #ff9900\">140%</span> Tấn công sát thương Physical. Sau kỹ năng, nếu mục tiêu có từ <span style=\"color: #ff9900\">4 tầng</span> Vết Rách trở lên, gây thêm Vết Thương với số tầng bằng số tầng Vết Rách lên nó.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Truy Kích Rìu Bay Lv.3</strong></td>\n<td style=\"text-align: center\">Khi kết thúc hành động của bản thân, dùng rìu xoáy, và gây Mất Di Chuyển duy trì <span style=\"color: #ff9900\">1 hiệp</span> lên mọi kẻ địch trong phạm vi, sát thương gây ra của đòn tấn công lần này tăng <span style=\"color: #ff9900\">30%</span>.</td>\n<td style=\"text-align: center\">Khi tấn công, bỏ qua Phòng thủ của mục tiêu theo <span style=\"color: #ff9900\">4%</span>×số tầng Vết Rách, và hồi lượng HP bằng <span style=\"color: #ff9900\">10%</span>+<span style=\"color: #ff9900\">2%</span>×số tầng Vết Rách của HP tối đa cho bản thân. Khi kết thúc hành động của kẻ địch, nếu nó ở trong bán kính <span style=\"color: #ff9900\">6 ô</span> quanh bản thân, dùng rìu ném lên nó, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, gây <span style=\"color: #ff9900\">1 tầng</span> Vết Rách lên nó, và gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical cùng <span style=\"color: #ff9900\">2 điểm</span> sát thương ổn định. Nếu ở trong bán kính <span style=\"color: #ff9900\">3 ô</span> quanh bản thân, đổi thành dùng rìu xoáy, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, gây <span style=\"color: #ff9900\">3</span> tầng Vết Rách lên mọi kẻ địch trong bán kính 2 ô quanh bản thân, và gây <span style=\"color: #ff9900\">60%</span> Tấn công sát thương Physical diện rộng cùng <span style=\"color: #ff9900\">1 điểm</span> sát thương ổn định. Mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">2 lần</span>. Khi kết thúc hành động của kẻ địch, nếu nó có từ <span style=\"color: #ff9900\">2 tầng</span> Vết Rách trở lên, Faye gây <span style=\"color: #ff9900\">2 tầng</span> Vết Rách lên kẻ địch gần nó nhất. Khi kết thúc hành động của bản thân, dùng rìu xoáy, và gây thêm Mất Di Chuyển duy trì <span style=\"color: #ff9900\">1 hiệp</span> lên mọi kẻ địch trong phạm vi, sát thương gây ra của đòn tấn công lần này tăng <span style=\"color: #ff9900\">30%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Không Ai Sống Sót Lv.2</strong></td>\n<td style=\"text-align: center\">Hiệu ứng gây Vết Thương lên kẻ địch có Vết Rách quanh bản thân được sửa thành: gây <span style=\"color: #ff9900\">4 tầng</span> Vết Thương lên mọi kẻ địch trên chiến trường, và gây thêm Vết Thương với số tầng bằng số tầng Vết Rách lên kẻ địch có Vết Rách. Khi kết thúc hành động của bản thân, kích hoạt hiệu ứng của mọi Vết Thương, nhưng không tiêu hao số tầng Vết Thương.</td>\n<td style=\"text-align: center\">Gây <span style=\"color: #ff9900\">4 tầng</span> Vết Thương lên mọi kẻ địch trên chiến trường, và gây thêm Vết Thương với số tầng bằng số tầng Vết Rách lên kẻ địch có Vết Rách. Chọn 1 kẻ địch trong bán kính <span style=\"color: #ff9900\">6 ô</span>, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Physical. Nếu mục tiêu có từ <span style=\"color: #ff9900\">6 tầng</span> Vết Rách trở lên, tiêu hao <span style=\"color: #ff9900\">6 tầng</span> Vết Rách, giúp sát thương mục tiêu phải nhận từ đòn tấn công lần này tăng <span style=\"color: #ff9900\">120%</span>. Khi kết thúc hành động hiệp này, kích hoạt hiệu ứng của mọi Vết Thương, nhưng không tiêu hao số tầng Vết Thương.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Xoáy Phá Chướng Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng <span style=\"color: #ff9900\">20%</span>; Thời gian duy trì Mất Di Chuyển và Dịch Hình tăng <span style=\"color: #ff9900\">1 hiệp</span>. Sau kỹ năng, xua tan mọi debuff loại phòng thủ và debuff loại di chuyển của bản thân.</td>\n<td style=\"text-align: center\">Tiêu hao toàn bộ Infection Index, cứ mỗi <span style=\"color: #ff9900\">1 điểm</span> Infection Index tiêu hao, gây <span style=\"color: #ff9900\">3</span> tầng Vết Rách lên mọi kẻ địch trong bán kính <span style=\"color: #ff9900\">1</span> ô quanh bản thân, kéo <span style=\"color: #ff9900\">2 ô</span> về phía bản thân, và gây <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Physical diện rộng, đồng thời gây Mất Di Chuyển duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Bản thân nhận thêm <span style=\"color: #ff9900\">8 ô</span> di chuyển và Dịch Hình, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Sau kỹ năng, xua tan mọi debuff loại phòng thủ và debuff loại di chuyển của bản thân.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Không Ai Sống Sót Lv.3</strong></td>\n<td style=\"text-align: center\">Hiệu ứng \"nếu mục tiêu có từ <span style=\"color: #ff9900\">6 tầng</span> Vết Rách trở lên\" được sửa thành: tiêu hao <span style=\"color: #ff9900\">6 tầng</span> Vết Rách, cứ mỗi <span style=\"color: #ff9900\">1 tầng</span> Vết Rách mục tiêu có, sát thương nó phải nhận từ đòn tấn công lần này tăng <span style=\"color: #ff9900\">20%</span>, tối đa tăng <span style=\"color: #ff9900\">160%</span>, và mỗi tầng Vết Rách giúp tỉ lệ chí mạng của Faye trong đòn tấn công lần này tăng <span style=\"color: #ff9900\">5%</span>, sát thương chí mạng tăng <span style=\"color: #ff9900\">2%</span>.</td>\n<td style=\"text-align: center\">Gây <span style=\"color: #ff9900\">4 tầng</span> Vết Thương lên mọi kẻ địch trên chiến trường, và gây thêm Vết Thương với số tầng bằng số tầng Vết Rách lên kẻ địch có Vết Rách. Chọn 1 kẻ địch trong bán kính <span style=\"color: #ff9900\">6 ô</span>, gây <span style=\"color: #ff9900\">160%</span> Tấn công sát thương Physical. Nếu mục tiêu có từ <span style=\"color: #ff9900\">6 tầng</span> Vết Rách trở lên, tiêu hao <span style=\"color: #ff9900\">6 tầng</span> Vết Rách; Cứ mỗi <span style=\"color: #ff9900\">1 tầng</span> Vết Rách mục tiêu có, sát thương nó phải nhận từ đòn tấn công lần này tăng <span style=\"color: #ff9900\">20%</span>, tối đa tăng <span style=\"color: #ff9900\">160%</span>, và mỗi tầng Vết Rách giúp tỉ lệ chí mạng của Faye trong đòn tấn công lần này tăng <span style=\"color: #ff9900\">5%</span>, sát thương chí mạng tăng <span style=\"color: #ff9900\">2%</span>. Khi kết thúc hành động hiệp này, kích hoạt hiệu ứng của mọi Vết Thương, nhưng không tiêu hao số tầng Vết Thương.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558802705.png\"></td>\n<td>\n<h2>Contract Key · Ranh Giới Sinh Tử</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764396747429.png\" width=\"20\" height=\"20\"></sub>Chí mạng 3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764415532544.png\" width=\"20\"></sub>HP +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558818690.png\"></td>\n<td>\n<h2>Fixed Key · Lần Theo Hơi Thở</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Cứ mỗi 1 kẻ địch có Vết Rách trên chiến trường, Điểm hành động của bản thân tăng 1 ô, tối đa tăng 3 ô.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558842125.png\"></td>\n<td>\n<h2>Fixed Key · Dốc Sức Chém</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kỹ năng chủ động Xoáy Phá Chướng chỉ trúng 1 đơn vị, sát thương gây ra tăng 20%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558859242.png\"></td>\n<td>\n<h2>Fixed Key · Tiếp Tế Ứng Cứu</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558873253.png\"></td>\n<td>\n<h2>Fixed Key · Phương Án Sơ Cứu Dự Phòng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi HP thấp hơn 50%, hiệu quả hồi máu phải nhận tăng 30%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558887465.png\"></td>\n<td>\n<h2>Fixed Key · Phòng Vệ Cảnh Hiểm</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kết thúc hành động, nếu trong bán kính 2 ô quanh bản thân có kẻ địch có Vết Rách, nhận Phòng Thủ Diện Rộng I duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558908238.png\"></td>\n<td>\n<h2>Fixed Key · Đang Quyền Anh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kẻ địch có Vết Thương chết, Tấn công của bản thân tăng 4%, tối đa tăng 20%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558924521.png\"></td>\n<td>\n<h2>Common Key · Tử Chiến</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764415864556.png\" width=\"20\"></sub>Chí mạng 5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Giúp sát thương Physical mà kẻ địch trong bán kính 3 ô quanh bản thân phải nhận tăng 5%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784558941949.png\"></td>\n<td>\n<h2>Expansion Key · Đấu Hồn Không Ngừng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi gây sát thương lên mục tiêu kẻ địch có Vết Thương, bỏ qua 50% Phòng thủ của mục tiêu, và Tấn công tăng 15%. Sau khi dùng kỹ năng Quyết thắng Không Ai Sống Sót, gây 2 tầng Vết Rách lên mục tiêu. Sau khi dùng rìu ném hoặc rìu xoáy, gây Mất Di Chuyển lên mục tiêu duy trì 1 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*5 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây lên đơn vị kẻ địch có debuff phòng thủ tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*7 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*8 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*11 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có HP từ 50% trở xuống tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*15 Sentinel*4&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*18 Sentinel*6&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương gây lên đơn vị kẻ địch trong bán kính 3 ô quanh bản thân tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763903567830.png\"></td>\n<td>\n<h1><strong>Hestia &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10433\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng ngắn/Light Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khẩu súng ngắn hiệu năng cao được cấp cho Faye, lấy Škoda 75 làm nguyên mẫu, dễ mang theo, độ chính xác tốt. Trong tay Faye, Hestia đáng sợ như nữ thần lửa thực thụ.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Mua sắm thường</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=46010&amp;hash_flag=2\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/image/1737512491058.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p> &nbsp; T-Doll có vẻ ngoài và tính cách tương phản lớn. Thân hình nhỏ nhưng khí thế đầy đủ, dáng một tay giơ súng một tay vác rìu khiến người ta phải tránh xa. Nhưng nếu bạn chịu tìm hiểu sâu về cô, sẽ thấy phía sau vẻ mặt sốt ruột và lời lẽ cáu kỉnh của Faye là một trái tim mảnh mai nhạy cảm. Cô cũng đang mong chờ được đáp lại sự dịu dàng của bạn.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778253004700.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253004827.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778253030645.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253030650.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253030668.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253030646.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253030629.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253030665.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778253030678.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 291,
+      "title": "Thường ngày-01",
+      "text": "Hừ, coi thường tôi là sẽ chịu khổ đấy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Daily_002.wav"
+    },
+    {
+      "id": 292,
+      "title": "Thường ngày-02",
+      "text": "Đợi chút, tôi đang tổ chức lời nói.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Daily_003.wav"
+    },
+    {
+      "id": 299,
+      "title": "Thường ngày-03",
+      "text": "Ở trên tàu Elmo thì chắc là có thể cùng Trưởng quan đi đủ mọi nơi rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Daily_010.wav"
+    },
+    {
+      "id": 295,
+      "title": "Thường ngày-04",
+      "text": "Đống hàng này à? Ồ, Vepley bảo cô ấy không khiêng nổi, nên tôi tiện tay khiêng giúp.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Daily_006.wav"
+    },
+    {
+      "id": 297,
+      "title": "Thường ngày-05",
+      "text": "Mọi người ở Monsoon Band... đều rất bao dung với tôi, giống như Trưởng quan vậy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Daily_008.wav"
+    },
+    {
+      "id": 300,
+      "title": "Nâng cấp-01",
+      "text": "Lại nào.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Up_001.wav"
+    },
+    {
+      "id": 301,
+      "title": "Nâng cấp-02",
+      "text": "Chậc, cũng được.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Up_002.wav"
+    },
+    {
+      "id": 303,
+      "title": "Nâng cấp-03",
+      "text": "Tôi cũng làm được.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Up_004.wav"
+    },
+    {
+      "id": 304,
+      "title": "Nâng cấp-04",
+      "text": "Phải mạnh lên...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Up_005.wav"
+    },
+    {
+      "id": 306,
+      "title": "Nâng cấp-05",
+      "text": "Tôi sẽ không thua!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Up_007.wav"
+    },
+    {
+      "id": 308,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Title_001.wav"
+    },
+    {
+      "id": 309,
+      "title": "Đăng nhập",
+      "text": "Trưởng quan, nhiệm vụ hôm nay là gì?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Login_001.wav"
+    },
+    {
+      "id": 310,
+      "title": "Tâm sự-01",
+      "text": "Tránh ra, anh chắn... Ý tôi là, xin nhường đường một chút.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 313,
+      "title": "Tâm sự-02",
+      "text": "Cuộc đấu không suy nghĩ, không tuân thủ quy tắc, chỉ để xả giận thì chỉ là ẩu đả thôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 314,
+      "title": "Tâm sự-03",
+      "text": "Trưởng quan, với con người thì giao tiếp cũng không phải chuyện đơn giản nhỉ? Nếu không thì đã chẳng có nhiều sách dạy cách nói chuyện như vậy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 315,
+      "title": "Tâm sự-04",
+      "text": "\"Nếu có điều gì đường đột, xin mong lượng thứ...\" Khoan, sao Trưởng quan lại ở đây? Tôi, tôi chỉ đang luyện cách ăn nói thôi...",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 317,
+      "title": "Tâm sự-05",
+      "text": "\"Màu tóc của tôi như ngọn lửa, rất đẹp.\" Trưởng quan nghĩ vậy sao? Khụ... cảm ơn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 318,
+      "title": "Tâm sự-06",
+      "text": "Cái đó, Trưởng quan, trước đây tôi... có nói gì khiến anh khó chịu không? Nhìn vẻ mặt anh... không lẽ thật sự có?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Friendliness_009.wav"
+    },
+    {
+      "id": 321,
+      "title": "Tâm sự-07",
+      "text": "Tôi — rất ghét cái tên của mình trước khi gia nhập Griffin... nhưng nếu Trưởng quan muốn biết, nói cho anh cũng không sao.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Friendliness_012.wav"
+    },
+    {
+      "id": 322,
+      "title": "Tâm sự-08",
+      "text": "Chậc, tôi không giỏi diễn đạt... tóm lại là — dù Trưởng quan có thay đổi hay không, tôi vẫn sẽ luôn ở đây, sẽ không đi đâu cả.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 324,
+      "title": "Vào đội",
+      "text": "Thứ gì cản trước mặt Trưởng quan, tôi sẽ diệt hết.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Obtain_SR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 177,
+      "title": "Ngữ khí-01",
+      "text": "Hứ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 178,
+      "title": "Ngữ khí-02",
+      "text": "Lên!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 179,
+      "title": "Ngữ khí-03",
+      "text": "Ừm.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 998,
+      "title": "Ngữ khí-04",
+      "text": "Chậc!",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1766212778434.wav"
+    },
+    {
+      "id": 181,
+      "title": "Ngữ khí-05",
+      "text": "Sơ hở quá nhiều.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 182,
+      "title": "Ngữ khí-06",
+      "text": "Nhìn bên này!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 183,
+      "title": "Ngữ khí-07",
+      "text": "Đừng cản đường.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 184,
+      "title": "Ngữ khí-08",
+      "text": "Xem chiêu!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 185,
+      "title": "Ngữ khí-09",
+      "text": "Đã nhận.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 186,
+      "title": "Ngữ khí-10",
+      "text": "Thế nào?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 189,
+      "title": "Kỹ năng-01",
+      "text": "Lại đây, thử xem?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Skill_001.wav"
+    },
+    {
+      "id": 190,
+      "title": "Kỹ năng-02",
+      "text": "Nếm thử chiêu mới học của tôi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Skill_002.wav"
+    },
+    {
+      "id": 191,
+      "title": "Kỹ năng-03",
+      "text": "Ra khỏi cuộc chơi đi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Hit_001.wav"
+    },
+    {
+      "id": 997,
+      "title": "Kỹ năng-04",
+      "text": "Hù……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1765962348507.wav"
+    },
+    {
+      "id": 195,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Tự anh chuốc lấy thôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Ultimate_SR_001.wav"
+    },
+    {
+      "id": 192,
+      "title": "Hạ gục",
+      "text": "K.O.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Kill_001.wav"
+    },
+    {
+      "id": 193,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Tôi đã nói sẽ bảo vệ anh, lần này tin rồi chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Win_001.wav"
+    },
+    {
+      "id": 194,
+      "title": "Kết thúc trận-Thua",
+      "text": "Lần sau... nhất định không được phạm sai lầm thế này nữa.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/FayeCV/VO_Faye_Single_Lose_001.wav"
+    }
+  ]
+}

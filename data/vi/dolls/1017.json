@@ -1,0 +1,380 @@
+{
+  "id": 1017,
+  "name": "Groza",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766045475480.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 1,
+  "role_id": 1,
+  "team_id": 7,
+  "rarity_level": 4,
+  "rarity": "T-Doll Elite",
+  "role": "Bulwark",
+  "attr": "Physical",
+  "team": "Groza Squad",
+  "weapon": "OTs-14",
+  "model": "SST-05A2",
+  "ammo_model": "AR",
+  "desc": "T-Doll tinh anh chín chắn điềm đạm, xứng đáng là hạt nhân của tiểu đội. Dù các thành viên tiểu đội tính cách khác biệt, cô vẫn thống hợp sức mạnh của mọi người rất tốt. Chỉ cần có cô ở đó, mọi chuyện đều không thành vấn đề.",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/闪电pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/闪电移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777014997793.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777015006450.png"
+  },
+  "skins": [
+    {
+      "id": 48,
+      "name": "Trái Tim Mưa Tím",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763950641066.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763950653247.png"
+    },
+    {
+      "id": 49,
+      "name": "Đồ huấn luyện của Groza",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763950666105.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763950680878.png"
+    },
+    {
+      "id": 50,
+      "name": "Chiến Dịch Bình Minh",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1763950713719.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1763950727873.png"
+    }
+  ],
+  "gifs": [],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">CV tiếng Trung</td>\n<td style=\"text-align: center\">Trùng Trùng</td>\n</tr>\n<tr style=\"text-align: center\">\n<td>CV tiếng Nhật</td>\n<td>Inoue Marina</td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>539</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>12</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>553</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1981</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo <span style=\"color: #ff9900\">Burn</span></td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường · Lệnh Xạ Kích",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784542752741.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Chỉ Lệnh Xạ Kích Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764313911929.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 7 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Áp Chế Mạnh",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784542775458.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Áp Chế Mạnh Lv.1</p>\n<p>Chủ động/Đơn mục tiêu/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764313860293.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 7 ô</span>, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Physical và gây Giảm di chuyển II duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Nếu gây Sụp Đổ Ổn Định, gây Khiêu khích lên nó duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 3 Sát thương ổn định: 5</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động · Yểm Hộ Hoàn Hảo",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784542814344.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Yểm Hộ Hoàn Hảo Lv.1</p>\n<p>Chủ động/Buff/Phòng hộ</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764314024410.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Gây <span style=\"color: #ff9900\">2 tầng</span> Yểm hộ và Tăng phòng thủ II lên mọi đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cứ mỗi <span style=\"color: #ff9900\">1</span> đồng minh trong phạm vi, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Số lần phản công của hiệp này tăng <span style=\"color: #ff9900\">2 lần</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng · Oanh Tạc Phá Hủy",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784542837610.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Oanh Tạc Nổ Phá Lv.1</p>\n<p>Quyết thắng/Diện rộng/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764314090091.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong <span style=\"color: #ff9900\">bán kính 7 ô</span> để phóng tới, gây <span style=\"color: #ff9900\">90%</span> Tấn công sát thương Physical diện rộng lên mọi kẻ địch trong phạm vi 3×<span style=\"color: #ff9900\">3 ô</span> xung quanh, và gây Giảm di chuyển II duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection: 4 Sát thương ổn định: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động · Trang Bị Tức Thì",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784542856357.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Trang Bị Tức Thời Lv.1</p>\n<p>Bị động/Buff/Phản công</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764314179514.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi đồng minh (không gồm bản thân) kết thúc hành động, nếu đứng trong <span style=\"color: #ff9900\">bán kính 7 ô</span> quanh bản thân, Groza nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, và gây <span style=\"color: #ff9900\">1 tầng</span> Yểm hộ lên nó và bản thân. Cứ mỗi <span style=\"color: #ff9900\">1 tầng</span> Yểm hộ của Groza, sát thương gây ra tăng <span style=\"color: #ff9900\">5%</span>. Nếu có kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân gây sát thương đơn mục tiêu lên đồng minh, sẽ phản công nó, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">4 điểm</span> sát thương ổn định, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Áp Chế Mạnh Lv.2</strong></td>\n<td style=\"text-align: center\">Nếu gây Sụp Đổ Ổn Định, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, hồi <span style=\"color: #ff9900\">4 điểm</span> Chỉ số ổn định.</td>\n<td style=\"text-align: center\">Chọn 1 kẻ địch trong <span style=\"color: #ff9900\">bán kính 7 ô</span>, gây <span style=\"color: #ff9900\">130%</span> Tấn công sát thương Physical và gây Giảm di chuyển II duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Nếu gây Sụp Đổ Ổn Định, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, hồi <span style=\"color: #ff9900\">4 điểm</span> Chỉ số ổn định.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Yểm Hộ Hoàn Hảo Lv.2</strong></td>\n<td style=\"text-align: center\">Bản thân hồi <span style=\"color: #ff9900\">5 điểm</span> Chỉ số ổn định.</td>\n<td style=\"text-align: center\">Bản thân hồi <span style=\"color: #ff9900\">5 điểm</span> Chỉ số ổn định, gây <span style=\"color: #ff9900\">2 tầng</span> Yểm hộ và Tăng phòng thủ II lên mọi đồng minh trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, duy trì <span style=\"color: #ff9900\">2 hiệp</span>. Cứ mỗi 1 đồng minh trong phạm vi, bản thân nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index. Số lần phản công của hiệp này tăng <span style=\"color: #ff9900\">2 lần</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Oanh Tạc Nổ Phá Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>.</td>\n<td style=\"text-align: center\">Chọn 1 ô địa hình trong <span style=\"color: #ff9900\">bán kính 7 ô</span> để phóng tới, gây <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Physical diện rộng lên mọi kẻ địch trong phạm vi 3×<span style=\"color: #ff9900\">3 ô</span> xung quanh, và gây Giảm di chuyển II duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Chỉnh Bị Tức Thời Lv.2</strong></td>\n<td style=\"text-align: center\">Khi kết thúc hành động, gây Giảm tấn công I lên kẻ địch có Tấn công cao nhất trong <span style=\"color: #ff9900\">bán kính 7 ô</span>, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Khi đồng minh (không gồm bản thân) kết thúc hành động, nếu đứng trong <span style=\"color: #ff9900\">bán kính 7 ô</span> quanh bản thân, Groza nhận <span style=\"color: #ff9900\">1 điểm</span> <span style=\"color: #00ccff\">Infection Index</span>, và gây <span style=\"color: #ff9900\">1 tầng</span> Yểm hộ lên nó và bản thân. Cứ mỗi <span style=\"color: #ff9900\">1 tầng</span> Yểm hộ của Groza, sát thương gây ra tăng <span style=\"color: #ff9900\">5%</span>. Nếu có kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân gây sát thương đơn mục tiêu lên đồng minh, sẽ phản công nó, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">4 điểm</span> sát thương ổn định, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>. Khi kết thúc hành động, gây Giảm tấn công I lên kẻ địch có Tấn công cao nhất trong <span style=\"color: #ff9900\">bán kính 7 ô</span>, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Oanh Tạc Nổ Phá Lv.3</strong></td>\n<td style=\"text-align: center\">Thời gian Giảm di chuyển II kéo dài thêm <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> ô địa hình trong <span style=\"color: #ff9900\">bán kính 7 ô</span> để phóng tới, gây <span style=\"color: #ff9900\">100%</span> Tấn công sát thương Physical diện rộng lên mọi kẻ địch trong phạm vi 3×<span style=\"color: #ff9900\">3 ô</span> xung quanh, và gây Giảm di chuyển II duy trì <span style=\"color: #ff9900\">2 hiệp</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Chỉnh Bị Tức Thời Lv.3</strong></td>\n<td style=\"text-align: center\">Khi có Yểm hộ, sát thương ổn định phải nhận giảm <span style=\"color: #ff9900\">1 điểm</span>.</td>\n<td style=\"text-align: center\">Khi đồng minh (không gồm bản thân) kết thúc hành động, nếu đứng trong <span style=\"color: #ff9900\">bán kính 7 ô</span> quanh bản thân, Groza nhận <span style=\"color: #ff9900\">1 điểm</span> Infection Index, và gây <span style=\"color: #ff9900\">1 tầng</span> Yểm hộ lên nó và bản thân. Khi Groza có Yểm hộ, sát thương ổn định phải nhận giảm <span style=\"color: #ff9900\">1 điểm</span>, cứ mỗi <span style=\"color: #ff9900\">1 tầng</span>, sát thương gây ra tăng <span style=\"color: #ff9900\">5%</span>. Nếu có kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân gây sát thương đơn mục tiêu lên đồng minh, sẽ yểm hộ, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical và <span style=\"color: #ff9900\">4 điểm</span> sát thương ổn định, mỗi hiệp kích hoạt tối đa <span style=\"color: #ff9900\">1 lần</span>. Khi kết thúc hành động, gây Giảm tấn công I lên kẻ địch có Tấn công cao nhất trong <span style=\"color: #ff9900\">bán kính 7 ô</span>, duy trì <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1784542503777.png\"></td>\n<td>\n<h2>Contract Key·Trầm Tư Đêm Tĩnh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860777125.png\" width=\"20\" height=\"20\"></sub>HP +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784542529326.png\"></td>\n<td>\n<h2>Fixed Key·Cân Nhắc Đa Phương Diện</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Nếu gây Sụp Đổ Ổn Định, gây Giảm phòng thủ I và Giảm tấn công I lên nó duy trì 1 hiệp.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784542549080.png\"></td>\n<td>\n<h2>Fixed Key·Chỉ Lệnh Tiến Quân Vững Chắc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi dùng kỹ năng chủ động Yểm Hộ Hoàn Hảo, đồng thời gây Tăng tấn công I duy trì 1 hiệp.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784542563521.png\"></td>\n<td>\n<h2>Fixed Key·Chiến Lược Tự Thích Ứng</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi HP bản thân thấp hơn 30%, hiệu quả hồi máu phải nhận tăng 50%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784542578507.png\"></td>\n<td>\n<h2>Fixed Key·Chiến Thuật Ưu Thế Hỏa Lực</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi dùng kỹ năng chủ động Áp Chế Mạnh làm kẻ địch Sụp Đổ Ổn Định, gây Khiêu khích lên mục tiêu duy trì 1 hiệp.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784542594797.png\"></td>\n<td>\n<h2>Fixed Key·Hành Động Bền Vững</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi có Yểm hộ, sát thương diện rộng phải nhận giảm 20%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1784542609529.png\"></td>\n<td>\n<h2>Fixed Key·Quy Tắc Né Tránh Tiêu Chuẩn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi Sụp Đổ Ổn Định, hồi 20% HP tối đa của bản thân, 5 điểm Chỉ số ổn định, đồng thời xua tan 4 debuff của bản thân, mỗi trận chiến kích hoạt tối đa 1 lần.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784542688152.png\"></td>\n<td>\n<h2>Common Key·Bền Bỉ Trường Kỳ</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p>Khi có Yểm hộ, miễn nhiễm 1 lần di chuyển cưỡng chế, hồi chiêu 1 hiệp.</p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784542703395.png\"></td>\n<td>\n<h2>Expansion Key·Cốt Lõi Phòng Thủ Tuyệt Đối</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong> <img src=\"https://gf2.mcc.wiki/image/misc/Icon_Crit.png\" width=\"17\" height=\"17\">Chí mạng 5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi dùng kỹ năng chủ động Yểm Hộ Hoàn Hảo, bản thân nhận Phòng Thủ Tuyệt Đối.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Support*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Phòng thủ của mọi đồng minh có Yểm hộ tăng 5%. Không cộng dồn.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*8 Support*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*9 Support*4 Sentinel*1&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*11 Support*6 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi không được vật cản che chắn, sát thương phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*15 Support*7 Sentinel*2&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;HP tối đa tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*18 Support*8 Sentinel*3&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi Chỉ số ổn định lớn hơn 0 điểm, đồng minh (không gồm bản thân) chịu sát thương giảm 2%, cộng dồn tối đa 3 tầng.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763803456164.png\"></td>\n<td>\n<h1><strong>Guerno &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10004\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng trường tấn công/Medium Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng trường tấn công hiệu năng cao, dễ dàng ứng phó mọi tình huống thực chiến. Mang tên Nữ Thần Chiến Binh Valkyrie Groza, hẳn nó cũng mong được người cao khiết cầm trong tay.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Nhật ký viễn hành</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=233&amp;hash_flag=2\"><img style=\"display: block; margin: 0 auto\" src=\"https://community.cdn.sunborngame.com/prod/image/1717560665236.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll tinh anh chín chắn điềm đạm, xứng đáng là hạt nhân của tiểu đội. Dù các thành viên tiểu đội tính cách khác biệt, cô vẫn thống hợp sức mạnh của mọi người rất tốt. Chỉ cần có cô ở đó, mọi chuyện đều không thành vấn đề.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567519530.png\"></p>\n<p>Hot Spring Vacation Voucher</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567551202.png\"></p>\n<p>Exhibition Hall Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567593548.png\"></p>\n<p>Museum Souvenir</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567620495.png\"></p>\n<p>Theater Discount Coupon</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567645754.png\" style=\"max-width: 100px\"></p>\n<p>Concert Ticket</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567671166.png\" style=\"max-width: 100px\"></p>\n<p>Camping Gear</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567697219.png\" style=\"max-width: 100px\"></p>\n<p>Ceramic Doll</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567716154.png\" style=\"max-width: 100px\"></p>\n<p>Cookie Cutter</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778316591112.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316591136.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316591134.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316591111.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778316679719.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316663838.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316679708.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316654933.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316654967.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316654812.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316654931.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316654932.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316654970.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778316663831.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/emoji/达咩.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727091950803.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092281092.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092292504.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092345617.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1727092381958.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779165243124.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1219,
+      "title": "Thường ngày-01",
+      "text": "Lịch trình hôm nay vẫn chưa hoàn thành. Ngài có cần xem lại ngay bây giờ không, Chỉ huy?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Daily_002.wav"
+    },
+    {
+      "id": 1222,
+      "title": "Thường ngày-02",
+      "text": "Mối quan hệ tin cậy vững chắc sẽ mang lại chiến thắng hoàn hảo.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Daily_005.wav"
+    },
+    {
+      "id": 1223,
+      "title": "Thường ngày-03",
+      "text": "Chỉ huy, Mayling đang tìm bộ sưu tập của cô ấy, ngài có thấy—— xin hỏi, thứ ngài giấu sau lưng là gì vậy?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Daily_006.wav"
+    },
+    {
+      "id": 1226,
+      "title": "Thường ngày-04",
+      "text": "Thu chi tháng này cân bằng. Thở phào chưa? Có thể thoải mái hơn một chút rồi, Chỉ huy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Daily_009.wav"
+    },
+    {
+      "id": 1227,
+      "title": "Thường ngày-05",
+      "text": "Là bộ trà cụ đặt làm mới. Chỉ huy, nghỉ ngơi một chút, uống tách trà nhé?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Daily_010.wav"
+    },
+    {
+      "id": 1228,
+      "title": "Nâng cấp-01",
+      "text": "Đã rõ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Up_001.wav"
+    },
+    {
+      "id": 1229,
+      "title": "Nâng cấp-02",
+      "text": "Mạnh lên rồi……?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Up_002.wav"
+    },
+    {
+      "id": 1230,
+      "title": "Nâng cấp-03",
+      "text": "Thuần thục hơn nhiều.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Up_003.wav"
+    },
+    {
+      "id": 1231,
+      "title": "Nâng cấp-04",
+      "text": "Vô cùng cảm ơn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Up_004.wav"
+    },
+    {
+      "id": 1234,
+      "title": "Nâng cấp-05",
+      "text": "Đã sẵn sàng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Up_007.wav"
+    },
+    {
+      "id": 1236,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Title_001.wav"
+    },
+    {
+      "id": 1237,
+      "title": "Đăng nhập",
+      "text": "Gấp vậy sao?……Đừng lo. Groza, sẵn lòng phục vụ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Login_001.wav"
+    },
+    {
+      "id": 1238,
+      "title": "Tâm sự-01",
+      "text": "Hửm?—— Hoan nghênh đến quấy rầy. Vậy thì, xin tuân lệnh, Chỉ huy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 1239,
+      "title": "Tâm sự-02",
+      "text": "Để tôi đoán thử……biểu cảm này, có phải gặp rắc rối không?……À, trước đây tôi cũng từng nói câu tương tự?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 1241,
+      "title": "Tâm sự-03",
+      "text": "Đêm khuya tăng ca rất hợp để nạp calo cao, miếng bánh này thế nào? Yên tâm, lần này tôi đã kiềm chế ham muốn sáng tạo.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 1243,
+      "title": "Tâm sự-04",
+      "text": "Thời gian ban đêm rất hợp để tập trung vào việc của mình. Nhưng cùng Chỉ huy trải qua cũng là một lựa chọn không tồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 1244,
+      "title": "Tâm sự-05",
+      "text": "Chỉ huy, gần đây tôi nghiên cứu cách làm bánh sô-cô-la mới, thành phẩm thử nghiệm trông khá ổn……đã nhờ Mayling xác nhận hương vị. Chỉ huy, mời nếm thử.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 1246,
+      "title": "Tâm sự-06",
+      "text": "Nhiệt độ đêm qua là 4 độ C, với Chỉ huy thì thuộc phạm trù \"lạnh\". Chỉ huy, ngài đã giữ ấm chưa? Khăn quàng mới mua đã về rồi, đang ở phòng chỉ huy. Khi đêm xuống lạnh, tôi sẽ nhắc ngài quàng vào.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Friendliness_009.wav"
+    },
+    {
+      "id": 1249,
+      "title": "Tâm sự-07",
+      "text": "Được ngài tin tưởng……là vinh hạnh của tôi. Từ nay xin cứ tiếp tục dựa vào tôi, Chỉ huy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Friendliness_012.wav"
+    },
+    {
+      "id": 1250,
+      "title": "Tâm sự-08",
+      "text": "Tôi……? Cần gì—— chẳng phải Chỉ huy luôn biết sao? Từ khi tôi gia nhập đội của Chỉ huy, những gì tôi cần, cuối cùng Chỉ huy đều ban cho tôi. Bây giờ, tôi chỉ mong……sự bình yên của khoảnh khắc này có thể kéo dài mãi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Friendliness_013.wav"
+    },
+    {
+      "id": 1252,
+      "title": "Vào đội",
+      "text": "Mọi thứ đều trong tầm kiểm soát, có tôi ở đây, Chỉ huy không cần lo.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Obtain_SR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 742,
+      "title": "Ngữ khí-01",
+      "text": "Hửm?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 743,
+      "title": "Ngữ khí-02",
+      "text": "Ừm.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 744,
+      "title": "Ngữ khí-03",
+      "text": "Hà.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 745,
+      "title": "Ngữ khí-04",
+      "text": "Đã hiểu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 746,
+      "title": "Ngữ khí-05",
+      "text": "Ở đây.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 747,
+      "title": "Ngữ khí-06",
+      "text": "Xác nhận mục tiêu.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 748,
+      "title": "Ngữ khí-07",
+      "text": "Chạy thoát được sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 749,
+      "title": "Ngữ khí-08",
+      "text": "Hành động.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Tone_Positive_008.wav"
+    },
+    {
+      "id": 750,
+      "title": "Ngữ khí-09",
+      "text": "Kết thúc đi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Tone_Positive_009.wav"
+    },
+    {
+      "id": 751,
+      "title": "Ngữ khí-10",
+      "text": "Sơ hở!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Series_Tone_Positive_010.wav"
+    },
+    {
+      "id": 754,
+      "title": "Kỹ năng-01",
+      "text": "Yểm hộ cứ giao cho tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Skill_001.wav"
+    },
+    {
+      "id": 755,
+      "title": "Kỹ năng-02",
+      "text": "Còn kẻ nào muốn kháng cự?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Skill_002.wav"
+    },
+    {
+      "id": 756,
+      "title": "Kỹ năng-03",
+      "text": "Khai hỏa!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Hit_001.wav"
+    },
+    {
+      "id": 760,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Bắt đầu phá nổ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Ultimate_SR_001.wav"
+    },
+    {
+      "id": 757,
+      "title": "Hạ gục",
+      "text": "Dọn dẹp hoàn tất.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Kill_001.wav"
+    },
+    {
+      "id": 758,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Nhiệm vụ kết thúc. Các vị, giữ cảnh giác. Chưa về đến nơi an toàn thì chưa được thả lỏng.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Win_001.wav"
+    },
+    {
+      "id": 759,
+      "title": "Kết thúc trận-Thua",
+      "text": "Rút lui! Mọi người đều ổn chứ?……Chỉnh đốn lại một chút, đó là phán đoán cần thiết.……Cũng, sẽ không còn……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/GrozaCV/VO_Groza_Single_Lose_001.wav"
+    }
+  ]
+}

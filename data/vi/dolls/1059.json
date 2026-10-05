@@ -1,0 +1,378 @@
+{
+  "id": 1059,
+  "name": "Lind",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1766044716801.png",
+  "icon": 0,
+  "sort": 0,
+  "attr_id": 5,
+  "role_id": 4,
+  "team_id": 11,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Corrosion",
+  "team": "Frostfall Squad",
+  "weapon": "Auto-12",
+  "model": "SST-05",
+  "ammo_model": "SG",
+  "desc": "T-Doll bề ngoài trông nóng nảy nhưng thực chất nội tâm nhạy cảm, thường ép bản thân làm những việc mình không giỏi rồi lại rơi vào tự ghét bỏ. Thích thức khuya nghe đài đêm khuya, nếu không nạp đường kịp thời thì dễ buồn nôn. Rất ghét bạo lực thô bạo, nhưng cô cho rằng vũ khí chỉ là một phương tiện giải quyết văn minh và hiệu quả, nên việc dùng súng không nằm trong phạm vi đó.\n“Nạp quá nhiều đường sẽ bị trục trặc, nhưng không nạp thì tôi sẽ hỏng ngay lập tức, nên vẫn cứ ăn thôi... Ưm. Chỉ huy cũng muốn một miếng không?”",
+  "portrait": {
+    "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/琳德pc端.png",
+    "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/琳德移动端.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1777013946671.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1777013955253.png"
+  },
+  "skins": [
+    {
+      "id": 8,
+      "name": "Mặt Trời Không Bao Giờ Mọc",
+      "pc": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/琳德pc.png",
+      "mobile": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/琳德移动.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215425717.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215446405.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1768215458623.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Thái Na</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Honda Mariko</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=69\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong>Tấn công：</strong>836</td>\n<td style=\"text-align: center\"><strong>Chỉ số ổn định：</strong>9</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phòng thủ：</strong>519</td>\n<td style=\"text-align: center\"><strong>Điểm hành động：</strong>5</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>HP：</strong>1859</td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo Electric</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Thường·Đòn Ghê Tởm",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546747370.png\"></p>\n</td>\n<td>\n<p>Đả Kích Chán Ghét Lv.1</p>\n<p>Đánh thường/Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764401326967.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span>, gây <span style=\"color: #ff9900\">80%</span> Tấn công sát thương Physical.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Xâm Nhập Cường Thế",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1784546771832.png\" style=\"max-width: 70px\"></p>\n</td>\n<td>\n<p>Cường Thế Tẩm Tập Lv.1</p>\n<p>Chủ động/Diện rộng/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764401401328.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<div>\n<p>Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây sát thương Corrosion diện rộng bằng <span style=\"color: #ff9900\">100%</span> Tấn công lên mọi mục tiêu trong hình quạt góc nhỏ <span style=\"color: #ff9900\">6 ô</span> phía trước; cứ mỗi <span style=\"color: #ff9900\">1</span> debuff, sát thương gây ra tăng <span style=\"color: #ff9900\">5%</span>, tối đa không quá <span style=\"color: #ff9900\">30%</span>. Trước kỹ năng, gây <span style=\"color: #ff9900\">1</span> debuff mạnh ngẫu nhiên lên kẻ địch trong phạm vi hiệu lực; sau kỹ năng, bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index.</p>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Phân Rã Quá Khích",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546788736.png\"></p>\n</td>\n<td>\n<p>Quá Kích Băng Giải Lv.1</p>\n<p>Chủ động/Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764401479839.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Gây sát thương Corrosion diện rộng bằng 100% Tấn công lên mọi kẻ địch trong bán kính 6 ô quanh bản thân. Nếu trước kỹ năng bản thân đầy Infection Index, cứ mỗi 1 tầng Ngâm Đường, hệ số sát thương tăng 5%.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định: 2 Tiêu hao Infection: 4</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết Thắng·Quá Tải Đường",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546802992.png\"></p>\n</td>\n<td>\n<p>Quá Tải Đường Phần Lv.1</p>\n<p>Quyết thắng/Diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764401565443.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Gây Nhiễm Toan Ceton lên mọi kẻ địch trong bán kính 8 ô quanh bản thân, duy trì 1 hiệp. Sau kỹ năng, kích hoạt các debuff loại Corrosion mà mọi kẻ địch trong phạm vi hiệu lực đang có. Sau kỹ năng có thể dùng kỹ năng chủ động Cường Thế Tẩm Tập, kỹ năng chủ động Quá Kích Băng Giải hoặc đánh thường Đả Kích Chán Ghét.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Kho Dự Trữ Đồ Ngọt",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546817206.png\"></p>\n</td>\n<td>\n<p>Dự Trữ Đồ Ngọt Lv.1</p>\n<p>Bị động/Debuff</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1764401648276.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Khi kết thúc hành động, nhận 1 điểm Infection Index. Khi bắt đầu hiệp, gây Bẫy Mật Đường lên mọi kẻ địch trong toàn sân, hồi chiêu 1 hiệp. Khi kẻ địch có Bẫy Mật Đường chết hoặc đồng minh gây sát thương Corrosion, bản thân nhận 1 tầng Ngâm Đường. Khi bản thân có ≥ 5 tầng Ngâm Đường, trước khi tấn công kẻ địch có Bẫy Mật Đường, kích hoạt hiệu ứng Bẫy Mật Đường, sau khi kích hoạt Bẫy Mật Đường biến mất.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp kỹ năng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng Phân đoạn</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu ứng kỹ năng thêm</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\"><strong>Dự Trữ Đồ Ngọt Lv.2</strong></td>\n<td style=\"text-align: center\">Khi bắt đầu chiến đấu, cứ mỗi <span style=\"color: #ff9900\">1</span> T-Doll đồng minh trên sân, bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Ngâm Đường. Giới hạn Ngâm Đường tăng lên <span style=\"color: #ff9900\">30 tầng</span>. Tăng hiệu quả Ngâm Đường, sát thương Corrosion gây ra tăng thêm lên <span style=\"color: #ff9900\">2%</span>.</td>\n<td style=\"text-align: center\">Khi kết thúc hành động, nhận <span style=\"color: #ff9900\">1 điểm</span> <span style=\"color: #00ccff\">Infection Index</span>. Khi bắt đầu hiệp, gây Bẫy Mật Đường lên mọi kẻ địch trong toàn sân, hồi chiêu <span style=\"color: #ff9900\">1 hiệp</span>. Khi bắt đầu chiến đấu, cứ mỗi <span style=\"color: #ff9900\">1</span> T-Doll đồng minh trên sân, bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Ngâm Đường; Khi kẻ địch có Bẫy Mật Đường chết hoặc đồng minh gây sát thương Corrosion, bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Ngâm Đường. Khi bản thân có ≥ <span style=\"color: #ff9900\">5 tầng</span> Ngâm Đường, trước khi tấn công kẻ địch có Bẫy Mật Đường, kích hoạt hiệu ứng Bẫy Mật Đường, sau khi kích hoạt Bẫy Mật Đường biến mất.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td style=\"text-align: center\"><strong>Quá Tải Đường Phần Lv.2</strong></td>\n<td style=\"text-align: center\">Sát thương của lần dùng kỹ năng chủ động kế tiếp tăng <span style=\"color: #ff9900\">15%</span>. Sửa hiệu quả Nhiễm Toan Ceton: sát thương Corrosion nhận từ Lind tăng thêm lên <span style=\"color: #ff9900\">12%</span>, tối đa tăng lên <span style=\"color: #ff9900\">72%</span>.</td>\n<td style=\"text-align: center\">Gây Nhiễm Toan Ceton lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Sau kỹ năng, kích hoạt các debuff loại Corrosion mà mọi kẻ địch trong phạm vi hiệu lực đang có. Sát thương của lần dùng kỹ năng chủ động kế tiếp tăng <span style=\"color: #ff9900\">15%</span>. Sau kỹ năng có thể dùng kỹ năng chủ động Cường Thế Tẩm Tập, kỹ năng chủ động Quá Kích Băng Giải hoặc đánh thường Đả Kích Chán Ghét.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 3</strong></td>\n<td style=\"text-align: center\"><strong>Dự Trữ Đồ Ngọt Lv.3</strong></td>\n<td style=\"text-align: center\">Gây Bẫy Mật Đường khi bắt đầu hiệp, không còn thời gian hồi chiêu. Khi kích hoạt Bẫy Mật Đường, số debuff mạnh ngẫu nhiên được gây tăng thêm <span style=\"color: #ff9900\">3</span>, đồng thời hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>, sát thương chí mạng tăng <span style=\"color: #ff9900\">15%</span>.</td>\n<td style=\"text-align: center\">Khi kết thúc hành động, nhận <span style=\"color: #ff9900\">1 điểm</span> <span style=\"color: #00ccff\">Infection Index</span>. Khi bắt đầu hiệp, gây Bẫy Mật Đường lên mọi kẻ địch trong toàn sân. Khi bắt đầu chiến đấu, cứ mỗi <span style=\"color: #ff9900\">1</span> T-Doll đồng minh trên sân, bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Ngâm Đường; Khi kẻ địch có Bẫy Mật Đường chết hoặc đồng minh gây sát thương Corrosion, bản thân nhận <span style=\"color: #ff9900\">1 tầng</span> Ngâm Đường. Khi bản thân có ≥ <span style=\"color: #ff9900\">5 tầng</span> Ngâm Đường, trước khi tấn công kẻ địch có Bẫy Mật Đường, kích hoạt hiệu ứng Bẫy Mật Đường, sau khi kích hoạt Bẫy Mật Đường biến mất.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Cường Thế Tẩm Tập Lv.2</strong></td>\n<td style=\"text-align: center\">Gây <span style=\"color: #ff9900\">2 tầng</span> Phụ Thuộc Giải Phóng Chậm lên mục tiêu kẻ địch. Tăng phạm vi hiệu lực của kỹ năng. Cứ mỗi <span style=\"color: #ff9900\">1</span> debuff, sát thương của kỹ năng lần này tăng <span style=\"color: #ff9900\">10%</span>, tối đa không quá <span style=\"color: #ff9900\">60%</span>.</td>\n<td style=\"text-align: center\">Chọn <span style=\"color: #ff9900\">1</span> hướng xung quanh, gây sát thương Corrosion diện rộng bằng <span style=\"color: #ff9900\">100%</span> Tấn công lên mọi mục tiêu trong hình quạt <span style=\"color: #ff9900\">6 ô</span> phía trước, và gây <span style=\"color: #ff9900\">2 tầng</span> Phụ Thuộc Giải Phóng Chậm. Cứ mỗi <span style=\"color: #ff9900\">1</span> debuff, sát thương gây ra tăng <span style=\"color: #ff9900\">10%</span>, tối đa không quá <span style=\"color: #ff9900\">60%</span>. Trước kỹ năng, gây <span style=\"color: #ff9900\">1</span> debuff mạnh ngẫu nhiên lên kẻ địch trong phạm vi hiệu lực; sau kỹ năng, bản thân nhận <span style=\"color: #ff9900\">2 điểm</span> Infection Index.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 5</strong></td>\n<td style=\"text-align: center\"><strong>Quá Kích Băng Giải Lv.2</strong></td>\n<td style=\"text-align: center\">Hệ số sát thương tăng lên <span style=\"color: #ff9900\">120%</span>, sát thương ổn định gây ra tăng <span style=\"color: #ff9900\">1 điểm</span>. Nếu trước kỹ năng bản thân đầy <span style=\"color: #00ccff\">Infection Index</span>, sát thương chí mạng tăng <span style=\"color: #ff9900\">20%</span>, đồng thời cứ mỗi <span style=\"color: #ff9900\">1 tầng</span> Ngâm Đường của bản thân, hệ số sát thương tăng thêm lên <span style=\"color: #ff9900\">10%</span>.</td>\n<td style=\"text-align: center\">Gây sát thương Corrosion diện rộng bằng <span style=\"color: #ff9900\">120%</span> Tấn công lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 6 ô</span> quanh bản thân. Nếu trước kỹ năng bản thân đầy Infection Index, sát thương chí mạng tăng <span style=\"color: #ff9900\">20%</span>, đồng thời cứ mỗi <span style=\"color: #ff9900\">1 tầng</span> Ngâm Đường có, hệ số sát thương tăng <span style=\"color: #ff9900\">10%</span>.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong>Phân đoạn 6</strong></td>\n<td style=\"text-align: center\"><strong>Quá Tải Đường Phần Lv.3</strong></td>\n<td style=\"text-align: center\">Sau kỹ năng, bản thân nhận <span style=\"color: #ff9900\">3 điểm</span> <span style=\"color: #00ccff\">Infection Index</span>; nếu bản thân có <span style=\"color: #ff9900\">10 tầng</span> Ngâm Đường, thời gian hồi chiêu của kỹ năng này giảm <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n<td style=\"text-align: center\">Gây Nhiễm Toan Ceton lên mọi kẻ địch trong <span style=\"color: #ff9900\">bán kính 8 ô</span> quanh bản thân, duy trì <span style=\"color: #ff9900\">1 hiệp</span>. Sau kỹ năng, kích hoạt các debuff loại Corrosion mà mọi kẻ địch trong phạm vi hiệu lực đang có. Sát thương của lần dùng kỹ năng chủ động kế tiếp tăng <span style=\"color: #ff9900\">15%</span>. Sau kỹ năng có thể dùng kỹ năng chủ động Cường Thế Tẩm Tập, kỹ năng chủ động Quá Kích Băng Giải hoặc đánh thường Đả Kích Chán Ghét, đồng thời bản thân nhận <span style=\"color: #ff9900\">3 điểm</span> Infection Index; nếu bản thân có <span style=\"color: #ff9900\">10 tầng</span> Ngâm Đường, thời gian hồi chiêu của kỹ năng này giảm <span style=\"color: #ff9900\">1 hiệp</span>.</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546859274.png\"></td>\n<td>\n<h2>Contract Key·Cuối Đêm Dài</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860759207.png\" width=\"20\" height=\"20\"></sub>Tấn công +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764401768694.png\" width=\"20\"></sub>HP +3% <sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860789195.png\" width=\"20\" height=\"20\"></sub>Sát thương Chí mạng 3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>▶ Đạt cấp Affinity <span style=\"color: #ff6600\">5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546874198.png\"></td>\n<td>\n<h2>Fixed Key·Cảm Nhận Đau Đớn</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu hiệp, nhận Khiên tác dụng nhanh.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546887890.png\"></td>\n<td>\n<h2>Fixed Key·Nhạy Bén Của Cú Đêm</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Sau khi dùng kỹ năng chủ động Cường Thế Tẩm Tập hoặc kỹ năng chủ động Quá Kích Băng Giải, nhận 5 ô Thêm di chuyển.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546901661.png\"></td>\n<td>\n<h2>Fixed Key·Lời Mời Từ Đài Phát Thanh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Chọn 1 T-Doll đồng minh trong toàn sân, trong trận này T-Doll đó không thể di chuyển và dùng kỹ năng chủ động, nhưng Phòng thủ của toàn thể kẻ địch giảm 15%, kéo dài đến khi T-Doll đồng minh đó chết. Bản thân nhận Thêm di chuyển và có thể dùng một lần chỉ lệnh.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546915632.png\"></td>\n<td>\n<h2>Fixed Key·Phán Quyết Của Văn Minh</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Nếu kỹ năng chủ động Quá Kích Băng Giải chỉ trúng 1 kẻ địch, sát thương lên nó tăng 30%.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546927447.png\"></td>\n<td>\n<h2>Fixed Key·Chữa Lành Bằng Đồ Ngọt</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bản thân có Ngâm Đường, trước khi tấn công xua tan 1 debuff của bản thân.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546939427.png\"></td>\n<td>\n<h2>Fixed Key·Phản Ứng Cai Nghiện</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<p>Trước khi dùng kỹ năng Quyết thắng Quá Tải Đường Phần, nhận Tăng chí mạng II, duy trì 2 hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1784546965535.png\"></td>\n<td>\n<h2>Common Key·Đêm Khuya Không Bao Giờ Hết</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1764402040796.png\" width=\"20\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>Khi tấn công kẻ địch có debuff, sát thương dị vị gây ra tăng 10%.</p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Expansion Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img style=\"display: block; margin: 0 auto\" src=\"https://community-cdn.exiliumgf.com/prod/1779153470719.png\"></td>\n<td>\n<h2>Expansion Key·Đạn Pháo Bọc Đường</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu chiến đấu, nhận 5 tầng Ngâm Đường.<br>Khi kỹ năng Quyết thắng Quá Tải Đường Phần kích hoạt debuff loại Corrosion của kẻ địch, sát thương nó nhận tăng <span style=\"color: #ff9900\">50%</span>.<br>Hệ số sát thương của kỹ năng chủ động Quá Kích Băng Giải tăng thêm <span style=\"color: #ff9900\">65%</span>, sát thương ổn định gây ra tăng thêm <span style=\"color: #ff9900\">2 điểm</span>.<br>Sát thương do Bẫy Mật Đường gây ra tăng <span style=\"color: #ff9900\">100%</span>, sát thương ổn định gây ra tăng lên <span style=\"color: #ff9900\">3 điểm</span>.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">&nbsp;Vanguard*1 Sentinel*5&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch có debuff loại Corrosion tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*1 Vanguard*2 Sentinel*7&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*2 Vanguard*3 Sentinel*8&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương Corrosion gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*3 Vanguard*4 Sentinel*11&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*4 Vanguard*4 Sentinel*15&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">&nbsp;Bulwark*5 Vanguard*6 Sentinel*18&nbsp;</td>\n<td style=\"text-align: center\">&nbsp;Khi tấn công trúng từ 2 đơn vị kẻ địch trở lên, sát thương gây ra tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1763894846565.png\"></td>\n<td>\n<h1><strong>Quy Tắc Gai Nhọn &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10593\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">Súng shotgun/Shotgun Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Súng shotgun hiệu năng cao được cấp cho Lind, lấy Súng shotgun tự động Atchisson 12 làm nguyên mẫu, trải qua nâng cấp cải tạo toàn diện, thể hiện sức phá hủy khủng khiếp trong chiến đấu cự ly gần. Dựng gai nhọn lên vừa là cách tự bảo vệ, vừa là vũ khí phản công sắc bén.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶ Mua sắm định hướng</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "<table>\n<tbody>\n<tr>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=75357&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1750215616378.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=75133&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1750152193047.png\"></a></td>\n<td><a href=\"https://gf2-bbs.exiliumgf.com/threadInfo?id=75221&amp;hash_flag=2\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1750215677575.png\"></a></td>\n</tr>\n</tbody>\n</table>",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<p>&nbsp; T-Doll thử nghiệm ra đời từ thử nghiệm lâm sàng, nổi bật nhờ khả năng xạ kích xuất sắc và hỏa lực mạnh mẽ, gia nhập P.M.C. lớn Griffin trước đây, sau đó khi Griffin trải qua giải thể và tái cơ cấu thì chọn ở lại, hiện hoạt động trong Tiểu đội Sương Giáng do Qiongjiu dẫn dắt.</p>\n<p><br>&nbsp; Cùng với việc đài phát thanh đêm khuya \"Văn phòng tâm sự\" biến mất, kinh phí đồ ngọt bị cắt giảm và các mối quan hệ thay đổi, chứng phụ thuộc nặng của Lind từng khiến triệu chứng lo âu nặng thêm một thời gian, nhưng chỉ cần có đồng đội sẵn lòng lắng nghe bên cạnh, Lind vẫn sẽ bước những bước vững vàng hướng đến ngày mai hiển nhiên.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569640256.png\"></p>\n<p>Succulent Plant Pot</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569664753.png\"></p>\n<p>Precious Book</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569681031.png\"></p>\n<p>Classical Record</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569706769.png\"></p>\n<p>Stone Decoration</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569748101.png\" style=\"max-width: 100px\"></p>\n<p>Simple Photo Frame</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569759989.png\" style=\"max-width: 100px\"></p>\n<p>Obshare Plushie</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569777567.png\" style=\"max-width: 100px\"></p>\n<p>Art Posters</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569804417.png\" style=\"max-width: 100px\"></p>\n<p>Dinergate Model</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778237509738.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778237516780.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778237530837.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778237530810.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778237530844.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778237750203.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778237750325.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778237750326.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1778237750327.png\"></p>"
+    },
+    {
+      "name": "Biểu cảm",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/image/1750042718339.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1750042731265.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1750042744494.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1750042757689.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1750042771057.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1750042785932.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1750042803806.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1750042816257.png\" style=\"max-width: 150px\"><img src=\"https://community-cdn.exiliumgf.com/prod/image/1750042825220.png\" style=\"max-width: 150px\"></p>"
+    },
+    {
+      "name": "Hình nền",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1779165555156.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165621778.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165621910.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165621911.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165621947.png\"> <img src=\"https://community-cdn.exiliumgf.com/prod/1779165653647.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 690,
+      "title": "Thường ngày-01",
+      "text": "Ăn nhiều đường quá thì sẽ hỏng, nhưng không ăn thì giờ tôi sẽ hỏng ngay, nên vẫn cứ ăn thôi…… Ưm.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Daily_001.wav"
+    },
+    {
+      "id": 691,
+      "title": "Thường ngày-02",
+      "text": "Sao cứ nhìn tôi mãi thế…… Chậc, tôi không giỏi mấy chuyện này đâu, đi tìm T-Doll khác đi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Daily_002.wav"
+    },
+    {
+      "id": 692,
+      "title": "Thường ngày-03",
+      "text": "Sao T-Doll cũng nghĩ lắm thế chứ, tôi giờ lo lắng muốn chết đây này! Hù…… May quá, vẫn còn đường để ăn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Daily_003.wav"
+    },
+    {
+      "id": 693,
+      "title": "Thường ngày-04",
+      "text": "Sao vậy? Nếu tâm trạng không tốt thì thử cái kẹo mút này đi, đây.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Daily_004.wav"
+    },
+    {
+      "id": 694,
+      "title": "Thường ngày-05",
+      "text": "Đêm qua trên đài phát thanh tôi nghe được không ít chuyện về anh/chị đấy, nào, kể tôi nghe xem, rốt cuộc có bao nhiêu phần là thật……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Daily_005.wav"
+    },
+    {
+      "id": 695,
+      "title": "Nâng cấp-01",
+      "text": "Cũng tạm……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Up_001.wav"
+    },
+    {
+      "id": 696,
+      "title": "Nâng cấp-02",
+      "text": "Tăng chức tăng lương thì tôi vẫn hoan nghênh lắm.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Up_002.wav"
+    },
+    {
+      "id": 697,
+      "title": "Nâng cấp-03",
+      "text": "Cậu đang mong đợi gì thế?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Up_003.wav"
+    },
+    {
+      "id": 698,
+      "title": "Nâng cấp-04",
+      "text": "Tôi cũng khá mạnh đấy?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Up_004.wav"
+    },
+    {
+      "id": 699,
+      "title": "Nâng cấp-05",
+      "text": "Tôi sẽ nghiêm túc đây.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Up_005.wav"
+    },
+    {
+      "id": 700,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Title_001.wav"
+    },
+    {
+      "id": 701,
+      "title": "Đăng nhập",
+      "text": "Haa…… Là Chỉ huy à, anh/chị cũng thức đêm sao?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Login_001.wav"
+    },
+    {
+      "id": 702,
+      "title": "Tâm sự-01",
+      "text": "Được rồi…… Tôi thừa nhận, kẹo anh/chị đưa đúng là khá ngọt.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Friendliness_001.wav"
+    },
+    {
+      "id": 703,
+      "title": "Tâm sự-02",
+      "text": "Sao cứ tốt với tôi mãi thế, hơi kỳ…… Anh/chị không có ý đồ gì chứ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Friendliness_002.wav"
+    },
+    {
+      "id": 704,
+      "title": "Tâm sự-03",
+      "text": "Nói trước nhé, tôi không nói mấy lời sến súa đó đâu, anh/chị có thể sẽ thất vọng đấy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Friendliness_003.wav"
+    },
+    {
+      "id": 705,
+      "title": "Tâm sự-04",
+      "text": "Chỉ huy, anh/chị có nghe đài phát thanh đêm khuya không? Ồ…… Không nghe à, không có gì, thật ra anh/chị có thể thử…… nghe một lần.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Friendliness_004.wav"
+    },
+    {
+      "id": 706,
+      "title": "Tâm sự-05",
+      "text": "Chú ý lời nói và hành động của mình một chút đi, Chỉ huy, đừng làm mấy chuyện khiến tôi nghĩ nhiều nữa.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Friendliness_005.wav"
+    },
+    {
+      "id": 707,
+      "title": "Tâm sự-06",
+      "text": "Sao đêm qua lại không trả lời bài đăng của tôi? Anh/chị nói giờ giấc…… Ồ, giờ đó, hình như đúng là anh/chị đang ngủ.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Friendliness_006.wav"
+    },
+    {
+      "id": 708,
+      "title": "Tâm sự-07",
+      "text": "Tôi luôn lệ thuộc vào những thứ có thể làm dịu nỗi lo của mình…… Không, không có gì, ai bảo anh/chị nghe lén……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Friendliness_007.wav"
+    },
+    {
+      "id": 709,
+      "title": "Tâm sự-08",
+      "text": "Anh/chị đi đâu thế? Mau quay lại, không thì tôi sẽ chết mất. Chứng phụ thuộc là như vậy đấy, anh/chị mới quen tôi à?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Friendliness_008.wav"
+    },
+    {
+      "id": 711,
+      "title": "Vào đội",
+      "text": "Bỏ cái màn tự giới thiệu nghiêm túc đến phát ngán đó đi, có phải ngày đầu quen biết đâu…… Tên à? Cứ gọi tôi là Lind.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Obtain_SSR_001.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 416,
+      "title": "Ngữ khí-01",
+      "text": "Cần bổ sung chút đường không?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Tone_Positive_001.wav"
+    },
+    {
+      "id": 417,
+      "title": "Ngữ khí-02",
+      "text": "Giải quyết một cách văn minh đi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Tone_Positive_002.wav"
+    },
+    {
+      "id": 418,
+      "title": "Ngữ khí-03",
+      "text": "Kinh quá.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Tone_Positive_003.wav"
+    },
+    {
+      "id": 419,
+      "title": "Ngữ khí-04",
+      "text": "Mau chọn đi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Tone_Positive_004.wav"
+    },
+    {
+      "id": 420,
+      "title": "Ngữ khí-05",
+      "text": "Đến đây——",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Tone_Positive_005.wav"
+    },
+    {
+      "id": 421,
+      "title": "Ngữ khí-06",
+      "text": "Ồ?",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Tone_Positive_006.wav"
+    },
+    {
+      "id": 422,
+      "title": "Ngữ khí-07",
+      "text": "Có gì nói nhanh.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Tone_Positive_007.wav"
+    },
+    {
+      "id": 423,
+      "title": "Ngữ khí-08",
+      "text": "Thiếu đường……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Tone_Negative_001.wav"
+    },
+    {
+      "id": 424,
+      "title": "Ngữ khí-09",
+      "text": "Thật tuyệt vọng……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Tone_Negative_002.wav"
+    },
+    {
+      "id": 425,
+      "title": "Ngữ khí-10",
+      "text": "Man rợ quá……",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Series_Tone_Negative_003.wav"
+    },
+    {
+      "id": 426,
+      "title": "Kỹ năng-01",
+      "text": "Để tôi cho anh/chị một cái chết nhanh gọn.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Skill_001.wav"
+    },
+    {
+      "id": 427,
+      "title": "Kỹ năng-02",
+      "text": "Chậc, phiền chết đi được.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Skill_002.wav"
+    },
+    {
+      "id": 428,
+      "title": "Kỹ năng-03",
+      "text": "Tôi nghiêm túc đấy.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Hit_001.wav"
+    },
+    {
+      "id": 433,
+      "title": "Kỹ năng-04",
+      "text": "Đã bổ sung đủ đường.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Passive_SSR_001.wav"
+    },
+    {
+      "id": 432,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Kinh tởm chết đi được, biến mất vĩnh viễn đi!",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Ultimate_SSR_001.wav"
+    },
+    {
+      "id": 429,
+      "title": "Hạ gục",
+      "text": "Chết đi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Kill_001.wav"
+    },
+    {
+      "id": 430,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Hỏa lực dồi dào, đây là một trong số ít ưu điểm của tôi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Win_001.wav"
+    },
+    {
+      "id": 431,
+      "title": "Kết thúc trận-Thua",
+      "text": "Có lẽ tôi vốn không hợp với công việc này…… Hay là nghỉ việc luôn cho rồi.",
+      "url": "https://sunborn-community.oss-cn-beijing.aliyuncs.com/prod/wiki/LindCV/VO_Lind_Single_Lose_001.wav"
+    }
+  ]
+}

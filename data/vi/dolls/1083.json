@@ -1,0 +1,366 @@
+{
+  "id": 1083,
+  "name": "Agent",
+  "en_name": "",
+  "pic": "https://community-cdn.exiliumgf.com/prod/wiki/1789715208959.png",
+  "icon": 1,
+  "sort": 0,
+  "attr_id": 6,
+  "role_id": 4,
+  "team_id": 17,
+  "rarity_level": 5,
+  "rarity": "T-Doll SSR",
+  "role": "Sentinel",
+  "attr": "Hydro",
+  "team": "Sangvis Ferri",
+  "weapon": "",
+  "model": "AGENT",
+  "ammo_model": "MG",
+  "desc": "Nữ quản gia lạnh lùng nghiêm khắc của Sangvis Ferri, từng là sự tồn tại cao nhất dưới quyền chủ não Elisa. Nhờ sự cứu rỗi và chiêu mộ của ngài, cô dẫn dắt Sangvis Ferri gia nhập Griffin, từ đó trở thành hầu gái trung thành và mạnh mẽ nhất của ngài.\n“Chủ nhân, rác thải không thể tái chế quanh ngài hình như ngày càng nhiều, để tôi dọn sạch giúp nhé?……Hehe, chỉ là đùa thôi.”",
+  "portrait": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1789715215862.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1789715407691.png"
+  },
+  "modeling": {
+    "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1789986157505.png",
+    "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1789986163827.png"
+  },
+  "skins": [
+    {
+      "id": 89,
+      "name": "Đêm Tím U Ảnh",
+      "pc": "https://community-cdn.exiliumgf.com/prod/wiki/1789986189713.png",
+      "mobile": "https://community-cdn.exiliumgf.com/prod/wiki/1789986212288.png"
+    }
+  ],
+  "gifs": [
+    "https://community-cdn.exiliumgf.com/prod/wiki/1789726699272.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1789726706667.gif",
+    "https://community-cdn.exiliumgf.com/prod/wiki/1789726712397.gif"
+  ],
+  "cv": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Trung</p>\n</td>\n<td style=\"text-align: center\">\n<p>Trần Đình Đình</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p>CV tiếng Nhật</p>\n</td>\n<td style=\"text-align: center\">\n<p>Namume Hitomi</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\" colspan=\"2\"><strong><span style=\"color: #f26c1c\"><a style=\"color: #f26c1c\" href=\"https://gf2-bbs.exiliumgf.com/wiki/plot?id=156\">Xem PV nhân vật</a></span></strong></td>\n</tr>\n</tbody>\n</table>",
+  "prop": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859677671.png\" width=\"20\" height=\"20\"></sub><strong>Tấn công：</strong>854</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860031149.png\" width=\"20\" height=\"20\"></sub>Chỉ số ổn định：</strong>8</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859730621.png\" width=\"20\" height=\"20\"></sub><strong>Phòng thủ：</strong>504</td>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763859827989.png\" width=\"20\" height=\"20\"></sub>Điểm hành động：</strong>6</td>\n</tr>\n<tr>\n<td style=\"text-align: center\"><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1763860138667.png\" width=\"21\" height=\"21\"></sub>HP：</strong>1900<sub><br></sub></td>\n<td style=\"text-align: center\"><strong>Weakness：</strong>Heavy Ammo Electric</td>\n</tr>\n</tbody>\n</table>",
+  "skills": [
+    {
+      "name": "Đánh thường·Dọn Dẹp Mục Tiêu",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 75px\" src=\"https://community-cdn.exiliumgf.com/prod/1790043842076.png\"></p>\n</td>\n<td>\n<p>Dọn Dẹp Mục Tiêu Lv.1</p>\n<p>Đánh thường / Đơn mục tiêu</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1787909980517.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Chọn 1 kẻ địch trong bán kính 8 ô xung quanh, gây 80% sát thương Physical dựa trên Tấn công.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Sát thương ổn định：2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Dịch Vụ Dọn Bụi",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1790043916228.png\"></p>\n</td>\n<td>\n<p>Dịch Vụ Dọn Bụi Lv.1</p>\n<p>Chủ động / Triệu hồi</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1789973283418.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>Chọn 1 ô trống trong bán kính 8 ô xung quanh, triệu hồi Hầu Bóng, sau khi dùng kỹ năng nhận Thêm chỉ lệnh.</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection：3</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Chủ động·Ánh Máu Chiếu Rọi",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1790043935705.png\"></p>\n</td>\n<td>\n<p>Ánh Máu Chiếu Rọi Lv.1</p>\n<p>Chủ động / diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1789973843216.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>Gây 80% sát thương Hydro diện rộng bỏ qua vật cản lên toàn bộ kẻ địch trong bán kính 4 ô quanh bản thân, đồng thời tiêu hao toàn bộ Infection Index. Mỗi điểm Infection Index tiêu hao tăng hệ số sát thương thêm 10% và nhận 1 tầng Hình Phạt. Nếu tiêu hao 6 điểm Infection Index, sát thương gây ra tăng thêm 60% và sau kỹ năng nhận 5 tầng Virus Ô.</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao Infection：1&nbsp; Sát thương ổn định：2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Quyết thắng·Dọn Sạch Tuyệt Vực",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1789974176802.png\"></p>\n</td>\n<td>\n<p>Dọn Sạch Tuyệt Vực Lv.1</p>\n<p>Quyết thắng / diện rộng</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1789974347701.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>Chọn 1 hướng xung quanh, gây 160% sát thương Hydro diện rộng bỏ qua vật cản lên toàn bộ kẻ địch trong phạm vi 3×7 ô phía trước. Trước khi dùng kỹ năng, mỗi 1 tầng Hình Phạt nhận 1 tầng Tuyệt Phạt Bóng Nộ duy trì 1 đại hiệp, tối đa kích hoạt 1 lần mỗi hiệp. Sau kỹ năng, nếu đang có từ 3 tầng Hình Phạt trở lên thì tiêu hao 3 tầng Hình Phạt, giảm 1 hiệp hồi chiêu của kỹ năng này, nhận Thêm chỉ lệnh, và không thể dùng Đánh thường Dọn Dẹp Mục Tiêu, kỹ năng chủ động Dịch Vụ Dọn Bụi cùng Ánh Máu Chiếu Rọi trong 1 đại hiệp. Nếu không dùng kỹ năng này, khi kết thúc hành động sẽ hoàn trả Hình Phạt đã tiêu hao và kỹ năng vào hồi chiêu. Sau kỹ năng nhận 5 tầng Virus Ô; nếu trước kỹ năng đang có 15 tầng Virus Ô thì sau kỹ năng không nhận Virus Ô, hệ số sát thương nhân đôi và tiêu hao 15 tầng Virus Ô.</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Hồi chiêu (hiệp)：1&nbsp; Sát thương ổn định：2</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Bị động·Chiến Thuật Sangvis",
+      "html": "<table>\n<tbody>\n<tr>\n<td>\n<p><img style=\"display: block; margin: 0 auto; max-width: 70px\" src=\"https://community-cdn.exiliumgf.com/prod/1789974920080.png\"></p>\n</td>\n<td>\n<p>Chiến Thuật Sangvis Lv.1</p>\n<p>Bị động / Chủ động / Phản công</p>\n<div style=\"text-align: center\"><hr></div>\n</td>\n<td rowspan=\"3\">\n<p> <img src=\"https://community-cdn.exiliumgf.com/prod/1789974934652.png\"><br></p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n<p>Tiêu hao 1 điểm Infection Index để chủ động dùng kỹ năng này, chọn ô trống trong bán kính 2 ô quanh Hầu Bóng hoặc mục tiêu đang có Sangvis Override, đáp xuống ô đó và nhận Thêm chỉ lệnh. Tối đa dùng 3 lần mỗi hiệp.<br>Khi bắt đầu chiến đấu, áp dụng Dấu Dọn Bụi duy trì 1 đại hiệp lên 5 kẻ địch không phải Thủ lĩnh gần nhất trên toàn bản đồ, đồng thời áp dụng Sangvis Override lên 1 đơn vị máy móc không phải Thủ lĩnh gần nhất. Bản thân miễn nhiễm sát thương và sát thương cố định cho đến khi hiệu ứng này kết thúc.<br>Khi bắt đầu chiến đấu, bản thân nhận Sangvis; mỗi 1 Doll đồng minh đang có Sangvis hoặc Doll đồng minh hệ Hydro chưa có Sangvis trên sân, sát thương gây ra của bản thân tăng 16%, tối đa tăng 80%; mỗi 1 Doll đồng minh đang có Sangvis, toàn bộ Doll đồng minh đang có Sangvis nhận 1 tầng Liên Kết Đại Lý. Khi kết thúc đại hiệp, nhận 3 điểm Infection Index.<br>Trước khi dùng kỹ năng chủ động Ánh Máu Chiếu Rọi hoặc kỹ năng Quyết thắng Dọn Sạch Tuyệt Vực, hoặc khi kết thúc hành động, nếu trong bán kính 8 ô quanh bản thân tồn tại Hầu Bóng thì nhận 1 tầng Cộng Hưởng Hầu Cận, tối đa kích hoạt 1 lần mỗi đại hiệp.</p>\n<p>Nếu trong bán kính 8 ô quanh bản thân có kẻ địch gây sát thương lên đồng minh, thì phản công, gây 80% sát thương Hydro diện rộng bỏ qua vật cản và 2 điểm sát thương ổn định lên mục tiêu đó cùng toàn bộ kẻ địch trong bán kính 2 ô quanh nó; nếu mục tiêu không nằm trong bán kính 8 ô quanh Hầu Bóng thì Hầu Bóng không phản công, tối đa kích hoạt 1 lần mỗi đại hiệp.</p>\n<p>Trước khi dùng kỹ năng chủ động Ánh Máu Chiếu Rọi và kỹ năng Quyết thắng Dọn Sạch Tuyệt Vực, tạo ô địa hình Dòng Ngầm trong bán kính 4 ô quanh bản thân và Hầu Bóng, duy trì 2 hiệp. Mỗi khi nhận 1 tầng Virus Ô, sát thương Chí mạng của bản thân tăng 4%, tối đa tăng 40%.</p>\n</td>\n</tr>\n<tr>\n<td>\n</td>\n<td>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "battle_skill": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Cấp kỹ năng</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng Phân đoạn</strong></span></td>\n<td style=\"text-align: center\"><span style=\"color: #ff6600\"><strong>Hiệu ứng kỹ năng thêm</strong></span></td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 1</strong></td>\n<td style=\"text-align: center\">\n<p><strong>Dịch Vụ Dọn Bụi Lv.2</strong></p>\n</td>\n<td style=\"text-align: center\">\n<p>Giới hạn số lượng Hầu Bóng tăng lên 2.<br>Thêm hiệu ứng bị động: Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</td>\n<td style=\"text-align: center\">\n<p>Chọn 1 ô trống trong bán kính 8 ô xung quanh, triệu hồi Hầu Bóng, sau khi dùng kỹ năng nhận Thêm chỉ lệnh.<br>Bị động: Khi bắt đầu chiến đấu, nhận 3 điểm Infection Index.</p>\n</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 2</strong></td>\n<td><strong>Ánh Máu Chiếu Rọi Lv.2</strong></td>\n<td>Phạm vi hiệu lực tăng lên 5 ô, giới hạn tầng Hình Phạt tăng lên 6 tầng.</td>\n<td>Gây 80% sát thương Hydro diện rộng bỏ qua vật cản lên toàn bộ kẻ địch trong bán kính 5 ô quanh bản thân, đồng thời tiêu hao toàn bộ Infection Index. Mỗi điểm Infection Index tiêu hao tăng hệ số sát thương thêm 10% và nhận 1 tầng Hình Phạt. Nếu tiêu hao 6 điểm Infection Index, sát thương gây ra tăng thêm 60% và sau kỹ năng nhận 5 tầng Virus Ô.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 3</strong></td>\n<td><strong>Chiến Thuật Sangvis Lv.2</strong></td>\n<td>Số đơn vị bị áp dụng Dấu Dọn Bụi tăng lên 10.<br>Hiệu ứng Sangvis Override được bổ sung: Khi kết thúc hành động, hồi phục HP bằng 30% HP tối đa của bản thân.<br>Hiệu ứng Cộng Hưởng Hầu Cận được nâng cấp: Khi đồng minh trong bán kính 8 ô quanh bản thân gây sát thương Hydro lên kẻ địch, hoặc Doll đồng minh đang có Sangvis gây sát thương, sát thương Chí mạng tăng 5%.</td>\n<td>\n<p>Tiêu hao 1 điểm Infection Index để chủ động dùng kỹ năng này, chọn ô trống trong bán kính 2 ô quanh Hầu Bóng hoặc mục tiêu đang có Sangvis Override, đáp xuống ô đó và nhận Thêm chỉ lệnh. Tối đa dùng 3 lần mỗi hiệp.<br>Khi bắt đầu chiến đấu, áp dụng Dấu Dọn Bụi duy trì 1 đại hiệp lên 10 kẻ địch không phải Thủ lĩnh gần nhất trên toàn bản đồ, đồng thời áp dụng Sangvis Override lên 1 đơn vị máy móc không phải Thủ lĩnh gần nhất. Bản thân miễn nhiễm sát thương và sát thương cố định cho đến khi hiệu ứng này kết thúc.<br>Khi bắt đầu chiến đấu, bản thân nhận Sangvis; mỗi 1 Doll đồng minh đang có Sangvis hoặc Doll đồng minh hệ Hydro chưa có Sangvis trên sân, sát thương gây ra của bản thân tăng 16%, tối đa tăng 80%; mỗi 1 Doll đồng minh đang có Sangvis, toàn bộ Doll đồng minh đang có Sangvis nhận 1 tầng Liên Kết Đại Lý. Khi kết thúc đại hiệp, nhận 3 điểm Infection Index.<br>Trước khi dùng kỹ năng chủ động Ánh Máu Chiếu Rọi hoặc kỹ năng Quyết thắng Dọn Sạch Tuyệt Vực, hoặc khi kết thúc hành động, nếu trong bán kính 8 ô quanh bản thân tồn tại Hầu Bóng thì nhận 1 tầng Cộng Hưởng Hầu Cận, tối đa kích hoạt 1 lần mỗi đại hiệp.</p>\n<p>Nếu trong bán kính 8 ô quanh bản thân có kẻ địch gây sát thương lên đồng minh, thì phản công, gây 80% sát thương Hydro diện rộng bỏ qua vật cản và 2 điểm sát thương ổn định lên mục tiêu đó cùng toàn bộ kẻ địch trong bán kính 2 ô quanh nó; nếu mục tiêu không nằm trong bán kính 8 ô quanh Hầu Bóng thì Hầu Bóng không phản công, tối đa kích hoạt 1 lần mỗi đại hiệp.</p>\n<p>Trước khi dùng kỹ năng chủ động Ánh Máu Chiếu Rọi và kỹ năng Quyết thắng Dọn Sạch Tuyệt Vực, tạo ô địa hình Dòng Ngầm trong bán kính 4 ô quanh bản thân và Hầu Bóng, duy trì 2 hiệp. Mỗi khi nhận 1 tầng Virus Ô, sát thương Chí mạng của bản thân tăng 4%, tối đa tăng 40%.</p>\n</td>\n</tr>\n<tr style=\"text-align: center\">\n<td style=\"text-align: center\"><strong>Phân đoạn 4</strong></td>\n<td style=\"text-align: center\"><strong>Dọn Sạch Tuyệt Vực Lv.2</strong></td>\n<td style=\"text-align: center\">Phạm vi hiệu lực tăng lên phía trước 5×9 ô, hệ số sát thương tăng 10%.</td>\n<td style=\"text-align: center\">Chọn 1 hướng xung quanh, gây 170% sát thương Hydro diện rộng bỏ qua vật cản lên toàn bộ kẻ địch trong phạm vi 5×9 ô phía trước. Trước khi dùng kỹ năng, mỗi 1 tầng Hình Phạt nhận 1 tầng Tuyệt Phạt Bóng Nộ duy trì 1 đại hiệp, tối đa kích hoạt 1 lần mỗi hiệp. Sau kỹ năng, nếu đang có từ 3 tầng Hình Phạt trở lên thì tiêu hao 3 tầng Hình Phạt, giảm 1 hiệp hồi chiêu của kỹ năng này, nhận Thêm chỉ lệnh, và không thể dùng Đánh thường Dọn Dẹp Mục Tiêu, kỹ năng chủ động Dịch Vụ Dọn Bụi cùng Ánh Máu Chiếu Rọi trong 1 đại hiệp. Nếu không dùng kỹ năng này, khi kết thúc hành động sẽ hoàn trả Hình Phạt đã tiêu hao và kỹ năng vào hồi chiêu. Sau kỹ năng nhận 5 tầng Virus Ô; nếu trước kỹ năng đang có 15 tầng Virus Ô thì sau kỹ năng không nhận Virus Ô, hệ số sát thương nhân đôi và tiêu hao 15 tầng Virus Ô.</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 5</strong></td>\n<td><strong>Chiến Thuật Sangvis Lv.3</strong></td>\n<td>Hiệu ứng Cộng Hưởng Hầu Cận được nâng cấp, Tấn công tăng thêm bằng 3% Tấn công khởi đầu của bản thân.</td>\n<td>\n<p>Tiêu hao 1 điểm Infection Index để chủ động dùng kỹ năng này, chọn ô trống trong bán kính 2 ô quanh Hầu Bóng hoặc mục tiêu đang có Sangvis Override, đáp xuống ô đó và nhận Thêm chỉ lệnh. Tối đa dùng 3 lần mỗi hiệp.<br>Khi bắt đầu chiến đấu, áp dụng Dấu Dọn Bụi duy trì 1 đại hiệp lên 5 kẻ địch không phải Thủ lĩnh gần nhất trên toàn bản đồ, đồng thời áp dụng Sangvis Override lên 1 đơn vị máy móc không phải Thủ lĩnh gần nhất. Bản thân miễn nhiễm sát thương và sát thương cố định cho đến khi hiệu ứng này kết thúc.<br>Khi bắt đầu chiến đấu, bản thân nhận Sangvis; mỗi 1 Doll đồng minh đang có Sangvis hoặc Doll đồng minh hệ Hydro chưa có Sangvis trên sân, sát thương gây ra của bản thân tăng 16%, tối đa tăng 80%; mỗi 1 Doll đồng minh đang có Sangvis, toàn bộ Doll đồng minh đang có Sangvis nhận 1 tầng Liên Kết Đại Lý. Khi kết thúc đại hiệp, nhận 3 điểm Infection Index.<br>Trước khi dùng kỹ năng chủ động Ánh Máu Chiếu Rọi hoặc kỹ năng Quyết thắng Dọn Sạch Tuyệt Vực, hoặc khi kết thúc hành động, nếu trong bán kính 8 ô quanh bản thân tồn tại Hầu Bóng thì nhận 1 tầng Cộng Hưởng Hầu Cận, tối đa kích hoạt 1 lần mỗi đại hiệp.</p>\n<p>Nếu trong bán kính 8 ô quanh bản thân có kẻ địch gây sát thương lên đồng minh, thì phản công, gây 80% sát thương Hydro diện rộng bỏ qua vật cản và 2 điểm sát thương ổn định lên mục tiêu đó cùng toàn bộ kẻ địch trong bán kính 2 ô quanh nó; nếu mục tiêu không nằm trong bán kính 8 ô quanh Hầu Bóng thì Hầu Bóng không phản công, tối đa kích hoạt 1 lần mỗi đại hiệp.</p>\n<p>Trước khi dùng kỹ năng chủ động Ánh Máu Chiếu Rọi và kỹ năng Quyết thắng Dọn Sạch Tuyệt Vực, tạo ô địa hình Dòng Ngầm trong bán kính 4 ô quanh bản thân và Hầu Bóng, duy trì 2 hiệp. Mỗi khi nhận 1 tầng Virus Ô, sát thương Chí mạng của bản thân tăng 4%, tối đa tăng 40%.</p>\n</td>\n</tr>\n<tr style=\"text-align: center\">\n<td><strong>Phân đoạn 6</strong></td>\n<td><strong>Dọn Sạch Tuyệt Vực Lv.3</strong></td>\n<td>Số tầng Virus Ô cần thiết và tiêu hao để nhân đôi hệ số sát thương giảm xuống còn 10 tầng.<br>Thêm hiệu ứng bị động: Khi kết thúc đại hiệp, nhận 5 tầng Virus Ô.</td>\n<td>\n<p>Chọn 1 hướng xung quanh, gây 170% sát thương Hydro diện rộng bỏ qua vật cản lên toàn bộ kẻ địch trong phạm vi 5×9 ô phía trước. Trước khi dùng kỹ năng, mỗi 1 tầng Hình Phạt nhận 1 tầng Tuyệt Phạt Bóng Nộ duy trì 1 đại hiệp, tối đa kích hoạt 1 lần mỗi hiệp. Sau kỹ năng, nếu đang có từ 3 tầng Hình Phạt trở lên thì tiêu hao 3 tầng Hình Phạt, giảm 1 hiệp hồi chiêu của kỹ năng này, nhận Thêm chỉ lệnh, và không thể dùng Đánh thường Dọn Dẹp Mục Tiêu, kỹ năng chủ động Dịch Vụ Dọn Bụi cùng Ánh Máu Chiếu Rọi trong 1 đại hiệp. Nếu không dùng kỹ năng này, khi kết thúc hành động sẽ hoàn trả Hình Phạt đã tiêu hao và kỹ năng vào hồi chiêu. Sau kỹ năng nhận 5 tầng Virus Ô; nếu trước kỹ năng đang có 10 tầng Virus Ô thì sau kỹ năng không nhận Virus Ô, hệ số sát thương nhân đôi và tiêu hao 10 tầng Virus Ô.<br>Bị động: Khi kết thúc đại hiệp, nhận 5 tầng Virus Ô.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "talents": [
+    {
+      "name": "Affinity Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789977835819.png\" style=\"max-width: 75px\"></td>\n<td>\n<h2>Contract Key·Mệnh Lệnh của Chủ Nhân</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><span style=\"color: #808080\"><span style=\"color: #999999\"><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1789977815363.png\" width=\"20\" height=\"20\"></sub> Chí mạng 3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1789977803397.png\" width=\"20\" height=\"20\"></sub>&nbsp;Sát thương Chí mạng 3%<sub><img src=\"https://community-cdn.exiliumgf.com/prod/1789977785770.png\" width=\"20\" height=\"20\"></sub> Tấn công +3%</span></span></strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<p>&nbsp;<span style=\"color: #ff6600\">▶ Đạt cấp Affinity 5</span></p>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 1",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789977871231.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Hầu Cận Đồng Tâm</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi bắt đầu đại hiệp, nếu bản thân đang đứng trên ô địa hình Hydro cấp 3, Tấn công vĩnh viễn tăng 9%. Mỗi trận chiến tối đa kích hoạt 1 lần.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 2",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789977929386.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Nghệ Thuật Thoát Xác Thanh Nhã</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi nhận sát thương chí mạng, nếu trên sân tồn tại Hầu Bóng, loại bỏ toàn bộ Hầu Bóng, HP của bản thân không giảm xuống dưới 1, duy trì đến khi kết thúc đại hiệp; mỗi trận chiến tối đa kích hoạt 1 lần.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 3",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789979593708.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Uy Hiếp của Hầu Gái</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Hiệu ứng của Dấu Dọn Bụi đổi thành sát thương gây ra giảm 40%, duy trì 3 đại hiệp.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 4",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789979593708.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Cách Tiếp Đãi Nghiêm Túc</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Điểm hành động bị khóa ở 1 ô, sát thương bản thân gây ra đối với đơn vị không phải Thủ lĩnh tăng 30%, kỹ năng bị động Chiến Thuật Sangvis không còn tiêu hao Infection Index.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 5",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789979968025.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Khiên Trung Thành</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi nhận sát thương, mỗi 1 Hầu Bóng hoặc đồng minh đang có Sangvis Override trong bán kính 8 ô quanh bản thân, sát thương phải nhận giảm 10%. Tối đa giảm 30%.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Fixed Key 6",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789980208392.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Fixed Key·Nhấc Váy Tiến Bước</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<p>Khi kết thúc hành động của bản thân, hồi phục HP bằng 15% HP tối đa cho toàn bộ đơn vị đang có Sangvis Override và Doll đồng minh đang có Sangvis trong bán kính 8 ô quanh bản thân.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "Common Key",
+      "html": "<table>\n<tbody>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td rowspan=\"3\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789980062071.png\" style=\"max-width: 70px\"></td>\n<td>\n<h2>Common Key·Chỉ Lệnh Dọn Dẹp Ngay Lập Tức</h2>\n</td>\n</tr>\n<tr>\n<td>\n<div>\n<div>\n<div><hr></div>\n<p><strong><sub><img src=\"https://community-cdn.exiliumgf.com/prod/1784539489447.png\" width=\"20\" height=\"20\"></sub>Tấn công +5%</strong></p>\n</div>\n</div>\n</td>\n</tr>\n<tr>\n<td>Sát thương diện rộng gây ra bởi bản thân tăng 5%. Sau khi tích lũy gây 10 lần sát thương diện rộng, sát thương diện rộng tăng thêm 5%.</td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "remoulding": "<table border=\"1\">\n<tbody>\n<tr>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hình thái hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Cấp mở khóa</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Nhân tố hiển tượng</span></strong></td>\n<td style=\"text-align: center\"><strong><span style=\"color: #ff6600\">Hiệu quả</span></strong></td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Phôi&nbsp;</td>\n<td style=\"text-align: center\">0</td>\n<td style=\"text-align: center\">Tiên phong x2, Hỏa lực x5</td>\n<td style=\"text-align: center\">Sát thương gây lên kẻ địch đứng trên ô Hydro tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Mầm non&nbsp;</td>\n<td style=\"text-align: center\">10</td>\n<td style=\"text-align: center\"> Tiên phong x3, Hỏa lực x8</td>\n<td style=\"text-align: center\">Sát thương Physical và dị vị phải nhận giảm 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Chồi&nbsp;</td>\n<td style=\"text-align: center\">20</td>\n<td style=\"text-align: center\">Bulwark x1, Vanguard x4, Sentinel x9</td>\n<td style=\"text-align: center\">Sát thương Hydro gây ra tăng 5%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Nụ&nbsp;</td>\n<td style=\"text-align: center\">30</td>\n<td style=\"text-align: center\">Bulwark x2, Vanguard x6, Sentinel x11</td>\n<td style=\"text-align: center\">Sát thương lên kẻ địch Sụp Đổ Ổn Định tăng 10%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Búp&nbsp;</td>\n<td style=\"text-align: center\">45</td>\n<td style=\"text-align: center\">Bulwark x2, Vanguard x7, Sentinel x15</td>\n<td style=\"text-align: center\">Tấn công tăng 8%.</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">&nbsp;Hoa&nbsp;</td>\n<td style=\"text-align: center\">60</td>\n<td style=\"text-align: center\">Bulwark x3, Vanguard x8, Sentinel x18</td>\n<td style=\"text-align: center\">Khi đòn tấn công trúng từ 2 kẻ địch trở lên, sát thương gây ra tăng 12%.</td>\n</tr>\n</tbody>\n</table>",
+  "weapon_desc": "<table>\n<tbody>\n<tr>\n<td rowspan=\"4\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789978203225.png\"></td>\n<td>\n<h1><strong>Ác Triệu Chi Thược &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://gf2-bbs.exiliumgf.com/wiki/weapon?id=10833\"><span style=\"color: #ff6600\">Xem đồ giám vũ khí</span></a></strong></h1>\n<hr></td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #808080\">MG/Heavy Ammo</span></strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Vũ khí đặc chế được nghiên cứu bằng công nghệ Sangvis Ferri, thân súng và đạn đều trải qua cải tạo đặc biệt để đáp ứng yêu cầu về lực tấn công mạnh mẽ của Agent. Khi đạn tuôn ra, tất cả những ai bị khóa mục tiêu sẽ nhớ lại thế nào là “nỗi sợ hãi”.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p><strong><span style=\"color: #999999\">Cách nhận&nbsp;</span> <span style=\"color: #ff6600\">▶&nbsp; Nâng cấp quân bị</span></strong></p>\n</td>\n</tr>\n</tbody>\n</table>",
+  "development": "",
+  "story": "<table>\n<tbody>\n<tr>\n<td>\n<div>\n<p>&nbsp; Nữ quản gia lạnh lùng nghiêm khắc của Sangvis Ferri, từng là sự tồn tại cao nhất dưới quyền chủ não Elisa, chỉ huy lực lượng Sangvis Ferri hùng mạnh giao chiến với Griffin. Sau khi Sangvis Ferri bị chủ não bỏ rơi, cô nhận được sự cứu rỗi và chiêu mộ của ngài, dẫn dắt Sangvis Ferri gia nhập Griffin, từ đó trở thành hầu gái trung thành và mạnh mẽ nhất của ngài. Trên chiến trường, cô dùng khẩu súng máy dưới tà váy chinh phục mọi đối thủ; ngoài chiến trường, cô ân cần chu đáo phục vụ ngài một cách hoàn hảo. Dù là vì sao trên trời, chỉ cần ngài ra lệnh, cô cũng sẽ hái về cho ngài—— vì đó chính là bổn phận của hầu gái.</p>\n<p>&nbsp;「Chủ nhân, xin ngài chờ một chút. Những đống rác chướng mắt này…… tôi sẽ dọn sạch hoàn toàn cho ngài.」</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>",
+  "gifts": [
+    {
+      "name": "+75% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568057253.png\"></p>\n<p>Organic Cat Food</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568081126.png\"></p>\n<p>Refined Tea Set</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568104028.png\"></p>\n<p>Elegant Small Mirror</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778568125763.png\"></p>\n<p>Worry-Free Cleaning Kit</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568143710.png\" style=\"max-width: 100px\"></p>\n<p>Ultra-Long Life Battery</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568165655.png\" style=\"max-width: 100px\"></p>\n<p>Exquisite Pen</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568198913.png\" style=\"max-width: 100px\"></p>\n<p>Synthetic Seasoning</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778568215268.png\" style=\"max-width: 100px\"></p>\n<p>Body Maintenance Liquid</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+50% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569455206.png\"></p>\n<p>New Communication Terminal</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569473656.png\"></p>\n<p>Gaming Console</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569501018.png\"></p>\n<p>Tablet Computer</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778569529327.png\"></p>\n<p>Camera</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569550563.png\" style=\"max-width: 100px\"></p>\n<p>VR Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569573097.png\" style=\"max-width: 100px\"></p>\n<p>Digital Drawing Tablet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569594420.png\" style=\"max-width: 100px\"></p>\n<p>Noise-Canceling Headphones</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778569618383.png\" style=\"max-width: 100px\"></p>\n<p>E-Reader</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    },
+    {
+      "name": "+25% Affinity",
+      "html": "<table>\n<tbody>\n<tr>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567748825.png\"></p>\n<p>Devotion Ring</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567780168.png\"></p>\n<p>Eternal Pendant</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567799901.png\"></p>\n<p>Melancholy Earrings</p>\n</td>\n<td style=\"text-align: center\">\n<p><img style=\"display: block; margin: 0 auto; max-width: 100px\" src=\"https://community-cdn.exiliumgf.com/prod/1778567827510.png\"></p>\n<p>Themed Bracelet</p>\n</td>\n</tr>\n<tr>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567851385.png\" style=\"max-width: 100px\"></p>\n<p>Heavy Metal Necklace</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567883552.png\" style=\"max-width: 100px\"></p>\n<p>Metal-Framed Glasses</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567903334.png\" style=\"max-width: 100px\"></p>\n<p>Straw Woven Bracelet</p>\n</td>\n<td style=\"text-align: center\">\n<p><img src=\"https://community-cdn.exiliumgf.com/prod/1778567922851.png\" style=\"max-width: 100px\"></p>\n<p>Colorful Hair Accessories</p>\n</td>\n</tr>\n</tbody>\n</table>"
+    }
+  ],
+  "gallery": [
+    {
+      "name": "Hình vẽ",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1789719655236.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789719677523.png\"></p>"
+    },
+    {
+      "name": "Ảnh đại diện",
+      "html": "<p><img src=\"https://community-cdn.exiliumgf.com/prod/1789719699378.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789719699357.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789719699384.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789719699343.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789719699363.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789719699369.png\"><img src=\"https://community-cdn.exiliumgf.com/prod/1789719751658.png\"></p>"
+    }
+  ],
+  "voices": [
+    {
+      "id": 1853,
+      "title": "Thường ngày-01",
+      "text": "Xe căn cứ của ngài lại có thể vận hành với tải trọng cao ở Vùng Vàng trong thời gian dài như vậy, thật là kỳ tích. Tuy nhiên, xin ngài đừng lo, Sangvis Ferri rất am hiểu việc sửa chữa và bảo dưỡng máy móc, từ nay tôi sẽ lo liệu mọi thứ cho ngài.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986780591.wav"
+    },
+    {
+      "id": 1854,
+      "title": "Thường ngày-02",
+      "text": "Chủ nhân, cà phê của ngài đây. Công việc dọn dẹp trên tàu hôm nay đã hoàn tất, các việc cần làm và kế hoạch tác chiến cũng đã được tôi sắp xếp xong, xin ngài xem qua.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986608997.wav"
+    },
+    {
+      "id": 1855,
+      "title": "Thường ngày-03",
+      "text": "Hờ…… mấy tên Destroyer vẫn ồn ào như vậy. Chủ nhân, nếu ngài thấy phiền, tôi sẽ đuổi hết chúng ra ngay bây giờ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986625482.wav"
+    },
+    {
+      "id": 1856,
+      "title": "Thường ngày-04",
+      "text": "Bảo tôi đừng nhìn ngài nữa? Xin lỗi, Chủ nhân, với tư cách hầu gái, luôn chú ý đến nhu cầu của ngài là bổn phận của tôi. Nhưng đã là yêu cầu của ngài, tôi sẽ tạm lui ra ngoài phòng chỉ huy chờ, nếu ngài cần cứ gọi tôi bất cứ lúc nào.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986638346.wav"
+    },
+    {
+      "id": 1857,
+      "title": "Thường ngày-05",
+      "text": "Những Doll của Griffin vẫn lười biếng như vậy, lại dành nhiều thời gian đến thế để chiến đấu. Nếu giao cho Sangvis Ferri, nhiệm vụ đã thắng từ lâu rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986660146.wav"
+    },
+    {
+      "id": 1858,
+      "title": "Nâng cấp-01",
+      "text": "Nâng cấp hiệu quả.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986676057.wav"
+    },
+    {
+      "id": 1859,
+      "title": "Nâng cấp-02",
+      "text": "Cảm ơn sự hỗ trợ của ngài.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986687243.wav"
+    },
+    {
+      "id": 1860,
+      "title": "Nâng cấp-03",
+      "text": "Tôi sẽ tận dụng tốt.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986698675.wav"
+    },
+    {
+      "id": 1861,
+      "title": "Nâng cấp-04",
+      "text": "Chỉ là bổn phận của hầu gái thôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986710004.wav"
+    },
+    {
+      "id": 1862,
+      "title": "Nâng cấp-05",
+      "text": "Tôi sẽ bảo vệ ngài tốt.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986722275.wav"
+    },
+    {
+      "id": 1863,
+      "title": "Màn hình tiêu đề",
+      "text": "Girls' Frontline 2: Exilium.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986735432.wav"
+    },
+    {
+      "id": 1864,
+      "title": "Đăng nhập",
+      "text": "Chào mừng ngài trở về, Chủ nhân. Agent luôn sẵn sàng phục vụ ngài.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986867836.wav"
+    },
+    {
+      "id": 1865,
+      "title": "Tâm sự-01",
+      "text": "Chủ nhân, xin thứ lỗi vì sự đường đột, nhưng ngài đã làm việc liên tục hơn 3 tiếng. Nếu ngài vẫn không chịu nghỉ, tôi sẽ phải áp dụng biện pháp cưỡng chế. Ừm…… biểu cảm này của ngài, chẳng lẽ đang mong chờ?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986882610.wav"
+    },
+    {
+      "id": 1866,
+      "title": "Tâm sự-02",
+      "text": "Chủ nhân, rác thải không thể tái chế quanh ngài hình như ngày càng nhiều, để tôi dọn sạch giúp nhé?……Hehe, chỉ là đùa thôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986896553.wav"
+    },
+    {
+      "id": 1867,
+      "title": "Tâm sự-03",
+      "text": "Chủ nhân, dáng vẻ ngài ra lệnh với khuôn mặt non nớt ấy khiến tôi nhớ đến đại nhân Elisa……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986909614.wav"
+    },
+    {
+      "id": 1868,
+      "title": "Tâm sự-04",
+      "text": "Chủ nhân, xin đừng cử động, đây là bước cần thiết để chỉnh trang dung mạo cho ngài. Quá gần rồi, muốn tôi lùi lại một chút?……Hehe, tuân lệnh.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986922792.wav"
+    },
+    {
+      "id": 1869,
+      "title": "Tâm sự-05",
+      "text": "Thiết bị phát tín hiệu lại hỏng? Rõ ràng tôi vẫn bảo dưỡng cẩn thận…… Không sao, nếu Chủ nhân cần, cứ tha hồ gọi tôi. Dù ngài ở đâu, tôi cũng sẽ đến bên cạnh ngài.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986934432.wav"
+    },
+    {
+      "id": 1870,
+      "title": "Tâm sự-06",
+      "text": "Xin lỗi, lại làm đau ngài rồi sao? Tôi đã rất kiềm chế rồi…… Quả nhiên, tốt hơn là đừng như vậy phải không? Nhưng nhìn khuôn mặt ngài từ góc độ này một cách từ từ, cảm giác đúng là không tệ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986958040.wav"
+    },
+    {
+      "id": 1871,
+      "title": "Tâm sự-07",
+      "text": "Cho đến hôm nay, tôi vẫn khắc sâu trong lòng tất cả những gì ngài đã làm cho Sangvis Ferri năm ấy. Chủ nhân…… xin cho phép tôi một lần nữa bày tỏ lòng biết ơn chân thành. Nếu không có ngài, tôi, cùng những kẻ ồn ào kia, chắc đã sớm thành đống sắt vụn rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986971290.wav"
+    },
+    {
+      "id": 1872,
+      "title": "Tâm sự-08",
+      "text": "Trong những năm hầu hạ ngài, ngài luôn thực hành trách nhiệm của “Chủ nhân”, cũng đích thân cho chúng tôi thấy trọng lượng và ý nghĩa của hai chữ “Chủ nhân”. Vì vậy từ nay về sau, xin cho phép tôi hầu hạ ngài mãi mãi, Chủ nhân.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986984767.wav"
+    },
+    {
+      "id": 1873,
+      "title": "Vào đội",
+      "text": "Để ngài chờ lâu rồi, Chủ nhân. Agent, lần nữa đáp lại lời triệu hồi của ngài.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789986997382.wav"
+    }
+  ],
+  "battle_voices": [
+    {
+      "id": 1252,
+      "title": "Ngữ khí-01",
+      "text": "Ngài cần gì?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987570307.wav"
+    },
+    {
+      "id": 1253,
+      "title": "Ngữ khí-02",
+      "text": "Bắt đầu dọn dẹp.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987561136.wav"
+    },
+    {
+      "id": 1254,
+      "title": "Ngữ khí-03",
+      "text": "Xin hãy biến mất.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987551896.wav"
+    },
+    {
+      "id": 1255,
+      "title": "Ngữ khí-04",
+      "text": "Nhiệm vụ dọn dẹp sao?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987582209.wav"
+    },
+    {
+      "id": 1256,
+      "title": "Ngữ khí-05",
+      "text": "Tuân lệnh.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987594544.wav"
+    },
+    {
+      "id": 1257,
+      "title": "Ngữ khí-06",
+      "text": "Xin phục vụ ngài.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987605698.wav"
+    },
+    {
+      "id": 1258,
+      "title": "Ngữ khí-07",
+      "text": "Cảm ơn sự tin tưởng.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987617426.wav"
+    },
+    {
+      "id": 1259,
+      "title": "Ngữ khí-08",
+      "text": "Xin lỗi……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987629042.wav"
+    },
+    {
+      "id": 1260,
+      "title": "Ngữ khí-09",
+      "text": "Không cần lo.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1790047402213.wav"
+    },
+    {
+      "id": 1261,
+      "title": "Ngữ khí-10",
+      "text": "Lỗi của tôi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987657206.wav"
+    },
+    {
+      "id": 1263,
+      "title": "Kỹ năng-01",
+      "text": "Thất lễ.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987681443.wav"
+    },
+    {
+      "id": 1264,
+      "title": "Kỹ năng-02",
+      "text": "Rác cần phân loại không?",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987703445.wav"
+    },
+    {
+      "id": 1265,
+      "title": "Kỹ năng-03",
+      "text": "Đón nhận cái chết đi, lũ tạp ngư.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987725287.wav"
+    },
+    {
+      "id": 1266,
+      "title": "Kỹ năng-04",
+      "text": "Sự vùng vẫy vô nghĩa.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987740382.wav"
+    },
+    {
+      "id": 1267,
+      "title": "Kỹ năng Quyết thắng",
+      "text": "Tôi đã mang cái chết của ngươi đến rồi.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987763443.wav"
+    },
+    {
+      "id": 1268,
+      "title": "Hạ gục",
+      "text": "Dọn dẹp hoàn tất.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987777036.wav"
+    },
+    {
+      "id": 1269,
+      "title": "Kết thúc trận-Thắng",
+      "text": "Rác trên chiến trường đã dọn xong, Chủ nhân, xin ngài kiểm tra.",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987794658.wav"
+    },
+    {
+      "id": 1270,
+      "title": "Kết thúc trận-Thua",
+      "text": "Xin lỗi, không thể mang chiến thắng về cho ngài, đó là sự thất trách của tôi với tư cách hầu gái……",
+      "url": "https://community-cdn.exiliumgf.com/prod/wiki/1789987822915.wav"
+    }
+  ]
+}
