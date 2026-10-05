@@ -120,9 +120,12 @@ class HtmlSection extends StatelessWidget {
 
 /// Danh sách mục có tên (kỹ năng, quà tặng...) – chọn bằng chip, hiển thị 1 mục.
 class NamedHtmlSwitcher extends StatefulWidget {
-  const NamedHtmlSwitcher({super.key, required this.items});
+  const NamedHtmlSwitcher({super.key, required this.items, this.iconCells = false});
 
   final List<NamedHtml> items;
+
+  /// Bảng kỹ năng / Neural Helix: ô ảnh đầu hàng là icon (cỡ đều nhau).
+  final bool iconCells;
 
   @override
   State<NamedHtmlSwitcher> createState() => _NamedHtmlSwitcherState();
@@ -172,7 +175,7 @@ class _NamedHtmlSwitcherState extends State<NamedHtmlSwitcher> {
           ),
           child: KeyedSubtree(
             key: ValueKey(index),
-            child: HtmlContent(items[index].html),
+            child: HtmlContent(items[index].html, iconCells: widget.iconCells),
           ),
         ),
       ],
