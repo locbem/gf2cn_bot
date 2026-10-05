@@ -1,0 +1,254 @@
+{
+  "schema": 1,
+  "sections": [
+    {
+      "key": "handbook",
+      "name": "Wiki Game",
+      "tabs": [
+        {
+          "key": "dolls",
+          "id": 1,
+          "name": "Giới thiệu T-Doll",
+          "filters": [
+            {
+              "key": "attr",
+              "field": "attr_id",
+              "name": "Thuộc tính dị vị",
+              "options": [
+                {
+                  "id": 1,
+                  "name": "Physical"
+                },
+                {
+                  "id": 2,
+                  "name": "Burn"
+                },
+                {
+                  "id": 3,
+                  "name": "Electric"
+                },
+                {
+                  "id": 4,
+                  "name": "Freeze"
+                },
+                {
+                  "id": 5,
+                  "name": "Corrosion"
+                },
+                {
+                  "id": 6,
+                  "name": "Hydro"
+                },
+                {
+                  "id": 32,
+                  "name": "Resonance"
+                }
+              ]
+            },
+            {
+              "key": "role",
+              "field": "role_id",
+              "name": "Nghề nghiệp",
+              "options": [
+                {
+                  "id": 1,
+                  "name": "Bulwark"
+                },
+                {
+                  "id": 2,
+                  "name": "Vanguard"
+                },
+                {
+                  "id": 3,
+                  "name": "Support"
+                },
+                {
+                  "id": 4,
+                  "name": "Sentinel"
+                }
+              ]
+            },
+            {
+              "key": "team",
+              "field": "team_id",
+              "name": "Affiliation",
+              "options": [
+                {
+                  "id": 1,
+                  "name": "16LAB"
+                },
+                {
+                  "id": 2,
+                  "name": "AR Team"
+                },
+                {
+                  "id": 3,
+                  "name": "H.I.D.E.404 Team 1"
+                },
+                {
+                  "id": 4,
+                  "name": "H.I.D.E.404 Team 2"
+                },
+                {
+                  "id": 5,
+                  "name": "Elmo - Combined Echelon"
+                },
+                {
+                  "id": 6,
+                  "name": "POL-03 Cục quản lý trị an"
+                },
+                {
+                  "id": 7,
+                  "name": "Groza Squad"
+                },
+                {
+                  "id": 8,
+                  "name": "Zucchero Café"
+                },
+                {
+                  "id": 9,
+                  "name": "Monsoon Band"
+                },
+                {
+                  "id": 10,
+                  "name": "Sparkle Squad"
+                },
+                {
+                  "id": 11,
+                  "name": "Frostfall Squad"
+                },
+                {
+                  "id": 12,
+                  "name": "Doll Community"
+                },
+                {
+                  "id": 13,
+                  "name": "Task Force DEFY"
+                },
+                {
+                  "id": 14,
+                  "name": "National Security Bureau"
+                },
+                {
+                  "id": 15,
+                  "name": "H.I.D.E.404"
+                },
+                {
+                  "id": 16,
+                  "name": "Elmo - 3rd Gen Doll Squad"
+                },
+                {
+                  "id": 17,
+                  "name": "Sangvis Ferri"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "weapons",
+          "id": 2,
+          "name": "Giới thiệu Vũ khí",
+          "filters": [
+            {
+              "key": "rarity",
+              "field": "rarity",
+              "name": "Độ hiếm",
+              "options": [
+                {
+                  "id": 3,
+                  "name": "Vũ khí Cũ"
+                },
+                {
+                  "id": 4,
+                  "name": "Vũ khí Elite"
+                },
+                {
+                  "id": 5,
+                  "name": "Vũ khí SSR"
+                }
+              ]
+            },
+            {
+              "key": "type",
+              "field": "type",
+              "name": "Loại",
+              "options": [
+                {
+                  "id": 1,
+                  "name": "HG"
+                },
+                {
+                  "id": 2,
+                  "name": "SMG"
+                },
+                {
+                  "id": 3,
+                  "name": "RF"
+                },
+                {
+                  "id": 4,
+                  "name": "AR"
+                },
+                {
+                  "id": 5,
+                  "name": "MG"
+                },
+                {
+                  "id": 6,
+                  "name": "SG"
+                },
+                {
+                  "id": 7,
+                  "name": "Blade"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "world",
+      "name": "Thiết lập Thế giới",
+      "tabs": [
+        {
+          "key": "world_1",
+          "cid": 1,
+          "name": "Cốt truyện Exilium"
+        },
+        {
+          "key": "world_2",
+          "cid": 2,
+          "name": "Thiết lập khác"
+        }
+      ]
+    },
+    {
+      "key": "news",
+      "name": "Thông tin khác",
+      "tabs": [
+        {
+          "key": "news_1",
+          "cid": 1,
+          "name": "Tổng hợp PV Nhân vật"
+        },
+        {
+          "key": "news_2",
+          "cid": 2,
+          "name": "Tổng hợp PV Phiên bản"
+        },
+        {
+          "key": "news_3",
+          "cid": 3,
+          "name": "Đài phát thanh khu trú ẩn Bắc Lan Đảo"
+        },
+        {
+          "key": "news_4",
+          "cid": 4,
+          "name": "Tổng hợp Hình nền"
+        }
+      ]
+    }
+  ]
+}
