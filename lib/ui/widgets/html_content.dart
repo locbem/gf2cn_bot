@@ -1,3 +1,5 @@
+import 'dart:math' as math;
+
 import 'package:flutter/material.dart';
 import 'package:flutter_widget_from_html_core/flutter_widget_from_html_core.dart';
 import 'package:html/dom.dart' as dom;
@@ -19,6 +21,10 @@ class _OfflineWidgetFactory extends WidgetFactory {
 }
 
 /// Hiển thị nội dung HTML của wiki bằng widget native (không dùng WebView).
+///
+/// Bảng "dàn trang" của wiki (không viền: ô icon + ô chữ + ô ảnh...) vốn thiết kế
+/// cho màn hình rộng; trên điện thoại sẽ được xếp lại theo chiều dọc. Bảng chỉ gồm
+/// các ô "ảnh + tên" (vd quà tặng) được dựng thành lưới đều nhau.
 class HtmlContent extends StatelessWidget {
   const HtmlContent(
     this.html, {
@@ -43,6 +49,12 @@ class HtmlContent extends StatelessWidget {
   final bool? buildAsync;
 
   static const String _lineColor = '#3A424F';
+
+  /// Bề rộng màn hình dưới mức này thì xếp lại bảng dàn trang theo chiều dọc.
+  static const double narrowWidth = 600;
+
+  /// Chuỗi dài khoảng trắng / &nbsp; (wiki dùng để căn chữ) → một khoảng trắng.
+  static final RegExp _spaceRun = RegExp(r'(?:&nbsp;|\xa0|[ \t]){3,}');
 
   static dom.Element? _ancestor(dom.Element el, String tag) {
     var e = el.parent;
@@ -93,6 +105,27 @@ class HtmlContent extends StatelessWidget {
     return null;
   }
 
+  /// Dựng lại nội dung HTML con (ô bảng) với cùng cỡ chữ.
+  Widget _child(String html) => HtmlContent(
+        html,
+        videoCover: videoCover,
+        baseFontSize: baseFontSize,
+        lineHeight: lineHeight,
+      );
+
+  Widget? _adaptTable(dom.Element table, bool narrow) {
+    // Chỉ xử lý bảng ngoài cùng, không viền (bảng dữ liệu có viền giữ nguyên).
+    if (table.attributes['border'] == '1' || _ancestor(table, 'table') != null) return null;
+    final rows = _TableParts.rows(table);
+    if (rows.isEmpty) return null;
+    final items = _TableParts.gridItems(rows);
+    if (items != null) return _ItemGrid(items: items);
+    if (!narrow) return null;
+    final multiColumn = rows.any((r) => r.where(_TableParts.hasContent).length >= 2);
+    if (!multiColumn) return null;
+    return _StackedTable(rows: rows, render: _child);
+  }
+
   @override
   Widget build(BuildContext context) {
     if (html.trim().isEmpty) {
@@ -101,8 +134,9 @@ class HtmlContent extends StatelessWidget {
           : const SizedBox.shrink();
     }
     final scale = AppScope.of(context).textScale;
+    final narrow = MediaQuery.sizeOf(context).width < narrowWidth;
     return HtmlWidget(
-      html,
+      html.replaceAll(_spaceRun, ' '),
       renderMode: renderMode,
       buildAsync: buildAsync,
       textStyle: TextStyle(
@@ -113,8 +147,11 @@ class HtmlContent extends StatelessWidget {
       factoryBuilder: () => _OfflineWidgetFactory(),
       customStylesBuilder: _styles,
       customWidgetBuilder: (element) {
-        if (element.localName == 'iframe') {
-          return VideoCard(src: element.attributes['src'] ?? '', cover: videoCover);
+        switch (element.localName) {
+          case 'iframe':
+            return VideoCard(src: element.attributes['src'] ?? '', cover: videoCover);
+          case 'table':
+            return _adaptTable(element, narrow);
         }
         return null;
       },
@@ -133,6 +170,185 @@ class HtmlContent extends StatelessWidget {
           child: SizedBox(width: 22, height: 22, child: CircularProgressIndicator(strokeWidth: 2)),
         ),
       ),
+    );
+  }
+}
+
+/// Một ô "ảnh + tên" trong bảng lưới (quà tặng...).
+class _GridItem {
+  const _GridItem(this.src, this.label);
+  final String src;
+  final String label;
+}
+
+/// Tách bảng HTML thành hàng/ô và nhận diện kiểu bảng.
+class _TableParts {
+  _TableParts._();
+
+  static final RegExp _maxWidth = RegExp(r'max-width:\s*(\d+)');
+
+  static String norm(String s) => s.replaceAll('\xa0', ' ').replaceAll(RegExp(r'\s+'), ' ').trim();
+
+  /// Các hàng của chính bảng này (bỏ qua hàng của bảng lồng bên trong).
+  static List<List<dom.Element>> rows(dom.Element table) {
+    final out = <List<dom.Element>>[];
+    for (final tr in table.querySelectorAll('tr')) {
+      if (HtmlContent._ancestor(tr, 'table') != table) continue;
+      out.add([
+        for (final c in tr.children)
+          if (c.localName == 'td' || c.localName == 'th') c,
+      ]);
+    }
+    return out;
+  }
+
+  static bool hasContent(dom.Element cell) =>
+      norm(cell.text).isNotEmpty || cell.querySelector('img, iframe, video, table, hr') != null;
+
+  /// Bảng mà mọi ô có nội dung đều là "1 ảnh + tên ngắn" → danh sách mục, ngược lại null.
+  static List<_GridItem>? gridItems(List<List<dom.Element>> rows) {
+    final items = <_GridItem>[];
+    for (final row in rows) {
+      for (final cell in row) {
+        if (!hasContent(cell)) continue;
+        final imgs = cell.querySelectorAll('img');
+        final text = norm(cell.text);
+        if (imgs.length != 1 || text.isEmpty || text.length > 24) return null;
+        if (cell.querySelector('table') != null) return null;
+        final src = imgs.first.attributes['src'] ?? '';
+        if (src.isEmpty) return null;
+        items.add(_GridItem(src, text));
+      }
+    }
+    return items.length >= 3 ? items : null;
+  }
+
+  /// Ô chỉ có một ảnh nhỏ (icon kỹ năng, icon khoá...) → url ảnh, ngược lại null.
+  static String? iconOnly(dom.Element cell) {
+    if (norm(cell.text).isNotEmpty) return null;
+    final imgs = cell.querySelectorAll('img');
+    if (imgs.length != 1) return null;
+    final img = imgs.first;
+    final src = img.attributes['src'] ?? '';
+    if (src.isEmpty) return null;
+    final w = double.tryParse(img.attributes['width'] ?? '') ??
+        double.tryParse(_maxWidth.firstMatch(img.attributes['style'] ?? '')?.group(1) ?? '');
+    if (w == null || w > 160) return null;
+    return src;
+  }
+
+  /// HTML của một ô, giữ lại style (căn lề, màu) của ô.
+  static String cellHtml(dom.Element cell) {
+    final style = cell.attributes['style'];
+    final inner = cell.innerHtml;
+    return (style == null || style.isEmpty) ? inner : '<div style="$style">$inner</div>';
+  }
+}
+
+/// Lưới "ảnh + tên" đều nhau, tên tối đa 2 dòng (thay cho bảng quà tặng của wiki).
+class _ItemGrid extends StatelessWidget {
+  const _ItemGrid({required this.items});
+
+  final List<_GridItem> items;
+
+  @override
+  Widget build(BuildContext context) {
+    final scale = AppScope.of(context).textScale;
+    return LayoutBuilder(
+      builder: (context, constraints) {
+        final width = constraints.maxWidth.isFinite ? constraints.maxWidth : 360.0;
+        const gap = 8.0;
+        final columns = math.max(3, (width / 96).floor());
+        final itemWidth = math.max(48.0, (width - gap * (columns - 1)) / columns);
+        return Padding(
+          padding: const EdgeInsets.symmetric(vertical: 4),
+          child: Wrap(
+            spacing: gap,
+            runSpacing: 14,
+            children: [
+              for (final item in items)
+                SizedBox(
+                  width: itemWidth,
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      GestureDetector(
+                        onTap: () => ImageViewer.open(context, [item.src]),
+                        child: SizedBox(
+                          width: 64,
+                          height: 64,
+                          child: Image(
+                            image: appImageProvider(item.src, decodeWidth: 192),
+                            fit: BoxFit.contain,
+                            errorBuilder: (context, error, stack) => const SizedBox.shrink(),
+                          ),
+                        ),
+                      ),
+                      const SizedBox(height: 6),
+                      Text(
+                        item.label,
+                        textAlign: TextAlign.center,
+                        maxLines: 2,
+                        overflow: TextOverflow.ellipsis,
+                        style: TextStyle(fontSize: 12.5 * scale, height: 1.3, color: AppColors.text),
+                      ),
+                    ],
+                  ),
+                ),
+            ],
+          ),
+        );
+      },
+    );
+  }
+}
+
+/// Bảng dàn trang xếp dọc cho màn hình hẹp: ô icon + ô chữ đầu tiên của mỗi hàng
+/// đặt cạnh nhau, các ô còn lại xếp lần lượt bên dưới.
+class _StackedTable extends StatelessWidget {
+  const _StackedTable({required this.rows, required this.render});
+
+  final List<List<dom.Element>> rows;
+  final Widget Function(String html) render;
+
+  @override
+  Widget build(BuildContext context) {
+    final children = <Widget>[];
+    for (final row in rows) {
+      final cells = row.where(_TableParts.hasContent).toList();
+      var i = 0;
+      if (cells.length >= 2) {
+        final icon = _TableParts.iconOnly(cells[0]);
+        if (icon != null) {
+          children.add(Padding(
+            padding: const EdgeInsets.only(bottom: 4),
+            child: Row(
+              children: [
+                SizedBox(
+                  width: 56,
+                  height: 56,
+                  child: Image(
+                    image: appImageProvider(icon, decodeWidth: 168),
+                    fit: BoxFit.contain,
+                    errorBuilder: (context, error, stack) => const SizedBox.shrink(),
+                  ),
+                ),
+                const SizedBox(width: 12),
+                Expanded(child: render(_TableParts.cellHtml(cells[1]))),
+              ],
+            ),
+          ));
+          i = 2;
+        }
+      }
+      for (; i < cells.length; i++) {
+        children.add(render(_TableParts.cellHtml(cells[i])));
+      }
+    }
+    return Column(
+      mainAxisSize: MainAxisSize.min,
+      crossAxisAlignment: CrossAxisAlignment.stretch,
+      children: children,
     );
   }
 }
