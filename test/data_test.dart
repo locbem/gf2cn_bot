@@ -213,6 +213,28 @@ void main() {
       expect(merged['role'], 'Hỗ trợ');
     });
 
+    test('mẫu: nhãn + số, cụm A/B, mẫu câu, chi phí nghề, thẻ bị tách', () {
+      final d = GameDict.tryParse({
+        'STAT_LABELS': {'生命': 'HP', '攻击': 'Tấn công'},
+        'UI_LABEL_MAP': {'稳态伤害': 'Sát thương ổn định', '手枪': 'HG', '日常': 'Thường ngày'},
+        'ITEM_NAME': {'轻型弹': 'Light Ammo'},
+        'ROLE_MAP': {'防卫': 'Bulwark', '支援': 'Support'},
+        'TERM_MAP': {'主动': 'Chủ động', '好感度': 'Affinity'},
+        'SKILL_TERM_MAP': {'范围': 'diện rộng'},
+        'TEMPLATE_MAP': {'造成伤害提高{n}%。': 'Sát thương gây ra tăng {n}%.'},
+      })!;
+      expect(d.html('<td><strong>生</strong><strong>命：</strong>1965</td>'), '<td><strong>HP: </strong>1965</td>');
+      expect(d.short('稳态伤害：3'), 'Sát thương ổn định: 3');
+      expect(d.short('主动 / 范围'), 'Chủ động / Diện rộng');
+      expect(d.short('手枪/轻型弹'), 'HG / Light Ammo');
+      expect(d.short('造成伤害提高 5% 。'), 'Sát thương gây ra tăng 5%.');
+      expect(d.short('防卫x3，支援x18'), 'Bulwark ×3, Support ×18');
+      expect(d.short('攻击174【60级】'), 'Tấn công 174 (Lv.60)');
+      expect(d.short('日常-01'), 'Thường ngày - 01');
+      expect(d.short('+75%好感度'), '+75% Affinity');
+      expect(d.short('晚上好，托卡列夫。'), isNull);
+    });
+
     test('category: bộ lọc theo bảng id', () {
       final cat = dict.apply('category.json', {
         'sections': [
