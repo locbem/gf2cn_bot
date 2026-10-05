@@ -192,6 +192,9 @@ class _TableParts {
   _TableParts._();
 
   static final RegExp _maxWidth = RegExp(r'max-width:\s*(\d+)');
+  static final RegExp _emptyBlock =
+      RegExp(r'<(p|div|span)[^>]*>(?:\s|&nbsp;|\xa0|<br\s*/?>)*</\1>', caseSensitive: false);
+  static final RegExp _edgeBreaks = RegExp(r'^(?:\s|<br\s*/?>)+|(?:\s|<br\s*/?>)+$', caseSensitive: false);
 
   static String norm(String s) => s.replaceAll('\xa0', ' ').replaceAll(RegExp(r'\s+'), ' ').trim();
 
@@ -261,7 +264,8 @@ class _TableParts {
   /// HTML của một ô, giữ lại style (căn lề, màu) của ô.
   static String cellHtml(dom.Element cell) {
     final style = cell.attributes['style'];
-    final inner = cell.innerHtml;
+    // Bỏ đoạn rỗng / <br> thừa (wiki dùng để tạo khoảng cách) → không còn khoảng trống lớn.
+    final inner = cell.innerHtml.replaceAll(_emptyBlock, '').replaceAll(_edgeBreaks, '').trim();
     return (style == null || style.isEmpty) ? inner : '<div style="$style">$inner</div>';
   }
 }
