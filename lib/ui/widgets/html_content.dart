@@ -34,6 +34,7 @@ class HtmlContent extends StatelessWidget {
     this.baseFontSize = 15,
     this.lineHeight = 1.6,
     this.buildAsync,
+    this.iconCells = false,
   });
 
   final String html;
@@ -47,6 +48,10 @@ class HtmlContent extends StatelessWidget {
   /// null = để thư viện tự quyết (nội dung dài sẽ dựng bất đồng bộ).
   /// Với [RenderMode.sliverList] nên đặt false.
   final bool? buildAsync;
+
+  /// Bảng kỹ năng / Neural Helix: ô chỉ có ảnh ở đầu hàng luôn là icon (khung 56px đều nhau,
+  /// bất kể ảnh gốc có khai báo kích thước hay không).
+  final bool iconCells;
 
   static const String _lineColor = '#3A424F';
 
@@ -114,22 +119,28 @@ class HtmlContent extends StatelessWidget {
         videoCover: videoCover,
         baseFontSize: baseFontSize,
         lineHeight: lineHeight,
+        iconCells: iconCells,
       );
 
   Widget? _adaptTable(dom.Element table, bool narrow) {
-    // Chỉ xử lý bảng ngoài cùng, không viền (bảng dữ liệu có viền giữ nguyên).
-    if (table.attributes['border'] == '1' || _ancestor(table, 'table') != null) return null;
+    // Chỉ xử lý bảng ngoài cùng.
+    if (_ancestor(table, 'table') != null) return null;
     final rows = _TableParts.rows(table);
     if (rows.isEmpty) return null;
+    // Bảng có viền gồm toàn ô ngắn (CV, chỉ số cơ bản): chia cột đều, căn giữa dọc.
+    if (table.attributes['border'] == '1') {
+      return _TableParts.isCompact(rows) ? _BorderTable(rows: rows, render: _child) : null;
+    }
     final items = _TableParts.gridItems(rows);
     if (items != null) return _ItemGrid(items: items);
     final multiColumn = rows.any((r) => r.where(_TableParts.hasContent).length >= 2);
     if (!multiColumn) return null;
-    final side = _TableParts.sideImage(rows);
+    final side = _TableParts.sideImage(rows, iconCells: iconCells);
     // Màn hình rộng: chỉ dựng lại bảng có ảnh lớn chiếm nhiều hàng (ảnh phạm vi kỹ năng,
-    // ảnh vũ khí) để ảnh luôn cùng một cỡ; bảng khác giữ nguyên.
-    if (!narrow && side == null) return null;
-    return _StackedTable(rows: rows, render: _child, side: side, narrow: narrow);
+    // ảnh vũ khí) hoặc có hàng icon (kỹ năng, Neural Helix) để ảnh luôn cùng một cỡ;
+    // bảng khác giữ nguyên.
+    if (!narrow && side == null && !(iconCells && _TableParts.hasIconRow(rows))) return null;
+    return _StackedTable(rows: rows, render: _child, side: side, narrow: narrow, iconCells: iconCells);
   }
 
   @override
@@ -233,13 +244,15 @@ class _TableParts {
   }
 
   /// Ô chỉ có một ảnh nhỏ (icon kỹ năng, icon khoá...) → url ảnh, ngược lại null.
-  static String? iconOnly(dom.Element cell) {
+  /// [lenient]: ảnh không khai báo kích thước (hoặc khai báo quá lớn) vẫn được coi là icon.
+  static String? iconOnly(dom.Element cell, {bool lenient = false}) {
     if (norm(cell.text).isNotEmpty) return null;
     final imgs = cell.querySelectorAll('img');
     if (imgs.length != 1) return null;
     final img = imgs.first;
     final src = img.attributes['src'] ?? '';
     if (src.isEmpty) return null;
+    if (lenient) return src;
     final w = double.tryParse(img.attributes['width'] ?? '') ??
         double.tryParse(_maxWidth.firstMatch(img.attributes['style'] ?? '')?.group(1) ?? '');
     if (w == null || w > 160) return null;
@@ -247,16 +260,43 @@ class _TableParts {
   }
 
   /// Ô ảnh lớn chiếm nhiều hàng (rowspan) → ô đó, ngược lại null.
-  static dom.Element? sideImage(List<List<dom.Element>> rows) {
+  /// Khi [iconCells] = true, ô ảnh đứng đầu hàng (kèm ô chữ phía sau) là icon chứ không phải ảnh lớn.
+  static dom.Element? sideImage(List<List<dom.Element>> rows, {bool iconCells = false}) {
     for (final row in rows) {
+      final content = row.where(hasContent).toList();
       for (final cell in row) {
         final span = int.tryParse(cell.attributes['rowspan'] ?? '') ?? 1;
         if (span < 2 || norm(cell.text).isNotEmpty) continue;
         if (cell.querySelectorAll('img').length != 1 || iconOnly(cell) != null) continue;
+        if (iconCells && content.length >= 2 && content.first == cell) continue;
         return cell;
       }
     }
     return null;
+  }
+
+  /// Có hàng nào bắt đầu bằng ô chỉ có ảnh, theo sau là ô chữ (icon + nội dung) không.
+  static bool hasIconRow(List<List<dom.Element>> rows) {
+    for (final row in rows) {
+      final content = row.where(hasContent).toList();
+      if (content.length >= 2 && iconOnly(content.first, lenient: true) != null) return true;
+    }
+    return false;
+  }
+
+  /// Bảng viền gồm toàn ô ngắn (≤ 3 cột, không rowspan, không bảng lồng) → có thể chia cột đều.
+  static bool isCompact(List<List<dom.Element>> rows) {
+    if (rows.length > 10) return false;
+    var cols = 0;
+    for (final row in rows) {
+      cols = math.max(cols, row.length);
+      for (final cell in row) {
+        if ((int.tryParse(cell.attributes['rowspan'] ?? '') ?? 1) > 1) return false;
+        if (cell.querySelector('table') != null) return false;
+        if (norm(cell.text).length > 30) return false;
+      }
+    }
+    return cols >= 1 && cols <= 3;
   }
 
   static String imageSrc(dom.Element cell) => cell.querySelector('img')?.attributes['src'] ?? '';
@@ -331,7 +371,13 @@ class _ItemGrid extends StatelessWidget {
 /// Bảng dàn trang xếp dọc cho màn hình hẹp: ô icon + ô chữ đầu tiên của mỗi hàng
 /// đặt cạnh nhau, các ô còn lại xếp lần lượt bên dưới.
 class _StackedTable extends StatelessWidget {
-  const _StackedTable({required this.rows, required this.render, this.side, this.narrow = true});
+  const _StackedTable({
+    required this.rows,
+    required this.render,
+    this.side,
+    this.narrow = true,
+    this.iconCells = false,
+  });
 
   final List<List<dom.Element>> rows;
   final Widget Function(String html) render;
@@ -339,6 +385,7 @@ class _StackedTable extends StatelessWidget {
   /// Ô ảnh lớn (ảnh phạm vi kỹ năng / ảnh vũ khí), luôn hiển thị cùng một cỡ.
   final dom.Element? side;
   final bool narrow;
+  final bool iconCells;
 
   static const double sideWidth = 220;
 
@@ -373,7 +420,7 @@ class _StackedTable extends StatelessWidget {
       final cells = all.where((c) => c != sideCell).toList();
       var i = 0;
       if (cells.length >= 2) {
-        final icon = _TableParts.iconOnly(cells[0]);
+        final icon = _TableParts.iconOnly(cells[0], lenient: iconCells);
         if (icon != null) {
           children.add(Padding(
             padding: const EdgeInsets.only(bottom: 4),
@@ -414,6 +461,71 @@ class _StackedTable extends StatelessWidget {
         Expanded(child: column),
         if (!sideLeft) ...[const SizedBox(width: 16), image],
       ],
+    );
+  }
+}
+
+/// Bảng có viền gồm toàn ô ngắn (CV, chỉ số cơ bản): các cột chia đều nhau, nội dung căn giữa
+/// theo chiều dọc; hàng gộp ô (colspan) được dựng thành một ô rộng suốt hàng.
+class _BorderTable extends StatelessWidget {
+  const _BorderTable({required this.rows, required this.render});
+
+  final List<List<dom.Element>> rows;
+  final Widget Function(String html) render;
+
+  static const Color _line = Color(0xFF3A424F);
+  static const EdgeInsets _pad = EdgeInsets.symmetric(horizontal: 8, vertical: 6);
+
+  @override
+  Widget build(BuildContext context) {
+    final cols = rows.fold<int>(1, (m, r) => math.max(m, r.length));
+    final parts = <Widget>[];
+    var group = <TableRow>[];
+
+    void flush() {
+      if (group.isEmpty) return;
+      parts.add(Table(
+        border: TableBorder.all(color: _line),
+        defaultColumnWidth: const FlexColumnWidth(),
+        defaultVerticalAlignment: TableCellVerticalAlignment.middle,
+        children: group,
+      ));
+      group = <TableRow>[];
+    }
+
+    for (final row in rows) {
+      final cells = row.where(_TableParts.hasContent).toList();
+      if (cells.isEmpty) continue;
+      if (cols > 1 && row.length == 1) {
+        flush();
+        parts.add(Container(
+          alignment: Alignment.center,
+          padding: _pad,
+          decoration: BoxDecoration(
+            border: Border(
+              left: const BorderSide(color: _line),
+              right: const BorderSide(color: _line),
+              bottom: const BorderSide(color: _line),
+              top: parts.isEmpty ? const BorderSide(color: _line) : BorderSide.none,
+            ),
+          ),
+          child: render(_TableParts.cellHtml(row.first)),
+        ));
+        continue;
+      }
+      group.add(TableRow(
+        children: [
+          for (var i = 0; i < cols; i++)
+            i < row.length
+                ? Padding(padding: _pad, child: render(_TableParts.cellHtml(row[i])))
+                : const SizedBox.shrink(),
+        ],
+      ));
+    }
+    flush();
+    return Padding(
+      padding: const EdgeInsets.only(top: 3, bottom: 12),
+      child: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.stretch, children: parts),
     );
   }
 }
