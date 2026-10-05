@@ -240,8 +240,10 @@ class _Header extends StatelessWidget {
             child: Stack(
               fit: StackFit.expand,
               children: [
-                AppImage(d.summary.pic, alignment: Alignment.topCenter, decodeWidth: 200),
-                if (portrait.isNotEmpty)
+                // Chỉ dùng ảnh avatar nhỏ khi không có hình minh hoạ lớn; nếu không nó lộ ra qua phần trong suốt của ảnh lớn.
+                if (portrait.isEmpty)
+                  AppImage(d.summary.pic, alignment: Alignment.topCenter, decodeWidth: 200)
+                else
                   AppImage(
                     portrait,
                     alignment: Alignment.topCenter,
@@ -336,8 +338,9 @@ class _SidePanel extends StatelessWidget {
                 child: Stack(
                   fit: StackFit.expand,
                   children: [
-                    AppImage(d.summary.pic, alignment: Alignment.topCenter, decodeWidth: 200),
-                    if (d.portrait.any.isNotEmpty)
+                    if (d.portrait.any.isEmpty)
+                      AppImage(d.summary.pic, alignment: Alignment.topCenter, decodeWidth: 200)
+                    else
                       AppImage(
                         d.portrait.any,
                         alignment: Alignment.topCenter,
@@ -441,12 +444,12 @@ class _ProfileTab extends StatelessWidget {
         ],
         HtmlSection(title: s.t('other_info'), html: d.cv),
         const _Gap(),
-        HtmlSection(title: s.t('base_stats'), html: d.prop),
+        HtmlSection(title: s.t('base_stats'), html: colorizeAttrHtml(d.prop)),
         const _Gap(),
         SectionCard(
           title: s.t('skills'),
           isEmpty: d.skills.isEmpty,
-          builder: (_) => NamedHtmlSwitcher(items: d.skills),
+          builder: (_) => NamedHtmlSwitcher(items: d.skills, iconCells: true),
         ),
         if (d.gifs.isNotEmpty) ...[
           const _Gap(),
@@ -479,7 +482,7 @@ class _GrowthTab extends StatelessWidget {
         SectionCard(
           title: s.t('talents'),
           isEmpty: d.talents.isEmpty,
-          builder: (_) => NamedHtmlSwitcher(items: d.talents),
+          builder: (_) => NamedHtmlSwitcher(items: d.talents, iconCells: true),
         ),
         const _Gap(),
         HtmlSection(title: s.t('remoulding'), html: d.remoulding),
