@@ -17,17 +17,6 @@
 | **世界设定 – Thế giới** | 追放剧情 Cốt truyện · 其他设定 Thiết lập khác |
 | **其他资讯 – Tư liệu** | PV nhân vật · PV phiên bản · Radio · Hình nền |
 
-## Bắt đầu nhanh
-
-```powershell
-flutter create --platforms=android,windows --org com.locbem --project-name gf2_wiki .
-dart run tool/patch_platforms.dart
-flutter pub get
-flutter run -d windows
-```
-
-- Chưa có Flutter? → [docs/INSTALL_FLUTTER.md](docs/INSTALL_FLUTTER.md)
-
 ## API wiki
 
 | Path | Body | Trả về |
