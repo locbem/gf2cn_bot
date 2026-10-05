@@ -34,12 +34,14 @@ class HtmlCleaner {
   static const Set<String> _unwrapIfBare = {'span', 'font', 'div'};
 
   static final RegExp _multiNewline = RegExp(r'\n{2,}');
+  static final RegExp _splitTags = RegExp(r'</(strong|b|em|i|u)>(\s*)<\1>');
   static final RegExp _numberOnly = RegExp(r'[^0-9.]');
 
   /// Trả về HTML đã làm sạch, hoặc chuỗi rỗng nếu không còn nội dung.
   static String clean(Object? input) {
     if (input is! String) return '';
-    final src = input.trim();
+    // `<strong>生</strong><strong>命：</strong>` → `<strong>生命：</strong>` để chữ liền một cụm.
+    final src = input.trim().replaceAllMapped(_splitTags, (m) => m.group(2)!);
     if (src.isEmpty) return '';
     // Nội dung thuần text (không có thẻ) thì giữ nguyên, chỉ đổi xuống dòng.
     if (!src.contains('<')) {
