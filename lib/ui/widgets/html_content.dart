@@ -53,6 +53,9 @@ class HtmlContent extends StatelessWidget {
   /// Bề rộng màn hình dưới mức này thì xếp lại bảng dàn trang theo chiều dọc.
   static const double narrowWidth = 600;
 
+  /// Link "xem đồ giám" đặt ngay sau tên vũ khí → xuống dòng riêng.
+  static final RegExp _viewLink = RegExp(r'\s*(<a [^>]*>(?:<[^>]+>)*\s*(?:查看武器图鉴|Xem đồ giám vũ khí))');
+
   /// Chuỗi dài khoảng trắng / &nbsp; (wiki dùng để căn chữ) → một khoảng trắng.
   static final RegExp _spaceRun = RegExp(r'(?:&nbsp;|\xa0|[ \t]){3,}');
 
@@ -120,10 +123,13 @@ class HtmlContent extends StatelessWidget {
     if (rows.isEmpty) return null;
     final items = _TableParts.gridItems(rows);
     if (items != null) return _ItemGrid(items: items);
-    if (!narrow) return null;
     final multiColumn = rows.any((r) => r.where(_TableParts.hasContent).length >= 2);
     if (!multiColumn) return null;
-    return _StackedTable(rows: rows, render: _child);
+    final side = _TableParts.sideImage(rows);
+    // Màn hình rộng: chỉ dựng lại bảng có ảnh lớn chiếm nhiều hàng (ảnh phạm vi kỹ năng,
+    // ảnh vũ khí) để ảnh luôn cùng một cỡ; bảng khác giữ nguyên.
+    if (!narrow && side == null) return null;
+    return _StackedTable(rows: rows, render: _child, side: side, narrow: narrow);
   }
 
   @override
@@ -136,7 +142,7 @@ class HtmlContent extends StatelessWidget {
     final scale = AppScope.of(context).textScale;
     final narrow = MediaQuery.sizeOf(context).width < narrowWidth;
     return HtmlWidget(
-      html.replaceAll(_spaceRun, ' '),
+      html.replaceAll(_spaceRun, ' ').replaceAllMapped(_viewLink, (m) => '<br>${m.group(1)}'),
       renderMode: renderMode,
       buildAsync: buildAsync,
       textStyle: TextStyle(
@@ -237,6 +243,21 @@ class _TableParts {
     return src;
   }
 
+  /// Ô ảnh lớn chiếm nhiều hàng (rowspan) → ô đó, ngược lại null.
+  static dom.Element? sideImage(List<List<dom.Element>> rows) {
+    for (final row in rows) {
+      for (final cell in row) {
+        final span = int.tryParse(cell.attributes['rowspan'] ?? '') ?? 1;
+        if (span < 2 || norm(cell.text).isNotEmpty) continue;
+        if (cell.querySelectorAll('img').length != 1 || iconOnly(cell) != null) continue;
+        return cell;
+      }
+    }
+    return null;
+  }
+
+  static String imageSrc(dom.Element cell) => cell.querySelector('img')?.attributes['src'] ?? '';
+
   /// HTML của một ô, giữ lại style (căn lề, màu) của ô.
   static String cellHtml(dom.Element cell) {
     final style = cell.attributes['style'];
@@ -306,16 +327,46 @@ class _ItemGrid extends StatelessWidget {
 /// Bảng dàn trang xếp dọc cho màn hình hẹp: ô icon + ô chữ đầu tiên của mỗi hàng
 /// đặt cạnh nhau, các ô còn lại xếp lần lượt bên dưới.
 class _StackedTable extends StatelessWidget {
-  const _StackedTable({required this.rows, required this.render});
+  const _StackedTable({required this.rows, required this.render, this.side, this.narrow = true});
 
   final List<List<dom.Element>> rows;
   final Widget Function(String html) render;
 
+  /// Ô ảnh lớn (ảnh phạm vi kỹ năng / ảnh vũ khí), luôn hiển thị cùng một cỡ.
+  final dom.Element? side;
+  final bool narrow;
+
+  static const double sideWidth = 220;
+
+  Widget _sideImage(BuildContext context, String src) => GestureDetector(
+        onTap: () => ImageViewer.open(context, [src]),
+        child: SizedBox(
+          width: sideWidth,
+          child: Image(
+            image: appImageProvider(src, decodeWidth: 660),
+            fit: BoxFit.contain,
+            errorBuilder: (context, error, stack) => const SizedBox.shrink(),
+          ),
+        ),
+      );
+
   @override
   Widget build(BuildContext context) {
     final children = <Widget>[];
+    final sideCell = side;
+    var sideLeft = false;
     for (final row in rows) {
-      final cells = row.where(_TableParts.hasContent).toList();
+      final all = row.where(_TableParts.hasContent).toList();
+      if (sideCell != null && all.contains(sideCell)) {
+        sideLeft = all.first == sideCell;
+        if (narrow) {
+          children.add(Padding(
+            padding: const EdgeInsets.symmetric(vertical: 6),
+            child: Center(child: _sideImage(context, _TableParts.imageSrc(sideCell))),
+          ));
+        }
+      }
+      final cells = all.where((c) => c != sideCell).toList();
       var i = 0;
       if (cells.length >= 2) {
         final icon = _TableParts.iconOnly(cells[0]);
@@ -345,10 +396,20 @@ class _StackedTable extends StatelessWidget {
         children.add(render(_TableParts.cellHtml(cells[i])));
       }
     }
-    return Column(
+    final column = Column(
       mainAxisSize: MainAxisSize.min,
       crossAxisAlignment: CrossAxisAlignment.stretch,
       children: children,
+    );
+    if (narrow || sideCell == null) return column;
+    final image = _sideImage(context, _TableParts.imageSrc(sideCell));
+    return Row(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        if (sideLeft) ...[image, const SizedBox(width: 16)],
+        Expanded(child: column),
+        if (!sideLeft) ...[const SizedBox(width: 16), image],
+      ],
     );
   }
 }
