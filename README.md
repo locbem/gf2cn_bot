@@ -9,7 +9,7 @@
 | Giả lập | [gf2-wiki-x86_64.apk](https://github.com/locbem/gf2cn_bot/releases/download/Translate/gf2-wiki-x86_64.apk) |
 | **Windows** (64-bit) | [gf2-wiki-windows.zip](https://github.com/locbem/gf2cn_bot/releases/download/Translate/gf2-wiki-windows.zip) – giải nén rồi chạy `GF2Wiki\gf2_wiki.exe` |
 
-Ứng dụng **Flutter native** (Android + Windows) cho wiki Girl's FrontLine 2: Exilium Tiếng Việt
+wiki Girl's FrontLine 2: Exilium Tiếng Việt
 
 | Mục | Tab |
 |---|---|
@@ -28,4 +28,4 @@
 | `/wiki/information` | `{type: 1\|2, cid}` | danh sách bài viết của một tab |
 | `/wiki/info_detail` | `{id, type}` | chi tiết bài (chương `catalog` + `catalog_desc`) |
 
-Dữ liệu thuộc về Sunborn / 散爆网络. Đây là dự án phi lợi nhuận.
+Dữ liệu thuộc về Sunborn / 散爆网络.
