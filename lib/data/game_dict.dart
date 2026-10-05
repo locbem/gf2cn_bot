@@ -10,7 +10,7 @@ import '../core/json_merge.dart';
 ///
 /// Cấu trúc file: { "CHAR_NAME": {"中文": "Tiếng Việt", ...}, "ROLE_ID_MAP": {"1": "..."}, ... }
 class GameDict {
-  GameDict._(this._maps, this._idMaps, this._labels);
+  GameDict._(this._maps, this._idMaps, this._labels, this._templates);
 
   /// Bảng theo tên nhóm (CHAR_NAME, WEAPON_NAME...).
   final Map<String, Map<String, String>> _maps;
@@ -20,6 +20,13 @@ class GameDict {
 
   /// Hợp nhất mọi bảng nhãn để tra cứu khớp nguyên cụm (bảng đứng trước ưu tiên).
   final Map<String, String> _labels;
+
+  /// Mẫu câu có số (bảng TEMPLATE_MAP), khoá đã bỏ khoảng trắng,
+  /// vd "造成伤害提高{n}%。" → "Sát thương gây ra tăng {n}%.".
+  final Map<String, String> _templates;
+
+  /// Bảng không dùng để tra nhãn khớp nguyên cụm.
+  static const Set<String> _nonLabelMaps = {'TEMPLATE_MAP', 'NAME_SEARCH_ALIASES'};
 
   /// Thứ tự ưu tiên khi tra nhãn chung.
   static const List<String> labelPriority = [
@@ -81,14 +88,20 @@ class GameDict {
     final ordered = [
       ...labelPriority.where(maps.containsKey),
       ...maps.keys.where((k) => !labelPriority.contains(k)),
-    ];
+    ].where((k) => !_nonLabelMaps.contains(k));
     for (final name in ordered) {
       for (final e in maps[name]!.entries) {
         labels.putIfAbsent(e.key, () => e.value);
       }
     }
-    return GameDict._(maps, idMaps, labels);
+    final templates = <String, String>{
+      for (final e in (maps['TEMPLATE_MAP'] ?? const <String, String>{}).entries)
+        e.key.replaceAll(_spaces, ''): e.value,
+    };
+    return GameDict._(maps, idMaps, labels, templates);
   }
+
+  static final RegExp _spaces = RegExp(r'\s+');
 
   // ------------------------------------------------------------ tra cứu
 
@@ -186,13 +199,21 @@ class GameDict {
   // ------------------------------------------------------------ HTML
 
   static final RegExp _textNode = RegExp(r'>([^<>]+)<');
-  static final RegExp _edges = RegExp(r'^((?:\s|&nbsp;|\u00a0)*)(.*?)((?:\s|&nbsp;|\u00a0)*)$', dotAll: true);
+  static final RegExp _edges = RegExp(r'^((?:\s|&nbsp;|\xa0)*)(.*?)((?:\s|&nbsp;|\xa0)*)$', dotAll: true);
+
+  /// Thẻ định dạng bị tách đôi, vd `<strong>生</strong><strong>命：</strong>`.
+  static final RegExp _splitTags = RegExp(r'</(strong|b|em|i|u)>(\s*)<\1>');
+
+  /// Gộp thẻ định dạng bị tách đôi để chữ bên trong thành một cụm liền.
+  static String mergeSplitTags(String html) =>
+      html.replaceAllMapped(_splitTags, (m) => m.group(2)!);
 
   /// Dịch các đoạn chữ trong HTML khi CẢ đoạn khớp một mục trong từ điển
-  /// (vd ô bảng "攻击：", "显像形态", tên người nói "伊格蕾塔：" trong truyện).
+  /// (vd ô bảng "攻击：", "显像形态", tên người nói "伊格蕾塔：" trong truyện),
+  /// hoặc khớp một mẫu (nhãn + số, cụm "A/B", mẫu câu trong TEMPLATE_MAP...).
   String html(String html) {
     if (html.isEmpty) return html;
-    return html.replaceAllMapped(_textNode, (m) {
+    return mergeSplitTags(html).replaceAllMapped(_textNode, (m) {
       final r = _text(m.group(1)!);
       return r == null ? m.group(0)! : '>$r<';
     });
@@ -201,17 +222,154 @@ class GameDict {
   String? _text(String raw) {
     final m = _edges.firstMatch(raw);
     if (m == null) return null;
-    var core = m.group(2)!;
-    if (core.isEmpty || core.length > 40) return null;
-    var colon = false;
-    if (core.endsWith('：') || core.endsWith(':')) {
-      colon = true;
-      core = core.substring(0, core.length - 1).trimRight();
-    }
-    final v = label(core) ?? (core.contains('·') ? _maybeCompound(core) : null);
+    final v = short(m.group(2)!);
     if (v == null) return null;
-    return '${m.group(1)}$v${colon ? ': ' : ''}${m.group(3)}';
+    return '${m.group(1)}$v${m.group(3)}';
   }
+
+  /// Dịch một cụm ngắn (nhãn, tên mục, tiêu đề lồng tiếng...).
+  /// Trả về null nếu không dịch được trọn vẹn.
+  String? short(String input) {
+    final core = input.replaceAll('&nbsp;', ' ').replaceAll('\xa0', ' ').trim();
+    if (core.isEmpty || core.length > 60) return null;
+    if (core.endsWith('：') || core.endsWith(':')) {
+      final head = core.substring(0, core.length - 1).trimRight();
+      if (head.isEmpty) return null;
+      final v = _plain(head);
+      return v == null ? null : '$v: ';
+    }
+    return _plain(core);
+  }
+
+  /// Như [short] nhưng trả lại nguyên văn khi không dịch được.
+  String shortOr(String zh) => short(zh)?.trim() ?? zh;
+
+  String? _plain(String core) {
+    if (core.isEmpty) return null;
+    return label(core) ??
+        _template(core) ??
+        _pairs(core) ??
+        _numbered(core) ??
+        _roleCost(core) ??
+        _joined(core) ??
+        (core.contains('·') ? _maybeCompound(core) : null);
+  }
+
+  static final RegExp _num = RegExp(r'[+\-]?\d+(?:\.\d+)?');
+  static final RegExp _digit = RegExp(r'\d');
+  static final RegExp _slot = RegExp(r'\{n\}');
+
+  /// Mẫu câu có số: "造成伤害提高 5% 。" → khoá "造成伤害提高{n}%。".
+  String? _template(String core) {
+    if (_templates.isEmpty || !_digit.hasMatch(core)) return null;
+    final nums = <String>[];
+    final key = core.replaceAll(_spaces, '').replaceAllMapped(_num, (m) {
+      nums.add(m.group(0)!);
+      return '{n}';
+    });
+    final tpl = _templates[key];
+    if (tpl == null) return null;
+    var i = 0;
+    return tpl.replaceAllMapped(_slot, (_) => i < nums.length ? nums[i++] : '');
+  }
+
+  static final RegExp _pair = RegExp(r'([^\s：:]+)\s*[：:]\s*([+\-]?\d+(?:\.\d+)?%?)');
+
+  /// Một hoặc nhiều cặp "nhãn：số", vd "稳态伤害：2 导染消耗：4".
+  String? _pairs(String core) {
+    final ms = _pair.allMatches(core).toList();
+    if (ms.isEmpty || core.replaceAll(_pair, '').trim().isNotEmpty) return null;
+    final out = <String>[];
+    for (final m in ms) {
+      final v = label(m.group(1)!);
+      if (v == null) return null;
+      out.add('$v: ${m.group(2)}');
+    }
+    return out.join('  ');
+  }
+
+  static final RegExp _levelTag = RegExp(r'^(\D+?)\s*(\d+)\s*【\s*(\d+)\s*级\s*】$');
+  static final RegExp _lvSuffix = RegExp(r'^(.+?)\s*Lv\.?\s*(\d+)$');
+  static final RegExp _numSuffix = RegExp(r'^(\D+?)(\s*[-－]\s*|\s*)(\d+(?:\.\d+)?%?)$');
+  static final RegExp _numPrefix = RegExp(r'^([+\-]?\d+(?:\.\d+)?%?)\s*(\D+)$');
+
+  /// Nhãn kèm số: "攻击174【60级】", "火力武装Lv.1", "日常-01", "+75%好感度".
+  String? _numbered(String core) {
+    var m = _levelTag.firstMatch(core);
+    if (m != null) {
+      final v = label(m.group(1)!.trim());
+      return v == null ? null : '$v ${m.group(2)} (Lv.${m.group(3)})';
+    }
+    m = _lvSuffix.firstMatch(core);
+    if (m != null) {
+      final v = label(m.group(1)!.trim());
+      return v == null ? null : '$v Lv.${m.group(2)}';
+    }
+    m = _numSuffix.firstMatch(core);
+    if (m != null) {
+      final v = label(m.group(1)!.trim());
+      if (v != null) return m.group(2)!.trim().isEmpty ? '$v ${m.group(3)}' : '$v - ${m.group(3)}';
+    }
+    m = _numPrefix.firstMatch(core);
+    if (m != null) {
+      final v = label(m.group(2)!.trim());
+      if (v != null) return '${m.group(1)} $v';
+    }
+    return null;
+  }
+
+  static final RegExp _costItem = RegExp(r'([^\s，,、x×*\d]+)\s*[x×*]\s*(\d+)');
+  static final RegExp _costSep = RegExp(r'[\s，,、]');
+
+  /// Chi phí theo nghề: "防卫x3，支援x18" / "防卫*3支援*18" → "Bulwark ×3, Support ×18".
+  String? _roleCost(String core) {
+    final ms = _costItem.allMatches(core).toList();
+    if (ms.isEmpty || core.replaceAll(_costItem, '').replaceAll(_costSep, '').isNotEmpty) {
+      return null;
+    }
+    final out = <String>[];
+    for (final m in ms) {
+      final v = lookup(m.group(1)!, const ['ROLE_MAP']);
+      if (v == null) return null;
+      out.add('$v ×${m.group(2)}');
+    }
+    return out.join(', ');
+  }
+
+  static final List<(RegExp, String)> _joiners = [
+    (RegExp(r'\s*[/／]\s*'), ' / '),
+    (RegExp(r'\s*[-－]\s*'), ' - '),
+    (RegExp(r'\s+'), ' '),
+  ];
+
+  /// Cụm ghép mà MỌI phần đều có trong từ điển: "主动/范围/近战", "手枪/轻型弹",
+  /// "战斗结束-胜利", "重型弹 电导".
+  String? _joined(String core) {
+    for (final (re, glue) in _joiners) {
+      if (!re.hasMatch(core)) continue;
+      final parts = core.split(re);
+      if (parts.length < 2) continue;
+      final out = <String>[];
+      var ok = true;
+      for (final p in parts) {
+        final t = p.trim();
+        if (t.isEmpty) {
+          out.add('');
+          continue;
+        }
+        final v = label(t) ?? _numbered(t) ?? _template(t);
+        if (v == null) {
+          ok = false;
+          break;
+        }
+        out.add(_cap(v));
+      }
+      if (ok) return out.join(glue);
+    }
+    return null;
+  }
+
+  static String _cap(String s) => s.isEmpty ? s : s[0].toUpperCase() + s.substring(1);
 
   String? _maybeCompound(String core) {
     final r = _compound(core, const ['CHAR_NAME', 'COSTUME_NAME', 'STORY_TITLE_MAP']);
@@ -272,7 +430,7 @@ class GameDict {
     'cv', 'prop', 'battle_skill', 'remoulding', 'weapon_desc', 'development', 'story', //
   ];
 
-  String _term(String zh, List<String> preferred) => lookup(zh, preferred) ?? zh;
+  String _term(String zh, List<String> preferred) => lookup(zh, preferred) ?? short(zh)?.trim() ?? zh;
 
   List<Map<String, dynamic>> _namedList(Object? v) => [
         for (final e in jMapList(v))
@@ -309,6 +467,14 @@ class GameDict {
     }
     for (final k in const ['skills', 'talents', 'gifts', 'gallery']) {
       if (d[k] is List) out[k] = _namedList(d[k]);
+    }
+    // Tiêu đề lồng tiếng: "日常-01", "战斗结束-胜利"...
+    for (final k in const ['voices', 'battle_voices']) {
+      if (d[k] is List) {
+        out[k] = [
+          for (final v in jMapList(d[k])) {...v, 'title': shortOr(jStr(v['title']))},
+        ];
+      }
     }
     return out;
   }
