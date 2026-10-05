@@ -23,13 +23,13 @@ class AppColors {
 
   /// Màu theo id thuộc tính (异位属性) của API.
   static Color attr(int id) => switch (id) {
-        1 => const Color(0xFFB8C0CC), // 物理
-        2 => const Color(0xFFFF6B3D), // 燃烧
-        3 => const Color(0xFF8F86FF), // 电导
-        4 => const Color(0xFF4FC3F7), // 冷凝
-        5 => const Color(0xFF9CCC65), // 酸蚀
-        6 => const Color(0xFFC77DFF), // 浊刻
-        32 => const Color(0xFFFFD54F), // 源谐
+        1 => const Color(0xFFB8C0CC), // 物理 (Physical)
+        2 => const Color(0xFFE74C3C), // 燃烧 (Burn - red)
+        3 => const Color(0xFFFFD700), // 电导 (Electric - yellow)
+        4 => const Color(0xFF4FC3F7), // 冷凝 (Freeze - white-blue)
+        5 => const Color(0xFF9966FF), // 酸蚀 (Corrosion - purple)
+        6 => const Color(0xFF00CED1), // 浊刻 (Hydro - sea blue)
+        32 => const Color(0xFFFFD54F), // 源谐 (Resonance)
         _ => textDim,
       };
 
