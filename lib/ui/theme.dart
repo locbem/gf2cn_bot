@@ -44,6 +44,34 @@ class AppColors {
       };
 }
 
+/// Tên hệ (tiếng Trung / tiếng Anh dùng trong bản dịch) → id thuộc tính.
+const Map<String, int> _attrWordIds = {
+  '物理': 1, 'Physical': 1,
+  '燃烧': 2, 'Burn': 2,
+  '电导': 3, 'Electric': 3,
+  '冷凝': 4, 'Freeze': 4,
+  '酸蚀': 5, 'Corrosion': 5,
+  '浊刻': 6, 'Hydro': 6,
+  '源谐': 32, 'Resonance': 32,
+};
+
+final RegExp _attrWordPattern = RegExp(_attrWordIds.keys.join('|'));
+final RegExp _htmlTextNode = RegExp(r'>([^<>]+)<');
+
+/// Tô màu riêng cho từng hệ (Physical, Burn, Electric...) trong đoạn HTML
+/// (vd dòng "Điểm yếu" của bảng chỉ số), bất kể nguồn có tô màu hay không.
+String colorizeAttrHtml(String html) {
+  if (html.isEmpty) return html;
+  return html.replaceAllMapped(_htmlTextNode, (m) {
+    final text = m.group(1)!.replaceAllMapped(_attrWordPattern, (w) {
+      final color = AppColors.attr(_attrWordIds[w.group(0)]!);
+      final hex = (color.toARGB32() & 0xFFFFFF).toRadixString(16).padLeft(6, '0');
+      return '<span style="color:#$hex">${w.group(0)}</span>';
+    });
+    return '>$text<';
+  });
+}
+
 /// Biểu tượng cho lớp nhân vật (职业) theo id.
 IconData roleIcon(int id) => switch (id) {
       1 => Icons.shield_outlined, // 防卫
