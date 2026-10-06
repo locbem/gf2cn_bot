@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "lang": "vi",
-  "version": "2026-10-05T08:42:13.556720Z",
+  "version": "2026-10-06T05:34:02.750718Z",
   "files": {
     "category.json": "a44b414d6bb5b6322e5222a7d43a0dda",
     "dolls.json": "3eba5829f3caaf15e097a1a2a237598d",
@@ -70,11 +70,28 @@
     "dolls/1080.json": "53a5a51556bf2c6b23ce9811be7ea24e",
     "dolls/1081.json": "71cc19e18016b912d1830b6fcc92585c",
     "dolls/1082.json": "6abcfaba6f86a1493b280ef3f6ac7f5c",
-    "dolls/1083.json": "57a6b93ce7b0d96e4eef11a9b3b2db73",
-    "dolls/1084.json": "2d6d4831f044341c9d777f58d2e4c7b0",
+    "dolls/1083.json": "19272ea7ce213fe7a7adefe4c5591b69",
+    "dolls/1084.json": "1b9ca55f62a913caf019f6de060e6ae1",
     "game_dict.json": "7d549ae208b358d8b13781b04ad0bc88",
     "media.json": "97157e5d0e200f2b6dfe98a17eab8b3d",
     "weapons.json": "b69ecbc96b26f88541cc8549a7e1b922",
-    "world.json": "59b04af33926ecfa705dfcffdf16719e"
+    "world.json": "237cd555f2709d9503b596206b720825",
+    "world/1.json": "1e3438f621d1742193604676592ad615",
+    "world/2.json": "2e350cb079a82ec5426ab9922a5a9dc2",
+    "world/29.json": "03a30dd49a3a9107d6cc144522c5ddb8",
+    "world/3.json": "ed4ad917c480ecba2a2858f6c9c741ec",
+    "world/30.json": "cd288edb909dc923c629725f48b5a5e9",
+    "world/31.json": "c4ac4b49393bec9a10efd69c5b0be09a",
+    "world/32.json": "54caf6e607aae2fd08adf4d30f550755",
+    "world/4.json": "5962db5a9f6263e8cbc4279a539a27af",
+    "world/42.json": "5afe2572e93a68ee5dcfbcdee6aaecb2",
+    "world/43.json": "63b2435a813eeb2922e2735c914ee920",
+    "world/5.json": "14489ce0e7f711a6c7f78663119ce4ca",
+    "world/51.json": "b97406034f1d3fceefb79228778f16f9",
+    "world/61.json": "23620af78b186ae8212088611db96cf2",
+    "world/69.json": "4ea68973a480ab28acd875b3e51fe225",
+    "world/70.json": "a3ca4d89dff4f49426cccb20b65504e0",
+    "world/71.json": "554e7399d11dd78999d51a3f25e4392e",
+    "world/80.json": "467fedfc913b5e4535dfbba29b6d2d54"
   }
 }
