@@ -1,0 +1,99 @@
+{
+  "id": 70,
+  "cid": 2,
+  "title": "Thiết lập vật phẩm",
+  "cover": "",
+  "sort": 0,
+  "chapters": [
+    {
+      "name": "Elmo",
+      "parts": [
+        {
+          "name": "Elmo",
+          "html": "<p><strong>Elmo (ELMO)</strong></p>\n<p>Đơn vị cơ động trên bộ thuộc sở hữu của Chỉ Huy.<br>Ban đầu là tài sản của Griffin, khi rời Griffin Chỉ Huy đã lái nó đi, dùng làm phương tiện hoạt động trong vùng ô nhiễm.<br>Elmo có sức chứa lớn, kết cấu phức tạp, trang bị hàng loạt không gian chức năng như phòng chỉ huy, phòng động cơ, phòng bảo dưỡng, nhà chứa, kho hàng; ngoài ra còn có các không gian giải trí như phòng nghỉ giúp nâng cao cảm giác hạnh phúc của thành viên Elmo.</p>"
+        }
+      ]
+    },
+    {
+      "name": "Tàu Trường Thành",
+      "parts": [
+        {
+          "name": "Tàu Trường Thành",
+          "html": "<p><strong>Tàu Trường Thành</strong></p>\n<p>Tên đầy đủ là “Hệ thống phương tiện đường sắt tẩy nhiễm tinh lọc đa chức năng tự hành”, được phát triển từ tàu bọc thép liên lục địa quân dụng nên còn gọi là “Tàu Trường Thành”, là một trong những thiết bị chủ yếu dùng để thi hành Công trình Tinh lọc.<br>Tàu Trường Thành ở trạng thái đầy đủ cao khoảng 40 mét, là một loại tường cách ly có thể di chuyển trên đường ray. Do bản thân Tàu Trường Thành không có chức năng tinh lọc bức xạ Sụp Đổ, khi ứng dụng thực tế cần phối hợp với tháp tinh lọc di động, hai bên cùng cơ động hoàn thành công việc tinh lọc khu vực được cách ly.</p>"
+        }
+      ]
+    },
+    {
+      "name": "Tinh thể Sụp Đổ",
+      "parts": [
+        {
+          "name": "Tinh thể Sụp Đổ",
+          "html": "<p><strong>Tinh thể Sụp Đổ (Collapse Crystallization)</strong></p>\n<p>Khi hạt Sụp Đổ giải phóng bức xạ Sụp Đổ, vật tiếp xúc bị bức xạ Sụp Đổ đồng hóa, rồi lắng đọng và phát triển thành tinh thể dạng silic.<br>Khi không chịu tác động ngoại lực, tinh thể Sụp Đổ phần lớn có dạng chùm tinh thể giống thủy tinh. Sau khi dùng công nghệ tinh lọc loại bỏ bức xạ Sụp Đổ, vật chất silic giống thủy tinh này sẽ không còn bị bức xạ Sụp Đổ ảnh hưởng, thể hiện khả năng kháng hoàn toàn với bức xạ Sụp Đổ.<br>Nhờ các chế phẩm làm từ tinh thể Sụp Đổ có khả năng kháng hoàn toàn này, con người có thể sinh tồn trong điều kiện bức xạ Sụp Đổ nồng độ cao.</p>"
+        }
+      ]
+    },
+    {
+      "name": "Quỳnh Sụp Đổ",
+      "parts": [
+        {
+          "name": "Quỳnh Sụp Đổ",
+          "html": "<p><strong>Quỳnh Sụp Đổ (Collapse Epiphyllum)</strong></p>\n<p>Tên gọi chung của các loài thực vật chuyển hóa với xác suất khá thấp từ một số loài dây leo và thân thảo sau khi nhiễm E.L.I.D.<br>Quỳnh Sụp Đổ phần lớn mọc ở vùng địa thế thấp, biểu hiện thành các cụm thực vật liên tục rộng lớn với phong cách đồng nhất. Ngoài kỳ ra hoa, nồng độ bức xạ ở khu vực chúng sinh sống thấp hơn rõ rệt so với xung quanh; vào kỳ ra hoa, nồng độ bức xạ nơi đây tăng vọt.<br>Dù khác giống, mọi cây trong cùng một khu vực có kỳ ra hoa như nhau và thời gian ra hoa rất ngắn ngủi. Vì kỳ ra hoa giống nhau, ngắn ngủi ấy mà loại thực vật này được gọi chung là “Quỳnh Sụp Đổ”.<br>Quỳnh Sụp Đổ thường phân bố ở khu vực nồng độ bức xạ Sụp Đổ cao, hiện cũng có một số cơ quan đang thử nuôi trồng nhân tạo Quỳnh Sụp Đổ.</p>"
+        }
+      ]
+    },
+    {
+      "name": "Sadiskin",
+      "parts": [
+        {
+          "name": "Sadiskin",
+          "html": "<p>Vật ngang giá chung được lưu thông rộng rãi từ xưa đến nay, là kim loại quý hiếm mà từ quan chức cao cấp hiển hách đến thường dân vùng ô nhiễm đều không từ chối. Sau khi các quốc gia thời cũ diệt vong, những thỏi vàng và đồng vàng này nhờ thuộc tính kim loại quý của bản thân vàng đã trở thành tiền tệ hàng hóa lưu thông xuyên vùng. Tuy không thể tiêu dùng trực tiếp ở Vùng Trắng nhưng có thể đổi sang tiền tín dụng; trong vùng ô nhiễm, đây là vật mặc cả giao dịch trực tiếp được ưa chuộng.</p>"
+        }
+      ]
+    },
+    {
+      "name": "Thỏi Tinh Sụp Đổ",
+      "parts": [
+        {
+          "name": "Thỏi Tinh Sụp Đổ",
+          "html": "<p>Tiền tệ giá trị cao lưu hành trong phạm vi nhỏ ở vùng ô nhiễm, do những thương nhân chợ đen cá nhân có tiếng tăm chế tạo. Thương nhân chợ đen đóng vai trò bên phát hành phần lớn sẽ đóng dấu chống giả riêng lên đó để lưu thông như tiền thế. Loại tiền này tạo thuận lợi rất lớn cho các giao dịch lớn giữa thợ săn tiền thưởng và thương nhân chợ đen.</p>"
+        }
+      ]
+    },
+    {
+      "name": "Tiền tín dụng",
+      "parts": [
+        {
+          "name": "Tiền tín dụng",
+          "html": "<p>Tiền điện tử do các bang dưới sự kiểm soát của Liên Hiệp La phát hành và sử dụng độc lập. Do chưa thiết lập hệ thống tiền tệ thống nhất toàn liên minh, mỗi thành phố Vùng Trắng đều phát hành tiền tín dụng riêng, về nguyên tắc không hỗ trợ dùng trực tiếp xuyên bang, cần đổi tại các điểm đặc biệt. Do được chính phủ bảo chứng nên có độ ổn định rất cao, một số thương nhân chợ đen quy mô lớn trong vùng ô nhiễm cũng tích trữ tiền tín dụng.</p>"
+        }
+      ]
+    },
+    {
+      "name": "Mimic Atlas",
+      "parts": [
+        {
+          "name": "Mimic Atlas",
+          "html": "<p>Công nghệ mới tận dụng bức xạ Sụp Đổ. Công nghệ này dựa trên Quỳnh Sụp Đổ biến chủng được nuôi trồng nhân tạo, thu thập hiệu quả các hạt Sụp Đổ nồng độ cao của quỳnh bằng phương thức đặc thù. Sau đó hệ thống sẽ xử lý các hạt này để tăng cường cho T-Doll chiến thuật, hoặc mô phỏng thành hình thái chiến thuật đặc thù, qua đó nâng cao toàn diện và đáng kể hiệu năng tác chiến của T-Doll.</p>"
+        }
+      ]
+    },
+    {
+      "name": "Thiết bị Mimic",
+      "parts": [
+        {
+          "name": "Thiết bị Mimic",
+          "html": "<p>Thiết bị đầu cuối thực thể ứng dụng công nghệ “Mimic Atlas”. Vỏ thiết bị làm từ tinh thể Sụp Đổ được xử lý đặc biệt. Vòng ngoài thiết bị có nhiều khe mở rộng, dùng để nạp “dữ liệu sinh trưởng” ghi lại các tính trạng gen khác nhau như hoa, thân, lá, rễ. Bằng cách đọc các tổ hợp dữ liệu này, thiết bị có thể kích thích quỳnh sinh trưởng chính xác và giải phóng hạt Sụp Đổ hiệu quả, cung cấp cho T-Doll chiến thuật mức tăng cường sức chiến đấu tùy chỉnh.</p>"
+        }
+      ]
+    },
+    {
+      "name": "Lõi Mimic",
+      "parts": [
+        {
+          "name": "Lõi Mimic",
+          "html": "<p>Linh kiện chuyển đổi độ chính xác cao lắp ở chính giữa thiết bị Mimic. Ban đầu được nghiên cứu để giải quyết vấn đề thiết bị quá tải hao tổn do tác chiến cường độ cao, nó có thể triệt tiêu hiệu quả tải vận hành, giúp sự sinh trưởng và giải phóng năng lượng của quỳnh đạt trạng thái tối ưu, nâng cao đáng kể tỷ lệ sử dụng tổng thể của hạt Sụp Đổ. Tùy theo định vị chiến thuật khác nhau, hiện đã phát triển nhiều loại lõi gồm Hỏa lực, Tiên phong, Hỗ trợ và Phòng hộ; người dùng cần phối hợp “dữ liệu sinh trưởng” tương ứng để kích hoạt, nhằm phát huy hiệu quả thực chiến tối đa.</p>"
+        }
+      ]
+    }
+  ]
+}
